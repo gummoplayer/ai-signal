@@ -217,30 +217,61 @@ def parse_rss(xml_text):
     return episodes
 
 
-def get_youtube_transcript(link):
-    if not link:
-        return None
-    vid = None
-    parsed = urlparse(link)
-    if "youtube.com" in parsed.netloc:
-        m = re.search(r"[?&]v=([a-zA-Z0-9_-]{11})", link)
-        vid = m.group(1) if m else None
-    elif "youtu.be" in parsed.netloc:
-        vid = parsed.path.strip("/")[:11]
-    if not vid:
-        return None
+def _yt_transcript_by_id(vid):
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-        tl = YouTubeTranscriptApi.list_transcripts(vid)
-        try:
-            tr = tl.find_transcript(["en"])
-        except Exception:
-            tr = tl.find_generated_transcript(["en"])
-        segs = tr.fetch()
-        text = " ".join(s.text if hasattr(s, "text") else s.get("text", "") for s in segs)
+        proxy = detect_proxy()
+        kwargs = {}
+        if proxy:
+            from youtube_transcript_api.proxies import GenericProxyConfig
+            p = proxy.replace("socks5h://", "socks5://")
+            kwargs["proxy_config"] = GenericProxyConfig(http_url=p, https_url=p)
+        api = YouTubeTranscriptApi(**kwargs)
+        segs = api.fetch(vid)
+        text = " ".join(s.text for s in segs)
         return text if len(text) > 200 else None
     except Exception:
         return None
+
+
+def get_youtube_transcript(link, title=""):
+    if link:
+        parsed = urlparse(link)
+        vid = None
+        if "youtube.com" in parsed.netloc:
+            m = re.search(r"[?&]v=([a-zA-Z0-9_-]{11})", link)
+            vid = m.group(1) if m else None
+        elif "youtu.be" in parsed.netloc:
+            vid = parsed.path.strip("/")[:11]
+        if vid:
+            text = _yt_transcript_by_id(vid)
+            if text:
+                return text
+
+    if not title:
+        return None
+
+    try:
+        import subprocess
+        CF = 0x08000000 if sys.platform == "win32" else 0
+        proxy = detect_proxy()
+        cmd = [sys.executable, "-m", "yt_dlp", f"ytsearch1:{title}", "--get-id", "--no-warnings"]
+        if proxy:
+            cmd.extend(["--proxy", proxy.replace("socks5h://", "socks5://")])
+        result = subprocess.run(
+            cmd, capture_output=True, text=True, timeout=30,
+            encoding="utf-8", errors="replace",
+            creationflags=CF,
+        )
+        vid = result.stdout.strip()
+        if vid and len(vid) == 11:
+            text = _yt_transcript_by_id(vid)
+            if text:
+                return text
+    except Exception:
+        pass
+
+    return None
 
 
 def fetch_channel(channel, lookback_hours, state):
@@ -267,7 +298,7 @@ def fetch_channel(channel, lookback_hours, state):
 
         log(f"  🆕 {ep['title'][:60]}...")
 
-        transcript = get_youtube_transcript(ep["link"])
+        transcript = get_youtube_transcript(ep["link"], title=f"{name} {ep['title']}")
         if transcript:
             log(f"    ✅ transcript ({len(transcript)} chars)")
 

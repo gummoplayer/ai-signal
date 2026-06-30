@@ -21,7 +21,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install httpx twscrape youtube-transcript-api
+        run: pip install httpx twscrape youtube-transcript-api yt-dlp
 
       - name: Generate feeds
         env:
