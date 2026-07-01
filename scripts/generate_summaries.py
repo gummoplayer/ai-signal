@@ -34,6 +34,47 @@ SCRIPT_DIR = Path(__file__).parent
 ROOT_DIR = SCRIPT_DIR.parent
 DEFAULT_CONFIG_PATH = ROOT_DIR / "config" / "summary.json"
 SUMMARY_KINDS = ("x", "podcasts", "papers")
+X_LLM_PRESETS = {
+    "config": {},
+    "doubao-pro": {
+        "provider": "ark",
+        "api_key_env": "ARK_API_KEY",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+        "model": "doubao-seed-2-1-pro-260628",
+        "temperature": 0.2,
+        "max_tokens": 512,
+        "timeout_seconds": 90,
+    },
+    "doubao-turbo": {
+        "provider": "ark",
+        "api_key_env": "ARK_API_KEY",
+        "base_url": "https://ark.cn-beijing.volces.com/api/v3/chat/completions",
+        "model": "doubao-seed-2-1-turbo-260628",
+        "temperature": 0.2,
+        "max_tokens": 512,
+        "timeout_seconds": 60,
+    },
+    "deepseek-pro": {
+        "provider": "deepseek",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "base_url": "https://api.deepseek.com/chat/completions",
+        "model": "deepseek-v4-pro",
+        "thinking": {"type": "disabled"},
+        "temperature": 0.2,
+        "max_tokens": 512,
+        "timeout_seconds": 90,
+    },
+    "deepseek-flash": {
+        "provider": "deepseek",
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "base_url": "https://api.deepseek.com/chat/completions",
+        "model": "deepseek-v4-flash",
+        "thinking": {"type": "disabled"},
+        "temperature": 0.2,
+        "max_tokens": 512,
+        "timeout_seconds": 45,
+    },
+}
 
 AI_KEYWORDS = (
     "agent", "agents", "model", "models",
@@ -399,6 +440,16 @@ def llm_config_for_kind(cfg: dict[str, Any], kind: str) -> dict[str, Any]:
     if "model" not in merged:
         raise RuntimeError(f"No model configured for {kind}")
     return merged
+
+
+def apply_x_llm_preset(cfg: dict[str, Any], preset_name: str) -> None:
+    preset = X_LLM_PRESETS.get(preset_name)
+    if preset is None:
+        names = ", ".join(sorted(X_LLM_PRESETS))
+        raise RuntimeError(f"Unknown X LLM preset: {preset_name}. Available presets: {names}")
+    if not preset:
+        return
+    cfg["x_llm"] = dict(preset)
 
 
 def llm_fingerprint(llm_cfg: dict[str, Any]) -> dict[str, Any]:
@@ -852,12 +903,19 @@ def main() -> None:
     parser.add_argument("--force", action="store_true", help="Regenerate even when cache is current")
     parser.add_argument("--dry-run", action="store_true", help="Print planned work without calling the LLM")
     parser.add_argument("--max-workers", type=int, default=1, help="Concurrent LLM requests for uncached items")
+    parser.add_argument(
+        "--x-llm",
+        choices=sorted(X_LLM_PRESETS),
+        default=os.environ.get("X_LLM_PRESET", "config"),
+        help="Override the configured LLM for X/Twitter summaries",
+    )
     args = parser.parse_args()
 
     cfg_path = Path(args.config)
     cfg = load_json(cfg_path)
     if not cfg:
         raise SystemExit(f"Config not found: {cfg_path}")
+    apply_x_llm_preset(cfg, args.x_llm)
 
     output_index_path = ROOT_DIR / cfg["output"].get("index_path", "feeds/feed-summaries.json")
     old_index = load_json(output_index_path, {"profiles": {}})
