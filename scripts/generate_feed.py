@@ -19,8 +19,10 @@ import sys
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
+from html import unescape
+from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import httpx
 
@@ -30,6 +32,8 @@ FEEDS_DIR = ROOT_DIR / "feeds"
 STATE_PATH = FEEDS_DIR / "state-feed.json"
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+MIN_TRANSCRIPT_CHARS = 600
+MAX_TRANSCRIPT_CHARS = 120_000
 
 
 def configure_stdio():
@@ -88,6 +92,187 @@ def load_sources():
 
 def log(msg):
     print(msg, file=sys.stderr)
+
+
+class TextHTMLParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts = []
+        self.skip_depth = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in {"script", "style", "noscript", "svg"}:
+            self.skip_depth += 1
+            return
+        if self.skip_depth:
+            return
+        if tag in {"p", "div", "section", "article", "br", "li", "h1", "h2", "h3", "tr"}:
+            self.parts.append("\n")
+
+    def handle_endtag(self, tag):
+        if tag in {"script", "style", "noscript", "svg"} and self.skip_depth:
+            self.skip_depth -= 1
+            return
+        if self.skip_depth:
+            return
+        if tag in {"p", "div", "section", "article", "li", "h1", "h2", "h3", "tr"}:
+            self.parts.append("\n")
+
+    def handle_data(self, data):
+        if not self.skip_depth and data.strip():
+            self.parts.append(data)
+
+    def text(self):
+        text = unescape(" ".join(self.parts))
+        text = re.sub(r"[ \t\r\f\v]+", " ", text)
+        text = re.sub(r"\n\s+", "\n", text)
+        text = re.sub(r"\n{3,}", "\n\n", text)
+        return clean_text(text).strip()
+
+
+def html_to_text(html):
+    parser = TextHTMLParser()
+    try:
+        parser.feed(html or "")
+    except Exception:
+        return clean_text(re.sub(r"<[^>]+>", " ", html or "")).strip()
+    return parser.text()
+
+
+def strip_html_fragment(value):
+    return html_to_text(value or "")
+
+
+def normalize_text(value):
+    value = unescape(value or "")
+    value = clean_text(value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def fetch_text_url(url, timeout=30):
+    resp = httpx.get(url, headers={"User-Agent": UA}, timeout=timeout, follow_redirects=True)
+    resp.raise_for_status()
+    return resp.text, str(resp.url), resp.headers.get("content-type", "")
+
+
+def extract_links(html, base_url=""):
+    links = []
+    for match in re.finditer(r"""<a\b[^>]*?href=["']([^"']+)["'][^>]*>(.*?)</a>""", html or "", re.I | re.S):
+        href = unescape(match.group(1)).strip()
+        label = strip_html_fragment(match.group(2))
+        if not href or href.startswith(("#", "mailto:", "tel:")):
+            continue
+        links.append({"url": urljoin(base_url, href), "text": label})
+    return links
+
+
+def find_transcript_links(html, base_url=""):
+    candidates = []
+    for link in extract_links(html, base_url):
+        joined = f"{link['text']} {link['url']}".lower()
+        if "transcript" in joined or "full-text" in joined or "full text" in joined:
+            candidates.append(link["url"])
+    return list(dict.fromkeys(candidates))
+
+
+def transcript_result(text=None, source=None, url=None, error=None, video_id=None):
+    return {
+        "text": text,
+        "source": source,
+        "url": url,
+        "video_id": video_id,
+        "error": error,
+    }
+
+
+def looks_like_transcript(text):
+    text = normalize_text(text)
+    if len(text) < MIN_TRANSCRIPT_CHARS:
+        return False
+    lower = text.lower()
+    if "access the full transcript" in lower or "log in to view episode transcripts" in lower:
+        return False
+    speaker_marks = len(re.findall(r"\b[A-Z][A-Za-z .'-]{1,40}:\s", text))
+    return (
+        "transcript" in lower
+        or speaker_marks >= 3
+    )
+
+
+def extract_probable_transcript_text(html):
+    html = html or ""
+    is_gated = bool(re.search(r"access the full transcript|log in to view episode transcripts", html, re.I))
+    patterns = [
+        r"""<article\b[^>]*>(.*?)</article>""",
+        r"""<div\b[^>]*(?:class|id)=["'][^"']*(?:transcript|entry-content|post-content|article|body)[^"']*["'][^>]*>(.*?)</div>""",
+        r"""<section\b[^>]*(?:class|id)=["'][^"']*(?:transcript|article|body)[^"']*["'][^>]*>(.*?)</section>""",
+    ]
+    candidates = []
+    for pattern in patterns:
+        for match in re.finditer(pattern, html, re.I | re.S):
+            text = html_to_text(match.group(1))
+            if len(text) > 500:
+                candidates.append(text)
+
+    full_text = html_to_text(html)
+    lower = full_text.lower()
+    idx = lower.find("transcript")
+    if idx >= 0:
+        candidates.append(full_text[idx:])
+    candidates.append(full_text)
+
+    candidates.sort(key=len, reverse=True)
+    for text in candidates:
+        text = clean_transcript_text(text)
+        if is_gated and len(text) < 10_000:
+            continue
+        if looks_like_transcript(text):
+            return text
+    return None
+
+
+def clean_transcript_text(text):
+    text = clean_text(text or "")
+    stripped = text.lstrip()
+    if stripped.startswith("{") or stripped.startswith("["):
+        try:
+            payload = json.loads(stripped)
+            parts = []
+
+            def collect(value):
+                if isinstance(value, str):
+                    if len(value.strip()) > 2:
+                        parts.append(value.strip())
+                elif isinstance(value, list):
+                    for item in value:
+                        collect(item)
+                elif isinstance(value, dict):
+                    for key in ("text", "transcript", "body", "content", "utterance"):
+                        if key in value:
+                            collect(value[key])
+                    if not any(key in value for key in ("text", "transcript", "body", "content", "utterance")):
+                        for item in value.values():
+                            collect(item)
+
+            collect(payload)
+            text = "\n".join(parts)
+        except Exception:
+            pass
+    elif "<" in text:
+        text = html_to_text(text)
+    text = unescape(text)
+    text = re.sub(r"(?m)^(WEBVTT|Kind:.*|Language:.*)$", "", text)
+    text = re.sub(r"(?m)^\d+$", "", text)
+    text = re.sub(r"\d{2}:\d{2}:\d{2}[.,]\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}[.,]\d{3}.*", "", text)
+    text = re.sub(r"\n?\s*(Share|Subscribe|Listen to this episode|Download|Open in Apple Podcasts)\s*\n?", "\n", text, flags=re.I)
+    text = re.sub(r"[ \t\r\f\v]+", " ", text)
+    text = re.sub(r"\n\s+", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    text = text.strip()
+    if len(text) > MAX_TRANSCRIPT_CHARS:
+        text = text[:MAX_TRANSCRIPT_CHARS].rstrip() + "\n\n[Transcript truncated for feed size]"
+    return text
 
 
 # ── Twitter fetching ──────────────────────────────────────────────────────────
@@ -221,17 +406,29 @@ def parse_rss(xml_text):
         root = ET.fromstring(xml_text)
     except ET.ParseError:
         return episodes
-    ns = {"itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"}
+    ns = {
+        "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd",
+        "content": "http://purl.org/rss/1.0/modules/content/",
+    }
     for item in root.iter("item"):
         title = item.findtext("title", "").strip()
         guid = item.findtext("guid", title).strip()
         pub_date_str = item.findtext("pubDate", "")
         link = item.findtext("link", "")
         desc = item.findtext("description", "")
+        content = item.findtext("content:encoded", "", ns)
         enc = item.find("enclosure")
         audio = enc.get("url", "") if enc is not None else ""
         dur_el = item.find("itunes:duration", ns)
         duration = dur_el.text.strip() if dur_el is not None and dur_el.text else ""
+        transcript_urls = []
+        for child in list(item):
+            tag = child.tag.rsplit("}", 1)[-1].lower()
+            if tag == "transcript":
+                transcript_url = child.get("url") or child.get("href") or (child.text or "")
+                transcript_url = transcript_url.strip()
+                if transcript_url:
+                    transcript_urls.append(transcript_url)
 
         parsed_date = None
         for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z",
@@ -248,6 +445,9 @@ def parse_rss(xml_text):
             "title": title, "guid": guid, "pub_date": parsed_date,
             "link": link, "audio_url": audio, "duration": duration,
             "description": desc[:2000],
+            "raw_description": desc,
+            "content": content,
+            "transcript_urls": list(dict.fromkeys(transcript_urls)),
         })
 
     # Fallback: YouTube Atom feed format
@@ -284,6 +484,9 @@ def parse_rss(xml_text):
                 "title": title, "guid": guid, "pub_date": parsed_date,
                 "link": link, "audio_url": "", "duration": "",
                 "description": desc[:2000],
+                "raw_description": desc,
+                "content": "",
+                "transcript_urls": [],
             })
 
     return episodes
@@ -336,53 +539,111 @@ def _yt_transcript_by_id(vid):
         }
 
 
-def get_youtube_transcript(link, title=""):
+def get_youtube_transcript(link):
     vid = _youtube_video_id(link)
     if vid:
         result = _yt_transcript_by_id(vid)
         if result["text"]:
             return result
-        direct_error = result["error"]
-    else:
-        direct_error = "No YouTube video id in link"
-
-    if not title:
-        return {
-            "text": None,
-            "source": "youtube_transcript_api",
-            "video_id": vid,
-            "error": direct_error,
-        }
-
-    try:
-        import subprocess
-        CF = 0x08000000 if sys.platform == "win32" else 0
-        proxy = detect_proxy()
-        cmd = [sys.executable, "-m", "yt_dlp", f"ytsearch1:{title}", "--get-id", "--no-warnings"]
-        if proxy:
-            cmd.extend(["--proxy", proxy.replace("socks5h://", "socks5://")])
-        result = subprocess.run(
-            cmd, capture_output=True, text=True, timeout=30,
-            encoding="utf-8", errors="replace",
-            creationflags=CF,
+        return transcript_result(
+            source="youtube_transcript_api",
+            video_id=vid,
+            error=result["error"],
         )
-        vid = result.stdout.strip()
-        if vid and len(vid) == 11:
-            result = _yt_transcript_by_id(vid)
-            if result["text"]:
-                result["source"] = "youtube_transcript_api_search"
-                return result
-            return result
-        search_error = result.stderr.strip() or "No YouTube search result"
-    except Exception as e:
-        search_error = str(e)
+    return transcript_result(
+        source="youtube_transcript_api",
+        video_id=vid,
+        error="No YouTube video id in link",
+    )
 
-    return {
-        "text": None,
-        "source": "youtube_transcript_api",
-        "video_id": vid,
-        "error": search_error or direct_error,
-    }
+
+def transcript_from_url(url, source="transcript_url"):
+    try:
+        body, final_url, content_type = fetch_text_url(url, timeout=45)
+        lower_type = (content_type or "").lower()
+        if "json" in lower_type:
+            try:
+                payload = json.loads(body)
+                body = json.dumps(payload, ensure_ascii=False)
+            except Exception:
+                pass
+        text = clean_transcript_text(body)
+        if looks_like_transcript(text):
+            return transcript_result(text=text, source=source, url=final_url)
+        return transcript_result(
+            source=source,
+            url=final_url,
+            error=f"Fetched text was too short or did not look like a transcript ({len(text)} chars)",
+        )
+    except Exception as e:
+        return transcript_result(source=source, url=url, error=str(e))
+
+
+def transcript_from_episode_page(url):
+    if not url:
+        return transcript_result(source="episode_page", error="No episode link")
+    try:
+        html, final_url, _ = fetch_text_url(url, timeout=45)
+    except Exception as e:
+        return transcript_result(source="episode_page", url=url, error=str(e))
+
+    errors = []
+    for candidate in find_transcript_links(html, final_url):
+        result = transcript_from_url(candidate, source="episode_transcript_link")
+        if result["text"]:
+            return result
+        if result["error"]:
+            errors.append(f"{candidate}: {result['error']}")
+
+    text = extract_probable_transcript_text(html)
+    if text:
+        return transcript_result(text=text, source="episode_page", url=final_url)
+    return transcript_result(
+        source="episode_page",
+        url=final_url,
+        error="No transcript link or transcript-like page text found"
+        + (f"; link errors: {' | '.join(errors[:3])}" if errors else ""),
+    )
+
+
+def get_podcast_transcript(ep):
+    errors = []
+
+    for url in ep.get("transcript_urls", []):
+        result = transcript_from_url(url, source="rss_transcript")
+        if result["text"]:
+            return result
+        if result["error"]:
+            errors.append(f"rss_transcript: {result['error']}")
+
+    for source_name, html in (
+        ("description_transcript_link", ep.get("raw_description") or ep.get("description") or ""),
+        ("content_transcript_link", ep.get("content") or ""),
+    ):
+        for url in find_transcript_links(html, ep.get("link") or ""):
+            result = transcript_from_url(url, source=source_name)
+            if result["text"]:
+                return result
+            if result["error"]:
+                errors.append(f"{source_name}: {result['error']}")
+
+    page_result = transcript_from_episode_page(ep.get("link"))
+    if page_result["text"]:
+        return page_result
+    if page_result["error"]:
+        errors.append(f"episode_page: {page_result['error']}")
+
+    youtube_result = get_youtube_transcript(ep.get("link"))
+    if youtube_result["text"]:
+        return youtube_result
+    if youtube_result["error"]:
+        errors.append(f"youtube: {youtube_result['error']}")
+
+    return transcript_result(
+        source=None,
+        error="; ".join(errors[:5]) or "Transcript unavailable",
+        video_id=youtube_result.get("video_id"),
+    )
 
 
 def fetch_channel(channel, lookback_hours, state):
@@ -409,10 +670,10 @@ def fetch_channel(channel, lookback_hours, state):
 
         log(f"  🆕 {ep['title'][:60]}...")
 
-        transcript_result = get_youtube_transcript(ep["link"], title=f"{name} {ep['title']}")
+        transcript_result = get_podcast_transcript(ep)
         transcript = transcript_result["text"]
         if transcript:
-            log(f"    ✅ transcript ({len(transcript)} chars)")
+            log(f"    ✅ transcript ({len(transcript)} chars, {transcript_result['source']})")
         else:
             log(f"    ⏭️ transcript unavailable: {transcript_result['error']}")
 
@@ -428,6 +689,7 @@ def fetch_channel(channel, lookback_hours, state):
             "transcript": transcript,
             "transcript_available": bool(transcript),
             "transcript_source": transcript_result["source"] if transcript else None,
+            "transcript_url": transcript_result.get("url") if transcript else None,
             "transcript_video_id": transcript_result["video_id"],
             "transcript_error": transcript_result["error"] if not transcript else None,
         })
