@@ -129,6 +129,7 @@ cd ai-signal/scripts && pip install -r ../requirements.txt
 中央服务（本 repo，GitHub Actions 每天自动跑）
   └── generate_feed.py
       → 抓推文原文 + 播客 RSS + YouTube 全文字幕 + arXiv 论文
+      → X/Twitter 先做主题过滤，丢掉节日祝福、生活动态、纯社交表达等非 AI 信号
       → feed-x.json、feed-podcasts.json、feed-arxiv.json（commit 到 repo）
       → 同步生成 feed-summaries.json 中文摘要缓存（如果配置了 LLM keys）
       → feed = 最近 24-72 小时的滚动窗口快照，无状态，多跑几次也不会丢内容

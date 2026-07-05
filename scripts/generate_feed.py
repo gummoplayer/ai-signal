@@ -40,6 +40,39 @@ MIN_TRANSCRIPT_CHARS = 600
 MAX_TRANSCRIPT_CHARS = int(os.environ.get("MAX_TRANSCRIPT_CHARS", "500000"))
 MIN_TRANSCRIPT_CHARS_PER_MIN = int(os.environ.get("MIN_TRANSCRIPT_CHARS_PER_MIN", "150"))
 
+DEFAULT_TWEET_CORE_KEYWORDS = [
+    "ai", "artificial intelligence", "agi", "agent", "agents", "agentic",
+    "llm", "llms", "language model", "foundation model",
+    "claude", "openai", "anthropic", "deepmind", "gemini", "gpt", "llama",
+    "inference", "training", "fine-tuning", "eval", "benchmark", "reasoning",
+    "token", "tokens", "context window", "prompt", "rag", "embedding",
+    "gpu", "h100", "h200", "b200", "gb200", "nvidia", "cuda", "chip",
+    "semiconductor", "datacenter", "data center", "compute", "cluster",
+    "robot", "robotics", "automation",
+    "cursor", "copilot", "codegen", "code generation", "ai engineer",
+    "aidotengineer", "claude code", "claude tag", "computer use",
+    "mcp", "tool use", "video generation",
+    "research", "paper", "arxiv", "math", "alignment", "safety",
+]
+
+DEFAULT_TWEET_CONTEXT_KEYWORDS = [
+    "developer tool", "developer tools", "devtools", "sdk", "api",
+    "dockerfile", "docker", "sandbox", "microvm", "microvms", "fuse",
+    "deploy", "deployment", "rollback", "serverless", "full stack",
+    "workflow", "productivity", "artifact", "artifacts",
+]
+
+DEFAULT_TWEET_PLATFORM_KEYWORDS = [
+    "vercel", "replit", "cursor", "copilot", "next.js", "react",
+]
+
+DEFAULT_TWEET_EXCLUDE_KEYWORDS = [
+    "independence day", "july 4", "4th of july", "fourth of july",
+    "🇺🇸", "🦅", "freedom 250", "holiday", "happy birthday",
+    "merry christmas", "happy new year", "thanksgiving", "halloween",
+    "baby", "dinner", "vacation", "wedding",
+]
+
 
 def configure_stdio():
     for stream in (sys.stdout, sys.stderr):
@@ -138,6 +171,40 @@ def normalize_text(value):
     value = clean_text(value)
     value = re.sub(r"\s+", " ", value).strip()
     return value
+
+
+def keyword_match(text, keywords):
+    lower = normalize_text(text).lower()
+    for keyword in keywords:
+        keyword = keyword.lower().strip()
+        if not keyword:
+            continue
+        pattern = rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])"
+        if re.search(pattern, lower):
+            return True
+    return False
+
+
+def is_relevant_tweet(text, twitter_cfg):
+    """Keep AI/devtools/investing signal, drop pure social or holiday posts."""
+    text = normalize_text(text)
+    if not text:
+        return False
+
+    exclude_keywords = twitter_cfg.get("exclude_keywords") or DEFAULT_TWEET_EXCLUDE_KEYWORDS
+    if keyword_match(text, exclude_keywords):
+        return False
+
+    custom_keywords = twitter_cfg.get("relevance_keywords")
+    if custom_keywords:
+        return keyword_match(text, custom_keywords)
+
+    if keyword_match(text, DEFAULT_TWEET_CORE_KEYWORDS):
+        return True
+
+    has_platform = keyword_match(text, DEFAULT_TWEET_PLATFORM_KEYWORDS)
+    has_context = keyword_match(text, DEFAULT_TWEET_CONTEXT_KEYWORDS)
+    return has_platform and has_context
 
 
 def fetch_text_url(url, timeout=30):
@@ -377,6 +444,7 @@ async def fetch_twitter(sources):
 
         tweets = []
         seen_ids = set()
+        filtered_count = 0
         for t in raw:
             if t.date and t.date.replace(tzinfo=timezone.utc) < since:
                 continue
@@ -386,6 +454,9 @@ async def fetch_twitter(sources):
             if tid in seen_ids:
                 continue
             seen_ids.add(tid)
+            if not is_relevant_tweet(t.rawContent, twitter_cfg):
+                filtered_count += 1
+                continue
             tweets.append({
                 "id": tid,
                 "text": t.rawContent,
@@ -400,9 +471,11 @@ async def fetch_twitter(sources):
         tweets = tweets[:max_per_user]
 
         if tweets:
-            log(f"  ✅ {len(tweets)} tweets")
+            suffix = f", filtered {filtered_count}" if filtered_count else ""
+            log(f"  ✅ {len(tweets)} tweets{suffix}")
         else:
-            log(f"  ⏭️ nothing new")
+            suffix = f" (filtered {filtered_count})" if filtered_count else ""
+            log(f"  ⏭️ nothing new{suffix}")
 
         results.append({
             "handle": handle,
