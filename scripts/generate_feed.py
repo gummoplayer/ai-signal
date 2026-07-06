@@ -1444,6 +1444,16 @@ def blog_items_from_rss(xml_text, src, since):
             continue
         if pub and pub < since:
             continue
+        if not pub or not summary:
+            # One page fetch fills both gaps: a missing summary (DeepMind's RSS
+            # often ships empty descriptions) and a missing publish date.
+            _, desc, page_date = blog_page_meta(link)
+            summary = summary or desc
+            if not pub:
+                # Visible dates are day-granular; pad like the sitemap path.
+                if not page_date or page_date < since - timedelta(hours=24):
+                    continue  # can't verify freshness — never push undated items
+                pub = page_date
         articles.append({
             "id": link,
             "source": src["id"],
@@ -1530,7 +1540,11 @@ def blog_items_from_sitemap(xml_text, src, since, max_items):
         if len(articles) >= max_items:
             break
         title, desc, page_date = blog_page_meta(loc)
-        if page_date and page_date < day_since:
+        if not page_date:
+            # lastmod alone is untrustworthy (redeploys bump it on old posts);
+            # without a verifiable publish date, never push the item.
+            continue
+        if page_date < day_since:
             continue  # old post whose lastmod was bumped by a redeploy/edit
         if not title:
             # Fall back to a de-slugged URL tail so the item is still usable
@@ -1541,7 +1555,7 @@ def blog_items_from_sitemap(xml_text, src, since, max_items):
             "source_name": src.get("name", src["id"]),
             "title": title,
             "url": loc,
-            "published": (page_date or lastmod).isoformat(),
+            "published": page_date.isoformat(),
             "summary": desc[:600],
         })
     return articles

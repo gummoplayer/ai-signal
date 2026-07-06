@@ -12,6 +12,8 @@
 
 ### 修复
 
+- 官方博客的日期把关收紧：验证不了真实发布日期的文章一律不进 feed。此前两个口子——RSS 条目缺 pubDate 会被当成新文章放行；Anthropic 文章页的可见日期解析失败时会退回用 sitemap 的 lastmod（恰恰是会被重新部署刷新的不可信字段）——都可能把旧文当新发布推给用户，现已封死。
+- 官方博客条目缺摘要时（DeepMind 的 RSS 经常不带 description），自动抓一次文章页取 meta description 补齐；页面本身没有描述的保持标题 + 链接。
 - feed 镜像从 2 个扩到 5 个：GitHub raw → jsDelivr 的 4 个 CDN 入口（cdn / fastly / gcore / testingcf）。
   之所以这样改：有大陆无代理用户反馈装好后"没反应"、拉不到数据。raw.githubusercontent.com 在大陆常年被阻断，而 7/5 加的唯一兜底 cdn.jsdelivr.net 自 2022 年大陆节点撤出后同样时好时坏——两环都断时用户只能吃本地旧缓存。后 3 个入口分别走 Fastly / Gcore / Cloudflare 三张不同的 CDN 网络，封锁是按域名来的，总有能直连通的一个。
 - 镜像切换提速：连接超时从 30 秒降到 5 秒，被阻断的源几秒内跳过；某个镜像成功后记住它，后续文件直接从它拉取，不再每个文件都从头把镜像列表试一遍。
