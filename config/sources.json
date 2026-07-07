@@ -23,6 +23,12 @@
         "tier": "analyst"
       },
       {
+        "handle": "insane_analyst",
+        "name": "Irrational Analysis",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
         "handle": "leopoldasch",
         "name": "Leopold Aschenbrenner",
         "domain": "ai",

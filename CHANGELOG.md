@@ -4,6 +4,10 @@
 
 ## 2026-07-07
 
+### 新增
+
+- 推特新增信息源 [@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis）：工程视角的半导体投资分析，Substack 同名。与 Dylan Patel/SemiAnalysis 归同一档（`analyst`），补足半导体产业链一手观点。
+
 ### 修复
 
 - arXiv 论文修复"抓不到最新论文"：此前日报里的论文自 7/4 起就冻在 7/2，看似有 30 篇实则 5 天没变。根因是 arXiv API 的 `sortBy=submittedDate` 排序索引会滞后好几天（arXiv 已知问题），返回的"最新"论文其实卡在 3-4 天前；再叠加 48 小时时间窗，把这批 stale 结果全过滤成空，兜底逻辑又默默保留上一版旧 feed，于是长期喂旧数据且无任何报错。改用 `sortBy=lastUpdatedDate`（实时排序）+ 按真实提交日期在窗口内过滤，时间窗从 48h 放宽到 72h（覆盖周末发文淡季）。实测修复后能正常抓到当天最新提交的论文（`scripts/generate_feed.py` / `config/sources.json`）。
