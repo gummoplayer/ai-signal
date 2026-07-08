@@ -631,7 +631,11 @@ dub/reaction channels carry no English transcript and aren't real interviews).
 As a definitive backstop, an overseas-person video with no English caption
 track at all is rejected — this catches foreign shows that use an English title
 (e.g. Jensen Huang on the Korean variety show You Quiz on the Block, captions
-only in Korean). Only English originals get through. Hits merge into the same
+only in Korean). Only English originals get through. Videos that merely talk
+ABOUT the person are rejected too — a title whose grammar puts the name in
+topic position ("Journalist Karen Hao on Sam Altman...", "the truth about X")
+is coverage, not an appearance; only videos where the person actually speaks
+count. Hits merge into the same
 podcast feed with a `person` field (and `region: "cn"` for China AI voices,
 which are exempt from both filters).
 

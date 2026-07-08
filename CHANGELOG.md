@@ -6,6 +6,9 @@
 
 ### 修复
 
+- 人物追踪剔除"被谈论但本人没出场"的视频：此前只要名字出现在标题里就算命中，导致记者评论某人的节目混进 feed（实例：Karen Hao 谈 Sam Altman 那集 Democracy Now!，Altman 本人并未出场）。新增标题语法守卫——名字出现在 on/about/versus 的宾语位置（"Journalist Karen Hao **on Sam Altman**"）或跟在 exposes/slams/the truth about 这类评论动词后面的，判为"被谈论"拒收；"a conversation on AGI **with** Sam Altman" 这种 with/ft. 结构仍算本人出场。已在 feed 里的旧误收条目下次运行时同规则清除（`scripts/generate_feed.py`）。
+  之所以这样改：产品定义是"27 人上任何播客都会被抓到"，指的是本人开口说话的访谈——被别人高质量地谈论也许值得看，但那是另一个产品。
+
 - 定时任务默认时间预算拉到 15 分钟，修"日报跑到一半被杀、无限重启、永远送不到"：OpenClaw 的 `cron add` 命令模板加上 `--timeout-seconds 900`（并检查 `agents.defaults.timeoutSeconds` 不低于该值）；其他平台（WorkBuddy 等）的定时任务设置里明确要求任务限时 ≥10 分钟（推荐 15）。SKILL.md 另加一节故障排查，症状是"定时日报反复重启不出货"时直接对症到超时预算。
   之所以这样改：日报要通读播客全文字幕（单集可超 10 万字符）——这是刻意设计，全文精读的总结质量更好——正常一轮就可能超过 5 分钟。而"已读"只在成功交付后才标记（防漏内容的正确设计），所以时间预算太短时每次重启都是全量重做，形成死循环。7/8 实测：用户侧 5 分钟截断 + 定时任务反复重启，中央管线全绿，问题全在消费端时间预算。
 

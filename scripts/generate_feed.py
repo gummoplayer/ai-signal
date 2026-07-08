@@ -926,6 +926,32 @@ FOREIGN_SCRIPT_RE = re.compile(
 )
 
 
+def _person_in_topic_position(person, title):
+    """True when the title's grammar marks the person as subject matter rather
+    than a speaker. A guest title puts the person in speaking position ("Sam
+    Altman on the future of AI", "OpenAI President Greg Brockman: ..."); coverage
+    ABOUT the person puts the name in the object position of on/about/versus
+    ("Journalist Karen Hao on Sam Altman, OpenAI & ...") or frames them with
+    commentary verbs ("exposes / slams / the truth about <Person>"). The feed
+    only wants videos where the person actually appears — being talked about,
+    however insightfully, does not count.
+    """
+    p = re.escape(person)
+    m = re.search(rf"\b(?:on|about|against|versus|vs\.?)\s+(.{{0,40}}?)\b{p}\b",
+                  title, re.IGNORECASE)
+    # "with / ft." inside the gap flips it back to a guest marker
+    # ("a conversation on AGI with Sam Altman").
+    if m and not re.search(r"\b(?:with|w/|ft\.?|feat(?:uring)?)\b", m.group(1),
+                           re.IGNORECASE):
+        return True
+    return bool(re.search(
+        rf"\b(?:exposes?|expos[ée]|slams?|criticiz\w+|debunk\w*|reacts?\s+to|"
+        rf"the\s+(?:truth|story|case|rise|fall|cult|myth|problem)\s+"
+        rf"(?:of|about|against|behind|with))\s+.{{0,40}}?\b{p}\b"
+        rf"|\b{p}(?:['’]s)?\s+(?:documentary|expos[ée]|scandal|controversy)\b",
+        title, re.IGNORECASE))
+
+
 def _run_ytdlp(args, timeout=300):
     import subprocess
     cmd = [sys.executable, "-m", "yt_dlp", "--no-warnings"]
@@ -1059,6 +1085,9 @@ def search_person_appearances(search, people_cfg, since, known_ids):
         if person.lower() not in title.lower():
             log(f"  ⏭️ name not in title: {title[:60]}")
             continue
+        if _person_in_topic_position(person, title):
+            log(f"  ⏭️ talked about, not appearing: {title[:60]}")
+            continue
         if DAILY_BRIEFING_RE.search(title) or (
                 search.get("region") == "cn" and CN_TITLE_SKIP_RE.search(title)):
             log(f"  ⏭️ title blacklist: {title[:60]}")
@@ -1141,6 +1170,12 @@ def fetch_people(sources, existing_feed, known_video_ids):
         if stamp_dt.tzinfo is None:
             stamp_dt = stamp_dt.replace(tzinfo=timezone.utc)
         if stamp_dt < since:
+            continue
+        # Purge entries accepted before the topic-position gate existed (or
+        # through any earlier gap): being talked about is not an appearance.
+        if _person_in_topic_position(entry["person"], entry.get("title", "")):
+            log(f"  ⏭️ carried topic-not-guest entry dropped: "
+                f"{entry.get('title','')[:50]}")
             continue
         if not entry.get("transcript") and entry.get("transcript_video_id"):
             vid = entry["transcript_video_id"]
