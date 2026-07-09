@@ -10,9 +10,9 @@
           "id": "2074951886969725413",
           "text": "@petergostev love the idea of the \"swear meter\", probably a quite strong eval signal. are these string-based greps?",
           "created_at": "2026-07-08T20:20:55+00:00",
-          "like_count": 100,
-          "retweet_count": 2,
-          "reply_count": 7,
+          "like_count": 705,
+          "retweet_count": 8,
+          "reply_count": 18,
           "url": "https://x.com/karpathy/status/2074951886969725413"
         }
       ]
@@ -27,46 +27,46 @@
           "id": "2074882968770728416",
           "text": "Introducing SWE-1.7, the most capable model we’ve trained yet.\n\nIt scores within a few points of the strongest frontier models at a fraction of the cost, and is now available at 1000 tok/s.\n\nRL is not hitting its limit: after refining our recipe, we keep seeing gains as we scale https://t.co/xV2NFTJwlI",
           "created_at": "2026-07-08T15:47:03+00:00",
-          "like_count": 3506,
-          "retweet_count": 318,
-          "reply_count": 183,
+          "like_count": 4646,
+          "retweet_count": 436,
+          "reply_count": 227,
           "url": "https://x.com/cognition/status/2074882968770728416"
         },
         {
-          "id": "2074523670278742457",
-          "text": "First day at @OpenAI today!\n\nCouldn’t be more excited to start working on SCM tools. Many thanks to @tnm, @gdb, @aglover, @iamveeve, @udayruddarraju, and lots of others. Let’s go!",
-          "created_at": "2026-07-07T15:59:20+00:00",
-          "like_count": 672,
-          "retweet_count": 14,
-          "reply_count": 41,
-          "url": "https://x.com/ttaylorr_b/status/2074523670278742457"
-        },
-        {
-          "id": "2074344727202463832",
-          "text": "imo this is the most impt part of anthropic's J-space paper today. it's a two-parter:\n\n1) ant proved that they can do \"brain surgery\" interventions into reasoning to change topics midstream*\n2) THE MODEL IS ABLE TO DETECT WHAT INTERVENTION WAS DONE - close cousin to eval awareness**\n\n*control > correlation - this convincingly demonstrates understanding\n\n**this was prompted awareness... surely @mlpowered's team also tried to eval unprompted awareness but i didn't see evidence of that",
-          "created_at": "2026-07-07T04:08:17+00:00",
-          "like_count": 408,
-          "retweet_count": 28,
-          "reply_count": 58,
-          "url": "https://x.com/swyx/status/2074344727202463832"
+          "id": "2075204015890325703",
+          "text": "guys I just cancelled my Claude plan I don’t know what happened https://t.co/yCDjReBqTQ",
+          "created_at": "2026-07-09T13:02:47+00:00",
+          "like_count": 253,
+          "retweet_count": 15,
+          "reply_count": 15,
+          "url": "https://x.com/JangLawrenceK/status/2075204015890325703"
         },
         {
           "id": "2074919183947808881",
           "text": "most agent labs are shy about acknowledging chinese model use because they need to sell to gov/defense\n\ncog team did the hard part to productionize:\n1. build a multilingual propaganda &amp; censorship eval \n2. successfully correct for it in posttraining\n3. serve at 1000 tok/s cheaply https://t.co/Av85Bh4zUf",
           "created_at": "2026-07-08T18:10:58+00:00",
-          "like_count": 74,
-          "retweet_count": 1,
-          "reply_count": 9,
+          "like_count": 148,
+          "retweet_count": 5,
+          "reply_count": 16,
           "url": "https://x.com/swyx/status/2074919183947808881"
         },
         {
           "id": "2074953099748450346",
           "text": "one detail i enjoyed about @theo's keynote is in a world of claudeslopped thin color border \"professional\" looking slides, his went for the hand drawn @excalidraw /@tldraw look which immediately conveys humanity, thoughtfulness, parsimonious concision over badly rewarded verbosity.\n\nfable could never",
           "created_at": "2026-07-08T20:25:44+00:00",
-          "like_count": 44,
-          "retweet_count": 1,
-          "reply_count": 16,
+          "like_count": 89,
+          "retweet_count": 3,
+          "reply_count": 31,
           "url": "https://x.com/swyx/status/2074953099748450346"
+        },
+        {
+          "id": "2075336806661509513",
+          "text": "u guys were clowning on @greptile but turns out they were just the inspo for @openai to go so, so much harder https://t.co/cIarQMR3LD",
+          "created_at": "2026-07-09T21:50:27+00:00",
+          "like_count": 3,
+          "retweet_count": 0,
+          "reply_count": 2,
+          "url": "https://x.com/swyx/status/2075336806661509513"
         }
       ]
     },
@@ -97,9 +97,9 @@
           "id": "2074936143788048786",
           "text": "A little (sell-side) bird told me Nvidia NPO laser requirments are \"more DCI like\".\n\nMy view is this means narrower linewidth. Say 0.1-0.3 MHz vs 0.5-1 MHz prior.\n\nTo get good density on NPO, Nvidia needs to boost modulation speed. Thus need better extinction ratio. https://t.co/zgalLAEsVo",
           "created_at": "2026-07-08T19:18:21+00:00",
-          "like_count": 114,
-          "retweet_count": 2,
-          "reply_count": 12,
+          "like_count": 181,
+          "retweet_count": 6,
+          "reply_count": 13,
           "url": "https://x.com/insane_analyst/status/2074936143788048786"
         }
       ]
@@ -135,19 +135,46 @@
           "id": "2074709023807664454",
           "text": "GPT-5.6 sol launches thursday!\n\nhappy building",
           "created_at": "2026-07-08T04:15:52+00:00",
-          "like_count": 28422,
-          "retweet_count": 1802,
-          "reply_count": 1754,
+          "like_count": 32093,
+          "retweet_count": 1976,
+          "reply_count": 1919,
           "url": "https://x.com/sama/status/2074709023807664454"
+        },
+        {
+          "id": "2074907025537224840",
+          "text": "Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.\n\nRolling out in ChatGPT starting today.\n\nYou’ll want to turn the sound on for this one. https://t.co/WzoQFvA5ir",
+          "created_at": "2026-07-08T17:22:39+00:00",
+          "like_count": 23443,
+          "retweet_count": 2128,
+          "reply_count": 1206,
+          "url": "https://x.com/OpenAI/status/2074907025537224840"
+        },
+        {
+          "id": "2075274271845404744",
+          "text": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done. https://t.co/uGbvjU1LsV",
+          "created_at": "2026-07-09T17:41:57+00:00",
+          "like_count": 12637,
+          "retweet_count": 1171,
+          "reply_count": 507,
+          "url": "https://x.com/OpenAI/status/2075274271845404744"
         },
         {
           "id": "2074909079450050629",
           "text": "GPT-live (next-generation voice) launches today in ChatGPT.\n\nit feels magical and 'real'.\n\ni have always preferred typing to talking to an AI, now i think that's going to shift.",
           "created_at": "2026-07-08T17:30:49+00:00",
-          "like_count": 7468,
-          "retweet_count": 352,
-          "reply_count": 713,
+          "like_count": 10832,
+          "retweet_count": 520,
+          "reply_count": 927,
           "url": "https://x.com/sama/status/2074909079450050629"
+        },
+        {
+          "id": "2075267201058426944",
+          "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+          "created_at": "2026-07-09T17:13:51+00:00",
+          "like_count": 7349,
+          "retweet_count": 258,
+          "reply_count": 493,
+          "url": "https://x.com/sama/status/2075267201058426944"
         }
       ]
     },
@@ -182,46 +209,46 @@
           "id": "2074915721684086811",
           "text": "Announcing Grok 4.5, our first model trained specifically for coding and agents. It was trained with Cursor and offers frontier intelligence at leading speeds and cost efficiency.\n\nhttps://t.co/i8HpU7w64k https://t.co/oBjGtTsoNc",
           "created_at": "2026-07-08T17:57:12+00:00",
-          "like_count": 14031,
-          "retweet_count": 2046,
-          "reply_count": 826,
+          "like_count": 24855,
+          "retweet_count": 3591,
+          "reply_count": 1307,
           "url": "https://x.com/SpaceXAI/status/2074915721684086811"
         },
         {
-          "id": "2074510027897844105",
-          "text": "NVIDIA Vera: The Max Single-Threaded CPU at Scale. \n\nAgentic AI systems run sequentially, each reasoning step, tool call, and code execution happens one at a time on the CPU. When that CPU slows under load, the entire agentic loop slows and valuable GPUs go underutilized.\n\nA max single-threaded CPU at scale keeps every agent step fast, even when the system is fully loaded. That's what NVIDIA Vera is built to do, and why Perplexity is already building on it.\n\nRead More https://t.co/8w5PVPG0pt",
-          "created_at": "2026-07-07T15:05:07+00:00",
-          "like_count": 892,
-          "retweet_count": 102,
-          "reply_count": 65,
-          "url": "https://x.com/nvidia/status/2074510027897844105"
+          "id": "2075274271845404744",
+          "text": "Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.\n\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.\n\nIt’s a whole new way to get work done. https://t.co/uGbvjU1LsV",
+          "created_at": "2026-07-09T17:41:57+00:00",
+          "like_count": 12644,
+          "retweet_count": 1171,
+          "reply_count": 507,
+          "url": "https://x.com/OpenAI/status/2075274271845404744"
         },
         {
-          "id": "2074872091388903774",
-          "text": "Enterprises don’t just need agents that perform. They need agents they can shape, govern and improve as their business evolves.\n\nThat’s the idea behind our work with LangChain.\n\nRead more: https://t.co/3hu5eARj5N",
-          "created_at": "2026-07-08T15:03:50+00:00",
-          "like_count": 267,
-          "retweet_count": 31,
-          "reply_count": 32,
-          "url": "https://x.com/nvidia/status/2074872091388903774"
+          "id": "2074979063106843131",
+          "text": "Congrats to @SpaceXAI on Grok 4.5 — trained on NVIDIA GB300 NVL72 systems and purpose-built for coding, agentic tasks, and knowledge work. This is what happens when world-class AI infrastructure meets world-class AI research.",
+          "created_at": "2026-07-08T22:08:54+00:00",
+          "like_count": 5083,
+          "retweet_count": 733,
+          "reply_count": 182,
+          "url": "https://x.com/nvidia/status/2074979063106843131"
         },
         {
-          "id": "2074554037509185674",
-          "text": "🌍 20 million lives impacted every single year. \n\nThat is the power of technology when it is purposefully engineered to serve humanity. In many low and middle-income countries, healthcare professionals face immense barriers such as unreliable internet, a lack of localized content, and language gaps that can delay critical care.\n\nTo bridge this gap, Techies Without Borders built an AI-powered experimental platform that acts as a localized \"doctor's assistant.\" Frontline workers can now type in a medical query and receive an instant, evidence-based answer in their own language. Thanks to NVIDIA AI and accelerated computing, medical insights that used to take 5 agonizing minutes to load are now delivered in just 2 seconds. And because it runs locally on edge devices, a lack of internet connection is no longer a barrier to saving lives. This isn't just a technical achievement; it's a lifeline for clinics facing severe physician shortages.",
-          "created_at": "2026-07-07T18:00:00+00:00",
-          "like_count": 221,
-          "retweet_count": 27,
-          "reply_count": 26,
-          "url": "https://x.com/nvidia/status/2074554037509185674"
+          "id": "2074961724164214951",
+          "text": "Every company has specialized intelligence that sets it apart.\n\nWith @langchain, we’re helping enterprises turn that knowledge into specialized agents they can customize, secure and improve over time. https://t.co/70dmvQsxY8",
+          "created_at": "2026-07-08T21:00:00+00:00",
+          "like_count": 667,
+          "retweet_count": 83,
+          "reply_count": 44,
+          "url": "https://x.com/nvidia/status/2074961724164214951"
         },
         {
-          "id": "2074584281662300649",
-          "text": "Join NVIDIA for AI in Production Day at SIGGRAPH 2026. 🎥\n\nOn Thursday, July 23, explore how generative and agentic AI are moving into real-world creative pipelines through a full day of sessions focused on film, animation, storytelling, and production workflows.\n\nHear from industry experts on how AI is helping teams direct generative video, support artist-centered pipelines, modernize animation and VFX workflows, and reshape the infrastructure behind production.\n\n📍 Los Angeles | Room 502A\n🗓️ Thursday, July 23 | 9 a.m.–3 p.m. PT",
-          "created_at": "2026-07-07T20:00:11+00:00",
-          "like_count": 219,
-          "retweet_count": 22,
-          "reply_count": 26,
-          "url": "https://x.com/nvidia/status/2074584281662300649"
+          "id": "2075283846657175683",
+          "text": "NVIDIA teams run ChatGPT Work to automate workflows, surface insights faster, and cut operation costs.\n\nOur full-stack collaboration continues to scale. GPT-5.6 builds on GPT-5.5, trained and run on NVIDIA GB200 and GB300 NVL72 rack-scale systems. \n\nCongratulations to the @OpenAI team on the launch. 🎉",
+          "created_at": "2026-07-09T18:20:00+00:00",
+          "like_count": 588,
+          "retweet_count": 47,
+          "reply_count": 41,
+          "url": "https://x.com/nvidia/status/2075283846657175683"
         }
       ]
     },
@@ -237,7 +264,17 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2074997570317779038",
+          "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to the latest version\n6. Enable auto mode by default\n7. Pre-approve frequently denied read-only commands\n\n.. And a few other goodies.\n\n/checkup confirms with you before making any changes. Enjoy!",
+          "created_at": "2026-07-08T23:22:27+00:00",
+          "like_count": 10487,
+          "retweet_count": 833,
+          "reply_count": 311,
+          "url": "https://x.com/bcherny/status/2074997570317779038"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -249,19 +286,10 @@
           "id": "2074925531519468012",
           "text": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-player Claude Tag. Then, we're going deep on how Claude Tag actually works.\n\nAI used to finish your sentence. Then, it wrote entire features. Now, Claude Tag can monitor your channels, do proactive work for you, the whole team can steer it, and it remembers what you told it last week.\n\nRegister: https://t.co/D8Lz61BXn4",
           "created_at": "2026-07-08T18:36:11+00:00",
-          "like_count": 318,
-          "retweet_count": 20,
-          "reply_count": 32,
+          "like_count": 552,
+          "retweet_count": 39,
+          "reply_count": 47,
           "url": "https://x.com/_catwu/status/2074925531519468012"
-        },
-        {
-          "id": "2074339650072948977",
-          "text": "@austospumanto @claudeai @tryramp @bcherny thanks for being an early believer in claude code! really appreciate your partnership and feedback over the past year and a half",
-          "created_at": "2026-07-07T03:48:06+00:00",
-          "like_count": 1,
-          "retweet_count": 0,
-          "reply_count": 1,
-          "url": "https://x.com/_catwu/status/2074339650072948977"
         }
       ]
     },
@@ -270,7 +298,17 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2075285305096343583",
+          "text": "More Fable!",
+          "created_at": "2026-07-09T18:25:48+00:00",
+          "like_count": 531,
+          "retweet_count": 6,
+          "reply_count": 39,
+          "url": "https://x.com/alexalbert__/status/2075285305096343583"
+        }
+      ]
     },
     {
       "handle": "rauchg",
@@ -279,49 +317,49 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2074630835878453601",
-          "text": "The filesystem is beautiful. Want your https://t.co/99eEa13mZ3 agent to have GitHub powers?\n\nDefine 𝚝𝚘𝚘𝚕𝚜/𝚐𝚒𝚝𝚑𝚞𝚋.𝚝𝚜 and export 𝚌𝚛𝚎𝚊𝚝𝚎𝙶𝚒𝚝𝚑𝚞𝚋𝚃𝚘𝚘𝚕𝚜().\n\nEve exists to shape an open ecosystem of pluggable models, skills, channels, and tools like this ↓",
-          "created_at": "2026-07-07T23:05:10+00:00",
-          "like_count": 322,
-          "retweet_count": 15,
-          "reply_count": 28,
-          "url": "https://x.com/rauchg/status/2074630835878453601"
+          "id": "2075016514860650685",
+          "text": "Introducing Native SDK\n\nThe toolkit for building native apps\n\n→ Hot reload\n→ Markup + Zig\n→ Instant launch\n→ macOS, Windows and Linux\n→ GPU engine built from scratch\n→ Built-in design system and themes\n→ Custom components + design tokens https://t.co/UCm7S2bzwP",
+          "created_at": "2026-07-09T00:37:43+00:00",
+          "like_count": 2242,
+          "retweet_count": 141,
+          "reply_count": 132,
+          "url": "https://x.com/ctatedev/status/2075016514860650685"
+        },
+        {
+          "id": "2075018147330232707",
+          "text": "AI will make all software Native.\n\nUncompromising performance and platform affinity.",
+          "created_at": "2026-07-09T00:44:12+00:00",
+          "like_count": 1065,
+          "retweet_count": 28,
+          "reply_count": 58,
+          "url": "https://x.com/rauchg/status/2075018147330232707"
         },
         {
           "id": "2074874387065680201",
           "text": "Chat SDK is now a channel in @evedev_\n\nDeliver your eve agent via iMessage, WhatsApp, Telegram, and more.\n\nhttps://t.co/mHYUdgSa0X",
           "created_at": "2026-07-08T15:12:57+00:00",
-          "like_count": 223,
-          "retweet_count": 21,
-          "reply_count": 10,
+          "like_count": 269,
+          "retweet_count": 22,
+          "reply_count": 11,
           "url": "https://x.com/vercel_dev/status/2074874387065680201"
         },
         {
-          "id": "2074624672604492286",
-          "text": "Create GitHub agents with @evedev_ in only nine lines of code.\n\nOne file registers every GitHub tool, and risky writes wait for human approval by default.\nhttps://t.co/zz9xKtgCik",
-          "created_at": "2026-07-07T22:40:41+00:00",
-          "like_count": 182,
-          "retweet_count": 9,
-          "reply_count": 5,
-          "url": "https://x.com/vercel_dev/status/2074624672604492286"
+          "id": "2075294130327196152",
+          "text": "It’s model release week. I suspect Meta Spark 1.1, Grok 4.5, and GLM 5.2 will significantly displace token market share. \n\nMost agentic tasks require reasonably high intelligence at fast speeds.\n\nIt’s a good time to be using ▲ AI Gateway!",
+          "created_at": "2026-07-09T19:00:52+00:00",
+          "like_count": 290,
+          "retweet_count": 4,
+          "reply_count": 32,
+          "url": "https://x.com/rauchg/status/2075294130327196152"
         },
         {
           "id": "2074874713143460150",
           "text": "The blissful sound of all the pieces of the agent stack clicking together. ht @nishimiya. This will power my personal productivity agents!",
           "created_at": "2026-07-08T15:14:15+00:00",
-          "like_count": 146,
-          "retweet_count": 3,
-          "reply_count": 21,
+          "like_count": 218,
+          "retweet_count": 6,
+          "reply_count": 24,
           "url": "https://x.com/rauchg/status/2074874713143460150"
-        },
-        {
-          "id": "2074920778135683340",
-          "text": "Grok 4.5 is on AI Gateway. Switch to @SpaceXAI's flagship model with one command:\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚊𝚒-𝚐𝚊𝚝𝚎𝚠𝚊𝚢 𝚛𝚞𝚕𝚎𝚜 𝚊𝚍𝚍 \\\n  --𝚝𝚢𝚙𝚎 𝚛𝚎𝚠𝚛𝚒𝚝𝚎 \\\n  --𝚜𝚘𝚞𝚛𝚌𝚎 𝚡𝚊𝚒/𝚐𝚛𝚘𝚔-𝟺.𝟹 \\\n  --𝚍𝚎𝚜𝚝𝚒𝚗𝚊𝚝𝚒𝚘𝚗 𝚡𝚊𝚒/𝚐𝚛𝚘𝚔-𝟺.𝟻 https://t.co/Z2PwNTu910",
-          "created_at": "2026-07-08T18:17:18+00:00",
-          "like_count": 123,
-          "retweet_count": 4,
-          "reply_count": 8,
-          "url": "https://x.com/vercel_dev/status/2074920778135683340"
         }
       ]
     },
@@ -330,7 +368,35 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2074981466568814860",
+          "text": "It took $165,000+ of Fable 5 API to port Bun from Zig to Rust.\n\nWow! https://t.co/ZCvkXelm7b",
+          "created_at": "2026-07-08T22:18:27+00:00",
+          "like_count": 1502,
+          "retweet_count": 47,
+          "reply_count": 62,
+          "url": "https://x.com/mehulmpt/status/2074981466568814860"
+        },
+        {
+          "id": "2075080984211624154",
+          "text": "When do we stop comparing autonomous agents to hand-written code? You don’t see compilers comparing to engineers hand-writing assembly.",
+          "created_at": "2026-07-09T04:53:54+00:00",
+          "like_count": 344,
+          "retweet_count": 11,
+          "reply_count": 49,
+          "url": "https://x.com/amasad/status/2075080984211624154"
+        },
+        {
+          "id": "2075303809623179734",
+          "text": "@yacineMTB Anthropic also could’ve windsurf’d cursor at the acquisition. Mutually assured destruction.",
+          "created_at": "2026-07-09T19:39:20+00:00",
+          "like_count": 14,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "url": "https://x.com/amasad/status/2075303809623179734"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -339,53 +405,53 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2074868522270752837",
-          "text": "@AI_Andrew @GeminiApp Can you say more?",
-          "created_at": "2026-07-08T14:49:39+00:00",
-          "like_count": 5,
-          "retweet_count": 0,
-          "reply_count": 0,
-          "url": "https://x.com/joshwoodward/status/2074868522270752837"
-        },
-        {
-          "id": "2074867104998740278",
-          "text": "@J3Cordeiro @GeminiApp Can you say more, sounds like you paste in the Google Docs URL or something and then ask Gemini to do things with that?",
-          "created_at": "2026-07-08T14:44:01+00:00",
-          "like_count": 5,
-          "retweet_count": 0,
-          "reply_count": 3,
-          "url": "https://x.com/joshwoodward/status/2074867104998740278"
+          "id": "2075241749048401936",
+          "text": "Thanks to the 1,400+ replies in the first 12 hours! I read all of them last night, and another 300+ came in overnight that I’ll catch up on today. Here’s the Top 10 stack rank from your feedback so far, along with where we stand on each:\n\n1) Make Google Workspace integrations work more reliably: This is the clear #1 request, and all of us agree. On it. A set of improvements went into Gemini Spark recently, but this needs to be much better across the entire app.\n\n2) More reliable tool calling: Strongly agree. We know we need to improve here, and you should expect to see noticeable gains soon.\n\n3) Projects & folder organization for chats: Notebooks have been a positive step, but not enough. We’ll rethink this UX and will report back.\n\n4) Add MCPs and Custom Skills: We’ve rolled out early support in Gemini Spark with custom MCPs, custom skills, and a few connected apps, but we're working to make this more widely available and adding more MCPs.\n\n5) Deep Research improvements: You asked for export reports to NotebookLM and the ability to switch between Deep Research mode and Flash/Pro models in the same chat. I wasn’t aware of these pain points. Both are good ideas, and we’ll figure something out.\n\n6) Remove watermarks from Nano Banana: We’ll chat about this later today to see where we can make adjustments while navigating AI rules, which vary by country.\n\n7) Edit any message in chat history: On it. We’ll aim to do this, plus keep our existing chat branching feature.\n\n8) Improve in-app voice dictation accuracy: We're prioritizing this area overall. We’ll dig into these specific replies, and I might DM a few of you to get more info if we need it.\n\n9) Fix mobile app scrolling bugs: Doing this.\n\n10) Fix \"Celebrity Likeness\" guardrails: We plan to keep this as-is right now.\n\nThanks again!",
+          "created_at": "2026-07-09T15:32:43+00:00",
+          "like_count": 909,
+          "retweet_count": 47,
+          "reply_count": 134,
+          "url": "https://x.com/joshwoodward/status/2075241749048401936"
         },
         {
           "id": "2074871173653909973",
           "text": "@makingAISimple @GeminiApp OK, great, launched last week inside Gemini Spark, it's only available to Ultra plans right now and we're expanding it",
           "created_at": "2026-07-08T15:00:11+00:00",
-          "like_count": 4,
+          "like_count": 6,
           "retweet_count": 0,
-          "reply_count": 1,
+          "reply_count": 4,
           "url": "https://x.com/joshwoodward/status/2074871173653909973"
         },
         {
-          "id": "2074867856349524052",
-          "text": "@cipherstein @GeminiApp Can you tell me more about the types of edits you're wanting to do from Gemini itself vs. going into Docs/Sheets and doing it from there?",
-          "created_at": "2026-07-08T14:47:00+00:00",
-          "like_count": 4,
+          "id": "2074869177748263007",
+          "text": "@ocheaugustus @GeminiApp Yeah, what are your top MCP requests?\n\nLast week, we added custom MCP on Gemini Spark (and are working to roll it out to the Pro tier next), but curious to learn more about what you'd want.",
+          "created_at": "2026-07-08T14:52:15+00:00",
+          "like_count": 5,
           "retweet_count": 0,
-          "reply_count": 2,
-          "url": "https://x.com/joshwoodward/status/2074867856349524052"
+          "reply_count": 3,
+          "url": "https://x.com/joshwoodward/status/2074869177748263007"
         },
         {
-          "id": "2074869577175966078",
-          "text": "@atmabodha @GeminiApp Can you say more about this hang - you're copying something long, say from an email or doc, and then you're pasting it into Gemini's prompt bar, and it hangs when you paste it in?",
-          "created_at": "2026-07-08T14:53:51+00:00",
-          "like_count": 3,
+          "id": "2075232774978511090",
+          "text": "@bhaumikk9 @ai_for_success @GeminiApp We have branching already, we'll expand prompt editing any conversation (that's a clear cluster of feedback)",
+          "created_at": "2026-07-09T14:57:04+00:00",
+          "like_count": 4,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "url": "https://x.com/joshwoodward/status/2075232774978511090"
+        },
+        {
+          "id": "2075059805392093229",
+          "text": "@matvelloso @GeminiApp 1 - Looking at this\n2 - Weird, it should be there in the tools menu when Flash or Pro models are selected; we made a lot of them today",
+          "created_at": "2026-07-09T03:29:45+00:00",
+          "like_count": 4,
           "retweet_count": 0,
           "reply_count": 1,
-          "url": "https://x.com/joshwoodward/status/2074869577175966078"
+          "url": "https://x.com/joshwoodward/status/2075059805392093229"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-08T22:59:29.589391+00:00"
+  "generated_at": "2026-07-09T23:06:31.594263+00:00"
 }
