@@ -457,9 +457,22 @@ Use `channel`, `title`, `link` from the JSON — NOT from transcript text.
 **Podcast follow-up expansion:**
 The digest is only the first filter. When the user asks to expand a podcast
 ("展开第 2 个播客" / "把 Vercel agents 这期做 breakdown" / "深读这期播客"),
-use the existing `payload_file` and the episode's `transcript_file` when
-available. Do not fetch the web. Produce a deeper breakdown in the user's
-language with:
+get the transcript from the central feed on demand — do NOT rely on the local
+`transcript_file`. Those files are wiped on every `prepare_digest.py` run, and
+the seen-filter drops already-shown episodes, so a transcript delivered in the
+morning is gone by the afternoon (this is why expansion used to report "中央没
+抓" for episodes that were in fact captured). Fetch by `guid` from `payload.json`:
+
+```bash
+cd ${SKILL_DIR}/scripts && python fetch_transcript.py --guid <episode guid> --out /tmp/ep.txt
+# or, if you only have the title: --title "<substring>"
+```
+
+Exit codes: `0` transcript written; `2` the episode genuinely has no central
+transcript (channel not configured for transcription / RSS carried none — say so
+plainly, there is nothing to expand); `3` no match; `4` feed unreachable. Read the
+written file for the transcript. Do not fetch the open web. Produce a deeper
+breakdown in the user's language with:
 - one-sentence thesis
 - core claims
 - argument chain
