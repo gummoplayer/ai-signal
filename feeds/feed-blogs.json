@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "published": "2026-07-14T10:00:00+00:00",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+    },
+    {
+      "id": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://www.anthropic.com/news/canadian-ai-research",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
+    },
+    {
+      "id": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "How Canada uses Claude",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+    },
+    {
+      "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+    },
+    {
+      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published": "2026-07-13T12:37:28+00:00",
+      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
+    },
+    {
       "id": "https://www.anthropic.com/research/claude-values-models-languages",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -11,5 +74,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-13T22:50:59.512334+00:00"
+  "generated_at": "2026-07-14T22:52:44.191547+00:00"
 }
