@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-07-14T23:01:01.668615+00:00",
+  "generated_at": "2026-07-15T22:54:47.218085+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-07-14T23:54:07+00:00",
+      "transcript_path": "feeds/transcripts/8c69719170ff5e540f17fe26.txt",
+      "transcript_chars": 10719,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-15T22:54:47.218085+00:00",
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/aiewf26trends",
+      "link": "https://www.latent.space/p/aiewf26trends",
+      "channel": "Latent Space",
+      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+      "pub_date": "2026-07-14T23:21:21+00:00",
+      "transcript_path": "feeds/transcripts/00c7fc67b46263be28dcd07c.txt",
+      "transcript_chars": 17585,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-15T22:54:47.218085+00:00",
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
+    },
     {
       "guid": "78e0a26e-7f00-11f1-b43d-f79b97e3a2f1",
       "link": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
@@ -12,8 +38,8 @@
       "transcript_chars": 53240,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-14T23:01:01.668615+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "d43e7dda-045c-49e0-b7b7-2ffa841cbb8d",
@@ -25,8 +51,8 @@
       "transcript_chars": 50765,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-14T23:01:01.668615+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
@@ -38,8 +64,8 @@
       "transcript_chars": 14378,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-14T22:53:17.613350+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
@@ -51,8 +77,8 @@
       "transcript_chars": 14329,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-13T22:51:33.171545+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
@@ -64,8 +90,8 @@
       "transcript_chars": 5800,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-13T22:51:33.171545+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
@@ -272,8 +298,8 @@
       "transcript_chars": 84569,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-11T09:16:42.810713+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
+      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
+      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "yt:f6D_aiy8qyU",

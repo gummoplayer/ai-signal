@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "id": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "2026-07-15T10:00:00+00:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
       "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
       "source": "openai",
       "source_name": "OpenAI",
@@ -37,15 +55,6 @@
       "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     },
     {
-      "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-    },
-    {
       "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "source": "openai",
       "source_name": "OpenAI",
@@ -55,24 +64,15 @@
       "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
     },
     {
-      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "published": "2026-07-13T12:37:28+00:00",
-      "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-    },
-    {
-      "id": "https://www.anthropic.com/research/claude-values-models-languages",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "How Claude's values vary by model and language",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "published": "2026-07-13T00:00:00+00:00",
-      "summary": "We analyzed 300,000 real conversations to measure the values Claude expresses across models and languages, compressed into four interpretable axes."
+      "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-14T22:52:44.191547+00:00"
+  "generated_at": "2026-07-15T22:54:09.651450+00:00"
 }
