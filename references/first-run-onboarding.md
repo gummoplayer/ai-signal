@@ -38,8 +38,10 @@ Then ask: "几点推送？你在哪个时区？（默认早上 7:30）"
 **Default: `deliveryTime: "07:30"`, `timezone: "Asia/Shanghai"`.** If the user
 says "默认" / "都行" / doesn't give a time, use 07:30 Beijing time. The central
 feed regenerates daily at 06:00 Beijing time (22:00 UTC), so 07:30 delivery
-picks up the freshest feed. If the user gives a timezone but no time, default
-to 07:30 in their timezone.
+picks up the freshest X, podcast, and blog feeds. arXiv gets a second weekday
+refresh around 09:30 Beijing time after its daily release; deliveries before
+then may contain the previous paper batch. If the user gives a timezone but no
+time, default to 07:30 in their timezone.
 
 For weekly, also ask which day.
 
