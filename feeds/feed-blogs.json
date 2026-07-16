@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "published": "2026-07-16T16:00:00+00:00",
+      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+    },
+    {
+      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "published": "2026-07-16T09:30:42+00:00",
+      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
+    },
+    {
+      "id": "https://openai.com/index/cars24",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "published": "2026-07-16T00:00:00+00:00",
+      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+    },
+    {
       "id": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "source": "openai",
       "source_name": "OpenAI",
@@ -19,15 +46,6 @@
       "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
     },
     {
-      "id": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "published": "2026-07-14T10:00:00+00:00",
-      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
-    },
-    {
       "id": "https://www.anthropic.com/news/claude-for-teachers",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -44,35 +62,8 @@
       "url": "https://www.anthropic.com/news/canadian-ai-research",
       "published": "2026-07-14T00:00:00+00:00",
       "summary": "Anthropic is committing $10M to Canadian research institutions to fund the next generation of AI research."
-    },
-    {
-      "id": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "How Canada uses Claude",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-    },
-    {
-      "id": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-    },
-    {
-      "id": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "published": "2026-07-14T00:00:00+00:00",
-      "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-15T22:54:09.651450+00:00"
+  "generated_at": "2026-07-16T22:52:32.885476+00:00"
 }
