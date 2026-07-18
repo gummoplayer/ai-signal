@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-07-17T22:43:26.409199+00:00",
+  "generated_at": "2026-07-18T22:51:23.370757+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "643dd7f8-9888-4093-bc89-acfdd4362fce",
+      "link": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
+      "channel": "All-In Podcast",
+      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
+      "pub_date": "2026-07-18T00:36:00+00:00",
+      "transcript_path": "feeds/transcripts/c165f266a02168c4a98b9e46.txt",
+      "transcript_chars": 93416,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-07-18T22:51:23.370757+00:00",
+      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
+      "expires_at": "2026-08-01T22:51:23.370757+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-830",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-07-18T04:30:21+00:00",
+      "transcript_path": "feeds/transcripts/89d290061326ce63b0655267.txt",
+      "transcript_chars": 10309,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-18T22:43:21.931357+00:00",
+      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
+      "expires_at": "2026-08-01T22:51:23.370757+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
       "link": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
@@ -12,8 +38,8 @@
       "transcript_chars": 31942,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-17T22:43:26.409199+00:00",
-      "last_seen_at": "2026-07-17T22:43:26.409199+00:00",
-      "expires_at": "2026-07-31T22:43:26.409199+00:00"
+      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
+      "expires_at": "2026-08-01T22:51:23.370757+00:00"
     },
     {
       "guid": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
@@ -25,8 +51,8 @@
       "transcript_chars": 8639,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-16T22:53:21.164853+00:00",
-      "last_seen_at": "2026-07-17T22:43:26.409199+00:00",
-      "expires_at": "2026-07-31T22:43:26.409199+00:00"
+      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
+      "expires_at": "2026-08-01T22:51:23.370757+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
@@ -38,8 +64,8 @@
       "transcript_chars": 16723,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-16T22:53:21.164853+00:00",
-      "last_seen_at": "2026-07-17T22:43:26.409199+00:00",
-      "expires_at": "2026-07-31T22:43:26.409199+00:00"
+      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
+      "expires_at": "2026-08-01T22:51:23.370757+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-c72",

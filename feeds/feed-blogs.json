@@ -8,35 +8,8 @@
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "published": "2026-07-17T10:00:00+00:00",
       "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
-    },
-    {
-      "id": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
-    },
-    {
-      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published": "2026-07-16T09:30:42+00:00",
-      "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models."
-    },
-    {
-      "id": "https://openai.com/index/cars24",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "url": "https://openai.com/index/cars24",
-      "published": "2026-07-16T00:00:00+00:00",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-17T22:42:51.021212+00:00"
+  "generated_at": "2026-07-18T22:42:36.506806+00:00"
 }
