@@ -82,28 +82,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2078244664751104293",
-          "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️\n\nEvery post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. \n\nThat is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
-          "created_at": "2026-07-17T22:25:14+00:00",
-          "like_count": 372,
-          "retweet_count": 39,
-          "reply_count": 38,
-          "engagement_score": 488,
-          "url": "https://x.com/nvidia/status/2078244664751104293"
-        },
-        {
-          "id": "2078228046465655279",
-          "text": "Still building your #SIGGRAPH2026 agenda? We've got you covered. 🤝\n\n👉 Learn the latest research breakthroughs at the NVIDIA keynote.\n👉 Build new skills in hands-on labs.\n👉 Explore a full lineup of sessions covering physical AI, RTX, AI in production & more. \n\nLearn more: https://t.co/Zx7n0Iayjt",
-          "created_at": "2026-07-17T21:19:12+00:00",
-          "like_count": 132,
-          "retweet_count": 11,
-          "reply_count": 12,
-          "engagement_score": 166,
-          "url": "https://x.com/nvidia/status/2078228046465655279"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -117,18 +96,7 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2077929379661844559",
-          "text": "I talk to engineers at other companies every day and hear the same thing: one person is 10x'ing their output with Claude but the rest of the org hasn't caught up.\n\nWatching teams adopt AI, I keep seeing the same 4 steps.\n\nI mapped them out here: Steps of AI Adoption https://t.co/kQnRAUMKpP",
-          "created_at": "2026-07-17T01:32:24+00:00",
-          "like_count": 9876,
-          "retweet_count": 908,
-          "reply_count": 386,
-          "engagement_score": 12078,
-          "url": "https://x.com/bcherny/status/2077929379661844559"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
@@ -149,46 +117,14 @@
       "name": "Guillermo Rauch (Vercel)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2078548458714406959",
-          "text": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks.\n\nBut that doesn't make AIs better than humanity. There are wonderful things humans can do that these superintelligences (the better term) can't. \n\nFor one, we care-for and care-about other humans in a powerful and inherent way, that we then teach machines to emulate. We must keep that as the top priority in everything we do. We have to be as pro-human-life as it gets.\n\nAIs can replace tasks you do, but they can't replace the proverbial you. This is why they horribly suck at writing! Even when given a corpus of your writing and 200 Skills and 50 subagents running in gRaPh LoOps, they produce robotic prose… because they are robots. \n\nI know one definitive way that people can become irrelevant. They stop being themselves: lose their identity, delegate all their writing, their unique thoughts, the creative ways in which they can use the machines. Opting out of 'weighing in'.\n\nI think we're safe though. There's nothing more distasteful right now than AI replies in social media or (🟢 T H I S    T H I N G ) in landing pages. Quality and humanity will prevail.",
-          "created_at": "2026-07-18T18:32:24+00:00",
-          "like_count": 313,
-          "retweet_count": 21,
-          "reply_count": 63,
-          "engagement_score": 418,
-          "url": "https://x.com/rauchg/status/2078548458714406959"
-        },
-        {
-          "id": "2078305023784620342",
-          "text": "🆓 Sandbox data for downloads.\nHappy Friday! Time to ship more agents",
-          "created_at": "2026-07-18T02:25:05+00:00",
-          "like_count": 120,
-          "retweet_count": 6,
-          "reply_count": 16,
-          "engagement_score": 148,
-          "url": "https://x.com/rauchg/status/2078305023784620342"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "amasad",
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2077908032944779732",
-          "text": "If you want to play my chess engine (WIP): https://t.co/4WJ9SYmr1o\n\nIt already seems to perform better than frontier models on chess.\n\nIt’s fine-tuned on 2M stockfish-labeled positions, then short GRPO RL pass.\n\nDocumentation/tutorial with all the experiments and annotated code.",
-          "created_at": "2026-07-17T00:07:35+00:00",
-          "like_count": 128,
-          "retweet_count": 12,
-          "reply_count": 37,
-          "engagement_score": 189,
-          "url": "https://x.com/amasad/status/2077908032944779732"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "joshwoodward",
@@ -199,5 +135,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-18T22:42:36.506806+00:00"
+  "generated_at": "2026-07-19T22:44:42.151612+00:00"
 }
