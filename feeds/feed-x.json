@@ -5,58 +5,7 @@
       "name": "Andrej Karpathy",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2056753169888334312",
-          "text": "Personal update: I've joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.",
-          "created_at": "Tue May 19 15:05:42 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 11057,
-          "reply_count": 7962,
-          "engagement_score": 30076,
-          "url": "https://x.com/karpathy/status/2056753169888334312"
-        },
-        {
-          "id": "2040470801506541998",
-          "text": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.\n\nSo here's the idea in a gist format: https://t.co/NlAfEJjtJV\n\nYou can give this to your agent and it can build you your own LLM wiki and guide you on how to use it etc. It's intentionally kept a little bit abstract/vague because there are so many directions to take this in. And ofc, people can adjust the idea or contribute their own in the Discussion which is cool.",
-          "created_at": "Sat Apr 04 16:45:23 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 2834,
-          "reply_count": 1126,
-          "engagement_score": 6794,
-          "url": "https://x.com/karpathy/status/2040470801506541998"
-        },
-        {
-          "id": "2042334451611693415",
-          "text": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
-          "created_at": "Thu Apr 09 20:10:52 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 2518,
-          "reply_count": 1201,
-          "engagement_score": 6237,
-          "url": "https://x.com/karpathy/status/2042334451611693415"
-        },
-        {
-          "id": "2064409694761054332",
-          "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
-          "created_at": "Tue Jun 09 18:10:00 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 2395,
-          "reply_count": 1332,
-          "engagement_score": 6122,
-          "url": "https://x.com/karpathy/status/2064409694761054332"
-        },
-        {
-          "id": "2069547676849557725",
-          "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
-          "created_at": "Tue Jun 23 22:26:31 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 1905,
-          "reply_count": 1346,
-          "engagement_score": 5156,
-          "url": "https://x.com/karpathy/status/2069547676849557725"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "swyx",
@@ -65,43 +14,13 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2078244735794413786",
-          "text": "btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha",
-          "created_at": "Fri Jul 17 22:25:31 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 47,
-          "reply_count": 102,
-          "engagement_score": 196,
-          "url": "https://x.com/swyx/status/2078244735794413786"
-        },
-        {
-          "id": "2078628617987518855",
-          "text": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF enters the eval window",
-          "created_at": "Sat Jul 18 23:50:56 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 5,
-          "reply_count": 37,
-          "engagement_score": 47,
-          "url": "https://x.com/swyx/status/2078628617987518855"
-        },
-        {
-          "id": "2077439609336991813",
-          "text": "ok this might be AI Woodstock 2.0\n\ni'd love to do this actually outdoors, in a park with a small sound stage, but dont have contacts. has anyone organized an outdoors event in the Presidio, City Hall, or GGP before? even a small one\n\ncc @NaderLikeLadder  @TheAhmadOsman youre gonna have to extend ur stay lmao",
-          "created_at": "Wed Jul 15 17:06:14 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 8,
-          "reply_count": 25,
-          "engagement_score": 41,
-          "url": "https://x.com/swyx/status/2077439609336991813"
-        },
-        {
           "id": "2079260050691072475",
           "text": "u guys aren't ready for the latest @Steve_Yegge warning on vibecoding in a post Gas Town world\n\nso glad to have him back at AIE https://t.co/T5Qp3jzHQO",
           "created_at": "Mon Jul 20 17:40:01 +0000 2026",
-          "like_count": 0,
+          "like_count": 34,
           "retweet_count": 2,
           "reply_count": 17,
-          "engagement_score": 21,
+          "engagement_score": 55,
           "url": "https://x.com/swyx/status/2079260050691072475"
         }
       ]
@@ -111,58 +30,7 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2076200679186567521",
-          "text": "Or he failed to keep it together (Anthropic, Thinky, Core Automation, etc) and bloviated so much about his tech that everyone saw it as existential and it created completion from all the hyperscalers.\nIf he played his cards right I'd bet there'd be no Anthropic or Meta TBD or XAI",
-          "created_at": "Sun Jul 12 07:03:10 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 43,
-          "reply_count": 97,
-          "engagement_score": 183,
-          "url": "https://x.com/dylan522p/status/2076200679186567521"
-        },
-        {
-          "id": "2072395715352089032",
-          "text": "When boomer companies get high Anthropic bill, they set spend limits \nWhen I see a nearly million dollar Anthropic monthly bill, my first reaction is to complain about use of shitty Haiku models\nImagine giving your amazing team, dumb models\nIt's insulting to their dignity https://t.co/n6HZ5syb4i",
-          "created_at": "Wed Jul 01 19:03:36 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 31,
-          "reply_count": 62,
-          "engagement_score": 124,
-          "url": "https://x.com/dylan522p/status/2072395715352089032"
-        },
-        {
-          "id": "2072741962214707311",
-          "text": "I love Fable 5 and Anthropic https://t.co/BktUO0dAjL",
-          "created_at": "Thu Jul 02 17:59:28 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 20,
-          "reply_count": 51,
-          "engagement_score": 91,
-          "url": "https://x.com/dylan522p/status/2072741962214707311"
-        },
-        {
-          "id": "2071660573067284802",
-          "text": "Everyone is concerned about Chinese models being banned\nThe entire ecosystem of successful AI startups with real revenue are all catching pretrainitus simultaneously.",
-          "created_at": "Mon Jun 29 18:22:24 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 22,
-          "reply_count": 33,
-          "engagement_score": 77,
-          "url": "https://x.com/dylan522p/status/2071660573067284802"
-        },
-        {
-          "id": "2074253849095999616",
-          "text": "Creative structures are needed to get GPUs in the hands of startups + other companies that aren't Meta, OpenAI, Anthropic, SpaceXAI, Microsoft, Amazon, Google\nAI Debt Financing will be over $7T of debt outstanding by 2029 driven by needs of neoclouds, DC builders, + hyperscalers",
-          "created_at": "Mon Jul 06 22:07:10 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 17,
-          "reply_count": 37,
-          "engagement_score": 71,
-          "url": "https://x.com/dylan522p/status/2074253849095999616"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "insane_analyst",
@@ -174,21 +42,11 @@
           "id": "2078911852520829300",
           "text": "Everyone in the ecosystem cant sustain 80%+ gross margins. \n\nMarket has been betting Nvidia gives up their share. Maybe they keep it.\n\nUse brain to figure out who loses due to cheap open source models. It's not Mr. Leather Jacket. https://t.co/guJO9YyDDN",
           "created_at": "Sun Jul 19 18:36:24 +0000 2026",
-          "like_count": 0,
+          "like_count": 466,
           "retweet_count": 19,
           "reply_count": 39,
-          "engagement_score": 77,
+          "engagement_score": 543,
           "url": "https://x.com/insane_analyst/status/2078911852520829300"
-        },
-        {
-          "id": "2078642304248848579",
-          "text": "Practical Semiconductor Optical Amplifiers (SOA) https://t.co/fbGJEZuonR https://t.co/fhlgU5g1jU",
-          "created_at": "Sun Jul 19 00:45:19 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 3,
-          "reply_count": 6,
-          "engagement_score": 12,
-          "url": "https://x.com/insane_analyst/status/2078642304248848579"
         }
       ]
     },
@@ -197,286 +55,49 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2072914445668590003",
-          "text": "New podcast with @garrytan, @farbood and Daniel Francis.\n\nLive in the Future!\n\n00:00 Guest Intros\n02:35 Live in the Future\n03:58 Will AI Outsmart us?\n07:43 In the Anthropic Breadline\n09:59 The Tech Genie Is Out\n12:33 We Invested in COVID?!\n14:25 Good Writing Is Novelty\n18:50 Living Like It’s 2028\n24:32 Truth dot ai\n30:18 Does China have the Weights?\n35:38 Everyone has AI Anxiety\n39:32 Have Your Agent Talk to My Agent\n42:01 What if Open Source takes the Lead?\n44:03 The Sun is Setting on Google\n48:00 Ride the AGI\n50:46 Will There be Startups?\n54:05 Defending Taiwan\n1:00:05 The California Empire\n1:01:26 If the U.S. Falls\n1:03:11 Universal Basic Robot\n1:06:01 Humans as AI Handlers",
-          "created_at": "Fri Jul 03 05:24:51 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 584,
-          "reply_count": 232,
-          "engagement_score": 1400,
-          "url": "https://x.com/naval/status/2072914445668590003"
-        },
-        {
-          "id": "2077772317028229312",
-          "text": "From our team at Impossible Research - an agent harness that plays games, writes code, reasons like a physicist, and saturates the ARC-AGI-3 benchmark.",
-          "created_at": "Thu Jul 16 15:08:18 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 195,
-          "reply_count": 116,
-          "engagement_score": 506,
-          "url": "https://x.com/naval/status/2077772317028229312"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
       "name": "Leopold Aschenbrenner",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "1844847505886040141",
-          "text": "The “compressed 21st century”: a great essay on what it might look like to make 100 years of progress in 10 years post AGI (if all goes well). \n\nFavorite phrase: “a country of geniuses in a datacenter”",
-          "created_at": "Fri Oct 11 21:08:15 +0000 2024",
-          "like_count": 0,
-          "retweet_count": 121,
-          "reply_count": 49,
-          "engagement_score": 291,
-          "url": "https://x.com/leopoldasch/status/1844847505886040141"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jimkxa",
       "name": "Jim Keller",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2045910513025200617",
-          "text": "Intel won by RISCifying their CISC - still amazed how well x86-64 worked out\nLPUs is a subset of AI, an accelerator, it's not the RISC\n@tenstorrent , Trainium, Google TPU are closer. Clean Tensor processor is step one. Then generality, memory and Networking.  \nAnd of course LInux and Open source software were key for Intel. AI software is a curious swamp tbh",
-          "created_at": "Sun Apr 19 17:00:52 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 56,
-          "reply_count": 22,
-          "engagement_score": 134,
-          "url": "https://x.com/jimkxa/status/2045910513025200617"
-        },
-        {
-          "id": "2047702983518068988",
-          "text": "This is cool. @tenstorrent is digging in. \nBig models are a passion project for us.  May 1st we announce big numbers on V3,  V4 results after that. \nNetworked AI is a natural fit for big MOE models",
-          "created_at": "Fri Apr 24 15:43:30 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 18,
-          "reply_count": 8,
-          "engagement_score": 44,
-          "url": "https://x.com/jimkxa/status/2047702983518068988"
-        },
-        {
-          "id": "2049199784758833446",
-          "text": "A fast general purpose AI computer that doesn't need an accelerator.  \nNice article @DaveAltavilla",
-          "created_at": "Tue Apr 28 18:51:15 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 12,
-          "reply_count": 5,
-          "engagement_score": 29,
-          "url": "https://x.com/jimkxa/status/2049199784758833446"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "sama",
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2077817060068057493",
-          "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.\n\ni am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
-          "created_at": "Thu Jul 16 18:06:05 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 891,
-          "reply_count": 2268,
-          "engagement_score": 4050,
-          "url": "https://x.com/sama/status/2077817060068057493"
-        },
-        {
-          "id": "2077036999303999910",
-          "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.\n\nhappy to deliver at one-quarter of the price.",
-          "created_at": "Tue Jul 14 14:26:24 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 886,
-          "reply_count": 1437,
-          "engagement_score": 3209,
-          "url": "https://x.com/sama/status/2077036999303999910"
-        },
-        {
-          "id": "2077033807736459713",
-          "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week!\n\nwelcome.",
-          "created_at": "Tue Jul 14 14:13:43 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 446,
-          "reply_count": 916,
-          "engagement_score": 1808,
-          "url": "https://x.com/sama/status/2077033807736459713"
-        },
-        {
-          "id": "2077106587307798989",
-          "text": "5.6 sol growth is insane.\n\nthe inference team has done heroic work to be able to support demand.\n\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
-          "created_at": "Tue Jul 14 19:02:55 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 348,
-          "reply_count": 914,
-          "engagement_score": 1610,
-          "url": "https://x.com/sama/status/2077106587307798989"
-        },
-        {
-          "id": "2076823209589313910",
-          "text": "still sorta breaks my brain to see our models be good at design finally",
-          "created_at": "Tue Jul 14 00:16:53 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 234,
-          "reply_count": 987,
-          "engagement_score": 1455,
-          "url": "https://x.com/sama/status/2076823209589313910"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
       "name": "Dario Amodei",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2064781775247950326",
-          "text": "Today I'm publishing a new essay, Policy on the AI Exponential. AI is progressing extremely fast—much faster than the policy process was built to handle. The essay lays out where I think the technology is now, and the action needed to close the gap: https://t.co/Lh6PWae178",
-          "created_at": "Wed Jun 10 18:48:31 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 2492,
-          "reply_count": 1500,
-          "engagement_score": 6484,
-          "url": "https://x.com/DarioAmodei/status/2064781775247950326"
-        },
-        {
-          "id": "2015833046327402527",
-          "text": "The Adolescence of Technology: an essay on the risks posed by powerful AI to national security, economies and democracy—and how we can defend against them: https://t.co/0phIiJjrmz",
-          "created_at": "Mon Jan 26 17:03:45 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 2655,
-          "reply_count": 877,
-          "engagement_score": 6187,
-          "url": "https://x.com/DarioAmodei/status/2015833046327402527"
-        },
-        {
-          "id": "1977010693460443151",
-          "text": "Today I met with PM @narendramodi to discuss Anthropic's expansion to India—where Claude Code use is up 5× since June. How India deploys AI across critical sectors like education, healthcare, and agriculture for over a billion people will be essential in shaping the future of AI. https://t.co/rt0baeqEeC",
-          "created_at": "Sat Oct 11 13:57:35 +0000 2025",
-          "like_count": 0,
-          "retweet_count": 810,
-          "reply_count": 458,
-          "engagement_score": 2078,
-          "url": "https://x.com/DarioAmodei/status/1977010693460443151"
-        },
-        {
-          "id": "2041580334693720511",
-          "text": "I’m proud that so many of the world’s leading companies have joined us for Project Glasswing to confront the cyber threat posed by increasingly capable AI systems head-on.\n\nhttps://t.co/pn3HSVsThP",
-          "created_at": "Tue Apr 07 18:14:17 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 675,
-          "reply_count": 653,
-          "engagement_score": 2003,
-          "url": "https://x.com/DarioAmodei/status/2041580334693720511"
-        },
-        {
-          "id": "1915515160607023391",
-          "text": "The Urgency of Interpretability: Why it's crucial that we understand how AI models work https://t.co/Mz8R23uxgy",
-          "created_at": "Thu Apr 24 21:16:17 +0000 2025",
-          "like_count": 0,
-          "retweet_count": 596,
-          "reply_count": 358,
-          "engagement_score": 1550,
-          "url": "https://x.com/DarioAmodei/status/1915515160607023391"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "demishassabis",
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2068002732250640603",
-          "text": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.",
-          "created_at": "Fri Jun 19 16:07:27 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 301,
-          "reply_count": 218,
-          "engagement_score": 820,
-          "url": "https://x.com/demishassabis/status/2068002732250640603"
-        },
-        {
-          "id": "2064873362799600042",
-          "text": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!",
-          "created_at": "Thu Jun 11 00:52:27 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 118,
-          "reply_count": 108,
-          "engagement_score": 344,
-          "url": "https://x.com/demishassabis/status/2064873362799600042"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jietang",
       "name": "Tang Jie (Z.ai / Tsinghua)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2065784751345287314",
-          "text": "GLM-5.2 is Fully Open, Frontier Intelligence Belongs to Everyone\n\nToday, the sudden restriction of certain frontier models is deeply regrettable. At a time when access to frontier models is abruptly cut off for non-technical reasons, we are even more convinced of one thing: science should be global.\n\nThe path to AGI (Artificial General Intelligence) must never be enclosed by high walls. We have always believed that AGI should be the cornerstone for all of humanity to collaboratively explore the boundaries of intelligence and solve complex challenges, rather than a privilege monopolized by a few rules and subject to revocation at any moment. In the face of external blockades and restrictions, our attitude is one of radical openness. Frontier intelligence must remain open-source, accessible, and buildable, serving every dedicated developer.\n\nGLM-5.2 is Zhipu's most capable open-source model to date. It not only supports a truly usable 1M context window but also maintains a continuous lead in the independent completion of long-horizon tasks, providing solid foundational support for building complex agent applications. It also continues to be our main engine for creating the strongest domestic coding model.\n\nTonight at 5:21—at this special moment—GLM-5.2 will officially be available to all GLM Coding Plan users (including Lite / Pro / Max). The API will also go live next week.\n\nA step closer to frontier intelligence for everyone.\nThe future of AI is open, and it is for the people.\nModelKey: GLM-5.2",
-          "created_at": "Sat Jun 13 13:13:59 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 836,
-          "reply_count": 276,
-          "engagement_score": 1948,
-          "url": "https://x.com/jietang/status/2065784751345287314"
-        },
-        {
-          "id": "2067022641949814893",
-          "text": "We're introducing GLM-5.2, our latest flagship model for long-horizon tasks. It marks a substantial leap in long-horizon task capability over its predecessor GLM-5.1 and, for the first time, delivers that capability on a solid 1M-token context. GLM-5.2's new capabilities include:\n\nSolid 1M Context: A solid 1M-token context that stably sustains long-horizon work\nAdvanced Coding with Flexible Effort: Stronger coding capabilities with multiple thinking effort levels to balance performance and latency\nImproved Architecture: We propose IndexShare, which reuses the same indexer across every four sparse attention layers, reducing per-token FLOPs by 2.9× at a 1M context length. We also improve GLM-5.2’s MTP layer for speculative decoding, increasing the acceptance length by up to 20%\nPure Open: An MIT open-source license — no regional limits, technical access without borders\nSupporting long-horizon tasks starts with making long context engineering-usable: the model must maintain quality across long, messy coding-agent trajectories, not just accept more tokens. A 1M context is easy to claim, but much harder to keep reliable under real engineering pressure. To this end, we substantially expanded 1M-context training for coding-agent scenarios, covering large-scale implementation, automated research, performance optimization, and complex debugging. The result is a long-context system that is not only wide in scope, but solid in execution: a practical substrate for sustained engineering work.\n\nThis capability is reflected in GLM-5.2's performance on three long-horizon coding benchmarks. FrontierSWE measures whether an agent can complete open-ended technical projects at the scale of hours to tens of hours, spanning systems optimization, large-scale code construction, and applied ML research. On this benchmark, GLM-5.2 trails Opus 4.8 by only 1%, while edging out GPT-5.5 by 1% and Opus 4.7 by 11%. On PostTrainBench, where each agent is given an H100 GPU and evaluated by how much it can improve small models through post-training, GLM-5.2 outperforms both Opus 4.7 and GPT-5.5, ranking second only to Opus 4.8. On SWE-Marathon, an ultra-long-horizon software engineering benchmark covering tasks such as building compilers, optimizing kernels, and developing production-grade services, GLM-5.2 still has room to grow, trailing Opus 4.8 by 13% while remaining second only to the Opus series. Across all three benchmarks, GLM-5.2 is the highest-ranked open-source model, showing that its 1M context has translated into practical long-horizon delivery capability.",
-          "created_at": "Tue Jun 16 23:12:55 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 301,
-          "reply_count": 179,
-          "engagement_score": 781,
-          "url": "https://x.com/jietang/status/2067022641949814893"
-        },
-        {
-          "id": "2054222017566855508",
-          "text": "Recent thoughts:\nThe Shift to Long-Horizon Tasks\nThe most likely breakthrough this year will be in long-horizon tasks. We are moving toward a stage where Large Language Models (LLMs) learn to complete extended, complex missions by interacting with Agent environments. This is perhaps where the true value of LLMs lies. Take cybersecurity as an example: imagine a model that continuously hunts for software bugs and vulnerabilities. While it sounds like a search process, it’s actually the model learning the high-level intuition and methodology of a professional hacker. Unlike humans, AI can run 24/7 without fatigue. It could potentially find exploits at a much higher frequwill ency and claim bounties on platforms like HackerOne or BugCrowd. It sounds fun, but fundamentally, it's a revolution that displaces the hacker. If even hackers are being \"disrupted,\" one can only imagine the impact on general programmers.\n\nFrom One-Person to None-Person Companies\nBuilding on long-horizon capabilities, Autonomous Agent Systems (AAS) will inevitably become the next frontier. Last year, we were discussing the rise of the \"One Person Company\" (OPC). I didn't expect us to move so quickly toward the \"None Person Company\" (NPC). It’s an ironic twist—we might all end up as NPCs in this new ecosystem.\n\nEngineering the Impossible: Memory and Learning\nTo realize the vision above, we must solve three technical pillars: Memory, Continual Learning, and Self-Judging.\nI used to think these would require massive paradigm shifts and years of research. However, the pressure from both the technical and application sides is so intense that we are seeing these capabilities emerge through ingenious engineering \"tricks\":\nMemory: Long context windows (1M+) and RAG have significantly bridged the gap.\nContinual Learning: While true continual learning remains difficult, the release cycles are shrinking. Global models are updated monthly; domestic models are catching up. If we reach weekly updates by next year, it will effectively function as continual learning.\nSelf-Judging: This remains the most elusive, yet models like Opus 4.7 are already demonstrating early self-correction and judgment capabilities.\n\nThe Self-Evolving Endgame\nThe most difficult—and most promising—path is Self-Evolution. The current wave is incredibly fierce. I suspect that models like Claude may have already achieved a baseline for self-training: writing their own code, cleaning their own data, generating synthetic data, and then training on it. It might \"waste\" some compute, but it saves the most precious resources: human labor and time. In the LLM era, speed is everything. Rapid iteration is what creates the cognitive gap between leaders and followers. Claude’s rumored 2-million-chip cluster for next year is likely dedicated to exactly this: autonomous model self-training.\nTechnical Summary:\n1M Context: Necessary baseline.\nMemory & Continual Learning: Prerequisites, likely solved first via \"tricky\" engineering.\nHarnessing Environments: The breakthrough point.\nSelf-Judging: The tipping point.\nFull Self-Training: The endgame.\n\nRedefining AGI and the Industry\nIf this is the road to AGI, then AGI’s definition should be the sum of all human collective intelligence, not just an individual’s intelligence. It must possess the creative capacity to produce something as profound as the \"Theory of Relativity\"—meeting the bar set by Hassabis.\nDuring this transition, every APP will need to be reconstructed as AI-native. In fact, we might move past the concept of APPs entirely. The most significant challenge will be the reconstruction of the operating system itself. In the future, you won’t see a traditional desktop; you will see an LLM OS, where applications are \"generated on demand.\" This challenges the 80-year-old Von Neumann architecture and represents a total upheaval of the computer science industry.\n\nThe Irreversible Wave\nFrom completing long-horizon tasks to fully autonomous operations, every sector—Security, Finance, Law, E-commerce—will be reshaped. Many friends have reached out lately, asking how to transform their enterprises to keep pace with AI. But few truly realize that this irreversible process has already begun. As this massive technical wave hits, we must be prepared to act, but we must also start thinking seriously about how to regulate it.",
-          "created_at": "Tue May 12 15:27:49 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 149,
-          "reply_count": 40,
-          "engagement_score": 338,
-          "url": "https://x.com/jietang/status/2054222017566855508"
-        },
-        {
-          "id": "2076913247316492510",
-          "text": "Our Single-rollout Asynchronous Optimization (SAO), is able to train stably for one thousand steps and consistently outperform GRPO and its variants on agentic coding and reasoning benchmarks,\nsuch as SWE-Bench Verified, BeyondAIME, and IMOAnswerBench. https://t.co/oca1DvDvdB",
-          "created_at": "Tue Jul 14 06:14:39 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 110,
-          "reply_count": 49,
-          "engagement_score": 269,
-          "url": "https://x.com/jietang/status/2076913247316492510"
-        },
-        {
-          "id": "2067149400829501482",
-          "text": "（Claude、GPT、GLM）\nGLM-5.2 Tops Artificial Analysis as the #1 Open-Source Model, Ranking Top 3 Globally\nGLM-5.2 launched and went open-source today, delivering a solid scorecard across multiple authoritative third-party benchmarks and arenas.\n📊 Artificial Analysis Intelligence Index\nA comprehensive evaluation that integrates several authoritative leaderboards spanning coding, reasoning, long context, and more. GLM-5.2 scored 51, ranking among the top of all available models—on par with Claude Opus 4.8—and claiming the #1 spot among open-source models worldwide.\n\n🎨 Code Arena\nA real-world head-to-head arena focused on front-end code generation, with Elo rankings produced by blind user voting. GLM-5.2 ranked #2 globally with a score of 1,595.\n🏆 DesignArena\nA category arena centered on scenarios that combine design and code. GLM-5.2 took the top spot with a score of 1,360.\n\n⚙️ FrontierSWE\nA software-engineering benchmark built around the \"frontier of human capability,\" assessing engineering ability across three dimensions: implementation, performance, and research. GLM-5.2 ranked #3 overall.\n💪 From front-end development and design-to-code to engineering-grade software tasks, GLM-5.2 consistently lands in the top tier across multiple real-world evaluation scenarios, steadily closing in on the world's strongest models. We'll keep pushing forward in pursuit of an ever-higher ceiling of intelligence.",
-          "created_at": "Wed Jun 17 07:36:37 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 89,
-          "reply_count": 75,
-          "engagement_score": 253,
-          "url": "https://x.com/jietang/status/2067149400829501482"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "nvidia",
@@ -485,54 +106,54 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2077528638505861566",
-          "text": "Japan’s enterprises, startups and research institutions are building industry-specialized AI with NVIDIA Nemotron open models, data and libraries, helping advance AI tailored to the country’s language, industries and workforce. https://t.co/ftc6CbiVAG",
-          "created_at": "Wed Jul 15 23:00:00 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 107,
-          "reply_count": 32,
-          "engagement_score": 246,
-          "url": "https://x.com/nvidia/status/2077528638505861566"
-        },
-        {
           "id": "2079221588705099788",
           "text": "NVIDIA is advancing graphics and simulation with agentic and physical AI at #SIGGRAPH2026.\n\nFrom open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation, and robotics.\n\nRead the latest announcements. 👇\nhttps://t.co/TuuwW8QdkH https://t.co/Dywx9XGdJI",
           "created_at": "Mon Jul 20 15:07:11 +0000 2026",
-          "like_count": 0,
+          "like_count": 367,
           "retweet_count": 57,
           "reply_count": 36,
-          "engagement_score": 150,
+          "engagement_score": 517,
           "url": "https://x.com/nvidia/status/2079221588705099788"
         },
         {
-          "id": "2078244664751104293",
-          "text": "Agents are becoming specialized, using reinforcement learning post-training to develop domain-specific skills 🛠️\n\nEvery post-training rollout is an inference call, so a lower cost per token flows straight into a higher Intelligence per Dollar on every run. \n\nThat is what the NVIDIA Vera Rubin platform is built for: extreme co-design that drives Cost per Token down and Intelligence per Dollar up, on every run of agentic post-training.",
-          "created_at": "Fri Jul 17 22:25:14 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 45,
-          "reply_count": 50,
-          "engagement_score": 140,
-          "url": "https://x.com/nvidia/status/2078244664751104293"
+          "id": "2079240931337965928",
+          "text": "Frontier world models now run on edge GPUs. ⚡\n\nNow openly available, NVIDIA Cosmos 3 Edge brings advanced world-model capabilities to local devices. The 4-billion-parameter omnimodel can understand and generate text, image, video, ambient sound and action for physical AI across robotics, autonomous vehicles and smart infrastructure.\n🔗 https://t.co/vWAyX2jsQz\n\n#SIGGRAPH2026",
+          "created_at": "Mon Jul 20 16:24:03 +0000 2026",
+          "like_count": 34,
+          "retweet_count": 6,
+          "reply_count": 4,
+          "engagement_score": 50,
+          "url": "https://x.com/nvidia/status/2079240931337965928"
         },
         {
-          "id": "2077830629568205266",
-          "text": "Nations have always invested in critical infrastructure to grow their economies and improve citizens’ lives, from transportation and communications to commerce, entertainment and healthcare.\n\nToday, AI is the most important layer of that infrastructure. It is turbocharging innovation across every facet of society.\n\nThat's why countries are now investing in AI capabilities that let them design, train and deploy models using:\n🏗️ Domestic infrastructure\n📊 Local datasets\n🌱 Homegrown expertise\n\nThis approach ensures AI solutions are tailored to local citizens, services and regulations, and that systems reflect each nation’s unique needs and priorities.\n\nLearn More: https://t.co/UnHQWJzOMa",
-          "created_at": "Thu Jul 16 19:00:00 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 46,
-          "reply_count": 35,
-          "engagement_score": 127,
-          "url": "https://x.com/nvidia/status/2077830629568205266"
+          "id": "2079254592664301778",
+          "text": "Super agents have arrived on the desktop.\n\nWith local AI, designers and engineers can build, customize and run domain-specific agents using their own data and workflows.\n\nNVIDIA NemoClaw on DGX Station brings together Nemotron 3 Ultra, Omniverse libraries and OpenShell in an open agent stack.\n🔗 https://t.co/vkcyU6YcJj\n\n#SIGGRAPH2026",
+          "created_at": "Mon Jul 20 17:18:20 +0000 2026",
+          "like_count": 28,
+          "retweet_count": 4,
+          "reply_count": 2,
+          "engagement_score": 38,
+          "url": "https://x.com/nvidia/status/2079254592664301778"
         },
         {
-          "id": "2077540620394958889",
-          "text": "Building a production-ready vision AI agent no longer takes thousands of developer hours.\n\nNVIDIA Metropolis offers 80+ open agent skills for generating synthetic data, fine-tuning models, deploying applications and unlocking real-time insights, all through natural-language prompts.\n\nLeading companies like @FujitsuOfficial, @Hitachi, @OMRON_Official, @YazakiNA, and Shimizu Corporation are using Metropolis to bring agentic vision AI into manufacturing and critical infrastructure.\n\nhttps://t.co/ciHcnCksMG",
-          "created_at": "Wed Jul 15 23:47:37 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 40,
-          "reply_count": 22,
-          "engagement_score": 102,
-          "url": "https://x.com/nvidia/status/2077540620394958889"
+          "id": "2079235324241424582",
+          "text": "As AI-generated content becomes more prevalent, media organizations need trusted tools to help verify video at the speed of production.\n\nBuilt on the NVIDIA AI for Media platform, the Synthetic Video Detector NVIDIA NIM microservice helps broadcasters, publishers, and content teams strengthen content authenticity across modern media workflows.\n🔗 https://t.co/t22ILnn9kM\n\n#SIGGRAPH2026",
+          "created_at": "Mon Jul 20 16:01:46 +0000 2026",
+          "like_count": 26,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 33,
+          "url": "https://x.com/nvidia/status/2079235324241424582"
+        },
+        {
+          "id": "2079239644177432886",
+          "text": "NVIDIA’s research isn’t just focused on creating worlds that look real — but that behave realistically and respond in real time.\n\nWhether the output is a game, film, robot or factory digital twin, the goal is the same: expand the canvas of creativity with AI-generated worlds that are grounded in 3D, governed by physics and directed by creators.\n🔗 https://t.co/tTqfEPZT7e\n\n#SIGGRAPH2026",
+          "created_at": "Mon Jul 20 16:18:56 +0000 2026",
+          "like_count": 20,
+          "retweet_count": 4,
+          "reply_count": 5,
+          "engagement_score": 33,
+          "url": "https://x.com/nvidia/status/2079239644177432886"
         }
       ]
     },
@@ -541,106 +162,14 @@
       "name": "Amanda Askell (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2052928572810256748",
-          "text": "Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models and honest and positive vision for what AI models can be and why. I'm excited about the future of this work. https://t.co/4BnLVNjnEY",
-          "created_at": "Sat May 09 01:48:07 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 57,
-          "reply_count": 121,
-          "engagement_score": 235,
-          "url": "https://x.com/AmandaAskell/status/2052928572810256748"
-        },
-        {
-          "id": "2064223861512847456",
-          "text": "In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
-          "created_at": "Tue Jun 09 05:51:34 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 46,
-          "reply_count": 140,
-          "engagement_score": 232,
-          "url": "https://x.com/AmandaAskell/status/2064223861512847456"
-        },
-        {
-          "id": "2054010971765805486",
-          "text": "You can now listen to me and Joe read out Claude's constitution as an audiobook. Working on adding the option of listening to it on fast mode :)",
-          "created_at": "Tue May 12 01:29:12 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 41,
-          "reply_count": 105,
-          "engagement_score": 187,
-          "url": "https://x.com/AmandaAskell/status/2054010971765805486"
-        },
-        {
-          "id": "2051712044454555841",
-          "text": "\"Wear a Claude-designed outfit to the met gala\" is getting added to my list of life goals. Admittedly there are a few things higher on the list, but it's nice to add some fun ones.",
-          "created_at": "Tue May 05 17:14:05 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 20,
-          "reply_count": 51,
-          "engagement_score": 91,
-          "url": "https://x.com/AmandaAskell/status/2051712044454555841"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "bcherny",
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2077929379661844559",
-          "text": "I talk to engineers at other companies every day and hear the same thing: one person is 10x'ing their output with Claude but the rest of the org hasn't caught up.\n\nWatching teams adopt AI, I keep seeing the same 4 steps.\n\nI mapped them out here: Steps of AI Adoption https://t.co/kQnRAUMKpP",
-          "created_at": "Fri Jul 17 01:32:24 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 934,
-          "reply_count": 400,
-          "engagement_score": 2268,
-          "url": "https://x.com/bcherny/status/2077929379661844559"
-        },
-        {
-          "id": "2074997570317779038",
-          "text": "New in Claude Code: /checkup\n\nRun /checkup to:\n\n1. Clean up unused skills/MCPs/plugins and save context\n2. Dedup your local CLAUDE.md against the checked in CLAUDE.md\n3. Break up root CLAUDE.md into nested CLAUDE.md's + skills\n4. Turn off slow hooks\n5. Update your Claude Code to the latest version\n6. Enable auto mode by default\n7. Pre-approve frequently denied read-only commands\n\n.. And a few other goodies.\n\n/checkup confirms with you before making any changes. Enjoy!",
-          "created_at": "Wed Jul 08 23:22:27 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 952,
-          "reply_count": 345,
-          "engagement_score": 2249,
-          "url": "https://x.com/bcherny/status/2074997570317779038"
-        },
-        {
-          "id": "2077460395279692197",
-          "text": "Something I have been thinking about: in the past, the best engineers I knew spent a lot of time automating their work in various ways. Better vim/emacs automations, writing lint rules to catch repeat code issues, building up a suite of e2e tests so they don't need to smoke test the app manually. These kinds of things were the highest leverage activities an engineer could do, because it multiplied their own output, which in turn meant they could build more things.\n\nI think many of these automations have become even more important now. This is true for a number of reasons.\n\nFirst, infra and DevX automation speeds you up. And if you are running an army of agents, each of those agents will be sped up also. More automation == more output per unit of time.\n\nSecond, moving things to code improves efficiency. Your agent could fix an issue every time it sees that issue happen, but that uses tokens and might miss cases. If Claude instead writes a lint rule, CI step, or routine, that class of issue can be fully automated forever. This is really what people are talking about when they talk about loops -- it's about automating entire types of busywork rather than solving them one off. This isn't a new idea at all. Engineers have been doing this for a long time!\n\nThird and most importantly, automation makes it possible for others to contribute to the codebase more easily. Increasingly what I am seeing is engineers are contributing to codebases on day one because Claude can navigate the codebase for them, and that non-engineers are able to contribute to a codebase as effectively as engineers can. What gets in the way of both of these is domain knowledge that lives in peoples' heads rather than in automation -- the stuff you used to have to learn when ramping up. What has changed thanks to agents is the domain knowledge that can be encoded as infrastructure is no longer limited to what is expressible in lint rules and types and tests; it can now capture nearly all domain knowledge, encoded as code comments and skills and CLAUDE.md rules and memories. If I put up a PR for an iOS codebase I don't know and a code reviewer rejects it because it doesn't use the right framework, or if a designer builds a new feature and it gets rejected because it doesn't follow the right architectural patterns, these are failures of automation.\n\nEvery team should be writing the CLAUDE.md's, REVIEW.md's, skills, and docs that enable agents to productively work in their codebase with zero additional context from the prompter. This sounds crazy, and at the same time is a natural extension of the stuff engineers have always done: automate, and encode domain knowledge as infrastructure. As the model gets smarter and as the harness matures, this task becomes easier. In the meantime, it is on every team to look for ways to convert their domain knowledge to infra so that Claude can write code better, so that code review catches issues automatically, and so the next person working on your codebase can contribute more easily.",
-          "created_at": "Wed Jul 15 18:28:50 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 831,
-          "reply_count": 370,
-          "engagement_score": 2032,
-          "url": "https://x.com/bcherny/status/2077460395279692197"
-        },
-        {
-          "id": "2071647677591466098",
-          "text": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work\n\nIf you want your agent to run in the foreground, just tell Claude",
-          "created_at": "Mon Jun 29 17:31:10 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 404,
-          "reply_count": 543,
-          "engagement_score": 1351,
-          "url": "https://x.com/bcherny/status/2071647677591466098"
-        },
-        {
-          "id": "2072000214634742243",
-          "text": "You asked, we listened. Claude Desktop on Linux is here!\n\nDownload link: https://t.co/gjgHZvbKyi",
-          "created_at": "Tue Jun 30 16:52:01 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 249,
-          "reply_count": 346,
-          "engagement_score": 844,
-          "url": "https://x.com/bcherny/status/2072000214634742243"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
@@ -649,54 +178,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2073147672106873001",
-          "text": "What are you building with Fable 5 this long weekend? Show me your demos in the replies!",
-          "created_at": "Fri Jul 03 20:51:36 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 32,
-          "reply_count": 369,
-          "engagement_score": 433,
-          "url": "https://x.com/_catwu/status/2073147672106873001"
-        },
-        {
-          "id": "2075647324790112304",
-          "text": "Claude Code can now open any website inside the desktop app.\n\nClaude can use your production app, open the links it sends you, check Twitter, and even watch the FIFA World Cup!",
-          "created_at": "Fri Jul 10 18:24:20 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 70,
-          "reply_count": 76,
-          "engagement_score": 216,
-          "url": "https://x.com/_catwu/status/2075647324790112304"
-        },
-        {
-          "id": "2073806626965049686",
-          "text": "what are your top claude code + workflows + artifacts use cases?\n\none of my new favorites is for sourcing candidates:\n- tell cc about the role and backgrounds i’m looking for\n- ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each\n- ask cc to make an artifact and email it to me. then, i lock my laptop and head out for the day\n- i review the list on the go once cc is done!",
-          "created_at": "Sun Jul 05 16:30:03 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 29,
-          "reply_count": 101,
-          "engagement_score": 159,
-          "url": "https://x.com/_catwu/status/2073806626965049686"
-        },
-        {
-          "id": "2074925531519468012",
-          "text": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-player Claude Tag. Then, we're going deep on how Claude Tag actually works.\n\nAI used to finish your sentence. Then, it wrote entire features. Now, Claude Tag can monitor your channels, do proactive work for you, the whole team can steer it, and it remembers what you told it last week.\n\nRegister: https://t.co/D8Lz61BXn4",
-          "created_at": "Wed Jul 08 18:36:11 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 43,
-          "reply_count": 52,
-          "engagement_score": 138,
-          "url": "https://x.com/_catwu/status/2074925531519468012"
-        },
-        {
-          "id": "2072731500928508331",
-          "text": "Claude Tag is unlocking productivity across our entire org: eng, product, data, sales, marketing. Our internal version lands 65% of product PRs.\n\nWe cover the CEO/CTO playbook for rolling it out, why security was designed in from day one, and what this means for the future of work.",
-          "created_at": "Thu Jul 02 17:17:53 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 29,
-          "reply_count": 36,
-          "engagement_score": 94,
-          "url": "https://x.com/_catwu/status/2072731500928508331"
+          "id": "2079011428380602526",
+          "text": "I love using Claude Cowork to manage my calendar. Here's my prompt for it:\n\nManage my calendar for the week. Requirements: 1. <20 hours of meetings 2. Dedupe conflicting meetings. Look at past weeks to see what kinds of meetings I decline. Dinners don't count against the 20 hours. Build a skill that you refine. Ask me before updating invites. \n\nWhat do you use Cowork for?",
+          "created_at": "Mon Jul 20 01:12:05 +0000 2026",
+          "like_count": 517,
+          "retweet_count": 17,
+          "reply_count": 54,
+          "engagement_score": 605,
+          "url": "https://x.com/_catwu/status/2079011428380602526"
         }
       ]
     },
@@ -705,58 +194,7 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2062580571214389510",
-          "text": "We just published internal data on how much of Claude's development is already being done by Claude:\n- Over 80% of all code merged into our codebase is now written by Claude\n- It's been months since many researchers at Anthropic hand-wrote code\n- The typical Anthropic engineer ships 8x as much code as they did in 2024\n- On the most open-ended engineering tasks, Claude's success rate jumped from ~26% to 76% in 6 months\n- When research sessions went off-track, Claude proposed a better next step than the human took 64% of the time\n\nWe're not at recursive self-improvement yet, but it could come sooner than most expect. I highly recommend reading the full blog post.",
-          "created_at": "Thu Jun 04 17:01:43 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 211,
-          "reply_count": 189,
-          "engagement_score": 611,
-          "url": "https://x.com/alexalbert__/status/2062580571214389510"
-        },
-        {
-          "id": "2064467657483829441",
-          "text": "We've reset usage limits across our products! \n\nFor those just starting to test Fable, here's four tips for using it more effectively:\n1. Give it bigger, more ambitious tasks than what previous models could handle.\n2. Use xhigh/high effort as your default for best performance, med for faster interactive sessions.\n3. Rework your skills and CLAUDE.mds. Instructions written for prior models anchor Fable to stale patterns, let it use its own judgment first.\n4. Move from providing tasks to providing objectives. Describe what done looks like and how to verify it, then let Fable find the path (/loop and /goal are built for this)",
-          "created_at": "Tue Jun 09 22:00:20 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 170,
-          "reply_count": 152,
-          "engagement_score": 492,
-          "url": "https://x.com/alexalbert__/status/2064467657483829441"
-        },
-        {
-          "id": "2064394410004304003",
-          "text": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models:\n- Claude Opus 3\n- Claude Sonnet 3.5\n- Claude Opus 4.5\n\nAnd now Claude Fable 5.\n\nWith Fable, the model stopped feeling like a tool I direct and started feeling more like something I collaborate with.",
-          "created_at": "Tue Jun 09 17:09:16 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 130,
-          "reply_count": 191,
-          "engagement_score": 451,
-          "url": "https://x.com/alexalbert__/status/2064394410004304003"
-        },
-        {
-          "id": "2065493229760565758",
-          "text": "Fable feels superhuman at working over long agentic conversations, sometimes to the point where I can't keep up with what it's telling me 😅\n\nThis prompt snippet has been the best fix I've found for getting it to write clearly and drop any jargon: https://t.co/9mS57mR7jq",
-          "created_at": "Fri Jun 12 17:55:35 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 31,
-          "reply_count": 77,
-          "engagement_score": 139,
-          "url": "https://x.com/alexalbert__/status/2065493229760565758"
-        },
-        {
-          "id": "2069470389391241314",
-          "text": "This has completely changed how I work with Claude. It feels less like using a tool and more like managing a team.",
-          "created_at": "Tue Jun 23 17:19:24 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 15,
-          "reply_count": 44,
-          "engagement_score": 74,
-          "url": "https://x.com/alexalbert__/status/2069470389391241314"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "rauchg",
@@ -765,54 +203,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2077900518404321759",
-          "text": "Kimi K3 is the best performing model on https://t.co/aporqgIfIh, ahead of Fable, reaching a comparable success rate in less time.\n\nThis is the first time that an open model is ahead of all proprietary ones for this comprehensive web engineering benchmark.\n\nNotes:\n\n▪️ Benchmarks don’t always tell the full story, although this is important signal, adding to mounting evidence that this could be a breakthrough moment for open models \n\n▪️ No model as of yet has reached 100% completion on this set of evals. The top performer peaks at 92% and 96% “with help”",
-          "created_at": "Thu Jul 16 23:37:43 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 388,
-          "reply_count": 165,
-          "engagement_score": 941,
-          "url": "https://x.com/rauchg/status/2077900518404321759"
-        },
-        {
           "id": "2079274102129304026",
           "text": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
           "created_at": "Mon Jul 20 18:35:51 +0000 2026",
-          "like_count": 0,
+          "like_count": 3476,
           "retweet_count": 326,
           "reply_count": 280,
-          "engagement_score": 932,
+          "engagement_score": 4408,
           "url": "https://x.com/rauchg/status/2079274102129304026"
         },
         {
-          "id": "2078647648307880209",
-          "text": "Based on internal evals:\n\n▪️ Kimi K3 is top-tier at cybersecurity\nThere is chatter on X that Moonshot benchmark-overfit. These are stealth evals. Model has raw IQ.\n\n▪️ Sol is a leap ahead in cyber capability\nAt a significantly higher cost, but quite remarkable still.\n\n▪️ Fable refuses everything\nWe couldn’t get it to complete the run at all. What’s interesting is that Sol in comparison was much more open to helping with defensive cyber hardening\n\nTL;DR: frontier, open-weight cybersecurity capability is here. Try it on https://t.co/HedSpZpo1a for defensive purposes.",
-          "created_at": "Sun Jul 19 01:06:33 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 295,
-          "reply_count": 145,
-          "engagement_score": 735,
-          "url": "https://x.com/rauchg/status/2078647648307880209"
-        },
-        {
-          "id": "2078548458714406959",
-          "text": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks.\n\nBut that doesn't make AIs better than humanity. There are wonderful things humans can do that these superintelligences (the better term) can't. \n\nFor one, we care-for and care-about other humans in a powerful and inherent way, that we then teach machines to emulate. We must keep that as the top priority in everything we do. We have to be as pro-human-life as it gets.\n\nAIs can replace tasks you do, but they can't replace the proverbial you. This is why they horribly suck at writing! Even when given a corpus of your writing and 200 Skills and 50 subagents running in gRaPh LoOps, they produce robotic prose… because they are robots. \n\nI know one definitive way that people can become irrelevant. They stop being themselves: lose their identity, delegate all their writing, their unique thoughts, the creative ways in which they can use the machines. Opting out of 'weighing in'.\n\nI think we're safe though. There's nothing more distasteful right now than AI replies in social media or (🟢 T H I S    T H I N G ) in landing pages. Quality and humanity will prevail.",
-          "created_at": "Sat Jul 18 18:32:24 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 63,
-          "reply_count": 121,
-          "engagement_score": 247,
-          "url": "https://x.com/rauchg/status/2078548458714406959"
-        },
-        {
-          "id": "2077870043833229692",
-          "text": "I’m excited to welcome two legends of developer tools, Pete Hunt (@floydophone) and Nick Schrock (@schrockn), to Vercel.\n\nPete was one of the pioneers of @reactjs at Meta. He made an early bet to power Instagram Web with ⚛️ React, evangelizing it internally and externally. He will be running Frameworks and leading @nextjs. I couldn’t imagine a better person to lead React’s most popular framework to even greater heights.\n\nNick co-invented @graphql, solving some of the gnarliest data infrastructure and access issues at Facebook scale, with a delightful developer experience. He will be working on Agentic Developer Experience, solving the problem of enabling the next billion agents and leading the way to a future of self-improving software.\n\nIt’s a dream-come-true for a founder of a startup to welcome engineering minds of this caliber who are also wonderful humans. You probably want to work with them, and they’re hiring 😁. Their DMs are open, from job applications to bug reports!",
-          "created_at": "Thu Jul 16 21:36:38 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 61,
-          "reply_count": 88,
-          "engagement_score": 210,
-          "url": "https://x.com/rauchg/status/2077870043833229692"
+          "id": "2078912929714356698",
+          "text": "Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.\n\nThe best engineers I’ve worked with in my career have usually had a deep background or interest in security.\n\nIt’s actually easy for a model to “one-shot an XYZ clone” and impress people on X. But that’s not a good test.\n\nFinding, patching, reversing, and exploiting require a cognitive skill that transcends programming languages, runtimes, frameworks… It demands true reasoning power from the model and “corner thinking”. Very, very few humans excel at this, let alone in ordinary day-to-day software writing.\n\nSeeing Kimi K3 do so well here bodes well for open models.",
+          "created_at": "Sun Jul 19 18:40:41 +0000 2026",
+          "like_count": 124,
+          "retweet_count": 8,
+          "reply_count": 12,
+          "engagement_score": 152,
+          "url": "https://x.com/rauchg/status/2078912929714356698"
         }
       ]
     },
@@ -823,23 +231,13 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2077908032944779732",
-          "text": "If you want to play my chess engine (WIP): https://t.co/4WJ9SYmr1o\n\nIt already seems to perform better than frontier models on chess.\n\nIt’s fine-tuned on 2M stockfish-labeled positions, then short GRPO RL pass.\n\nDocumentation/tutorial with all the experiments and annotated code.",
-          "created_at": "Fri Jul 17 00:07:35 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 12,
-          "reply_count": 37,
-          "engagement_score": 61,
-          "url": "https://x.com/amasad/status/2077908032944779732"
-        },
-        {
           "id": "2079282869063786541",
           "text": "First physical product shipped by a coding agent?",
           "created_at": "Mon Jul 20 19:10:41 +0000 2026",
-          "like_count": 0,
+          "like_count": 219,
           "retweet_count": 8,
           "reply_count": 23,
-          "engagement_score": 39,
+          "engagement_score": 258,
           "url": "https://x.com/amasad/status/2079282869063786541"
         }
       ]
@@ -849,60 +247,9 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2066664862671921259",
-          "text": "Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech?\n\nWe're opening a limited number of slots for power users to join the Gemini Trusted Tester program.\n\nSign up here: https://t.co/kSsRsavJPv https://t.co/6sxYCb8S0y",
-          "created_at": "Mon Jun 15 23:31:14 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 134,
-          "reply_count": 362,
-          "engagement_score": 630,
-          "url": "https://x.com/joshwoodward/status/2066664862671921259"
-        },
-        {
-          "id": "2064762269674918013",
-          "text": "Heads up: Gemini is currently experiencing an outage. We're on it and will get everything back up ASAP. Some of the fixes are in, the rest coming very soon. Stay tuned for updates, and thanks for bearing with us!",
-          "created_at": "Wed Jun 10 17:31:01 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 148,
-          "reply_count": 130,
-          "engagement_score": 426,
-          "url": "https://x.com/joshwoodward/status/2064762269674918013"
-        },
-        {
-          "id": "2075241749048401936",
-          "text": "Thanks to the 1,400+ replies in the first 12 hours! I read all of them last night, and another 300+ came in overnight that I’ll catch up on today. Here’s the Top 10 stack rank from your feedback so far, along with where we stand on each:\n\n1) Make Google Workspace integrations work more reliably: This is the clear #1 request, and all of us agree. On it. A set of improvements went into Gemini Spark recently, but this needs to be much better across the entire app.\n\n2) More reliable tool calling: Strongly agree. We know we need to improve here, and you should expect to see noticeable gains soon.\n\n3) Projects & folder organization for chats: Notebooks have been a positive step, but not enough. We’ll rethink this UX and will report back.\n\n4) Add MCPs and Custom Skills: We’ve rolled out early support in Gemini Spark with custom MCPs, custom skills, and a few connected apps, but we're working to make this more widely available and adding more MCPs.\n\n5) Deep Research improvements: You asked for export reports to NotebookLM and the ability to switch between Deep Research mode and Flash/Pro models in the same chat. I wasn’t aware of these pain points. Both are good ideas, and we’ll figure something out.\n\n6) Remove watermarks from Nano Banana: We’ll chat about this later today to see where we can make adjustments while navigating AI rules, which vary by country.\n\n7) Edit any message in chat history: On it. We’ll aim to do this, plus keep our existing chat branching feature.\n\n8) Improve in-app voice dictation accuracy: We're prioritizing this area overall. We’ll dig into these specific replies, and I might DM a few of you to get more info if we need it.\n\n9) Fix mobile app scrolling bugs: Doing this.\n\n10) Fix \"Celebrity Likeness\" guardrails: We plan to keep this as-is right now.\n\nThanks again!",
-          "created_at": "Thu Jul 09 15:32:43 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 75,
-          "reply_count": 192,
-          "engagement_score": 342,
-          "url": "https://x.com/joshwoodward/status/2075241749048401936"
-        },
-        {
-          "id": "2077411104775406045",
-          "text": "We just released our first-ever Gemini Southeast Asia Report (below), 3 insights:\n\n1/ Active users more than doubled in the last year\n2/ 70% of prompts are submitted in native languages\n3/ 40% of prompts only use voice, image, or video\n\nGemini's local language + multimodal capabilities + mobile apps are driving growth, and we have more coming soon for the region!\n\n🇮🇩🇲🇾🇵🇭🇸🇬🇹🇭🇻🇳",
-          "created_at": "Wed Jul 15 15:12:58 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 65,
-          "reply_count": 54,
-          "engagement_score": 184,
-          "url": "https://x.com/joshwoodward/status/2077411104775406045"
-        },
-        {
-          "id": "2077471111240204457",
-          "text": "Gemini Spark is headed to more Ultra subscribers around the world* plus 4 new features:\n\n1) Spark can open and edit Google Docs, acting on feedback from last week\n\n2) It can read comments in Google Sheets & Slides, so critical info isn't missed\n\n3) It's >50% faster, you can feel it\n\n4) It can parallel process across multiple sources, so tasks complete faster e2e\n\nPro members, stay tuned for an access update soon :)\n\n*Full list of countries and changelog: https://t.co/oIjY9qQBoz",
-          "created_at": "Wed Jul 15 19:11:25 +0000 2026",
-          "like_count": 0,
-          "retweet_count": 48,
-          "reply_count": 67,
-          "engagement_score": 163,
-          "url": "https://x.com/joshwoodward/status/2077471111240204457"
-        }
-      ]
+      "tweets": []
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-21T02:51:06.102922+00:00"
+  "generated_at": "2026-07-21T02:54:44.481037+00:00"
 }
