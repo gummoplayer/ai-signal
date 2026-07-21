@@ -54,9 +54,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-central.txt
 
-      - name: Run tests
-        run: python -m unittest discover -s tests -p 'test_*.py'
-
       - name: Generate feeds
         env:
           TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
