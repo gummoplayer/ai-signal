@@ -470,9 +470,13 @@ async def fetch_twitter(sources):
 
             if created_at_str:
                 try:
-                    dt = datetime.fromisoformat(created_at_str.replace("Z", "+00:00"))
-                except (ValueError, TypeError):
-                    dt = None
+                    from email.utils import parsedate_to_datetime
+                    dt = parsedate_to_datetime(created_at_str)
+                except Exception:
+                    try:
+                        dt = datetime.fromisoformat(created_at_str.replace("Z", "+00:00"))
+                    except Exception:
+                        dt = None
             else:
                 dt = None
 
@@ -483,8 +487,8 @@ async def fetch_twitter(sources):
                 continue
 
             # Check author handle
-            user = t.get("user", {})
-            author_handle = user.get("screen_name", "")
+            author = t.get("author", {})
+            author_handle = author.get("screen_name", "")
             if author_handle and author_handle.casefold() != handle.casefold():
                 repost_count += 1
                 continue
@@ -493,7 +497,7 @@ async def fetch_twitter(sources):
                 reply_count += 1
                 continue
 
-            likes = int(t.get("likes", 0) or 0)
+            likes = int(t.get("favorites", 0) or 0)
             retweets = int(t.get("retweets", 0) or 0)
             replies_count = int(t.get("replies", 0) or 0)
             engagement = likes + retweets * 2 + replies_count
