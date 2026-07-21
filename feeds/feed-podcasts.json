@@ -141,42 +141,6 @@
       "transcript_chars": 10309
     },
     {
-      "channel": "SemiAnalysis",
-      "domain": "ai",
-      "guid": "hPb3SESIjdU",
-      "title": "[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model",
-      "pub_date": "2026-07-18T01:08:15+00:00",
-      "link": "https://www.youtube.com/watch?v=hPb3SESIjdU",
-      "audio_url": "",
-      "duration": "",
-      "description": "A year ago, the big three was OpenAI, Anthropic, and Google. Things have changed.\n\nMoonshot's Kimi K3 sits above Gemini on every composite benchmark, and it's open source in 10 days.\n\nNew episode: what K3 reveals about frontier margins, model sizes, and who's actually still in the game. \n\n00:00 Intro\n00:11 Is Kimi K3 the Third Best Model?\n04:04 Why Delay the Weights?\n05:30 2.8T Parameters and Serving Constraints\n06:48 Frontier Margins and the 3x Price Hike\n11:10 New Architecture, What Comes Next\n14:09 Will Open Source Catch Closed?\n19:51 Built for Chinese Accelerators\n22:57 The Harness Is the Product\n28:49 We're Still Early",
-      "transcript_available": false,
-      "transcript_source": null,
-      "transcript_url": null,
-      "transcript_video_id": "hPb3SESIjdU",
-      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=hPb3SESIjdU! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nThere are two things you can do to work around this:\n1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
-      "transcript_chars": 0
-    },
-    {
-      "channel": "All-In Podcast",
-      "domain": "ai",
-      "guid": "643dd7f8-9888-4093-bc89-acfdd4362fce",
-      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
-      "pub_date": "2026-07-18T00:36:00+00:00",
-      "link": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E281_Ch.mp3?dest-id=1928300",
-      "duration": "01:29:55",
-      "description": "<p>(0:00) Bestie intros!</p> <p>(1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body</p> <p>(20:01) Stripe, Block, and Advent offer $53B to acquire PayPal</p> <p>(37:51) Apple sues OpenAI, alleging stolen trade secrets</p> <p>(42:49) Grok Build data leak, AI data privacy, Tokenmaxxing update, Mira Murati's new model</p> <p>(59:53) NY bans datacenters, becoming first state to enact a moratorium</p> <p>(1:22:57) Science Corner: New data on reversing aging!</p> <p>Adopt Ronnie the Dog:</p> <p><a href= \"https://www.instagram.com/reels/Da0pGahBwaW\">https://www.instagram.com/reels/Da0pGahBwaW</a></p> <p>Apply for All-In Summit 2026:</p> <p><a href= \"https://allin.com/events\">https://allin.com/events</a></p> <p>Follow the besties:</p> <p><a href=\"https://x.com/chamath\">https://x.com/chamath</a></p> <p><a href=\"https://x.com/Jason\">https://x.com/Jason</a></p> <p><a href= \"https://x.com/DavidSacks\">https://x.com/DavidSacks</a></p> <p><a href= \"https://x.com/friedberg\">https://x.com/friedberg</a></p> <p>Follow on X:</p> <p><a href= \"https://x.com/theallinpod\">https://x.com/theallinpod</a></p> <p>Follow on Instagram:</p> <p><a href= \"https://www.instagram.com/theallinpod\">https://www.instagram.com/theallinpod</a></p> <p>Follow on TikTok:</p> <p><a href= \"https://www.tiktok.com/@theallinpod\">https://www.tiktok.com/@theallinpod</a></p> <p>Follow on LinkedIn:</p> <p><a href= \"https://www.linkedin.com/company/allinpod\">https://www.linkedin.com/company/allinpod</a></p> <p>Intro Music Credit:</p> <p><a href=\"https://rb.gy/tppkzl\">https://rb.gy/tppkzl</a></p> <p><a href= \"https://x.com/yung_spielburg\">https://x.com/yung_spielburg</a></p> <p>Intro Video Credit:</p> <p><a href= \"https://x.com/TheZachEffect\">https://x.com/TheZachEffect</a></p> <p>Referenced in the show:</p> <p><a href= \"https://x.com/chamath/status/2077502408528212144\">https://x.com/chamath/status/2077502408528212144</a></p> <p><a href= \"https://x.com/demishassabis/status/207695744010962",
-      "transcript_available": true,
-      "transcript_source": "volc_asr_auc",
-      "transcript_url": null,
-      "transcript_video_id": null,
-      "transcript_error": null,
-      "transcript_chars": 93416,
-      "transcript_request_id": "f2f18a4a-e8bd-48db-8af2-271b971336fb",
-      "transcript_path": "feeds/transcripts/c165f266a02168c4a98b9e46.txt"
-    },
-    {
       "channel": "DRM News",
       "domain": "ai",
       "person": "Jensen Huang",
@@ -266,5 +230,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-20T23:03:51.710796+00:00"
+  "generated_at": "2026-07-21T01:38:42.239456+00:00"
 }
