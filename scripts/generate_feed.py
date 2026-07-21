@@ -420,45 +420,12 @@ def clean_transcript_text(text):
     return text
 
 
-# ── Twitter fetching ──────────────────────────────────────────────────────────
+# ── Twitter fetching (via scraper.tech API) ─────────────────────────────
 
-def detect_proxy():
-    proxy = os.environ.get("SOCKS_PROXY", "")
-    if proxy:
-        return proxy
-    if sys.platform == "win32":
-        try:
-            import subprocess
-            CF = 0x08000000
-            netstat = subprocess.run(["netstat", "-ano"], capture_output=True, text=True,
-                                     timeout=5, encoding="utf-8", errors="replace", creationflags=CF)
-            tasklist = subprocess.run(["tasklist", "/FI", "IMAGENAME eq ww-ss-local.exe", "/FO", "CSV", "/NH"],
-                                      capture_output=True, text=True, timeout=5,
-                                      encoding="utf-8", errors="replace", creationflags=CF)
-            pids = set()
-            for line in tasklist.stdout.strip().split("\n"):
-                parts = line.strip().strip('"').split('","')
-                if len(parts) >= 2:
-                    try: pids.add(parts[1].strip('"'))
-                    except (IndexError, ValueError): pass
-            if pids:
-                for line in netstat.stdout.split("\n"):
-                    if "LISTENING" in line:
-                        parts = line.split()
-                        if len(parts) >= 5 and parts[4] in pids:
-                            port = int(parts[1].rsplit(":", 1)[1])
-                            return f"socks5h://127.0.0.1:{port}"
-        except Exception:
-            pass
-        import socket
-        for port in [12345, 12346, 12347]:
-            try:
-                s = socket.create_connection(("127.0.0.1", port), timeout=2)
-                s.close()
-                return f"socks5h://127.0.0.1:{port}"
-            except Exception:
-                continue
-    return ""
+import urllib.request as _ur
+
+_SCRAPER_KEY = os.environ.get("SCRAPER_KEY", "2de5c91eb339d948ac3b639df27dc4b6")
+_SCRAPER_API = "https://api.scraper.tech"
 
 
 async def fetch_twitter(sources):
@@ -466,29 +433,6 @@ async def fetch_twitter(sources):
     accounts = twitter_cfg.get("accounts", [])
     lookback = twitter_cfg.get("lookback_hours", 48)
     max_per_user = twitter_cfg.get("max_tweets_per_user", 5)
-
-    cookies = os.environ.get("TWITTER_COOKIES", "")
-    if not cookies:
-        log("⚠️ TWITTER_COOKIES not set, skipping Twitter")
-        return {"x": [], "errors": ["TWITTER_COOKIES not set"]}
-
-    from twscrape import API, gather
-    proxy = detect_proxy()
-    if proxy:
-        log(f"🌐 Twitter proxy: {proxy}")
-        try:
-            import twscrape.xclid as _xclid
-            from twscrape.http import make_client as _mc
-            _xclid._make_client = lambda: _mc(proxy=proxy, headers={"user-agent": "@chrome"})
-        except Exception:
-            pass
-
-    db_path = str(SCRIPT_DIR / "twitter_accounts.db")
-    api = API(db_path, proxy=proxy) if proxy else API(db_path)
-    acc = await api.pool.get_account("feed_bot")
-    if acc is None:
-        await api.pool.add_account_cookies("feed_bot", cookies)
-        await api.pool.set_active("feed_bot", True)
 
     since = datetime.now(timezone.utc) - timedelta(hours=lookback)
     results = []
@@ -500,8 +444,13 @@ async def fetch_twitter(sources):
         min_engagement = int(account.get("min_engagement", twitter_cfg.get("min_engagement", 0)))
         include_replies = bool(account.get("include_replies", twitter_cfg.get("include_replies", False)))
         log(f"📥 @{handle}...")
+
         try:
-            raw = await gather(api.search(f"from:{handle}", limit=max_per_user * 3, kv={"product": "Latest"}))
+            url = f"{_SCRAPER_API}/timeline.php?screenname={handle}"
+            req = _ur.Request(url, headers={"scraper-key": _SCRAPER_KEY})
+            with _ur.urlopen(req, timeout=25) as resp:
+                raw = json.loads(resp.read().decode("utf-8"))
+            timeline = raw.get("timeline", [])
         except Exception as e:
             log(f"  ⚠️ {e}")
             errors.append(f"@{handle}: {e}")
@@ -513,39 +462,62 @@ async def fetch_twitter(sources):
         repost_count = 0
         reply_count = 0
         low_engagement_count = 0
-        for t in raw:
-            if t.date and t.date.replace(tzinfo=timezone.utc) < since:
+
+        for t in timeline:
+            tid = str(t.get("tweet_id", ""))
+            created_at_str = t.get("created_at", "")
+            raw_text = t.get("text", "")
+
+            if created_at_str:
+                try:
+                    dt = datetime.fromisoformat(created_at_str.replace("Z", "+00:00"))
+                except (ValueError, TypeError):
+                    dt = None
+            else:
+                dt = None
+
+            if dt and dt < since:
                 continue
-            if t.rawContent.startswith("RT @"):
+            if raw_text.startswith("RT @"):
+                repost_count += 1
                 continue
-            author_handle = tweet_author_handle(t)
+
+            # Check author handle
+            user = t.get("user", {})
+            author_handle = user.get("screen_name", "")
             if author_handle and author_handle.casefold() != handle.casefold():
                 repost_count += 1
                 continue
-            if not include_replies and is_reply_tweet(t):
+
+            if not include_replies and raw_text.lstrip().startswith("@"):
                 reply_count += 1
                 continue
-            engagement = tweet_engagement_score(t)
+
+            likes = int(t.get("likes", 0) or 0)
+            retweets = int(t.get("retweets", 0) or 0)
+            replies_count = int(t.get("replies", 0) or 0)
+            engagement = likes + retweets * 2 + replies_count
+
             if engagement < min_engagement:
                 low_engagement_count += 1
                 continue
-            tid = str(t.id)
             if tid in seen_ids or tid in global_seen_ids:
                 continue
             seen_ids.add(tid)
             global_seen_ids.add(tid)
-            if not is_relevant_tweet(t.rawContent, twitter_cfg):
+            if not is_relevant_tweet(raw_text, twitter_cfg):
                 filtered_count += 1
                 continue
+
             tweets.append({
                 "id": tid,
-                "text": t.rawContent,
-                "created_at": t.date.isoformat() if t.date else "",
-                "like_count": t.likeCount or 0,
-                "retweet_count": t.retweetCount or 0,
-                "reply_count": t.replyCount or 0,
+                "text": raw_text,
+                "created_at": created_at_str,
+                "like_count": likes,
+                "retweet_count": retweets,
+                "reply_count": replies_count,
                 "engagement_score": engagement,
-                "url": t.url or "",
+                "url": t.get("url", f"https://x.com/{handle}/status/{tid}"),
             })
 
         tweets.sort(key=lambda x: x["engagement_score"], reverse=True)
@@ -588,6 +560,7 @@ async def fetch_twitter(sources):
 
 
 # ── Podcast fetching ──────────────────────────────────────────────────────────
+
 
 def parse_rss(xml_text):
     episodes = []
