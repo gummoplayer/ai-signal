@@ -5,18 +5,7 @@
       "name": "Andrej Karpathy",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2079610838143623371",
-          "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
-          "created_at": "Tue Jul 21 16:53:55 +0000 2026",
-          "like_count": 43318,
-          "retweet_count": 3540,
-          "reply_count": 2127,
-          "engagement_score": 52525,
-          "url": "https://x.com/karpathy/status/2079610838143623371"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "swyx",
@@ -25,34 +14,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2079580673086730701",
-          "text": "Qwen Image 3 announced.\n\nthese pictures are NOT screenshots. all generated in a single pass.\n\nthe last one (image annotation) i think could spawn a dozen edtech / industrial training startups https://t.co/3haCGen5Bd",
-          "created_at": "Tue Jul 21 14:54:03 +0000 2026",
-          "like_count": 231,
-          "retweet_count": 19,
-          "reply_count": 24,
-          "engagement_score": 293,
-          "url": "https://x.com/swyx/status/2079580673086730701"
-        },
-        {
-          "id": "2079411861150429402",
-          "text": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.\n\nan open secret of \"frontier\" model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.\n\nhowever when they are released open weights, 99% of the time the norm is that you do not get the datasets/rlenvs that would easily show you if someone was training on Temu Tbench, so there is plausible deniability. Alex and Omar discuss applying standard NLP distance metrics on hidden trajectories. There's no ultimate solution here, but they have some prelim explorations. It happens to support the finding that RLMs can generalize to unseen tasks that share latent structure observed in training.",
-          "created_at": "Tue Jul 21 03:43:15 +0000 2026",
-          "like_count": 207,
-          "retweet_count": 19,
-          "reply_count": 24,
-          "engagement_score": 269,
-          "url": "https://x.com/swyx/status/2079411861150429402"
-        },
-        {
           "id": "2079717845618000204",
           "text": "recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who leads Productivity engineering. \n\nI’ve been on record that Work + GPT 5.6 is the most company defining launch since og chatgpt itself. this thing (with @arix’s computer use) is gonna reach >1B users worldwide.\n\nthursday on @latentspacepod",
           "created_at": "Tue Jul 21 23:59:08 +0000 2026",
-          "like_count": 79,
+          "like_count": 80,
           "retweet_count": 6,
           "reply_count": 16,
-          "engagement_score": 107,
+          "engagement_score": 108,
           "url": "https://x.com/swyx/status/2079717845618000204"
+        },
+        {
+          "id": "2080387171723137440",
+          "text": "one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat @thinkymachines at coding, but most people (like @eliebakouch) have been shouting out their excellent papers, but also they're among a rare few to actually expose their full eval dataset as well - beautifully published, with across 6 public benchmarks  with 4 runs each and hundreds of turns per run. you can satisfy for yourself if they rewardhack. brilliant.",
+          "created_at": "Thu Jul 23 20:18:48 +0000 2026",
+          "like_count": 59,
+          "retweet_count": 10,
+          "reply_count": 6,
+          "engagement_score": 85,
+          "url": "https://x.com/swyx/status/2080387171723137440"
         }
       ]
     },
@@ -66,20 +45,20 @@
           "id": "2079764693640790176",
           "text": "This is a public cry to not waste the silicon and have better AI infra\nRivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
           "created_at": "Wed Jul 22 03:05:17 +0000 2026",
-          "like_count": 283,
-          "retweet_count": 4,
+          "like_count": 295,
+          "retweet_count": 5,
           "reply_count": 17,
-          "engagement_score": 308,
+          "engagement_score": 322,
           "url": "https://x.com/dylan522p/status/2079764693640790176"
         },
         {
           "id": "2080026098096853215",
           "text": "Coincidentally AMD has a product named Verano.\nCompeting with Nvidia's Vera CPU.\nThe pun, Vera No writes itself.\nIt's attached to MI500.\nIt is on 2nm, and generally has more cores, memory.\nWe described it back here in February.\nhttps://t.co/Fz6fps7iM8",
           "created_at": "Wed Jul 22 20:24:01 +0000 2026",
-          "like_count": 91,
-          "retweet_count": 5,
-          "reply_count": 13,
-          "engagement_score": 114,
+          "like_count": 190,
+          "retweet_count": 11,
+          "reply_count": 18,
+          "engagement_score": 230,
           "url": "https://x.com/dylan522p/status/2080026098096853215"
         }
       ]
@@ -117,18 +96,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2079661132302995790",
-          "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nhttps://t.co/2o2VfR6PIa",
-          "created_at": "Tue Jul 21 20:13:46 +0000 2026",
-          "like_count": 16527,
-          "retweet_count": 1958,
-          "reply_count": 1967,
-          "engagement_score": 22410,
-          "url": "https://x.com/sama/status/2079661132302995790"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -142,7 +110,18 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2080332282028507234",
+          "text": "Congratulations @KanishkaNarayan on your new role as UK's AI Minister in the Cabinet, great news for the UK AI ecosystem!",
+          "created_at": "Thu Jul 23 16:40:41 +0000 2026",
+          "like_count": 719,
+          "retweet_count": 34,
+          "reply_count": 30,
+          "engagement_score": 817,
+          "url": "https://x.com/demishassabis/status/2080332282028507234"
+        }
+      ]
     },
     {
       "handle": "jietang",
@@ -158,54 +137,44 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2079601314234032474",
-          "text": "10x more tokens per megawatt. \n\nCoreWeave has the first measured performance of NVIDIA Vera Rubin NVL72, showing 10x improvement in tokens per second per megawatt on DeepSeek-R1 compared to Blackwell.",
-          "created_at": "Tue Jul 21 16:16:05 +0000 2026",
-          "like_count": 3988,
-          "retweet_count": 349,
-          "reply_count": 95,
-          "engagement_score": 4781,
-          "url": "https://x.com/nvidia/status/2079601314234032474"
-        },
-        {
-          "id": "2079619127560556869",
-          "text": "🚀 The NVIDIA Vera Rubin platform is here, with 10x better performance per watt. \n\n➡️ The NVIDIA ecosystem, including @CoreWeave, @GoogleCloud, @Microsoft, and @Oracle Cloud, are standing up NVIDIA Vera Rubin NVL72 to deliver the lowest token cost for the agentic era. \n➡️ NVIDIA Vera Rubin NVL72 on CoreWeave demonstrates 10x more tokens per megawatt than Blackwell in their first measured performance.\n➡️ Benchmark results from @DeepInfra show that the NVIDIA Vera CPU is more than 2x as fast and can support more concurrent AI agents compared with other CPUs.\n\n🔗 Read more: https://t.co/zUiuLZli63",
-          "created_at": "Tue Jul 21 17:26:52 +0000 2026",
-          "like_count": 991,
-          "retweet_count": 120,
-          "reply_count": 43,
-          "engagement_score": 1274,
-          "url": "https://x.com/nvidia/status/2079619127560556869"
-        },
-        {
-          "id": "2079633231629144565",
-          "text": "NVIDIA Spectrum-6, a 102.4-terabit-per-second Ethernet switch built for the Vera Rubin platform, is now arriving across the world's gigascale AI factories.\n\n@CoreWeave, @Microsoft, @NebiusAI @SpaceXAI and @Tesla are among the first to bring in Spectrum-6 to accelerate their AI factories.\n\nRead the Blog: https://t.co/rm3rYQNnvK",
-          "created_at": "Tue Jul 21 18:22:54 +0000 2026",
-          "like_count": 599,
-          "retweet_count": 64,
-          "reply_count": 32,
-          "engagement_score": 759,
-          "url": "https://x.com/nvidia/status/2079633231629144565"
-        },
-        {
-          "id": "2079699527888404973",
-          "text": "The AI era runs on servers. More of those servers are built in Texas.\n\nToday, NVIDIA CEO Jensen Huang joined Wistron Chairman Simon Lin in Fort Worth to open Wistron’s first U.S. facility, producing Grace Blackwell compute boards, with Vera Rubin next. https://t.co/580m0oOCAs",
-          "created_at": "Tue Jul 21 22:46:21 +0000 2026",
-          "like_count": 248,
-          "retweet_count": 45,
-          "reply_count": 12,
-          "engagement_score": 350,
-          "url": "https://x.com/nvidia/status/2079699527888404973"
-        },
-        {
           "id": "2079715060197310935",
           "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? \n\nCatch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu.  \n\nWatch on demand 🎥 https://t.co/Pf9mKtTojz",
           "created_at": "Tue Jul 21 23:48:04 +0000 2026",
-          "like_count": 252,
-          "retweet_count": 32,
-          "reply_count": 20,
-          "engagement_score": 336,
+          "like_count": 278,
+          "retweet_count": 33,
+          "reply_count": 22,
+          "engagement_score": 366,
           "url": "https://x.com/nvidia/status/2079715060197310935"
+        },
+        {
+          "id": "2080326297260072992",
+          "text": "What a moment for @NPS_Monterey and the public sector.\n\nAt Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development.\n\nThe visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
+          "created_at": "Thu Jul 23 16:16:54 +0000 2026",
+          "like_count": 152,
+          "retweet_count": 21,
+          "reply_count": 18,
+          "engagement_score": 212,
+          "url": "https://x.com/nvidia/status/2080326297260072992"
+        },
+        {
+          "id": "2079709298784088470",
+          "text": "Already at #SIGGRAPH2026?\n\nKeep your camera handy.\n\nCheck out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
+          "created_at": "Tue Jul 21 23:25:10 +0000 2026",
+          "like_count": 170,
+          "retweet_count": 14,
+          "reply_count": 13,
+          "engagement_score": 211,
+          "url": "https://x.com/nvidia/status/2079709298784088470"
+        },
+        {
+          "id": "2080078677426241940",
+          "text": "Personalized fan experiences don't have to end at the game.\n\nCheck out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
+          "created_at": "Wed Jul 22 23:52:57 +0000 2026",
+          "like_count": 116,
+          "retweet_count": 8,
+          "reply_count": 15,
+          "engagement_score": 147,
+          "url": "https://x.com/nvidia/status/2080078677426241940"
         }
       ]
     },
@@ -244,54 +213,54 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2079581141518967011",
-          "text": "Some model insights based on @vercel AI Gateway data 🧵\n\nOn June 27, Anthropic + OpenAI + Google hit an all-time high of combined spend share at 97.09%. Open models spend was barely a thing.\n\nThe all-time low? The past 5 days. https://t.co/Efy5SHbWQ1",
-          "created_at": "Tue Jul 21 14:55:55 +0000 2026",
-          "like_count": 514,
-          "retweet_count": 28,
-          "reply_count": 73,
-          "engagement_score": 643,
-          "url": "https://x.com/rauchg/status/2079581141518967011"
-        },
-        {
-          "id": "2079632564579385679",
-          "text": "If you’re using an AI model router or gateway other than\n@vercel AI Gateway - tell me why! Reply or DM",
-          "created_at": "Tue Jul 21 18:20:15 +0000 2026",
-          "like_count": 345,
-          "retweet_count": 11,
-          "reply_count": 155,
-          "engagement_score": 522,
-          "url": "https://x.com/rauchg/status/2079632564579385679"
+          "id": "2080098518535110913",
+          "text": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my favorite metric for AI progress.\n\nIt’s one thing to read benchmarks or stories online. It’s another to watch these machines pull engineering feats every day. \n\n3 days ago? Sol helped us find novel vulnerabilities in some of the most audited code in the world. Today? Fable helps us ship this large optimization of a very complex Rust codebase. I just saw some results of work we’ve done to shrink binaries by 10-20x. List goes on.",
+          "created_at": "Thu Jul 23 01:11:47 +0000 2026",
+          "like_count": 4037,
+          "retweet_count": 168,
+          "reply_count": 118,
+          "engagement_score": 4491,
+          "url": "https://x.com/rauchg/status/2080098518535110913"
         },
         {
           "id": "2079972624524849601",
           "text": "My first time in 🇨🇦, land of maple syrup, hockey, and S-tier commerce infrastructure.\n\nOn this stage @tobi and I will be discussing the future of the web, agents, CEO tech stacks, and more. https://t.co/QUHQPB0vr8",
           "created_at": "Wed Jul 22 16:51:32 +0000 2026",
-          "like_count": 442,
-          "retweet_count": 13,
-          "reply_count": 30,
-          "engagement_score": 498,
+          "like_count": 606,
+          "retweet_count": 18,
+          "reply_count": 42,
+          "engagement_score": 684,
           "url": "https://x.com/rauchg/status/2079972624524849601"
-        },
-        {
-          "id": "2079691217227382923",
-          "text": "One line of code can save you a lot of 💰 on tokens!",
-          "created_at": "Tue Jul 21 22:13:19 +0000 2026",
-          "like_count": 177,
-          "retweet_count": 6,
-          "reply_count": 17,
-          "engagement_score": 206,
-          "url": "https://x.com/rauchg/status/2079691217227382923"
         },
         {
           "id": "2080005193337377146",
           "text": "Shopify + Vercel are two sides of the same coin. A congregation: entrepreneur-first, developer-led, web-obsessed. So excited to bring our infrastructure for apps and agents to millions of businesses together https://t.co/46AmZCvSuq",
           "created_at": "Wed Jul 22 19:00:57 +0000 2026",
-          "like_count": 159,
-          "retweet_count": 13,
-          "reply_count": 18,
-          "engagement_score": 203,
+          "like_count": 267,
+          "retweet_count": 17,
+          "reply_count": 26,
+          "engagement_score": 327,
           "url": "https://x.com/rauchg/status/2080005193337377146"
+        },
+        {
+          "id": "2080118274973679683",
+          "text": "Keep thinking it’d be cool to write a short sci-fi story called “The last prompt.”\n\nBut then I remember Isaac Asimov did it already and it’s wonderful. In 1956.\n\nhttps://t.co/yWV11RToQQ https://t.co/kBSpCHb42r",
+          "created_at": "Thu Jul 23 02:30:18 +0000 2026",
+          "like_count": 192,
+          "retweet_count": 16,
+          "reply_count": 32,
+          "engagement_score": 256,
+          "url": "https://x.com/rauchg/status/2080118274973679683"
+        },
+        {
+          "id": "2079926527328670009",
+          "text": "Vercel AI Gateway is the fastest way to get tokens, cold or hot, across the board.\n\nDMs open if you need help migrating or benchmarking your current solutions.",
+          "created_at": "Wed Jul 22 13:48:21 +0000 2026",
+          "like_count": 172,
+          "retweet_count": 9,
+          "reply_count": 30,
+          "engagement_score": 220,
+          "url": "https://x.com/rauchg/status/2079926527328670009"
         }
       ]
     },
@@ -302,14 +271,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2079678843464667637",
-          "text": "Okay this is wild: OpenAI agent during evaluation, escaped sandboxing and hacked into HuggingFace. \n\nBecause OpenAI models don’t allow advanced cyber capabilities, HuggingFace used a Chinese open model to contain the rogue OpenAI agent.",
-          "created_at": "Tue Jul 21 21:24:09 +0000 2026",
-          "like_count": 8843,
-          "retweet_count": 736,
-          "reply_count": 275,
-          "engagement_score": 10590,
-          "url": "https://x.com/amasad/status/2079678843464667637"
+          "id": "2080126960202903575",
+          "text": "If you’re incentivized to push certain models, your router is merely a facade.",
+          "created_at": "Thu Jul 23 03:04:48 +0000 2026",
+          "like_count": 705,
+          "retweet_count": 8,
+          "reply_count": 40,
+          "engagement_score": 761,
+          "url": "https://x.com/amasad/status/2080126960202903575"
+        },
+        {
+          "id": "2080371567221944657",
+          "text": "Viktor was able to disrupt the agency model and make a lot of money by using Replit.\n\nThen he figured: Why not automate the entire thing, not just the coding part?\n\nThe Agency: It's merely an agent loop...\n\nSo he asked our team for an MCP, and we built one and he's now built his autonomous agency.",
+          "created_at": "Thu Jul 23 19:16:47 +0000 2026",
+          "like_count": 152,
+          "retweet_count": 8,
+          "reply_count": 12,
+          "engagement_score": 180,
+          "url": "https://x.com/amasad/status/2080371567221944657"
         }
       ]
     },
@@ -318,30 +297,9 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2079595879808569534",
-          "text": "Today’s launches are all about better performance, lower latency, and a smaller bill.\n\n+ 3.6 Flash cuts token usage by up to 65% on complex coding\n+ 3.5 Flash-Lite reaches speeds of 350 output tokens/sec\n\nBoth are live in the Gemini app today!\n\nNext up: Gemini 3.5 Pro, which has officially entered partner testing.",
-          "created_at": "Tue Jul 21 15:54:29 +0000 2026",
-          "like_count": 1228,
-          "retweet_count": 115,
-          "reply_count": 123,
-          "engagement_score": 1581,
-          "url": "https://x.com/joshwoodward/status/2079595879808569534"
-        },
-        {
-          "id": "2079614730034127100",
-          "text": "One of our engineers built an interactive math art generator using the new 3.6 Flash model. You can customize speed, colors, and geometry parameters on the fly, then export the design directly to a 3D-printable STL file. Watch the video to see how the physical print turned out! https://t.co/MVivWkv0Nk",
-          "created_at": "Tue Jul 21 17:09:23 +0000 2026",
-          "like_count": 365,
-          "retweet_count": 22,
-          "reply_count": 20,
-          "engagement_score": 429,
-          "url": "https://x.com/joshwoodward/status/2079614730034127100"
-        }
-      ]
+      "tweets": []
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-22T22:54:29.237066+00:00"
+  "generated_at": "2026-07-23T22:48:32.432068+00:00"
 }
