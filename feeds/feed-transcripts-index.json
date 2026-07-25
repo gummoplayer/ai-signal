@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-07-24T22:55:23.220741+00:00",
+  "generated_at": "2026-07-25T22:45:15.559903+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "link": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "channel": "Latent Space",
+      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "pub_date": "2026-07-25T07:25:38+00:00",
+      "transcript_path": "feeds/transcripts/e708e4e0d68b671ee4fda188.txt",
+      "transcript_chars": 16665,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-25T22:45:15.559903+00:00",
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
       "link": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
@@ -12,8 +25,8 @@
       "transcript_chars": 4455,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-24T22:55:23.220741+00:00",
-      "last_seen_at": "2026-07-24T22:55:23.220741+00:00",
-      "expires_at": "2026-08-07T22:55:23.220741+00:00"
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
@@ -25,8 +38,8 @@
       "transcript_chars": 32218,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-24T22:55:23.220741+00:00",
-      "last_seen_at": "2026-07-24T22:55:23.220741+00:00",
-      "expires_at": "2026-08-07T22:55:23.220741+00:00"
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     },
     {
       "guid": "be04f071-24a5-461c-aded-2116b687cb81",
@@ -38,8 +51,8 @@
       "transcript_chars": 142008,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-24T22:55:23.220741+00:00",
-      "expires_at": "2026-08-07T22:55:23.220741+00:00"
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
@@ -51,8 +64,8 @@
       "transcript_chars": 27229,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-24T22:55:23.220741+00:00",
-      "expires_at": "2026-08-07T22:55:23.220741+00:00"
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     },
     {
       "guid": "https://www.latent.space/p/poolside",
@@ -64,8 +77,8 @@
       "transcript_chars": 141023,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-24T22:55:23.220741+00:00",
-      "expires_at": "2026-08-07T22:55:23.220741+00:00"
+      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
+      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
@@ -482,45 +495,6 @@
       "cached_at": "2026-07-11T09:16:42.810713+00:00",
       "last_seen_at": "2026-07-11T22:50:18.146925+00:00",
       "expires_at": "2026-07-25T22:50:18.146925+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-      "link": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-      "channel": "Lenny's Podcast",
-      "title": "What a harness is and how to build one with Claude Agent SDK",
-      "pub_date": "2026-07-08T12:03:35+00:00",
-      "transcript_path": "feeds/transcripts/835e3b06dc5af4fdef2dac0a.txt",
-      "transcript_chars": 5130,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-11T09:16:42.810713+00:00",
-      "last_seen_at": "2026-07-11T09:23:56.078551+00:00",
-      "expires_at": "2026-07-25T09:23:56.078551+00:00"
-    },
-    {
-      "guid": "UqWqsRQHpbA",
-      "link": "https://www.youtube.com/shorts/UqWqsRQHpbA",
-      "channel": "SemiAnalysis",
-      "title": "If vLLM vs SGLang can compute to one conclusion, it's gotta be that competition is beneficial.",
-      "pub_date": "2026-07-08T09:02:56+00:00",
-      "transcript_path": "feeds/transcripts/40715073fc37749282d76ab9.txt",
-      "transcript_chars": 1114,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-07-11T09:16:42.810713+00:00",
-      "last_seen_at": "2026-07-11T09:23:56.078551+00:00",
-      "expires_at": "2026-07-25T09:23:56.078551+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-      "link": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
-      "channel": "Latent Space",
-      "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
-      "pub_date": "2026-07-08T02:20:25+00:00",
-      "transcript_path": "feeds/transcripts/dec18431611deb366d27eebc.txt",
-      "transcript_chars": 13751,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-11T09:16:42.810713+00:00",
-      "last_seen_at": "2026-07-11T09:23:56.078551+00:00",
-      "expires_at": "2026-07-25T09:23:56.078551+00:00"
     },
     {
       "guid": "https://nav.al/?p=28497007",
