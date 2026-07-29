@@ -14,54 +14,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2081904230768816487",
-          "text": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
-          "created_at": "Tue Jul 28 00:47:03 +0000 2026",
-          "like_count": 296,
-          "retweet_count": 12,
-          "reply_count": 52,
-          "engagement_score": 372,
-          "url": "https://x.com/swyx/status/2081904230768816487"
-        },
-        {
           "id": "2082199414656127010",
           "text": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &gt; 10 years experience managing 10-100 people",
           "created_at": "Tue Jul 28 20:20:00 +0000 2026",
-          "like_count": 248,
-          "retweet_count": 9,
-          "reply_count": 38,
-          "engagement_score": 304,
+          "like_count": 1015,
+          "retweet_count": 32,
+          "reply_count": 96,
+          "engagement_score": 1175,
           "url": "https://x.com/swyx/status/2082199414656127010"
         },
         {
-          "id": "2081784874994942271",
-          "text": "somehow without me noticing, @latentspacepod has quietly overtaken some of my own podcast heroes like @ProfCalNewport, @TBPN, @gruber, and other AI pod friends! wow!\n\nwe are seriously ramping up LS as a new tech media org, thanks to subscribers and donors. @ricmac joins us as our first fulltime Head of Editorial to build out technical  coverage of AI news; we will also be FINALLY opening up for sponsorships.\n\nwe are hiring writers and show producers. reply/reach out if you are interested!",
-          "created_at": "Mon Jul 27 16:52:46 +0000 2026",
-          "like_count": 111,
-          "retweet_count": 10,
-          "reply_count": 30,
-          "engagement_score": 161,
-          "url": "https://x.com/swyx/status/2081784874994942271"
+          "id": "2081904230768816487",
+          "text": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
+          "created_at": "Tue Jul 28 00:47:03 +0000 2026",
+          "like_count": 315,
+          "retweet_count": 13,
+          "reply_count": 55,
+          "engagement_score": 396,
+          "url": "https://x.com/swyx/status/2081904230768816487"
         },
         {
           "id": "2081890955070980416",
           "text": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors' roadmaps",
           "created_at": "Mon Jul 27 23:54:18 +0000 2026",
-          "like_count": 91,
+          "like_count": 95,
           "retweet_count": 4,
-          "reply_count": 31,
-          "engagement_score": 130,
+          "reply_count": 33,
+          "engagement_score": 136,
           "url": "https://x.com/swyx/status/2081890955070980416"
         },
         {
           "id": "2082165420237492346",
           "text": "really grateful to @realbasilchatha for helping me curate a survey of the entire field of Forward Deployed Engineering in one track!\n\nFrom FDE 101 by @zkevinbai (Anthropic, Palantir, Rippling Founding FDE) to head of FDE practices at:\n\n- Decagon\n- Cursor\n- Sierra\n- Ramp\n- Cognition\n- Factory\n- Kepler\n- Varick (tooling for FDEs)\n\nloving the track drop model for releasing the 30+ tracks from AIEWF. please give them some love and send to friends exploring FDE career paths. \n\nall of the speakers are hiring. naturally.",
           "created_at": "Tue Jul 28 18:04:55 +0000 2026",
-          "like_count": 32,
-          "retweet_count": 6,
-          "reply_count": 9,
-          "engagement_score": 53,
+          "like_count": 61,
+          "retweet_count": 7,
+          "reply_count": 10,
+          "engagement_score": 85,
           "url": "https://x.com/swyx/status/2082165420237492346"
+        },
+        {
+          "id": "2082104987875004713",
+          "text": "to argue against myself both @bcherny and @trq212 are consistently \"unhobble the model, delete everything, let the model express itself\" guys so perhaps this is actually quite consistent with how you are supposed to treat an agent harness\n\nhttps://t.co/wsT8aVQJlQ",
+          "created_at": "Tue Jul 28 14:04:47 +0000 2026",
+          "like_count": 7,
+          "retweet_count": 2,
+          "reply_count": 9,
+          "engagement_score": 20,
+          "url": "https://x.com/swyx/status/2082104987875004713"
         }
       ]
     },
@@ -70,25 +70,25 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2082321388736581641",
+          "text": "Slowing down AI is a ultimately wishful thinking\nThe genie is out of the bottle\nThe most importan competition ever with potentially immeasurable benefits to the winner will not suddenly have people stop and sing kumbaya\nWhile many lab employees have signed, many more havent.\nPractically none at some labs less than 6 months behind have.",
+          "created_at": "Wed Jul 29 04:24:41 +0000 2026",
+          "like_count": 1117,
+          "retweet_count": 63,
+          "reply_count": 74,
+          "engagement_score": 1317,
+          "url": "https://x.com/dylan522p/status/2082321388736581641"
+        }
+      ]
     },
     {
       "handle": "insane_analyst",
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2081576298573685197",
-          "text": "\"Did you know that the first Matrix was designed to be a perfect human world where none suffered, where everyone would be happy. It was a disaster. No one would accept the program.\"\n\nThere will be no abundance due to AI.\n\nCultists are neither less wrong nor rational.\n\nhttps://t.co/QKDtIIPoPS",
-          "created_at": "Mon Jul 27 03:03:58 +0000 2026",
-          "like_count": 77,
-          "retweet_count": 2,
-          "reply_count": 10,
-          "engagement_score": 91,
-          "url": "https://x.com/insane_analyst/status/2081576298573685197"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "naval",
@@ -146,44 +146,24 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2081666629264449730",
-          "text": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the community of defenders.\n\nLearn more about the founding members’ contributions: https://t.co/A16oqxs5Ty",
-          "created_at": "Mon Jul 27 09:02:54 +0000 2026",
-          "like_count": 7981,
-          "retweet_count": 1111,
-          "reply_count": 533,
-          "engagement_score": 10736,
-          "url": "https://x.com/nvidia/status/2081666629264449730"
-        },
-        {
-          "id": "2081730105454322151",
-          "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 \n\nPresident Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions. https://t.co/rTcXjtJNb9",
-          "created_at": "Mon Jul 27 13:15:08 +0000 2026",
-          "like_count": 715,
-          "retweet_count": 101,
-          "reply_count": 70,
-          "engagement_score": 987,
-          "url": "https://x.com/nvidia/status/2081730105454322151"
+          "id": "2082135368040886299",
+          "text": "The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents.\n\nhttps://t.co/tFQYKAqDc3 https://t.co/6zU2F5Jhdb",
+          "created_at": "Tue Jul 28 16:05:30 +0000 2026",
+          "like_count": 381,
+          "retweet_count": 54,
+          "reply_count": 28,
+          "engagement_score": 517,
+          "url": "https://x.com/nvidia/status/2082135368040886299"
         },
         {
           "id": "2081884835715404071",
           "text": "Translation queues and custom integrations can slow global launches.\n\nOur Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that.\n\nSee the results ↓\nhttps://t.co/FbBEdcINv1 https://t.co/7GyBR9ivRM",
           "created_at": "Mon Jul 27 23:29:59 +0000 2026",
-          "like_count": 279,
-          "retweet_count": 30,
-          "reply_count": 42,
-          "engagement_score": 381,
+          "like_count": 303,
+          "retweet_count": 32,
+          "reply_count": 48,
+          "engagement_score": 415,
           "url": "https://x.com/nvidia/status/2081884835715404071"
-        },
-        {
-          "id": "2082135368040886299",
-          "text": "The Open Secure AI Alliance is growing, with more organizations contributing expertise to help safeguard software and agents.\n\nhttps://t.co/tFQYKAqDc3 https://t.co/6zU2F5Jhdb",
-          "created_at": "Tue Jul 28 16:05:30 +0000 2026",
-          "like_count": 225,
-          "retweet_count": 33,
-          "reply_count": 13,
-          "engagement_score": 304,
-          "url": "https://x.com/nvidia/status/2082135368040886299"
         }
       ]
     },
@@ -220,48 +200,7 @@
       "name": "Guillermo Rauch (Vercel)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2081546513885622760",
-          "text": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols &amp; research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier: https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
-          "created_at": "Mon Jul 27 01:05:36 +0000 2026",
-          "like_count": 2217,
-          "retweet_count": 111,
-          "reply_count": 63,
-          "engagement_score": 2502,
-          "url": "https://x.com/rauchg/status/2081546513885622760"
-        },
-        {
-          "id": "2081852481517318560",
-          "text": "In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.\n\nIt's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.\n\nSol remains the frontier, ahead of Opus 5.",
-          "created_at": "Mon Jul 27 21:21:25 +0000 2026",
-          "like_count": 1904,
-          "retweet_count": 107,
-          "reply_count": 98,
-          "engagement_score": 2216,
-          "url": "https://x.com/rauchg/status/2081852481517318560"
-        },
-        {
-          "id": "2081517519303737559",
-          "text": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible.\n\n✓ Resulting binary size: 1.28mb \n✓ Startup overhead: 1.5ms (mean)\n✓ Compiles in 2.94s (mean)\n✓ Uses 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜, 𝚗𝚘𝚍𝚎:𝚏𝚜, 𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑, 𝚗𝚘𝚍𝚎:𝚘𝚜, 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n✓ Highly readable TypeScript\n✓ Code translated by GLM 5.2 Fast\n✓ Deploys like a charm!\n\nNo embedded v8 / QuickJS, fully static.",
-          "created_at": "Sun Jul 26 23:10:23 +0000 2026",
-          "like_count": 902,
-          "retweet_count": 47,
-          "reply_count": 53,
-          "engagement_score": 1049,
-          "url": "https://x.com/rauchg/status/2081517519303737559"
-        },
-        {
-          "id": "2081842439304995169",
-          "text": "Kimi's paper underlines the importance of the right security boundary for agents to run in.\n\ntl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).\n\nFirecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8",
-          "created_at": "Mon Jul 27 20:41:30 +0000 2026",
-          "like_count": 628,
-          "retweet_count": 42,
-          "reply_count": 51,
-          "engagement_score": 763,
-          "url": "https://x.com/rauchg/status/2081842439304995169"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "amasad",
@@ -273,41 +212,51 @@
           "id": "2082025429901390266",
           "text": "I bet it’s more or less an LLM",
           "created_at": "Tue Jul 28 08:48:39 +0000 2026",
-          "like_count": 1656,
-          "retweet_count": 23,
-          "reply_count": 79,
-          "engagement_score": 1781,
+          "like_count": 1852,
+          "retweet_count": 24,
+          "reply_count": 82,
+          "engagement_score": 1982,
           "url": "https://x.com/amasad/status/2082025429901390266"
         },
         {
           "id": "2082000490066592127",
           "text": "We’re entering a new era of exploration.\n\nOur ancestors mapped the Earth. Then they explored space.\n\nOur generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search.",
           "created_at": "Tue Jul 28 07:09:33 +0000 2026",
-          "like_count": 563,
-          "retweet_count": 32,
-          "reply_count": 40,
-          "engagement_score": 667,
+          "like_count": 807,
+          "retweet_count": 46,
+          "reply_count": 48,
+          "engagement_score": 947,
           "url": "https://x.com/amasad/status/2082000490066592127"
         },
         {
-          "id": "2081576172656456076",
-          "text": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models. https://t.co/gSVw9tv346",
-          "created_at": "Mon Jul 27 03:03:28 +0000 2026",
-          "like_count": 441,
-          "retweet_count": 32,
-          "reply_count": 30,
-          "engagement_score": 535,
-          "url": "https://x.com/amasad/status/2081576172656456076"
+          "id": "2082504898801999990",
+          "text": "This is hands down the best AI design tool, both in taste and how fun and easy it is to use.\n\nTry it out!",
+          "created_at": "Wed Jul 29 16:33:53 +0000 2026",
+          "like_count": 784,
+          "retweet_count": 26,
+          "reply_count": 29,
+          "engagement_score": 865,
+          "url": "https://x.com/amasad/status/2082504898801999990"
         },
         {
-          "id": "2082014295177724025",
-          "text": "hit massive diminishing returns training my chess LLM on board→move pairs. \n\nthen an accident: a \"think before you move\" branch failed (hallucinated moves) but mixing just ~8% of those reasoning traces into plain board→move training beat pure move data at equal budget. \n\nthe model internalizes the thinking without ever doing it at inference.",
-          "created_at": "Tue Jul 28 08:04:24 +0000 2026",
-          "like_count": 138,
-          "retweet_count": 8,
-          "reply_count": 21,
-          "engagement_score": 175,
-          "url": "https://x.com/amasad/status/2082014295177724025"
+          "id": "2082263440908079290",
+          "text": "- Kimi K3: frontier at 1/4 the price\n- DeepSeek V4 flash: low wage workhorse\n- all the GPTs\n- good old Anthropic models",
+          "created_at": "Wed Jul 29 00:34:25 +0000 2026",
+          "like_count": 492,
+          "retweet_count": 28,
+          "reply_count": 45,
+          "engagement_score": 593,
+          "url": "https://x.com/amasad/status/2082263440908079290"
+        },
+        {
+          "id": "2082246268517310851",
+          "text": "We recently joined NVIDIA, Microsoft, and others in supporting open-weight AI.\n\nToday, we’re putting that belief into the product with model choice on Replit, starting with Kimi K3.\n\nThe future is the right model for the right job, at the right cost.",
+          "created_at": "Tue Jul 28 23:26:11 +0000 2026",
+          "like_count": 374,
+          "retweet_count": 24,
+          "reply_count": 48,
+          "engagement_score": 470,
+          "url": "https://x.com/amasad/status/2082246268517310851"
         }
       ]
     },
@@ -320,5 +269,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-28T22:51:53.574395+00:00"
+  "generated_at": "2026-07-29T22:53:00.374545+00:00"
 }
