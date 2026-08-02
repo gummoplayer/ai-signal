@@ -5,7 +5,18 @@
       "name": "Andrej Karpathy",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2083749667410727319",
+          "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+          "created_at": "Sun Aug 02 03:00:09 +0000 2026",
+          "like_count": 22794,
+          "retweet_count": 1719,
+          "reply_count": 1182,
+          "engagement_score": 27414,
+          "url": "https://x.com/karpathy/status/2083749667410727319"
+        }
+      ]
     },
     {
       "handle": "swyx",
@@ -14,54 +25,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2083073422410821846",
-          "text": "protip:  if you can distil models, you can also distil agent harnesses",
-          "created_at": "Fri Jul 31 06:13:00 +0000 2026",
-          "like_count": 365,
-          "retweet_count": 16,
-          "reply_count": 64,
-          "engagement_score": 461,
-          "url": "https://x.com/swyx/status/2083073422410821846"
-        },
-        {
           "id": "2083610493793845429",
           "text": "&gt; Google was too nervous to release it and DeepMind was blocked from shipping products that could disrupt Google.\n\nbookmark for the next vc that asks you \"what if &lt;incumbent&gt; builds this?\"",
           "created_at": "Sat Aug 01 17:47:07 +0000 2026",
-          "like_count": 344,
-          "retweet_count": 12,
-          "reply_count": 14,
-          "engagement_score": 382,
+          "like_count": 1142,
+          "retweet_count": 33,
+          "reply_count": 25,
+          "engagement_score": 1233,
           "url": "https://x.com/swyx/status/2083610493793845429"
         },
         {
-          "id": "2083016652032188669",
-          "text": "verbalizing one of those aha moments i had that seems retroactively pretty obvious:\n\nif you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you can then also reuse for the agent side inference.\n\nwe do know that the labs do use third party search providers, but clearly this is one of those things where developing more and more of your own 1P equivalents is both a competitive advantage and an adversarial target for AEO Batesian Mimicry* that you will not want to share.\n\n* https://t.co/Wa5fMP8bvO",
-          "created_at": "Fri Jul 31 02:27:25 +0000 2026",
-          "like_count": 175,
-          "retweet_count": 13,
-          "reply_count": 27,
-          "engagement_score": 228,
-          "url": "https://x.com/swyx/status/2083016652032188669"
-        },
-        {
-          "id": "2082982458774200481",
-          "text": "btw as a huge music person i moved from Spotify to YouTube Music 2 years ago and never looked back \n\n1 - comes with youtube premium\n2 - much friendlier to both big and small artists\n3 - MUCH bigger selection of indie/long tail/concert/acoustic/podcast music\n4 - ui doesnt piss me off every single time i open the app\n\nbonus:\n- didnt have a failed takeover attempt putting paywalls on the open podcast ecosystem \n- doesnt have overfamiliar ai dj telling u dumb things you already knew\n\ncons:\n- spotify wrapped is better than youtube wrapped",
-          "created_at": "Fri Jul 31 00:11:32 +0000 2026",
-          "like_count": 154,
-          "retweet_count": 6,
-          "reply_count": 32,
-          "engagement_score": 198,
-          "url": "https://x.com/swyx/status/2082982458774200481"
+          "id": "2083753582160191988",
+          "text": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show\n\nthis one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary https://t.co/vRckyyntm6 \n\n@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop",
+          "created_at": "Sun Aug 02 03:15:42 +0000 2026",
+          "like_count": 192,
+          "retweet_count": 8,
+          "reply_count": 21,
+          "engagement_score": 229,
+          "url": "https://x.com/swyx/status/2083753582160191988"
         },
         {
           "id": "2083439562437673053",
           "text": "among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal....\n\n... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in the g5.6/c5 era\n\nnow you use it when:\n1) you want the right mix of steerability and autonomy\n2) you want open ended \"loop that generates loops\" type end state without deeply specifying path to get there\n\nheres an example of when having a goal on saved my ass in a very long action-reasonining turn",
           "created_at": "Sat Aug 01 06:27:54 +0000 2026",
-          "like_count": 76,
+          "like_count": 88,
           "retweet_count": 3,
-          "reply_count": 39,
-          "engagement_score": 121,
+          "reply_count": 41,
+          "engagement_score": 135,
           "url": "https://x.com/swyx/status/2083439562437673053"
+        },
+        {
+          "id": "2083654369095156219",
+          "text": "started work on forge agents today https://t.co/u3nBCzF7sM",
+          "created_at": "Sat Aug 01 20:41:28 +0000 2026",
+          "like_count": 50,
+          "retweet_count": 2,
+          "reply_count": 18,
+          "engagement_score": 72,
+          "url": "https://x.com/swyx/status/2083654369095156219"
+        },
+        {
+          "id": "2083993378258288976",
+          "text": "one way i'm developing Forge (https://t.co/2x9e0oRjxQ) is to use it to host all my projects going forward. so I often find myself having to bounce back and forth between platform and product.\n\nsharing neat trick - in @openai codex you can @ a thread + queue up the @, so if your project is blocked on a platform feature, you can actually premove your project to proceed once the platform is unblocked.\n\nnow of course.. i wasnt actually strictly necessary in this whole process, so an even better multiagent harness would seamlessly orchestrate work back and forth between platform and project... it's just not a very common usecase unless you're building a real platform (which most people dont - most people just build applications on top of platforms, or a small platform with only 1 proudct/application tenant)",
+          "created_at": "Sun Aug 02 19:08:34 +0000 2026",
+          "like_count": 17,
+          "retweet_count": 0,
+          "reply_count": 17,
+          "engagement_score": 34,
+          "url": "https://x.com/swyx/status/2083993378258288976"
         }
       ]
     },
@@ -77,7 +88,18 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2083716949205500403",
+          "text": "Getting din with finance frnd. Combining rumors and some rough math, SALP...\n\n1. Presently has $6-7B in private equities?(Anthropic, Fluidstack, MatX)\n2. $3-4B in public equities.\n3. Likely raised $15B in new LP capital 2-3 months ago.\n4. Was $100B long, $60B short recently?",
+          "created_at": "Sun Aug 02 00:50:08 +0000 2026",
+          "like_count": 265,
+          "retweet_count": 6,
+          "reply_count": 8,
+          "engagement_score": 285,
+          "url": "https://x.com/insane_analyst/status/2083716949205500403"
+        }
+      ]
     },
     {
       "handle": "naval",
@@ -133,18 +155,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2083289093731934424",
-          "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices.\n\nThe gains support voice tutoring, real-time personalization and a new agentic learning platform. https://t.co/8sOL8QMkFz",
-          "created_at": "Fri Jul 31 20:30:00 +0000 2026",
-          "like_count": 174,
-          "retweet_count": 19,
-          "reply_count": 27,
-          "engagement_score": 239,
-          "url": "https://x.com/nvidia/status/2083289093731934424"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -175,68 +186,30 @@
       "tweets": []
     },
     {
-      "handle": "rauchg",
-      "name": "Guillermo Rauch (Vercel)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2083208578526314513",
-          "text": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.",
-          "created_at": "Fri Jul 31 15:10:03 +0000 2026",
-          "like_count": 1419,
-          "retweet_count": 72,
-          "reply_count": 71,
-          "engagement_score": 1634,
-          "url": "https://x.com/rauchg/status/2083208578526314513"
-        },
-        {
-          "id": "2083319868766699699",
-          "text": "AI Gateway gives companies the critical infra to make AI a productive investment:\n🆕 Budgets per key/team/project\n◾ Failover for maximum uptime\n◾ Model and provider choice\n◾ Realtime observability\n\nIf you're still in a 'token-maxing' fever dream, it's time to wake up 😁",
-          "created_at": "Fri Jul 31 22:32:17 +0000 2026",
-          "like_count": 167,
-          "retweet_count": 9,
-          "reply_count": 31,
-          "engagement_score": 216,
-          "url": "https://x.com/rauchg/status/2083319868766699699"
-        },
-        {
-          "id": "2083684679362965605",
-          "text": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.\n\nModel-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. \n\nThis is the way.",
-          "created_at": "Sat Aug 01 22:41:55 +0000 2026",
-          "like_count": 15,
-          "retweet_count": 2,
-          "reply_count": 3,
-          "engagement_score": 22,
-          "url": "https://x.com/rauchg/status/2083684679362965605"
-        }
-      ]
-    },
-    {
       "handle": "amasad",
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
       "tweets": [
         {
-          "id": "2083034412598579403",
-          "text": "Sandboxes are hard.\n\nWith all the “AI escaping  sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes.\n\nAt Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two. \n\nMain advice: Assume zero-days exist — because they do — and think in layers of protection in a zero-trust framework.\n\nMore here: https://t.co/3XGY0a1p3P",
-          "created_at": "Fri Jul 31 03:37:59 +0000 2026",
-          "like_count": 514,
-          "retweet_count": 58,
-          "reply_count": 71,
-          "engagement_score": 701,
-          "url": "https://x.com/amasad/status/2083034412598579403"
-        },
-        {
           "id": "2083424608993300824",
           "text": "~1500 Elo!\n\nConsistently beats frontier models and Stockfish level 0.\n\nFun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds.\n\nPlay it: https://t.co/qRg0HNwgC4 https://t.co/w6H0MWOmPx",
           "created_at": "Sat Aug 01 05:28:29 +0000 2026",
-          "like_count": 281,
-          "retweet_count": 10,
-          "reply_count": 33,
-          "engagement_score": 334,
+          "like_count": 317,
+          "retweet_count": 15,
+          "reply_count": 40,
+          "engagement_score": 387,
           "url": "https://x.com/amasad/status/2083424608993300824"
+        },
+        {
+          "id": "2083926395403821427",
+          "text": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. \n\n1253 Elo: https://t.co/W3qp1Z1i7I",
+          "created_at": "Sun Aug 02 14:42:24 +0000 2026",
+          "like_count": 190,
+          "retweet_count": 9,
+          "reply_count": 36,
+          "engagement_score": 244,
+          "url": "https://x.com/amasad/status/2083926395403821427"
         }
       ]
     },
@@ -248,6 +221,8 @@
       "tweets": []
     }
   ],
-  "errors": null,
-  "generated_at": "2026-08-01T22:44:58.992958+00:00"
+  "errors": [
+    "@rauchg: Expecting value: line 1 column 1 (char 0)"
+  ],
+  "generated_at": "2026-08-02T22:46:18.798014+00:00"
 }
