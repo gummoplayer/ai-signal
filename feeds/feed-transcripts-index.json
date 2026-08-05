@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-04T22:55:15.563852+00:00",
+  "generated_at": "2026-08-05T22:50:49.864776+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "link": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+      "channel": "Lenny's Podcast",
+      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+      "pub_date": "2026-08-05T12:04:01+00:00",
+      "transcript_path": "feeds/transcripts/b76ce62ad935e9c0fc5e7830.txt",
+      "transcript_chars": 5310,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-05T22:50:49.864776+00:00",
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
+    },
+    {
+      "guid": "87204ae8-77e7-4f6b-884a-cb9e2e93765a",
+      "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
+      "channel": "Capital Allocators",
+      "title": "WTT: The Anatomy of a Blow-Up",
+      "pub_date": "2026-08-05T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3e0c04cf492c276eb6aaa2fb.txt",
+      "transcript_chars": 2036,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-05T22:50:49.864776+00:00",
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+      "link": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+      "channel": "Latent Space",
+      "title": "[AINews] Megakernels are so dead and so back",
+      "pub_date": "2026-08-05T01:21:47+00:00",
+      "transcript_path": "feeds/transcripts/786ff87d998578032094d52f.txt",
+      "transcript_chars": 20646,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-05T22:50:49.864776+00:00",
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/unpacking-chatgpt-work",
       "link": "https://www.latent.space/p/unpacking-chatgpt-work",
@@ -12,8 +51,8 @@
       "transcript_chars": 19156,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-04T22:55:15.563852+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
@@ -25,8 +64,8 @@
       "transcript_chars": 18547,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-04T22:55:15.563852+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
@@ -38,8 +77,8 @@
       "transcript_chars": 38062,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-04T22:55:15.563852+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.latent.space/p/inference-eng",
@@ -51,8 +90,8 @@
       "transcript_chars": 131402,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-03T22:54:28.640015+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
@@ -64,8 +103,8 @@
       "transcript_chars": 1771,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-03T22:54:28.640015+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
@@ -77,8 +116,8 @@
       "transcript_chars": 4872,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-03T22:54:28.640015+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
@@ -90,8 +129,8 @@
       "transcript_chars": 4471,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-03T22:54:28.640015+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
+      "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
+      "expires_at": "2026-08-19T22:50:49.864776+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
