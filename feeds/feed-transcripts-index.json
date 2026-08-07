@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-07T01:28:34.210669+00:00",
+  "generated_at": "2026-08-07T22:27:03.427556+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "link": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "channel": "Dwarkesh Patel",
+      "title": "8 Predictions for the Era of Continual Learning",
+      "pub_date": "2026-08-07T17:17:40+00:00",
+      "transcript_path": "feeds/transcripts/d408f9adc99c9d316b83d689.txt",
+      "transcript_chars": 9251,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-07T22:27:03.427556+00:00",
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "link": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "channel": "Latent Space",
+      "title": "[AINews] AMD buys Taalas",
+      "pub_date": "2026-08-07T05:13:46+00:00",
+      "transcript_path": "feeds/transcripts/44481c8feb2dcddafce8ae00.txt",
+      "transcript_chars": 26832,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-07T22:27:03.427556+00:00",
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
+    },
     {
       "guid": "68c9f676-fdf7-4864-97ae-c6eb2a3b5e35",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/How-I-Force-Change-at-Companies-Wall-Street-Ignores-e3n1272",
@@ -12,8 +38,8 @@
       "transcript_chars": 142931,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-07T01:28:34.210669+00:00",
-      "last_seen_at": "2026-08-07T01:28:34.210669+00:00",
-      "expires_at": "2026-08-21T01:28:34.210669+00:00"
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
@@ -25,8 +51,8 @@
       "transcript_chars": 5583,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-07T01:28:34.210669+00:00",
-      "last_seen_at": "2026-08-07T01:28:34.210669+00:00",
-      "expires_at": "2026-08-21T01:28:34.210669+00:00"
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
@@ -38,8 +64,8 @@
       "transcript_chars": 5310,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T01:28:34.210669+00:00",
-      "expires_at": "2026-08-21T01:28:34.210669+00:00"
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     },
     {
       "guid": "87204ae8-77e7-4f6b-884a-cb9e2e93765a",
@@ -51,8 +77,8 @@
       "transcript_chars": 2036,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T01:28:34.210669+00:00",
-      "expires_at": "2026-08-21T01:28:34.210669+00:00"
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -64,8 +90,8 @@
       "transcript_chars": 20646,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T01:28:34.210669+00:00",
-      "expires_at": "2026-08-21T01:28:34.210669+00:00"
+      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
+      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     },
     {
       "guid": "https://www.latent.space/p/unpacking-chatgpt-work",

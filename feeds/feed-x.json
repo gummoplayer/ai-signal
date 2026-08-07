@@ -7,53 +7,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2085253030417461661",
-          "text": "a very primitive form of the near term multiagent agi future is setting up one thread to ping back once its done so you create an implicit kanban/waterfall graph of  dependent threads but each preserving their own work and agents\n\ni can't wait to setup a proper ui for this pattern but you can hack it together in most koding agents of choice rn",
-          "created_at": "Thu Aug 06 06:33:59 +0000 2026",
-          "like_count": 68,
-          "retweet_count": 4,
-          "reply_count": 37,
-          "engagement_score": 113,
-          "url": "https://x.com/swyx/status/2085253030417461661"
+          "id": "2085517544795079014",
+          "text": "## eval competition idea: Help kill my SaaS \n\nmy team is proposing to pay >$40k/year for enterprise saas we have never used and will never be able to customize.\n\nas a smol business owner, this feels shitty.\n\nthinking of doing a small remote hackathon:\n- i cover $1000 in tokens for you\n- you do your best to clone this SaaS in a weekend\n- my team (your prospective customer) evals it\n- winner gets $10,000 cash & @latentspacepod writeup\n- all code is open sourced\n\neveryone wins except high margin low moat saas.\nwe keep doing this with increasingly ambitious saas things for SMBs until we find the boundary of what saas is still hard to kill in a weekend.\n\ndoes that work?",
+          "created_at": "Fri Aug 07 00:05:04 +0000 2026",
+          "like_count": 361,
+          "retweet_count": 11,
+          "reply_count": 76,
+          "engagement_score": 459,
+          "url": "https://x.com/swyx/status/2085517544795079014"
         },
         {
           "id": "2085450774914756631",
           "text": "i guess this is a good time to mention that smol forge is open for the first 100 alpha users. get your usernames! (tire kickers who dont make any commits will be kicked out by eod)\n\npoint clanker to forge.smol.​ai/llms.txt\n\nfor now its just a fast agent native git remote and u can check docs for the extras. note that it's an alpha - transcript stuff is broken rn, for updates check the blog written by our ai devrel.",
           "created_at": "Thu Aug 06 19:39:45 +0000 2026",
-          "like_count": 46,
-          "retweet_count": 1,
-          "reply_count": 14,
-          "engagement_score": 62,
-          "url": "https://x.com/swyx/status/2085450774914756631"
-        },
-        {
-          "id": "2085517544795079014",
-          "text": "## eval competition idea: Help kill my SaaS \n\nmy team is proposing to pay >$40k/year for enterprise saas we have never used and will never be able to customize.\n\nas a smol business owner, this feels shitty.\n\nthinking of doing a small remote hackathon:\n- i cover $1000 in tokens for you\n- you do your best to clone this SaaS in a weekend\n- my team (your prospective customer) evals it\n- winner gets $10,000 cash & @latentspacepod writeup\n- all code is open sourced\n\neveryone wins except high margin low moat saas.\nwe keep doing this with increasingly ambitious saas things for SMBs until we find the boundary of what saas is still hard to kill in a weekend.\n\ndoes that work?",
-          "created_at": "Fri Aug 07 00:05:04 +0000 2026",
-          "like_count": 41,
+          "like_count": 70,
           "retweet_count": 2,
-          "reply_count": 16,
-          "engagement_score": 61,
-          "url": "https://x.com/swyx/status/2085517544795079014"
-        },
-        {
-          "id": "2085236400056877381",
-          "text": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs https://t.co/Bh8CFhGIn6",
-          "created_at": "Thu Aug 06 05:27:54 +0000 2026",
-          "like_count": 23,
-          "retweet_count": 1,
-          "reply_count": 9,
-          "engagement_score": 34,
-          "url": "https://x.com/swyx/status/2085236400056877381"
+          "reply_count": 31,
+          "engagement_score": 105,
+          "url": "https://x.com/swyx/status/2085450774914756631"
         },
         {
           "id": "2085504717829058569",
           "text": "man @waterloo_intern theses keep getting challenged*\n\n> megakernels are dead\ncursor drops monster kitty kernel\n\n> etched asics are dead\namd buys taalas, and etched is valued at $10b by SK Hynix and TSMC lol\n\nwhos gonna take on the remaining two theses?\n\n*note that he was making long term calls, these are short term datapoints",
           "created_at": "Thu Aug 06 23:14:06 +0000 2026",
-          "like_count": 12,
-          "retweet_count": 0,
-          "reply_count": 5,
-          "engagement_score": 17,
+          "like_count": 86,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "engagement_score": 99,
           "url": "https://x.com/swyx/status/2085504717829058569"
         }
       ]
@@ -65,24 +45,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2085203412040434079",
-          "text": "\"Everytime Googlers leave, the TPU ecosystem grows stronger\"\nDeepmind friend coping so hard in my DMs rn",
-          "created_at": "Thu Aug 06 03:16:49 +0000 2026",
-          "like_count": 1275,
-          "retweet_count": 24,
-          "reply_count": 40,
-          "engagement_score": 1363,
-          "url": "https://x.com/dylan522p/status/2085203412040434079"
-        },
-        {
           "id": "2085480002917945449",
           "text": "YC mantra is \"talk to your users\"\nYet every good AI or software founder I know secretly thinks their users are retards",
           "created_at": "Thu Aug 06 21:35:53 +0000 2026",
-          "like_count": 603,
-          "retweet_count": 5,
-          "reply_count": 50,
-          "engagement_score": 663,
+          "like_count": 2036,
+          "retweet_count": 32,
+          "reply_count": 143,
+          "engagement_score": 2243,
           "url": "https://x.com/dylan522p/status/2085480002917945449"
+        },
+        {
+          "id": "2085203412040434079",
+          "text": "\"Everytime Googlers leave, the TPU ecosystem grows stronger\"\nDeepmind friend coping so hard in my DMs rn",
+          "created_at": "Thu Aug 06 03:16:49 +0000 2026",
+          "like_count": 1352,
+          "retweet_count": 27,
+          "reply_count": 41,
+          "engagement_score": 1447,
+          "url": "https://x.com/dylan522p/status/2085203412040434079"
+        },
+        {
+          "id": "2085553638525845640",
+          "text": "Her \"Do you know Thom Browne?\"\nMe \"The Anthropic cofounder? Ya he's a legend!\" https://t.co/oWggWPERkY",
+          "created_at": "Fri Aug 07 02:28:29 +0000 2026",
+          "like_count": 201,
+          "retweet_count": 0,
+          "reply_count": 14,
+          "engagement_score": 215,
+          "url": "https://x.com/dylan522p/status/2085553638525845640"
         }
       ]
     },
@@ -96,11 +86,21 @@
           "id": "2085210431514370550",
           "text": "What if there were three AI ASIC startups that make significantly better versions of TPU. 🙊",
           "created_at": "Thu Aug 06 03:44:42 +0000 2026",
-          "like_count": 155,
+          "like_count": 165,
           "retweet_count": 6,
           "reply_count": 9,
-          "engagement_score": 176,
+          "engagement_score": 186,
           "url": "https://x.com/insane_analyst/status/2085210431514370550"
+        },
+        {
+          "id": "2085605192545022394",
+          "text": "You damn right this figure needs to be refined.\n\nShit is unreadable. Why did you even bother to publish?\n\nSeriously can anyone discern any useful info from this atrocious diagram...?\n\nLooks like an AI hallucination of a gay pride flag. 🏳️‍🌈 https://t.co/YQHUDn7Cnu",
+          "created_at": "Fri Aug 07 05:53:21 +0000 2026",
+          "like_count": 60,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "engagement_score": 64,
+          "url": "https://x.com/insane_analyst/status/2085605192545022394"
         }
       ]
     },
@@ -160,54 +160,34 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2085046495011869017",
-          "text": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training.\n\n24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
-          "created_at": "Wed Aug 05 16:53:17 +0000 2026",
-          "like_count": 1009,
-          "retweet_count": 145,
-          "reply_count": 51,
-          "engagement_score": 1350,
-          "url": "https://x.com/nvidia/status/2085046495011869017"
-        },
-        {
           "id": "2085485069226106891",
           "text": "Vera Rubin NVL72 Compute Tray. Designed to scale.\nAssembled in 1 minute. 100% automated. No cables, no hoses, no fans.\nA revolutionary new design that means faster ramp and faster time to revenue.",
           "created_at": "Thu Aug 06 21:56:01 +0000 2026",
-          "like_count": 783,
-          "retweet_count": 81,
-          "reply_count": 37,
-          "engagement_score": 982,
+          "like_count": 2132,
+          "retweet_count": 241,
+          "reply_count": 83,
+          "engagement_score": 2697,
           "url": "https://x.com/nvidia/status/2085485069226106891"
-        },
-        {
-          "id": "2085081013600825387",
-          "text": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs.\n\nAt @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇 https://t.co/bQyw2a0DB4",
-          "created_at": "Wed Aug 05 19:10:27 +0000 2026",
-          "like_count": 461,
-          "retweet_count": 60,
-          "reply_count": 37,
-          "engagement_score": 618,
-          "url": "https://x.com/nvidia/status/2085081013600825387"
-        },
-        {
-          "id": "2085106911964242055",
-          "text": "How do you explain world models to your sibling? 🤖\n\nNVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world.\n\nOr, as they might put it, it teaches robots to dream. 💭 https://t.co/OWn0A1XYQ0",
-          "created_at": "Wed Aug 05 20:53:21 +0000 2026",
-          "like_count": 287,
-          "retweet_count": 38,
-          "reply_count": 38,
-          "engagement_score": 401,
-          "url": "https://x.com/nvidia/status/2085106911964242055"
         },
         {
           "id": "2085418201848971501",
           "text": "Every business has different data, workflows and standards. Its AI should reflect that.\n\nWatch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and customize, then improve against the outcomes that matter most. https://t.co/waxSmCaNN3",
           "created_at": "Thu Aug 06 17:30:19 +0000 2026",
-          "like_count": 206,
-          "retweet_count": 29,
-          "reply_count": 43,
-          "engagement_score": 307,
+          "like_count": 289,
+          "retweet_count": 36,
+          "reply_count": 59,
+          "engagement_score": 420,
           "url": "https://x.com/nvidia/status/2085418201848971501"
+        },
+        {
+          "id": "2085381082539594007",
+          "text": "Network automation and autonomous networks aren't the same thing — and the gap between them is where the next generation of telco operations lives.\n\nIn this video, Amogh Dendukuri breaks down what it takes to get there: agentic AI, closed-loop operations, and an ecosystem building on NVIDIA platforms to make it real.",
+          "created_at": "Thu Aug 06 15:02:49 +0000 2026",
+          "like_count": 199,
+          "retweet_count": 23,
+          "reply_count": 32,
+          "engagement_score": 277,
+          "url": "https://x.com/nvidia/status/2085381082539594007"
         }
       ]
     },
@@ -249,41 +229,41 @@
           "id": "2085168662881894559",
           "text": "Writing a banger tweet is AGI-complete. If you can prove a clanker can write a banger in polynomial time, you’ve solved the entire class of AGI problems",
           "created_at": "Thu Aug 06 00:58:44 +0000 2026",
-          "like_count": 587,
+          "like_count": 599,
           "retweet_count": 21,
-          "reply_count": 72,
-          "engagement_score": 701,
+          "reply_count": 73,
+          "engagement_score": 714,
           "url": "https://x.com/rauchg/status/2085168662881894559"
-        },
-        {
-          "id": "2085019036849770642",
-          "text": "Next.js 16.3 is radically more efficient to serve and faster to build. Massive cost reductions on compute and data transfer at scale. Easy upgrade path.",
-          "created_at": "Wed Aug 05 15:04:10 +0000 2026",
-          "like_count": 507,
-          "retweet_count": 18,
-          "reply_count": 43,
-          "engagement_score": 586,
-          "url": "https://x.com/rauchg/status/2085019036849770642"
         },
         {
           "id": "2085403169551790359",
           "text": "Devtools must be 1️⃣ open source and 2️⃣ universally extensible.\n\nAI coding agents are the most important devtools in the history of our industry. The Plugin standard lets anybody extend them uniformly.\n\nThis is huge for the ecosystem. Build a Plugin → get exposure to the tidal wave of software creation from every agent: CLIs, IDEs, cloud agents, and even personal assistants.",
           "created_at": "Thu Aug 06 16:30:35 +0000 2026",
-          "like_count": 331,
-          "retweet_count": 8,
-          "reply_count": 45,
-          "engagement_score": 392,
+          "like_count": 528,
+          "retweet_count": 16,
+          "reply_count": 63,
+          "engagement_score": 623,
           "url": "https://x.com/rauchg/status/2085403169551790359"
         },
         {
-          "id": "2085077900190208080",
-          "text": "Infinite agent compute\n10,000 concurrent + 5,000 CPU cores per minute\nand these quotas are raisable",
-          "created_at": "Wed Aug 05 18:58:04 +0000 2026",
-          "like_count": 253,
+          "id": "2085756097097552264",
+          "text": "Watching a presentation on how we're making systems ultra-resilient to 𝚞𝚜-𝚎𝚊𝚜𝚝-𝟷 outages. Team reminded me the last AWS outage shut down my IoT mattress 😂\n\nOne of the many benefits of @vercel Fluid compute is how easy multi-region failover becomes, which allows you to sleep in an ultra-cold bed soundly all night.",
+          "created_at": "Fri Aug 07 15:52:59 +0000 2026",
+          "like_count": 284,
+          "retweet_count": 6,
+          "reply_count": 28,
+          "engagement_score": 324,
+          "url": "https://x.com/rauchg/status/2085756097097552264"
+        },
+        {
+          "id": "2085825140022235517",
+          "text": "“The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform built on https://t.co/nDDXqUmOlD at 55,000+ person company.\n\nThey wanted to have their company's all-knowing agent, like our @𝚟. Tried @aisdk, good but too low level. Tried off-the-shelf solutions and ${⁠lab} Enterprise products, expensive and inflexible. Tried agent frameworks, which led to the quote above… didn't hit the spot.\n\n@evedev_ team cooked. It's hard to find the abstraction that's both easy and scales with sophistication.",
+          "created_at": "Fri Aug 07 20:27:20 +0000 2026",
+          "like_count": 107,
           "retweet_count": 10,
-          "reply_count": 40,
-          "engagement_score": 313,
-          "url": "https://x.com/rauchg/status/2085077900190208080"
+          "reply_count": 32,
+          "engagement_score": 159,
+          "url": "https://x.com/rauchg/status/2085825140022235517"
         }
       ]
     },
@@ -292,7 +272,18 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2085544020424716723",
+          "text": "It’s true, in 21/22 I went around the valley asking everyone to train coding specific models with us: Google, Meta, everyone — no one thought it was as important as NLP use cases — eventually we trained our own: Replit-code-3b and then everyone got code pilled.",
+          "created_at": "Fri Aug 07 01:50:16 +0000 2026",
+          "like_count": 252,
+          "retweet_count": 20,
+          "reply_count": 28,
+          "engagement_score": 320,
+          "url": "https://x.com/amasad/status/2085544020424716723"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -305,5 +296,5 @@
   "errors": [
     "@karpathy: Expecting value: line 1 column 1 (char 0)"
   ],
-  "generated_at": "2026-08-07T01:27:52.085805+00:00"
+  "generated_at": "2026-08-07T22:26:09.507428+00:00"
 }
