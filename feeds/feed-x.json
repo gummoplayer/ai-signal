@@ -7,14 +7,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2084695630237311086",
-          "text": "we are huge airtable fans - aie runs on airtable - so seeing this number might seem surprising, but don't count @howietl out! \n\nif you were at WF26 you would already have seen @hyperagentapp which is the next chapter of team Airtable! https://t.co/yQhb4VUue4",
-          "created_at": "Tue Aug 04 17:39:04 +0000 2026",
-          "like_count": 45,
+          "id": "2085253030417461661",
+          "text": "a very primitive form of the near term multiagent agi future is setting up one thread to ping back once its done so you create an implicit kanban/waterfall graph of  dependent threads but each preserving their own work and agents\n\ni can't wait to setup a proper ui for this pattern but you can hack it together in most koding agents of choice rn",
+          "created_at": "Thu Aug 06 06:33:59 +0000 2026",
+          "like_count": 68,
+          "retweet_count": 4,
+          "reply_count": 37,
+          "engagement_score": 113,
+          "url": "https://x.com/swyx/status/2085253030417461661"
+        },
+        {
+          "id": "2085450774914756631",
+          "text": "i guess this is a good time to mention that smol forge is open for the first 100 alpha users. get your usernames! (tire kickers who dont make any commits will be kicked out by eod)\n\npoint clanker to forge.smol.​ai/llms.txt\n\nfor now its just a fast agent native git remote and u can check docs for the extras. note that it's an alpha - transcript stuff is broken rn, for updates check the blog written by our ai devrel.",
+          "created_at": "Thu Aug 06 19:39:45 +0000 2026",
+          "like_count": 46,
+          "retweet_count": 1,
+          "reply_count": 14,
+          "engagement_score": 62,
+          "url": "https://x.com/swyx/status/2085450774914756631"
+        },
+        {
+          "id": "2085517544795079014",
+          "text": "## eval competition idea: Help kill my SaaS \n\nmy team is proposing to pay >$40k/year for enterprise saas we have never used and will never be able to customize.\n\nas a smol business owner, this feels shitty.\n\nthinking of doing a small remote hackathon:\n- i cover $1000 in tokens for you\n- you do your best to clone this SaaS in a weekend\n- my team (your prospective customer) evals it\n- winner gets $10,000 cash & @latentspacepod writeup\n- all code is open sourced\n\neveryone wins except high margin low moat saas.\nwe keep doing this with increasingly ambitious saas things for SMBs until we find the boundary of what saas is still hard to kill in a weekend.\n\ndoes that work?",
+          "created_at": "Fri Aug 07 00:05:04 +0000 2026",
+          "like_count": 41,
           "retweet_count": 2,
-          "reply_count": 27,
-          "engagement_score": 76,
-          "url": "https://x.com/swyx/status/2084695630237311086"
+          "reply_count": 16,
+          "engagement_score": 61,
+          "url": "https://x.com/swyx/status/2085517544795079014"
+        },
+        {
+          "id": "2085236400056877381",
+          "text": "TIL Paul Erdős prompted his fellow mathematicians with bribes like we did the early LLMs https://t.co/Bh8CFhGIn6",
+          "created_at": "Thu Aug 06 05:27:54 +0000 2026",
+          "like_count": 23,
+          "retweet_count": 1,
+          "reply_count": 9,
+          "engagement_score": 34,
+          "url": "https://x.com/swyx/status/2085236400056877381"
+        },
+        {
+          "id": "2085504717829058569",
+          "text": "man @waterloo_intern theses keep getting challenged*\n\n> megakernels are dead\ncursor drops monster kitty kernel\n\n> etched asics are dead\namd buys taalas, and etched is valued at $10b by SK Hynix and TSMC lol\n\nwhos gonna take on the remaining two theses?\n\n*note that he was making long term calls, these are short term datapoints",
+          "created_at": "Thu Aug 06 23:14:06 +0000 2026",
+          "like_count": 12,
+          "retweet_count": 0,
+          "reply_count": 5,
+          "engagement_score": 17,
+          "url": "https://x.com/swyx/status/2085504717829058569"
         }
       ]
     },
@@ -23,14 +63,46 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2085203412040434079",
+          "text": "\"Everytime Googlers leave, the TPU ecosystem grows stronger\"\nDeepmind friend coping so hard in my DMs rn",
+          "created_at": "Thu Aug 06 03:16:49 +0000 2026",
+          "like_count": 1275,
+          "retweet_count": 24,
+          "reply_count": 40,
+          "engagement_score": 1363,
+          "url": "https://x.com/dylan522p/status/2085203412040434079"
+        },
+        {
+          "id": "2085480002917945449",
+          "text": "YC mantra is \"talk to your users\"\nYet every good AI or software founder I know secretly thinks their users are retards",
+          "created_at": "Thu Aug 06 21:35:53 +0000 2026",
+          "like_count": 603,
+          "retweet_count": 5,
+          "reply_count": 50,
+          "engagement_score": 663,
+          "url": "https://x.com/dylan522p/status/2085480002917945449"
+        }
+      ]
     },
     {
       "handle": "insane_analyst",
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2085210431514370550",
+          "text": "What if there were three AI ASIC startups that make significantly better versions of TPU. 🙊",
+          "created_at": "Thu Aug 06 03:44:42 +0000 2026",
+          "like_count": 155,
+          "retweet_count": 6,
+          "reply_count": 9,
+          "engagement_score": 176,
+          "url": "https://x.com/insane_analyst/status/2085210431514370550"
+        }
+      ]
     },
     {
       "handle": "naval",
@@ -88,54 +160,54 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2084733460690903204",
-          "text": "AI compute is going to orbit. 🚀\n\n@SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before. https://t.co/sJaY8Cg7b7",
-          "created_at": "Tue Aug 04 20:09:24 +0000 2026",
-          "like_count": 12854,
-          "retweet_count": 1879,
-          "reply_count": 571,
-          "engagement_score": 17183,
-          "url": "https://x.com/nvidia/status/2084733460690903204"
-        },
-        {
-          "id": "2084663782018543841",
-          "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles.\n\nBuilt for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels.\n\nWe built it, so you can build on it. https://t.co/OZBWtsu3FC",
-          "created_at": "Tue Aug 04 15:32:31 +0000 2026",
-          "like_count": 1281,
-          "retweet_count": 178,
-          "reply_count": 76,
-          "engagement_score": 1713,
-          "url": "https://x.com/nvidia/status/2084663782018543841"
-        },
-        {
-          "id": "2084625868173820144",
-          "text": "Security is strongest when organizations collaborate openly and move quickly. \n\nNow over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
-          "created_at": "Tue Aug 04 13:01:52 +0000 2026",
-          "like_count": 615,
-          "retweet_count": 95,
-          "reply_count": 58,
-          "engagement_score": 863,
-          "url": "https://x.com/nvidia/status/2084625868173820144"
-        },
-        {
           "id": "2085046495011869017",
           "text": "Thanks @ssankar for putting NVIDIA Nemotron 3 Ultra to the test with no post-training.\n\n24 hours later, it was outperforming frontier models on the tasks @PalantirTech customers needed to solve.",
           "created_at": "Wed Aug 05 16:53:17 +0000 2026",
-          "like_count": 562,
-          "retweet_count": 82,
-          "reply_count": 37,
-          "engagement_score": 763,
+          "like_count": 1009,
+          "retweet_count": 145,
+          "reply_count": 51,
+          "engagement_score": 1350,
           "url": "https://x.com/nvidia/status/2085046495011869017"
         },
         {
-          "id": "2084420790036910459",
-          "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers.\n\nSee how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
-          "created_at": "Mon Aug 03 23:26:57 +0000 2026",
-          "like_count": 542,
-          "retweet_count": 57,
-          "reply_count": 64,
-          "engagement_score": 720,
-          "url": "https://x.com/nvidia/status/2084420790036910459"
+          "id": "2085485069226106891",
+          "text": "Vera Rubin NVL72 Compute Tray. Designed to scale.\nAssembled in 1 minute. 100% automated. No cables, no hoses, no fans.\nA revolutionary new design that means faster ramp and faster time to revenue.",
+          "created_at": "Thu Aug 06 21:56:01 +0000 2026",
+          "like_count": 783,
+          "retweet_count": 81,
+          "reply_count": 37,
+          "engagement_score": 982,
+          "url": "https://x.com/nvidia/status/2085485069226106891"
+        },
+        {
+          "id": "2085081013600825387",
+          "text": "When organizations build AI with proprietary data, the resulting intelligence should remain theirs.\n\nAt @PalantirTech’s Sovereignty Bootcamp, NVIDIA VP of Enterprise AI @j_boitano discusses how Nemotron open models make secure, mission-specific AI possible. 👇 https://t.co/bQyw2a0DB4",
+          "created_at": "Wed Aug 05 19:10:27 +0000 2026",
+          "like_count": 461,
+          "retweet_count": 60,
+          "reply_count": 37,
+          "engagement_score": 618,
+          "url": "https://x.com/nvidia/status/2085081013600825387"
+        },
+        {
+          "id": "2085106911964242055",
+          "text": "How do you explain world models to your sibling? 🤖\n\nNVIDIA Cosmos helps physical AI reason about real-world interactions and simulate possible futures before acting in the real world.\n\nOr, as they might put it, it teaches robots to dream. 💭 https://t.co/OWn0A1XYQ0",
+          "created_at": "Wed Aug 05 20:53:21 +0000 2026",
+          "like_count": 287,
+          "retweet_count": 38,
+          "reply_count": 38,
+          "engagement_score": 401,
+          "url": "https://x.com/nvidia/status/2085106911964242055"
+        },
+        {
+          "id": "2085418201848971501",
+          "text": "Every business has different data, workflows and standards. Its AI should reflect that.\n\nWatch to see how NVIDIA Nemotron open models help teams build specialized AI they can trust, control and customize, then improve against the outcomes that matter most. https://t.co/waxSmCaNN3",
+          "created_at": "Thu Aug 06 17:30:19 +0000 2026",
+          "like_count": 206,
+          "retweet_count": 29,
+          "reply_count": 43,
+          "engagement_score": 307,
+          "url": "https://x.com/nvidia/status/2085418201848971501"
         }
       ]
     },
@@ -174,54 +246,44 @@
       "tier": "builder",
       "tweets": [
         {
+          "id": "2085168662881894559",
+          "text": "Writing a banger tweet is AGI-complete. If you can prove a clanker can write a banger in polynomial time, you’ve solved the entire class of AGI problems",
+          "created_at": "Thu Aug 06 00:58:44 +0000 2026",
+          "like_count": 587,
+          "retweet_count": 21,
+          "reply_count": 72,
+          "engagement_score": 701,
+          "url": "https://x.com/rauchg/status/2085168662881894559"
+        },
+        {
           "id": "2085019036849770642",
           "text": "Next.js 16.3 is radically more efficient to serve and faster to build. Massive cost reductions on compute and data transfer at scale. Easy upgrade path.",
           "created_at": "Wed Aug 05 15:04:10 +0000 2026",
-          "like_count": 398,
-          "retweet_count": 17,
-          "reply_count": 41,
-          "engagement_score": 473,
+          "like_count": 507,
+          "retweet_count": 18,
+          "reply_count": 43,
+          "engagement_score": 586,
           "url": "https://x.com/rauchg/status/2085019036849770642"
         },
         {
-          "id": "2084779435866398801",
-          "text": "1 line of code in @aisdk saves you 90% or more in DeepSeek v4 Flash AI Gateway tokens",
-          "created_at": "Tue Aug 04 23:12:05 +0000 2026",
-          "like_count": 398,
-          "retweet_count": 12,
-          "reply_count": 42,
-          "engagement_score": 464,
-          "url": "https://x.com/rauchg/status/2084779435866398801"
+          "id": "2085403169551790359",
+          "text": "Devtools must be 1️⃣ open source and 2️⃣ universally extensible.\n\nAI coding agents are the most important devtools in the history of our industry. The Plugin standard lets anybody extend them uniformly.\n\nThis is huge for the ecosystem. Build a Plugin → get exposure to the tidal wave of software creation from every agent: CLIs, IDEs, cloud agents, and even personal assistants.",
+          "created_at": "Thu Aug 06 16:30:35 +0000 2026",
+          "like_count": 331,
+          "retweet_count": 8,
+          "reply_count": 45,
+          "engagement_score": 392,
+          "url": "https://x.com/rauchg/status/2085403169551790359"
         },
         {
-          "id": "2084426730241220703",
-          "text": "The new AI Gateway logs UI is delightful https://t.co/cpMCaVeTbj",
-          "created_at": "Mon Aug 03 23:50:33 +0000 2026",
-          "like_count": 346,
-          "retweet_count": 15,
-          "reply_count": 26,
-          "engagement_score": 402,
-          "url": "https://x.com/rauchg/status/2084426730241220703"
-        },
-        {
-          "id": "2084445517678064092",
-          "text": "This is why P̵L̵G̵ ALG will always be king for startups. Have p̵e̵o̵p̵l̵e̵ agents adopt your product first, then have the meetings, if needed. The companies that start with the meetings are likely not your ideal customers.",
-          "created_at": "Tue Aug 04 01:05:13 +0000 2026",
-          "like_count": 312,
-          "retweet_count": 12,
-          "reply_count": 50,
-          "engagement_score": 386,
-          "url": "https://x.com/rauchg/status/2084445517678064092"
-        },
-        {
-          "id": "2084804138169446449",
-          "text": "Vercel is the Vercel for backends.\n\n@FactoryAI powers their API services with Fluid compute, with billions of requests per month.",
-          "created_at": "Wed Aug 05 00:50:14 +0000 2026",
-          "like_count": 317,
-          "retweet_count": 12,
-          "reply_count": 22,
-          "engagement_score": 363,
-          "url": "https://x.com/rauchg/status/2084804138169446449"
+          "id": "2085077900190208080",
+          "text": "Infinite agent compute\n10,000 concurrent + 5,000 CPU cores per minute\nand these quotas are raisable",
+          "created_at": "Wed Aug 05 18:58:04 +0000 2026",
+          "like_count": 253,
+          "retweet_count": 10,
+          "reply_count": 40,
+          "engagement_score": 313,
+          "url": "https://x.com/rauchg/status/2085077900190208080"
         }
       ]
     },
@@ -237,22 +299,11 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2084746170576892342",
-          "text": "Notebook is built for thinking, not toggling.\n\nWhile others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.\n\nUltra and Pro subscribers can jump in now, rolling out to everyone next.",
-          "created_at": "Tue Aug 04 20:59:54 +0000 2026",
-          "like_count": 498,
-          "retweet_count": 34,
-          "reply_count": 21,
-          "engagement_score": 587,
-          "url": "https://x.com/joshwoodward/status/2084746170576892342"
-        }
-      ]
+      "tweets": []
     }
   ],
   "errors": [
     "@karpathy: Expecting value: line 1 column 1 (char 0)"
   ],
-  "generated_at": "2026-08-05T22:49:58.992073+00:00"
+  "generated_at": "2026-08-07T01:27:52.085805+00:00"
 }
