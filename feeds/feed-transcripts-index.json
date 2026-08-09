@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-08T22:20:08.797790+00:00",
+  "generated_at": "2026-08-09T22:21:23.253442+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "link": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "channel": "Lenny's Podcast",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "pub_date": "2026-08-09T12:31:29+00:00",
+      "transcript_path": "feeds/transcripts/e5f48b73d0f20a04e3be9153.txt",
+      "transcript_chars": 5092,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-09T22:21:23.253442+00:00",
+      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
+      "expires_at": "2026-08-23T22:21:23.253442+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
       "link": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
@@ -12,8 +25,8 @@
       "transcript_chars": 17841,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T22:20:08.797790+00:00",
-      "last_seen_at": "2026-08-08T22:20:08.797790+00:00",
-      "expires_at": "2026-08-22T22:20:08.797790+00:00"
+      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
+      "expires_at": "2026-08-23T22:21:23.253442+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
@@ -25,8 +38,8 @@
       "transcript_chars": 9251,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-07T22:27:03.427556+00:00",
-      "last_seen_at": "2026-08-08T22:20:08.797790+00:00",
-      "expires_at": "2026-08-22T22:20:08.797790+00:00"
+      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
+      "expires_at": "2026-08-23T22:21:23.253442+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-taalas",
@@ -38,8 +51,8 @@
       "transcript_chars": 26832,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-07T22:27:03.427556+00:00",
-      "last_seen_at": "2026-08-08T22:20:08.797790+00:00",
-      "expires_at": "2026-08-22T22:20:08.797790+00:00"
+      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
+      "expires_at": "2026-08-23T22:21:23.253442+00:00"
     },
     {
       "guid": "68c9f676-fdf7-4864-97ae-c6eb2a3b5e35",
@@ -417,45 +430,6 @@
       "cached_at": "2026-07-24T22:55:23.220741+00:00",
       "last_seen_at": "2026-07-26T22:52:38.408685+00:00",
       "expires_at": "2026-08-09T22:52:38.408685+00:00"
-    },
-    {
-      "guid": "be04f071-24a5-461c-aded-2116b687cb81",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Inside-Artisans-International-Value-Fund-with-Portfolio-Manager-David-Samra-e3mdl34",
-      "channel": "The Acquirers Podcast",
-      "title": "Inside Artisan's International Value Fund with Portfolio Manager David Samra",
-      "pub_date": "2026-07-23T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/895e482bf16f467a9e810313.txt",
-      "transcript_chars": 142008,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
-      "expires_at": "2026-08-08T22:45:15.559903+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "link": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "channel": "Latent Space",
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "pub_date": "2026-07-23T05:18:47+00:00",
-      "transcript_path": "feeds/transcripts/be5d7ddcba7c7f37756d1aec.txt",
-      "transcript_chars": 27229,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
-      "expires_at": "2026-08-08T22:45:15.559903+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/poolside",
-      "link": "https://www.latent.space/p/poolside",
-      "channel": "Latent Space",
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "pub_date": "2026-07-23T05:09:14+00:00",
-      "transcript_path": "feeds/transcripts/f964ab542441809afe574bec.txt",
-      "transcript_chars": 141023,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:49:23.687653+00:00",
-      "last_seen_at": "2026-07-25T22:45:15.559903+00:00",
-      "expires_at": "2026-08-08T22:45:15.559903+00:00"
     }
   ]
 }
