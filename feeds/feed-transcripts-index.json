@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-09T22:21:23.253442+00:00",
+  "generated_at": "2026-08-10T22:28:13.188075+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "pub_date": "2026-08-10T15:01:49+00:00",
+      "transcript_path": "feeds/transcripts/412f043cdcb3ab3aa7f1f623.txt",
+      "transcript_chars": 10401,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-10T22:28:13.188075+00:00",
+      "last_seen_at": "2026-08-10T22:28:13.188075+00:00",
+      "expires_at": "2026-08-24T22:28:13.188075+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "link": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "pub_date": "2026-08-10T12:01:44+00:00",
+      "transcript_path": "feeds/transcripts/8956ade0f890e5e9bbc19239.txt",
+      "transcript_chars": 5269,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-10T22:28:13.188075+00:00",
+      "last_seen_at": "2026-08-10T22:28:13.188075+00:00",
+      "expires_at": "2026-08-24T22:28:13.188075+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
       "link": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
@@ -12,8 +38,8 @@
       "transcript_chars": 5092,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-09T22:21:23.253442+00:00",
-      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
-      "expires_at": "2026-08-23T22:21:23.253442+00:00"
+      "last_seen_at": "2026-08-10T22:28:13.188075+00:00",
+      "expires_at": "2026-08-24T22:28:13.188075+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
@@ -25,8 +51,8 @@
       "transcript_chars": 17841,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T22:20:08.797790+00:00",
-      "last_seen_at": "2026-08-09T22:21:23.253442+00:00",
-      "expires_at": "2026-08-23T22:21:23.253442+00:00"
+      "last_seen_at": "2026-08-10T22:28:13.188075+00:00",
+      "expires_at": "2026-08-24T22:28:13.188075+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
@@ -404,32 +430,6 @@
       "cached_at": "2026-07-25T22:45:15.559903+00:00",
       "last_seen_at": "2026-07-27T22:54:21.013127+00:00",
       "expires_at": "2026-08-10T22:54:21.013127+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-      "link": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-      "pub_date": "2026-07-24T17:15:25+00:00",
-      "transcript_path": "feeds/transcripts/6f6aef83b20f62c85c16b925.txt",
-      "transcript_chars": 4455,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-24T22:55:23.220741+00:00",
-      "last_seen_at": "2026-07-26T22:52:38.408685+00:00",
-      "expires_at": "2026-08-09T22:52:38.408685+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "link": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
-      "channel": "Latent Space",
-      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "pub_date": "2026-07-24T04:30:12+00:00",
-      "transcript_path": "feeds/transcripts/f4f2b85e8a24001212fd7016.txt",
-      "transcript_chars": 32218,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-24T22:55:23.220741+00:00",
-      "last_seen_at": "2026-07-26T22:52:38.408685+00:00",
-      "expires_at": "2026-08-09T22:52:38.408685+00:00"
     }
   ]
 }
