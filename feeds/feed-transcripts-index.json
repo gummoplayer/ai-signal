@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-11T22:33:10.225465+00:00",
+  "generated_at": "2026-08-12T22:31:50.004460+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://lexfridman.com/?p=6494",
+      "link": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
+      "channel": "Lex Fridman",
+      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
+      "pub_date": "2026-08-12T13:11:45+00:00",
+      "transcript_path": "feeds/transcripts/4dd49418f027831fd02bb01a.txt",
+      "transcript_chars": 177054,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-08-12T22:31:50.004460+00:00",
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "link": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "channel": "Latent Space",
+      "title": "[AINews] How to steal a Reasoning Trace",
+      "pub_date": "2026-08-12T07:11:08+00:00",
+      "transcript_path": "feeds/transcripts/95535ce824ed2c9cb88c1c56.txt",
+      "transcript_chars": 27393,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-12T22:31:50.004460+00:00",
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/chai-discovery",
       "link": "https://www.latent.space/p/chai-discovery",
@@ -12,8 +38,8 @@
       "transcript_chars": 8283,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
@@ -25,8 +51,8 @@
       "transcript_chars": 144899,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
@@ -38,8 +64,8 @@
       "transcript_chars": 26794,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
@@ -51,8 +77,8 @@
       "transcript_chars": 16993,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
@@ -64,8 +90,8 @@
       "transcript_chars": 10401,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-10T22:28:13.188075+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
@@ -77,8 +103,8 @@
       "transcript_chars": 5269,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-10T22:28:13.188075+00:00",
-      "last_seen_at": "2026-08-11T22:33:10.225465+00:00",
-      "expires_at": "2026-08-25T22:33:10.225465+00:00"
+      "last_seen_at": "2026-08-12T22:31:50.004460+00:00",
+      "expires_at": "2026-08-26T22:31:50.004460+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
@@ -456,19 +482,6 @@
       "cached_at": "2026-07-27T22:54:21.013127+00:00",
       "last_seen_at": "2026-07-29T22:53:51.997930+00:00",
       "expires_at": "2026-08-12T22:53:51.997930+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "link": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "channel": "Lenny's Podcast",
-      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-      "pub_date": "2026-07-26T12:32:06+00:00",
-      "transcript_path": "feeds/transcripts/dab141eefbb80e63927a0eca.txt",
-      "transcript_chars": 5676,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-26T22:52:38.408685+00:00",
-      "last_seen_at": "2026-07-28T22:52:39.557052+00:00",
-      "expires_at": "2026-08-11T22:52:39.557052+00:00"
     }
   ]
 }
