@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-16T22:11:49.636539+00:00",
+  "generated_at": "2026-08-17T22:15:07.812566+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+      "pub_date": "2026-08-17T15:03:16+00:00",
+      "transcript_path": "feeds/transcripts/6e39c86e34d0182f32698401.txt",
+      "transcript_chars": 5078,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-17T22:15:07.812566+00:00",
+      "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
+      "expires_at": "2026-08-31T22:15:07.812566+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+      "link": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+      "channel": "Lenny's Podcast",
+      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+      "pub_date": "2026-08-17T12:04:02+00:00",
+      "transcript_path": "feeds/transcripts/bcb124b2dcd11462bbdcab29.txt",
+      "transcript_chars": 5452,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-17T22:15:07.812566+00:00",
+      "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
+      "expires_at": "2026-08-31T22:15:07.812566+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
       "link": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
@@ -12,8 +38,8 @@
       "transcript_chars": 5779,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-16T22:11:49.636539+00:00",
-      "last_seen_at": "2026-08-16T22:11:49.636539+00:00",
-      "expires_at": "2026-08-30T22:11:49.636539+00:00"
+      "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
+      "expires_at": "2026-08-31T22:15:07.812566+00:00"
     },
     {
       "guid": "https://www.latent.space/p/flue-2",
@@ -25,8 +51,8 @@
       "transcript_chars": 9134,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-15T22:12:25.116967+00:00",
-      "last_seen_at": "2026-08-16T22:11:49.636539+00:00",
-      "expires_at": "2026-08-30T22:11:49.636539+00:00"
+      "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
+      "expires_at": "2026-08-31T22:15:07.812566+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
@@ -378,19 +404,6 @@
       "cached_at": "2026-08-01T22:45:49.268905+00:00",
       "last_seen_at": "2026-08-03T22:54:28.640015+00:00",
       "expires_at": "2026-08-17T22:54:28.640015+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
-      "link": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
-      "channel": "Latent Space",
-      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
-      "pub_date": "2026-07-31T04:40:54+00:00",
-      "transcript_path": "feeds/transcripts/afb5e0fc7fe1e48c12fcc306.txt",
-      "transcript_chars": 13558,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-31T22:53:45.743210+00:00",
-      "last_seen_at": "2026-08-02T22:47:11.725152+00:00",
-      "expires_at": "2026-08-16T22:47:11.725152+00:00"
     }
   ]
 }
