@@ -1,25 +1,317 @@
 {
-  "x": [],
-  "errors": [
-    "@karpathy: HTTP Error 402: Payment Required",
-    "@swyx: HTTP Error 402: Payment Required",
-    "@dylan522p: HTTP Error 402: Payment Required",
-    "@insane_analyst: HTTP Error 402: Payment Required",
-    "@naval: HTTP Error 402: Payment Required",
-    "@leopoldasch: HTTP Error 402: Payment Required",
-    "@jimkxa: HTTP Error 402: Payment Required",
-    "@sama: HTTP Error 402: Payment Required",
-    "@DarioAmodei: HTTP Error 402: Payment Required",
-    "@demishassabis: HTTP Error 402: Payment Required",
-    "@jietang: HTTP Error 402: Payment Required",
-    "@nvidia: HTTP Error 402: Payment Required",
-    "@AmandaAskell: HTTP Error 402: Payment Required",
-    "@bcherny: HTTP Error 402: Payment Required",
-    "@_catwu: HTTP Error 402: Payment Required",
-    "@alexalbert__: HTTP Error 402: Payment Required",
-    "@rauchg: HTTP Error 402: Payment Required",
-    "@amasad: HTTP Error 402: Payment Required",
-    "@joshwoodward: HTTP Error 402: Payment Required"
+  "x": [
+    {
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": []
+    },
+    {
+      "handle": "swyx",
+      "name": "Swyx (Shawn Wang)",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": [
+        {
+          "id": "2089798658225266806",
+          "text": "we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.\n\nopen sourcing/crowdsourcing our learnings today!\nhttps://t.co/J9SYClIF7z\n\ndoing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think",
+          "created_at": "Tue Aug 18 19:36:41 +0000 2026",
+          "like_count": 76,
+          "retweet_count": 1,
+          "reply_count": 18,
+          "engagement_score": 96,
+          "url": "https://x.com/swyx/status/2089798658225266806"
+        }
+      ]
+    },
+    {
+      "handle": "dylan522p",
+      "name": "Dylan Patel (SemiAnalysis)",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": []
+    },
+    {
+      "handle": "insane_analyst",
+      "name": "Irrational Analysis",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": [
+        {
+          "id": "2089145111129313548",
+          "text": "Programmer friend quote just now:\n\n\"If you gave a monkey Claude it would be better than half my co-workers.\"\n\nAnd you are bearish AI ROI?!",
+          "created_at": "Mon Aug 17 00:19:43 +0000 2026",
+          "like_count": 212,
+          "retweet_count": 3,
+          "reply_count": 18,
+          "engagement_score": 236,
+          "url": "https://x.com/insane_analyst/status/2089145111129313548"
+        },
+        {
+          "id": "2089601068170973324",
+          "text": "Visual approximation of VCs annualizing Anthropic ARR using last day of the month versus trailing 28 days. https://t.co/4ldANNVOFR",
+          "created_at": "Tue Aug 18 06:31:32 +0000 2026",
+          "like_count": 160,
+          "retweet_count": 6,
+          "reply_count": 10,
+          "engagement_score": 182,
+          "url": "https://x.com/insane_analyst/status/2089601068170973324"
+        },
+        {
+          "id": "2089730367049871381",
+          "text": "Agree OpenAI taking significant share. Open source also gaining. Grok... no lol.",
+          "created_at": "Tue Aug 18 15:05:19 +0000 2026",
+          "like_count": 150,
+          "retweet_count": 0,
+          "reply_count": 17,
+          "engagement_score": 167,
+          "url": "https://x.com/insane_analyst/status/2089730367049871381"
+        },
+        {
+          "id": "2089412655799042485",
+          "text": "Thanks to the two ppl who sent paper. Note tonight. Very interesting stuff. I thought this group at Intel was dead.\n\nLatest batch of IBIS-AMI sims done so need to get back to work. Expect publish 9pmish PST. This will only take 1-2 hr to write up.",
+          "created_at": "Mon Aug 17 18:02:51 +0000 2026",
+          "like_count": 115,
+          "retweet_count": 2,
+          "reply_count": 5,
+          "engagement_score": 124,
+          "url": "https://x.com/insane_analyst/status/2089412655799042485"
+        },
+        {
+          "id": "2089402505763733827",
+          "text": "Anyone have this paper?\n\nI want to know how they got integrated 16 wavelengths to work. https://t.co/iNgfIU7Djw",
+          "created_at": "Mon Aug 17 17:22:31 +0000 2026",
+          "like_count": 90,
+          "retweet_count": 6,
+          "reply_count": 9,
+          "engagement_score": 111,
+          "url": "https://x.com/insane_analyst/status/2089402505763733827"
+        }
+      ]
+    },
+    {
+      "handle": "naval",
+      "name": "Naval Ravikant",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": [
+        {
+          "id": "2089273166049009797",
+          "text": "Don’t send me the report, just send me the prompt.",
+          "created_at": "Mon Aug 17 08:48:34 +0000 2026",
+          "like_count": 11327,
+          "retweet_count": 613,
+          "reply_count": 536,
+          "engagement_score": 13089,
+          "url": "https://x.com/naval/status/2089273166049009797"
+        }
+      ]
+    },
+    {
+      "handle": "leopoldasch",
+      "name": "Leopold Aschenbrenner",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": []
+    },
+    {
+      "handle": "jimkxa",
+      "name": "Jim Keller",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": []
+    },
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "domain": "ai",
+      "tier": "exec",
+      "tweets": [
+        {
+          "id": "2089787807611195475",
+          "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\n\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.\n\nWe expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.\n\nhttps://t.co/51kvKfbfrO",
+          "created_at": "Tue Aug 18 18:53:34 +0000 2026",
+          "like_count": 5093,
+          "retweet_count": 367,
+          "reply_count": 855,
+          "engagement_score": 6682,
+          "url": "https://x.com/sama/status/2089787807611195475"
+        },
+        {
+          "id": "2089805495783813196",
+          "text": "(We still expect to ship great new models soon; this impacts further-out releases.)",
+          "created_at": "Tue Aug 18 20:03:51 +0000 2026",
+          "like_count": 1267,
+          "retweet_count": 48,
+          "reply_count": 137,
+          "engagement_score": 1500,
+          "url": "https://x.com/sama/status/2089805495783813196"
+        }
+      ]
+    },
+    {
+      "handle": "DarioAmodei",
+      "name": "Dario Amodei",
+      "domain": "ai",
+      "tier": "exec",
+      "tweets": []
+    },
+    {
+      "handle": "demishassabis",
+      "name": "Demis Hassabis (Google DeepMind)",
+      "domain": "ai",
+      "tier": "exec",
+      "tweets": []
+    },
+    {
+      "handle": "jietang",
+      "name": "Tang Jie (Z.ai / Tsinghua)",
+      "domain": "ai",
+      "tier": "exec",
+      "tweets": []
+    },
+    {
+      "handle": "nvidia",
+      "name": "NVIDIA (Jensen Huang / AI infrastructure)",
+      "domain": "ai",
+      "tier": "infra",
+      "tweets": [
+        {
+          "id": "2089331953585607127",
+          "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace.\n\nAt SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer.\n\nThe campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
+          "created_at": "Mon Aug 17 12:42:10 +0000 2026",
+          "like_count": 952,
+          "retweet_count": 121,
+          "reply_count": 73,
+          "engagement_score": 1267,
+          "url": "https://x.com/nvidia/status/2089331953585607127"
+        },
+        {
+          "id": "2089804526970642920",
+          "text": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC. https://t.co/aFm9kl6zcU",
+          "created_at": "Tue Aug 18 20:00:00 +0000 2026",
+          "like_count": 74,
+          "retweet_count": 10,
+          "reply_count": 10,
+          "engagement_score": 104,
+          "url": "https://x.com/nvidia/status/2089804526970642920"
+        }
+      ]
+    },
+    {
+      "handle": "AmandaAskell",
+      "name": "Amanda Askell (Anthropic)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": []
+    },
+    {
+      "handle": "bcherny",
+      "name": "Boris Cherny (Claude Code)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": []
+    },
+    {
+      "handle": "_catwu",
+      "name": "Cat Wu (Anthropic)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": []
+    },
+    {
+      "handle": "alexalbert__",
+      "name": "Alex Albert (Anthropic)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": []
+    },
+    {
+      "handle": "rauchg",
+      "name": "Guillermo Rauch (Vercel)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": [
+        {
+          "id": "2089409162270965858",
+          "text": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁",
+          "created_at": "Mon Aug 17 17:48:58 +0000 2026",
+          "like_count": 4306,
+          "retweet_count": 135,
+          "reply_count": 163,
+          "engagement_score": 4739,
+          "url": "https://x.com/rauchg/status/2089409162270965858"
+        },
+        {
+          "id": "2089747453004468339",
+          "text": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.\n\nI'm looking forward to bringing transparency to what frontier models can and cannot do in terms of real-world guardrail exploitability.\n\nIf escapes are discovered, we'll be ready to patch, iterate, and share our findings with the broader community to strengthen global cybersecurity.",
+          "created_at": "Tue Aug 18 16:13:13 +0000 2026",
+          "like_count": 1082,
+          "retweet_count": 49,
+          "reply_count": 54,
+          "engagement_score": 1234,
+          "url": "https://x.com/rauchg/status/2089747453004468339"
+        },
+        {
+          "id": "2089804717337817514",
+          "text": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon",
+          "created_at": "Tue Aug 18 20:00:45 +0000 2026",
+          "like_count": 1027,
+          "retweet_count": 41,
+          "reply_count": 52,
+          "engagement_score": 1161,
+          "url": "https://x.com/rauchg/status/2089804717337817514"
+        },
+        {
+          "id": "2089831055373316274",
+          "text": "I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street.\n\nIt’s 10-20x smaller than the major coding CLIs. It starts up instantaneously. It feels more like using 𝚣𝚜𝚑 than an IDE in your terminal. It’s embeddable anywhere, even your browser via WebAssembly.\n\nAnd of course it’s open source and model-agnostic. It’s experimental, but give it a shot and let us know how it goes!",
+          "created_at": "Tue Aug 18 21:45:25 +0000 2026",
+          "like_count": 104,
+          "retweet_count": 1,
+          "reply_count": 9,
+          "engagement_score": 115,
+          "url": "https://x.com/rauchg/status/2089831055373316274"
+        }
+      ]
+    },
+    {
+      "handle": "amasad",
+      "name": "Amjad Masad (Replit)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": [
+        {
+          "id": "2089525819567739264",
+          "text": "This team doesn’t have “AI” anywhere in their pitch but has AI growth rates and would have 10x the headcount if they weren’t so AI-pilled.",
+          "created_at": "Tue Aug 18 01:32:31 +0000 2026",
+          "like_count": 270,
+          "retweet_count": 3,
+          "reply_count": 23,
+          "engagement_score": 299,
+          "url": "https://x.com/amasad/status/2089525819567739264"
+        }
+      ]
+    },
+    {
+      "handle": "joshwoodward",
+      "name": "Josh Woodward (Google Labs)",
+      "domain": "ai",
+      "tier": "builder",
+      "tweets": [
+        {
+          "id": "2089520767281324112",
+          "text": "Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better?\n\n#1: Testing revamped Workspace tools in 1-2 weeks\n#2: 3.7 Flash showed improvements in tool calling, more coming here\n#3: New “Projects” design done, implementing now\n#4: 49 connectors (and counting) supported now\n#5: Backend work done, frontend work started\n#6: Done\n#7: Done, ramping up now\n#8: Done\n#9: Done\n#10: Done, fixed the biggest over-triggering bugs",
+          "created_at": "Tue Aug 18 01:12:26 +0000 2026",
+          "like_count": 709,
+          "retweet_count": 41,
+          "reply_count": 217,
+          "engagement_score": 1008,
+          "url": "https://x.com/joshwoodward/status/2089520767281324112"
+        }
+      ]
+    }
   ],
-  "generated_at": "2026-08-17T22:14:51.008094+00:00"
+  "errors": null,
+  "generated_at": "2026-08-18T22:13:17.691753+00:00"
 }
