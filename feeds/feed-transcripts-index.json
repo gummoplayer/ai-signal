@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-18T22:14:18.801283+00:00",
+  "generated_at": "2026-08-19T22:16:58.244368+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "link": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "channel": "Latent Space",
+      "title": "[AINews] Memory prices up 500% in 12 months",
+      "pub_date": "2026-08-19T08:44:52+00:00",
+      "transcript_path": "feeds/transcripts/3bfbbff7124d6d46843914d0.txt",
+      "transcript_chars": 12692,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-19T22:16:58.244368+00:00",
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
       "link": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
@@ -12,8 +25,8 @@
       "transcript_chars": 4700,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T22:14:18.801283+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
@@ -25,8 +38,8 @@
       "transcript_chars": 6308,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T22:14:18.801283+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
@@ -38,8 +51,8 @@
       "transcript_chars": 28346,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T22:14:18.801283+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
@@ -51,8 +64,8 @@
       "transcript_chars": 5078,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-17T22:15:07.812566+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -64,8 +77,8 @@
       "transcript_chars": 5452,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-17T22:15:07.812566+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
+      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
+      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
@@ -417,19 +430,6 @@
       "cached_at": "2026-08-03T22:54:28.640015+00:00",
       "last_seen_at": "2026-08-05T22:50:49.864776+00:00",
       "expires_at": "2026-08-19T22:50:49.864776+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
-      "link": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
-      "channel": "Lenny's Podcast",
-      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
-      "pub_date": "2026-08-02T12:32:02+00:00",
-      "transcript_path": "feeds/transcripts/faa59532c0742701defbd7fb.txt",
-      "transcript_chars": 5552,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-02T22:47:11.725152+00:00",
-      "last_seen_at": "2026-08-04T22:55:15.563852+00:00",
-      "expires_at": "2026-08-18T22:55:15.563852+00:00"
     }
   ]
 }
