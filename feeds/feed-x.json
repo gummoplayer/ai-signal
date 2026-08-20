@@ -14,14 +14,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2089798658225266806",
-          "text": "we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.\n\nopen sourcing/crowdsourcing our learnings today!\nhttps://t.co/J9SYClIF7z\n\ndoing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think",
-          "created_at": "Tue Aug 18 19:36:41 +0000 2026",
-          "like_count": 167,
-          "retweet_count": 6,
-          "reply_count": 48,
-          "engagement_score": 227,
-          "url": "https://x.com/swyx/status/2089798658225266806"
+          "id": "2090314794456785263",
+          "text": "HAHAHAHAHAHA\n\nnon technical people are so incredibly cooked they are burnt thru\n\ncan u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,\n\nwhat a time to be alive",
+          "created_at": "Thu Aug 20 05:47:37 +0000 2026",
+          "like_count": 1443,
+          "retweet_count": 36,
+          "reply_count": 93,
+          "engagement_score": 1608,
+          "url": "https://x.com/swyx/status/2090314794456785263"
+        },
+        {
+          "id": "2090550020496040266",
+          "text": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations…)\n\n/wayfinder is @mattpocockuk’s /grill-me for /grill-me, when you are just navigating the fog of war and don’t yet know what you dont yet know, and need to orchestrate research and other grill sessions to get there. super glad to have @ricmac help launch our new Skills coverage with his course launch this week!\n\n👇exclusive interview, quick read",
+          "created_at": "Thu Aug 20 21:22:20 +0000 2026",
+          "like_count": 34,
+          "retweet_count": 2,
+          "reply_count": 8,
+          "engagement_score": 46,
+          "url": "https://x.com/swyx/status/2090550020496040266"
         }
       ]
     },
@@ -35,10 +45,10 @@
           "id": "2089933933203075349",
           "text": "Holy shit have y'all seen Anthropic ARR?\nAs measured by last 1 hour at 2PM times 8760",
           "created_at": "Wed Aug 19 04:34:13 +0000 2026",
-          "like_count": 1937,
-          "retweet_count": 33,
-          "reply_count": 50,
-          "engagement_score": 2053,
+          "like_count": 2133,
+          "retweet_count": 37,
+          "reply_count": 56,
+          "engagement_score": 2263,
           "url": "https://x.com/dylan522p/status/2089933933203075349"
         }
       ]
@@ -48,35 +58,25 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2089730367049871381",
-          "text": "Agree OpenAI taking significant share. Open source also gaining. Grok... no lol.",
-          "created_at": "Tue Aug 18 15:05:19 +0000 2026",
-          "like_count": 190,
-          "retweet_count": 1,
-          "reply_count": 19,
-          "engagement_score": 211,
-          "url": "https://x.com/insane_analyst/status/2089730367049871381"
-        },
-        {
-          "id": "2089601068170973324",
-          "text": "Visual approximation of VCs annualizing Anthropic ARR using last day of the month versus trailing 28 days. https://t.co/4ldANNVOFR",
-          "created_at": "Tue Aug 18 06:31:32 +0000 2026",
-          "like_count": 171,
-          "retweet_count": 7,
-          "reply_count": 10,
-          "engagement_score": 195,
-          "url": "https://x.com/insane_analyst/status/2089601068170973324"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "naval",
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2090497355649008059",
+          "text": "Grok Bot is just cool. 😎\n\nOf course an agent should be persistent.\n\nOf course it should have its own computer.\n\nAll that remains is for it to be embodied…",
+          "created_at": "Thu Aug 20 17:53:03 +0000 2026",
+          "like_count": 3297,
+          "retweet_count": 122,
+          "reply_count": 202,
+          "engagement_score": 3743,
+          "url": "https://x.com/naval/status/2090497355649008059"
+        }
+      ]
     },
     {
       "handle": "leopoldasch",
@@ -97,28 +97,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2089787807611195475",
-          "text": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\n\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.\n\nWe expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.\n\nhttps://t.co/51kvKfbfrO",
-          "created_at": "Tue Aug 18 18:53:34 +0000 2026",
-          "like_count": 9530,
-          "retweet_count": 742,
-          "reply_count": 1555,
-          "engagement_score": 12569,
-          "url": "https://x.com/sama/status/2089787807611195475"
-        },
-        {
-          "id": "2089805495783813196",
-          "text": "(We still expect to ship great new models soon; this impacts further-out releases.)",
-          "created_at": "Tue Aug 18 20:03:51 +0000 2026",
-          "like_count": 3167,
-          "retweet_count": 115,
-          "reply_count": 224,
-          "engagement_score": 3621,
-          "url": "https://x.com/sama/status/2089805495783813196"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -144,10 +123,10 @@
           "id": "2089941544581403107",
           "text": "Thoughts About Scaling Law\n\nScaling, but not only of parameters. Every model release now ends with the same question: how many parameters? It isn't a question that can be answered on its own. Parameter count is only meaningful alongside three others — how much data you have, where you intend to spend your compute, and who will run the model, under what conditions.\n\nThe field learned this the hard way. Kaplan et al. (2020) fit an exponent that told everyone to grow parameters faster than data — roughly 2.7:1 — and the industry complied: GPT-3, Gopher, MT-NLG. Hoffmann et al. (2022) redid the experiment across four hundred models and found the compute-optimal split is closer to 20 tokens per parameter, and that with sufficient compute the two should grow at the same rate rather than drifting apart. The error in the earlier fit compounded with every order of magnitude of compute, which is why the largest models of that generation were the most misallocated. The trillion-parameter round was, in retrospect, a detour the whole field took together and then reversed.\n\nChinchilla wasn't the end either. It optimized training compute for models that would be trained once and evaluated. Today a model is called billions of times a day and inference dominates lifetime cost. Put inference into the objective and the optimum moves toward smaller models trained far longer — deliberate over-training, which is what Llama-2-7B and Gemma-2-9B were doing at roughly 290 and 889 tokens per parameter.\n\nSparsity moved the target again. In a MoE model two quantities have to be kept apart: total parameters govern roughly how much the model can hold — knowledge, facts, the long tail — while activated parameters and effective depth govern roughly how far it can think, how many steps of a causal chain it can carry before it comes apart. A dense 20:1 ratio does not transfer. And the ratio isn't a single number at all: Roberts et al. (2025) find the optimal tokens-per-parameter is task-dependent, with memorization favoring more parameters and reasoning favoring more data. Follow-up work on MoE observes that at fixed TPP, pushing total parameters higher actually degrades reasoning, while activating more experts reliably helps it.\n\nThis matters for what we are building toward. Finding a vulnerability is not a retrieval problem. It doesn't come from having memorized more CVEs; it comes from carrying a twenty-step chain of inference to the end without losing the thread. That capability does not live in total parameter count.\n\nWhich brings us to this release. Total parameters appear to matter up to a threshold — enough to hold the world — after which additional capability comes from scaling elsewhere: effective depth per forward pass, and above all post-training. GLM-5.3 is our controlled experiment on that claim. Same base, same architecture, same total and activated parameters as GLM-5.2. One month of scaling long-horizon environments and RL. The gains are not marginal. Well, scaling has more than one dial. We turned the post-training one this time because it had the most slack left in it — not because the others are finished. Base model size, pretraining data, compute spent per forward pass: all of them are still on the table, and we will come back to each. What this experiment taught us is that the dials do not have to be turned together, and that the one worth turning next is rarely the one that was worth turning last. We are not done scaling. Next time, maybe mid-training, pre-training, and even more.",
           "created_at": "Wed Aug 19 05:04:28 +0000 2026",
-          "like_count": 4281,
-          "retweet_count": 569,
-          "reply_count": 159,
-          "engagement_score": 5578,
+          "like_count": 5736,
+          "retweet_count": 793,
+          "reply_count": 208,
+          "engagement_score": 7530,
           "url": "https://x.com/jietang/status/2089941544581403107"
         }
       ]
@@ -159,14 +138,24 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2089804526970642920",
-          "text": "Creator Crafted. Game Ready.\n\nNVIDIA RTX Spark brings together creative workflows, local AI tools and RTX gaming in one PC. https://t.co/aFm9kl6zcU",
-          "created_at": "Tue Aug 18 20:00:00 +0000 2026",
-          "like_count": 251,
-          "retweet_count": 25,
-          "reply_count": 29,
-          "engagement_score": 330,
-          "url": "https://x.com/nvidia/status/2089804526970642920"
+          "id": "2090473127658570184",
+          "text": "Awesome to see the first NVIDIA Vera Rubin racks powering @OpenAI 's training stack. \n\nTogether, we’re building the accelerated computing infrastructure to advance frontier AI.",
+          "created_at": "Thu Aug 20 16:16:47 +0000 2026",
+          "like_count": 345,
+          "retweet_count": 34,
+          "reply_count": 32,
+          "engagement_score": 445,
+          "url": "https://x.com/nvidia/status/2090473127658570184"
+        },
+        {
+          "id": "2090548358868070801",
+          "text": "The right model depends on the task.\n\nNVIDIA NeMo Switchyard helps developers route each agent workflow step across a chosen model pool based on their own quality, latency and cost criteria.\n\nKari Briski joins @MTSlive to explain why agent workflows need model routing. https://t.co/3fMDh26MKY",
+          "created_at": "Thu Aug 20 21:15:43 +0000 2026",
+          "like_count": 83,
+          "retweet_count": 14,
+          "reply_count": 15,
+          "engagement_score": 126,
+          "url": "https://x.com/nvidia/status/2090548358868070801"
         }
       ]
     },
@@ -182,7 +171,18 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2090537902912815536",
+          "text": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
+          "created_at": "Thu Aug 20 20:34:11 +0000 2026",
+          "like_count": 762,
+          "retweet_count": 45,
+          "reply_count": 79,
+          "engagement_score": 931,
+          "url": "https://x.com/bcherny/status/2090537902912815536"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -205,44 +205,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2089804717337817514",
-          "text": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon",
-          "created_at": "Tue Aug 18 20:00:45 +0000 2026",
-          "like_count": 3017,
-          "retweet_count": 137,
-          "reply_count": 145,
-          "engagement_score": 3436,
-          "url": "https://x.com/rauchg/status/2089804717337817514"
-        },
-        {
-          "id": "2089747453004468339",
-          "text": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.\n\nI'm looking forward to bringing transparency to what frontier models can and cannot do in terms of real-world guardrail exploitability.\n\nIf escapes are discovered, we'll be ready to patch, iterate, and share our findings with the broader community to strengthen global cybersecurity.",
-          "created_at": "Tue Aug 18 16:13:13 +0000 2026",
-          "like_count": 1540,
-          "retweet_count": 73,
-          "reply_count": 70,
-          "engagement_score": 1756,
-          "url": "https://x.com/rauchg/status/2089747453004468339"
-        },
-        {
-          "id": "2089831055373316274",
-          "text": "I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street.\n\nIt’s 10-20x smaller than the major coding CLIs. It starts up instantaneously. It feels more like using 𝚣𝚜𝚑 than an IDE in your terminal. It’s embeddable anywhere, even your browser via WebAssembly.\n\nAnd of course it’s open source and model-agnostic. It’s experimental, but give it a shot and let us know how it goes!",
-          "created_at": "Tue Aug 18 21:45:25 +0000 2026",
-          "like_count": 1326,
-          "retweet_count": 44,
-          "reply_count": 84,
-          "engagement_score": 1498,
-          "url": "https://x.com/rauchg/status/2089831055373316274"
+          "id": "2090255740384751664",
+          "text": "https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² \n\nAI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.\n\nFast is a one-way street.\n\n¹ that's microseconds\n² fun fact: the wasm build is actually *smaller*. A lot of binary weight comes from the TLS/HTTP stack. In WebAssembly, fx delegates 𝚏𝚎𝚝𝚌𝚑() to the JS runtime instead. You can try this on https://t.co/me7se5dvip",
+          "created_at": "Thu Aug 20 01:52:58 +0000 2026",
+          "like_count": 1121,
+          "retweet_count": 69,
+          "reply_count": 102,
+          "engagement_score": 1361,
+          "url": "https://x.com/rauchg/status/2090255740384751664"
         },
         {
           "id": "2090112319791776192",
           "text": "PSA: https://t.co/OL0LzGtvAw has free GLM-5.2 for 2 weeks from @blackboxai, and 50% off @ChatGPT Sol for a month if you use ▲ AI Gateway. Sol is a brainiac, GLM-5.2 is a workhorse.\n\nUsage is much higher than we anticipated. We're working on adding more GLM capacity!",
           "created_at": "Wed Aug 19 16:23:04 +0000 2026",
-          "like_count": 434,
-          "retweet_count": 20,
-          "reply_count": 27,
-          "engagement_score": 501,
+          "like_count": 711,
+          "retweet_count": 35,
+          "reply_count": 45,
+          "engagement_score": 826,
           "url": "https://x.com/rauchg/status/2090112319791776192"
+        },
+        {
+          "id": "2090520415336845595",
+          "text": "We’re building AWS for agents",
+          "created_at": "Thu Aug 20 19:24:41 +0000 2026",
+          "like_count": 172,
+          "retweet_count": 3,
+          "reply_count": 21,
+          "engagement_score": 199,
+          "url": "https://x.com/rauchg/status/2090520415336845595"
         }
       ]
     },
@@ -256,31 +246,31 @@
           "id": "2090079496124674377",
           "text": "Agents made software cheaper but made coding expensive.\n\nToday, together with @OpenAI, we’re changing this:",
           "created_at": "Wed Aug 19 14:12:38 +0000 2026",
-          "like_count": 2892,
-          "retweet_count": 182,
-          "reply_count": 141,
-          "engagement_score": 3397,
+          "like_count": 4041,
+          "retweet_count": 248,
+          "reply_count": 184,
+          "engagement_score": 4721,
           "url": "https://x.com/amasad/status/2090079496124674377"
         },
         {
           "id": "2090104535112945906",
           "text": "Excited for our partnership with OpenAI",
           "created_at": "Wed Aug 19 15:52:08 +0000 2026",
-          "like_count": 545,
-          "retweet_count": 17,
-          "reply_count": 40,
-          "engagement_score": 619,
+          "like_count": 772,
+          "retweet_count": 27,
+          "reply_count": 71,
+          "engagement_score": 897,
           "url": "https://x.com/amasad/status/2090104535112945906"
         },
         {
-          "id": "2089525819567739264",
-          "text": "This team doesn’t have “AI” anywhere in their pitch but has AI growth rates and would have 10x the headcount if they weren’t so AI-pilled.",
-          "created_at": "Tue Aug 18 01:32:31 +0000 2026",
-          "like_count": 283,
-          "retweet_count": 4,
-          "reply_count": 29,
-          "engagement_score": 320,
-          "url": "https://x.com/amasad/status/2089525819567739264"
+          "id": "2090514571513708874",
+          "text": "This partnership with @OpenAI is long overdue.\n\nBefore Replit was in YC, PG asked Sam to recruit us.\n\nHere’s Sam telling the story of how we first met: https://t.co/qgrj1TJv5L",
+          "created_at": "Thu Aug 20 19:01:28 +0000 2026",
+          "like_count": 485,
+          "retweet_count": 22,
+          "reply_count": 25,
+          "engagement_score": 554,
+          "url": "https://x.com/amasad/status/2090514571513708874"
         }
       ]
     },
@@ -289,20 +279,9 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2089520767281324112",
-          "text": "Circling back on this with some updates... What’s the next set of things we can improve to make your Gemini experience even better?\n\n#1: Testing revamped Workspace tools in 1-2 weeks\n#2: 3.7 Flash showed improvements in tool calling, more coming here\n#3: New “Projects” design done, implementing now\n#4: 49 connectors (and counting) supported now\n#5: Backend work done, frontend work started\n#6: Done\n#7: Done, ramping up now\n#8: Done\n#9: Done\n#10: Done, fixed the biggest over-triggering bugs",
-          "created_at": "Tue Aug 18 01:12:26 +0000 2026",
-          "like_count": 770,
-          "retweet_count": 44,
-          "reply_count": 236,
-          "engagement_score": 1094,
-          "url": "https://x.com/joshwoodward/status/2089520767281324112"
-        }
-      ]
+      "tweets": []
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-19T22:15:25.565028+00:00"
+  "generated_at": "2026-08-20T22:17:57.503541+00:00"
 }
