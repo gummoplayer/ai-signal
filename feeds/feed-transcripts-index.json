@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-21T22:15:17.613628+00:00",
+  "generated_at": "2026-08-22T22:13:29.863432+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "channel": "Latent Space",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "pub_date": "2026-08-22T07:36:00+00:00",
+      "transcript_path": "feeds/transcripts/21844a8fc8abff8e4121fd70.txt",
+      "transcript_chars": 28837,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-22T22:13:29.863432+00:00",
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/attention-interface",
+      "link": "https://www.latent.space/p/attention-interface",
+      "channel": "Latent Space",
+      "title": "The Evolution of the Agent Harness",
+      "pub_date": "2026-08-22T07:30:52+00:00",
+      "transcript_path": "feeds/transcripts/833f67105cde5aedb281ce8d.txt",
+      "transcript_chars": 12322,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-22T22:13:29.863432+00:00",
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/simile",
+      "link": "https://www.latent.space/p/simile",
+      "channel": "Latent Space",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "pub_date": "2026-08-21T23:37:38+00:00",
+      "transcript_path": "feeds/transcripts/a7ad4bd7142ba85fd7025522.txt",
+      "transcript_chars": 80520,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-22T22:13:29.863432+00:00",
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
       "link": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
@@ -12,8 +51,8 @@
       "transcript_chars": 20848,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-21T22:15:17.613628+00:00",
-      "last_seen_at": "2026-08-21T22:15:17.613628+00:00",
-      "expires_at": "2026-09-04T22:15:17.613628+00:00"
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
     },
     {
       "guid": "https://www.latent.space/p/wayfinder-skill",
@@ -25,8 +64,8 @@
       "transcript_chars": 8109,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-21T22:15:17.613628+00:00",
-      "expires_at": "2026-09-04T22:15:17.613628+00:00"
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -38,8 +77,8 @@
       "transcript_chars": 143581,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-21T22:15:17.613628+00:00",
-      "expires_at": "2026-09-04T22:15:17.613628+00:00"
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
@@ -51,8 +90,8 @@
       "transcript_chars": 16688,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-21T22:15:17.613628+00:00",
-      "expires_at": "2026-09-04T22:15:17.613628+00:00"
+      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
+      "expires_at": "2026-09-05T22:13:29.863432+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
@@ -352,45 +391,6 @@
       "cached_at": "2026-08-07T01:28:34.210669+00:00",
       "last_seen_at": "2026-08-08T22:20:08.797790+00:00",
       "expires_at": "2026-08-22T22:20:08.797790+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-      "link": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-      "channel": "Lenny's Podcast",
-      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
-      "pub_date": "2026-08-05T12:04:01+00:00",
-      "transcript_path": "feeds/transcripts/b76ce62ad935e9c0fc5e7830.txt",
-      "transcript_chars": 5310,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
-      "expires_at": "2026-08-21T22:27:03.427556+00:00"
-    },
-    {
-      "guid": "87204ae8-77e7-4f6b-884a-cb9e2e93765a",
-      "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
-      "channel": "Capital Allocators",
-      "title": "WTT: The Anatomy of a Blow-Up",
-      "pub_date": "2026-08-05T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3e0c04cf492c276eb6aaa2fb.txt",
-      "transcript_chars": 2036,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
-      "expires_at": "2026-08-21T22:27:03.427556+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
-      "link": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
-      "channel": "Latent Space",
-      "title": "[AINews] Megakernels are so dead and so back",
-      "pub_date": "2026-08-05T01:21:47+00:00",
-      "transcript_path": "feeds/transcripts/786ff87d998578032094d52f.txt",
-      "transcript_chars": 20646,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-05T22:50:49.864776+00:00",
-      "last_seen_at": "2026-08-07T22:27:03.427556+00:00",
-      "expires_at": "2026-08-21T22:27:03.427556+00:00"
     }
   ]
 }

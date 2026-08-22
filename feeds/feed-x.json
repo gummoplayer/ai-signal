@@ -14,43 +14,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2090314794456785263",
-          "text": "HAHAHAHAHAHA\n\nnon technical people are so incredibly cooked they are burnt thru\n\ncan u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,\n\nwhat a time to be alive",
-          "created_at": "Thu Aug 20 05:47:37 +0000 2026",
-          "like_count": 1616,
-          "retweet_count": 44,
-          "reply_count": 104,
-          "engagement_score": 1808,
-          "url": "https://x.com/swyx/status/2090314794456785263"
-        },
-        {
-          "id": "2090550020496040266",
-          "text": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations…)\n\n/wayfinder is @mattpocockuk’s /grill-me for /grill-me, when you are just navigating the fog of war and don’t yet know what you dont yet know, and need to orchestrate research and other grill sessions to get there. super glad to have @ricmac help launch our new Skills coverage with his course launch this week!\n\n👇exclusive interview, quick read",
-          "created_at": "Thu Aug 20 21:22:20 +0000 2026",
-          "like_count": 174,
-          "retweet_count": 11,
-          "reply_count": 19,
-          "engagement_score": 215,
-          "url": "https://x.com/swyx/status/2090550020496040266"
+          "id": "2090948945753076141",
+          "text": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
+          "created_at": "Fri Aug 21 23:47:31 +0000 2026",
+          "like_count": 267,
+          "retweet_count": 16,
+          "reply_count": 26,
+          "engagement_score": 325,
+          "url": "https://x.com/swyx/status/2090948945753076141"
         },
         {
           "id": "2090577677916807429",
           "text": "proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA just paid him $6B to buy the incredible model factory that is pumping out Thinky-beating models (actually not exaggeration, look at the numbers)\n\ntune in / subscribe / whatever https://t.co/EsgyFnhAIy \n\nonly on @latentspacepod",
           "created_at": "Thu Aug 20 23:12:14 +0000 2026",
-          "like_count": 91,
-          "retweet_count": 12,
-          "reply_count": 23,
-          "engagement_score": 138,
+          "like_count": 95,
+          "retweet_count": 13,
+          "reply_count": 26,
+          "engagement_score": 147,
           "url": "https://x.com/swyx/status/2090577677916807429"
         },
         {
           "id": "2090813719018176904",
           "text": "it was a blast covering Build Fest this year - they didnt know this but I learned to code with MongoDB over 10 years ago (shoutout MERN stack) and now in the AI Engineering era seeing SF builders rediscover MDB was so gratifying - this was a *huge* step up from last year!",
           "created_at": "Fri Aug 21 14:50:10 +0000 2026",
-          "like_count": 40,
-          "retweet_count": 0,
-          "reply_count": 13,
-          "engagement_score": 53,
+          "like_count": 71,
+          "retweet_count": 1,
+          "reply_count": 19,
+          "engagement_score": 92,
           "url": "https://x.com/swyx/status/2090813719018176904"
         }
       ]
@@ -60,7 +50,18 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2090957403424776270",
+          "text": "God damnit, every one of my AI founder friends who actually have revenue are now just transforming into neoclouds with value add on top",
+          "created_at": "Sat Aug 22 00:21:07 +0000 2026",
+          "like_count": 1438,
+          "retweet_count": 46,
+          "reply_count": 93,
+          "engagement_score": 1623,
+          "url": "https://x.com/dylan522p/status/2090957403424776270"
+        }
+      ]
     },
     {
       "handle": "insane_analyst",
@@ -74,18 +75,7 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2090497355649008059",
-          "text": "Grok Bot is just cool. 😎\n\nOf course an agent should be persistent.\n\nOf course it should have its own computer.\n\nAll that remains is for it to be embodied…",
-          "created_at": "Thu Aug 20 17:53:03 +0000 2026",
-          "like_count": 7395,
-          "retweet_count": 366,
-          "reply_count": 359,
-          "engagement_score": 8486,
-          "url": "https://x.com/naval/status/2090497355649008059"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
@@ -136,24 +126,14 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2090473127658570184",
-          "text": "Awesome to see the first NVIDIA Vera Rubin racks powering @OpenAI 's training stack. \n\nTogether, we’re building the accelerated computing infrastructure to advance frontier AI.",
-          "created_at": "Thu Aug 20 16:16:47 +0000 2026",
-          "like_count": 748,
-          "retweet_count": 83,
-          "reply_count": 48,
-          "engagement_score": 962,
-          "url": "https://x.com/nvidia/status/2090473127658570184"
-        },
-        {
-          "id": "2090548358868070801",
-          "text": "The right model depends on the task.\n\nNVIDIA NeMo Switchyard helps developers route each agent workflow step across a chosen model pool based on their own quality, latency and cost criteria.\n\nKari Briski joins @MTSlive to explain why agent workflows need model routing. https://t.co/3fMDh26MKY",
-          "created_at": "Thu Aug 20 21:15:43 +0000 2026",
-          "like_count": 281,
-          "retweet_count": 45,
-          "reply_count": 41,
-          "engagement_score": 412,
-          "url": "https://x.com/nvidia/status/2090548358868070801"
+          "id": "2090944279103635481",
+          "text": "NVIDIA Vera Rubin is ramping into full production. Congrats to the teams at @Microsoft who made this exciting milestone happen.",
+          "created_at": "Fri Aug 21 23:28:58 +0000 2026",
+          "like_count": 2193,
+          "retweet_count": 212,
+          "reply_count": 67,
+          "engagement_score": 2684,
+          "url": "https://x.com/nvidia/status/2090944279103635481"
         }
       ]
     },
@@ -169,18 +149,7 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2090537902912815536",
-          "text": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall.",
-          "created_at": "Thu Aug 20 20:34:11 +0000 2026",
-          "like_count": 2178,
-          "retweet_count": 123,
-          "reply_count": 167,
-          "engagement_score": 2591,
-          "url": "https://x.com/bcherny/status/2090537902912815536"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
@@ -203,34 +172,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2090255740384751664",
-          "text": "https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² \n\nAI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.\n\nFast is a one-way street.\n\n¹ that's microseconds\n² fun fact: the wasm build is actually *smaller*. A lot of binary weight comes from the TLS/HTTP stack. In WebAssembly, fx delegates 𝚏𝚎𝚝𝚌𝚑() to the JS runtime instead. You can try this on https://t.co/me7se5dvip",
-          "created_at": "Thu Aug 20 01:52:58 +0000 2026",
-          "like_count": 1331,
-          "retweet_count": 83,
-          "reply_count": 108,
-          "engagement_score": 1605,
-          "url": "https://x.com/rauchg/status/2090255740384751664"
-        },
-        {
           "id": "2090858571613470919",
           "text": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens.",
           "created_at": "Fri Aug 21 17:48:24 +0000 2026",
-          "like_count": 819,
-          "retweet_count": 30,
-          "reply_count": 62,
-          "engagement_score": 941,
+          "like_count": 1917,
+          "retweet_count": 62,
+          "reply_count": 112,
+          "engagement_score": 2153,
           "url": "https://x.com/rauchg/status/2090858571613470919"
         },
         {
-          "id": "2090520415336845595",
-          "text": "We’re building AWS for agents",
-          "created_at": "Thu Aug 20 19:24:41 +0000 2026",
-          "like_count": 548,
-          "retweet_count": 16,
-          "reply_count": 59,
-          "engagement_score": 639,
-          "url": "https://x.com/rauchg/status/2090520415336845595"
+          "id": "2091229263701905662",
+          "text": "I used 𝚏𝚡 to build Mini, a personal web browser.\n\nMany times I need to screen share, stream, or just test something without the 'bloat' and state of my browser. So I go Mini.\n\nThis was a cool test for https://t.co/OL0LzGtvAw and open models. It was the first time I experienced how cheap, but also how *good* these things can be.\n\n'Personal software' is a hot topic. \"I spent $25,000USD to cancel my $10 XYZ subscription\" is a real thing 😂 (especially in Enterprises these days). \n\nBut I think open and local models will change this dynamic very profoundly. Software will really become spontaneous.\n\nps: shoutout to Orion browser who inspired me with 'focus mode'. I wanted my browser to be even more minimal, hackable, and run on Chromium.",
+          "created_at": "Sat Aug 22 18:21:24 +0000 2026",
+          "like_count": 404,
+          "retweet_count": 8,
+          "reply_count": 36,
+          "engagement_score": 456,
+          "url": "https://x.com/rauchg/status/2091229263701905662"
+        },
+        {
+          "id": "2091234105702887879",
+          "text": "Today's a record day for open weight share of tokens on Vercel AI Gateway.\n\nAug 22 (today)\n🟦 Open: 62%\n🟨 Closed: 38%\n\nJun 24 (~2 months ago)\n🟦 Open: 28.4%\n🟨 Closed: 71.6% \n\nThis is very likely just the start, because enterprise adoption is still early, and harnesses, CLIs, IDEs, SDKs, etc need to be adapted to be model agnostic.",
+          "created_at": "Sat Aug 22 18:40:38 +0000 2026",
+          "like_count": 267,
+          "retweet_count": 23,
+          "reply_count": 41,
+          "engagement_score": 354,
+          "url": "https://x.com/rauchg/status/2091234105702887879"
         }
       ]
     },
@@ -239,18 +208,7 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2090514571513708874",
-          "text": "This partnership with @OpenAI is long overdue.\n\nBefore Replit was in YC, PG asked Sam to recruit us.\n\nHere’s Sam telling the story of how we first met: https://t.co/qgrj1TJv5L",
-          "created_at": "Thu Aug 20 19:01:28 +0000 2026",
-          "like_count": 1259,
-          "retweet_count": 54,
-          "reply_count": 56,
-          "engagement_score": 1423,
-          "url": "https://x.com/amasad/status/2090514571513708874"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "joshwoodward",
@@ -261,5 +219,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-21T22:14:14.696531+00:00"
+  "generated_at": "2026-08-22T22:12:37.325996+00:00"
 }
