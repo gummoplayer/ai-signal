@@ -17,31 +17,11 @@
           "id": "2090948945753076141",
           "text": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
           "created_at": "Fri Aug 21 23:47:31 +0000 2026",
-          "like_count": 267,
-          "retweet_count": 16,
-          "reply_count": 26,
-          "engagement_score": 325,
+          "like_count": 336,
+          "retweet_count": 20,
+          "reply_count": 41,
+          "engagement_score": 417,
           "url": "https://x.com/swyx/status/2090948945753076141"
-        },
-        {
-          "id": "2090577677916807429",
-          "text": "proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA just paid him $6B to buy the incredible model factory that is pumping out Thinky-beating models (actually not exaggeration, look at the numbers)\n\ntune in / subscribe / whatever https://t.co/EsgyFnhAIy \n\nonly on @latentspacepod",
-          "created_at": "Thu Aug 20 23:12:14 +0000 2026",
-          "like_count": 95,
-          "retweet_count": 13,
-          "reply_count": 26,
-          "engagement_score": 147,
-          "url": "https://x.com/swyx/status/2090577677916807429"
-        },
-        {
-          "id": "2090813719018176904",
-          "text": "it was a blast covering Build Fest this year - they didnt know this but I learned to code with MongoDB over 10 years ago (shoutout MERN stack) and now in the AI Engineering era seeing SF builders rediscover MDB was so gratifying - this was a *huge* step up from last year!",
-          "created_at": "Fri Aug 21 14:50:10 +0000 2026",
-          "like_count": 71,
-          "retweet_count": 1,
-          "reply_count": 19,
-          "engagement_score": 92,
-          "url": "https://x.com/swyx/status/2090813719018176904"
         }
       ]
     },
@@ -55,10 +35,10 @@
           "id": "2090957403424776270",
           "text": "God damnit, every one of my AI founder friends who actually have revenue are now just transforming into neoclouds with value add on top",
           "created_at": "Sat Aug 22 00:21:07 +0000 2026",
-          "like_count": 1438,
-          "retweet_count": 46,
-          "reply_count": 93,
-          "engagement_score": 1623,
+          "like_count": 1563,
+          "retweet_count": 50,
+          "reply_count": 100,
+          "engagement_score": 1763,
           "url": "https://x.com/dylan522p/status/2090957403424776270"
         }
       ]
@@ -129,10 +109,10 @@
           "id": "2090944279103635481",
           "text": "NVIDIA Vera Rubin is ramping into full production. Congrats to the teams at @Microsoft who made this exciting milestone happen.",
           "created_at": "Fri Aug 21 23:28:58 +0000 2026",
-          "like_count": 2193,
-          "retweet_count": 212,
-          "reply_count": 67,
-          "engagement_score": 2684,
+          "like_count": 2397,
+          "retweet_count": 233,
+          "reply_count": 75,
+          "engagement_score": 2938,
           "url": "https://x.com/nvidia/status/2090944279103635481"
         }
       ]
@@ -172,34 +152,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2090858571613470919",
-          "text": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time &amp; tokens.",
-          "created_at": "Fri Aug 21 17:48:24 +0000 2026",
-          "like_count": 1917,
-          "retweet_count": 62,
-          "reply_count": 112,
-          "engagement_score": 2153,
-          "url": "https://x.com/rauchg/status/2090858571613470919"
+          "id": "2091234105702887879",
+          "text": "Today's a record day for open weight share of tokens on Vercel AI Gateway.\n\nAug 22 (today)\n🟦 Open: 62%\n🟨 Closed: 38%\n\nJun 24 (~2 months ago)\n🟦 Open: 28.4%\n🟨 Closed: 71.6% \n\nThis is very likely just the start, because enterprise adoption is still early, and harnesses, CLIs, IDEs, SDKs, etc need to be adapted to be model agnostic.",
+          "created_at": "Sat Aug 22 18:40:38 +0000 2026",
+          "like_count": 873,
+          "retweet_count": 88,
+          "reply_count": 76,
+          "engagement_score": 1125,
+          "url": "https://x.com/rauchg/status/2091234105702887879"
         },
         {
           "id": "2091229263701905662",
           "text": "I used 𝚏𝚡 to build Mini, a personal web browser.\n\nMany times I need to screen share, stream, or just test something without the 'bloat' and state of my browser. So I go Mini.\n\nThis was a cool test for https://t.co/OL0LzGtvAw and open models. It was the first time I experienced how cheap, but also how *good* these things can be.\n\n'Personal software' is a hot topic. \"I spent $25,000USD to cancel my $10 XYZ subscription\" is a real thing 😂 (especially in Enterprises these days). \n\nBut I think open and local models will change this dynamic very profoundly. Software will really become spontaneous.\n\nps: shoutout to Orion browser who inspired me with 'focus mode'. I wanted my browser to be even more minimal, hackable, and run on Chromium.",
           "created_at": "Sat Aug 22 18:21:24 +0000 2026",
-          "like_count": 404,
-          "retweet_count": 8,
-          "reply_count": 36,
-          "engagement_score": 456,
+          "like_count": 996,
+          "retweet_count": 23,
+          "reply_count": 54,
+          "engagement_score": 1096,
           "url": "https://x.com/rauchg/status/2091229263701905662"
         },
         {
-          "id": "2091234105702887879",
-          "text": "Today's a record day for open weight share of tokens on Vercel AI Gateway.\n\nAug 22 (today)\n🟦 Open: 62%\n🟨 Closed: 38%\n\nJun 24 (~2 months ago)\n🟦 Open: 28.4%\n🟨 Closed: 71.6% \n\nThis is very likely just the start, because enterprise adoption is still early, and harnesses, CLIs, IDEs, SDKs, etc need to be adapted to be model agnostic.",
-          "created_at": "Sat Aug 22 18:40:38 +0000 2026",
-          "like_count": 267,
-          "retweet_count": 23,
-          "reply_count": 41,
-          "engagement_score": 354,
-          "url": "https://x.com/rauchg/status/2091234105702887879"
+          "id": "2091583525661384813",
+          "text": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
+          "created_at": "Sun Aug 23 17:49:06 +0000 2026",
+          "like_count": 473,
+          "retweet_count": 25,
+          "reply_count": 38,
+          "engagement_score": 561,
+          "url": "https://x.com/rauchg/status/2091583525661384813"
         }
       ]
     },
@@ -219,5 +199,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-22T22:12:37.325996+00:00"
+  "generated_at": "2026-08-23T22:12:37.485504+00:00"
 }
