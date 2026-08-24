@@ -12,18 +12,7 @@
       "name": "Swyx (Shawn Wang)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2090948945753076141",
-          "text": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
-          "created_at": "Fri Aug 21 23:47:31 +0000 2026",
-          "like_count": 336,
-          "retweet_count": 20,
-          "reply_count": 41,
-          "engagement_score": 417,
-          "url": "https://x.com/swyx/status/2090948945753076141"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "dylan522p",
@@ -32,14 +21,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2090957403424776270",
-          "text": "God damnit, every one of my AI founder friends who actually have revenue are now just transforming into neoclouds with value add on top",
-          "created_at": "Sat Aug 22 00:21:07 +0000 2026",
-          "like_count": 1563,
-          "retweet_count": 50,
-          "reply_count": 100,
-          "engagement_score": 1763,
-          "url": "https://x.com/dylan522p/status/2090957403424776270"
+          "id": "2091694046888792462",
+          "text": "There's quite a bit of CCP funded anti datacenter and anti AI organizations.\nJust follow the money.",
+          "created_at": "Mon Aug 24 01:08:17 +0000 2026",
+          "like_count": 1668,
+          "retweet_count": 137,
+          "reply_count": 165,
+          "engagement_score": 2107,
+          "url": "https://x.com/dylan522p/status/2091694046888792462"
         }
       ]
     },
@@ -106,14 +95,44 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2090944279103635481",
-          "text": "NVIDIA Vera Rubin is ramping into full production. Congrats to the teams at @Microsoft who made this exciting milestone happen.",
-          "created_at": "Fri Aug 21 23:28:58 +0000 2026",
-          "like_count": 2397,
-          "retweet_count": 233,
-          "reply_count": 75,
-          "engagement_score": 2938,
-          "url": "https://x.com/nvidia/status/2090944279103635481"
+          "id": "2091920680317046847",
+          "text": "The first CPU built for agents is going to work at scale. \n\n@SpaceX is deploying NVIDIA Vera to accelerate the orchestration, code execution, and data processing that powers its next generation of agentic AI — keeping GPUs fed and agents acting fast.\n\nFrom gigawatt AI factories to orbit. One NVIDIA architecture, everywhere.",
+          "created_at": "Mon Aug 24 16:08:50 +0000 2026",
+          "like_count": 3166,
+          "retweet_count": 304,
+          "reply_count": 153,
+          "engagement_score": 3927,
+          "url": "https://x.com/nvidia/status/2091920680317046847"
+        },
+        {
+          "id": "2091904062077694153",
+          "text": "📢 First ever on-silicon NVIDIA Vera Rubin performance measured on how agents actually run. \n\n⚡ Up to 30x more throughput per megawatt and up to 35x lower token cost than GB300 NVL72.\n\nAgentic sessions are nothing like chat or summarization workloads. Context grows across hundreds of steps and can reach hundreds of thousands of tokens. \n\nNVIDIA measured Vera Rubin performance on @SemiAnalysis_ AgentX workload consisting of real-world agentic coding trajectories using DeepSeek V4 Pro model.",
+          "created_at": "Mon Aug 24 15:02:48 +0000 2026",
+          "like_count": 804,
+          "retweet_count": 69,
+          "reply_count": 62,
+          "engagement_score": 1004,
+          "url": "https://x.com/nvidia/status/2091904062077694153"
+        },
+        {
+          "id": "2091973784647451096",
+          "text": "NVIDIA is building more than faster GPUs. We’re building the software and algorithms that help redefine what accelerated computing can do. CUDA-X provides the specialized software acceleration industries need to build what’s next.\n\nWatch how CUDA-X libraries turn GPU compute into real-world applications across engineering, physics and AI, from supply-chain optimization with cuOpt to computational lithography with cuLitho.",
+          "created_at": "Mon Aug 24 19:39:51 +0000 2026",
+          "like_count": 159,
+          "retweet_count": 15,
+          "reply_count": 17,
+          "engagement_score": 206,
+          "url": "https://x.com/nvidia/status/2091973784647451096"
+        },
+        {
+          "id": "2091973786002145503",
+          "text": "Explore CUDA-X: https://t.co/rjSoHUG5gD",
+          "created_at": "Mon Aug 24 19:39:52 +0000 2026",
+          "like_count": 16,
+          "retweet_count": 1,
+          "reply_count": 0,
+          "engagement_score": 18,
+          "url": "https://x.com/nvidia/status/2091973786002145503"
         }
       ]
     },
@@ -152,34 +171,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2091234105702887879",
-          "text": "Today's a record day for open weight share of tokens on Vercel AI Gateway.\n\nAug 22 (today)\n🟦 Open: 62%\n🟨 Closed: 38%\n\nJun 24 (~2 months ago)\n🟦 Open: 28.4%\n🟨 Closed: 71.6% \n\nThis is very likely just the start, because enterprise adoption is still early, and harnesses, CLIs, IDEs, SDKs, etc need to be adapted to be model agnostic.",
-          "created_at": "Sat Aug 22 18:40:38 +0000 2026",
-          "like_count": 873,
-          "retweet_count": 88,
-          "reply_count": 76,
-          "engagement_score": 1125,
-          "url": "https://x.com/rauchg/status/2091234105702887879"
-        },
-        {
-          "id": "2091229263701905662",
-          "text": "I used 𝚏𝚡 to build Mini, a personal web browser.\n\nMany times I need to screen share, stream, or just test something without the 'bloat' and state of my browser. So I go Mini.\n\nThis was a cool test for https://t.co/OL0LzGtvAw and open models. It was the first time I experienced how cheap, but also how *good* these things can be.\n\n'Personal software' is a hot topic. \"I spent $25,000USD to cancel my $10 XYZ subscription\" is a real thing 😂 (especially in Enterprises these days). \n\nBut I think open and local models will change this dynamic very profoundly. Software will really become spontaneous.\n\nps: shoutout to Orion browser who inspired me with 'focus mode'. I wanted my browser to be even more minimal, hackable, and run on Chromium.",
-          "created_at": "Sat Aug 22 18:21:24 +0000 2026",
-          "like_count": 996,
-          "retweet_count": 23,
-          "reply_count": 54,
-          "engagement_score": 1096,
-          "url": "https://x.com/rauchg/status/2091229263701905662"
-        },
-        {
           "id": "2091583525661384813",
           "text": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
           "created_at": "Sun Aug 23 17:49:06 +0000 2026",
-          "like_count": 473,
-          "retweet_count": 25,
-          "reply_count": 38,
-          "engagement_score": 561,
+          "like_count": 882,
+          "retweet_count": 44,
+          "reply_count": 68,
+          "engagement_score": 1038,
           "url": "https://x.com/rauchg/status/2091583525661384813"
+        },
+        {
+          "id": "2091671326897713424",
+          "text": "Intelligence is getting cheaper.\n\n@OpenAI Sol's price reductions & discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model.\n\nThis shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly.\n\n② If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins. \n\nIt's no wonder the router space has heated up… gateways are inevitable.",
+          "created_at": "Sun Aug 23 23:38:00 +0000 2026",
+          "like_count": 525,
+          "retweet_count": 28,
+          "reply_count": 52,
+          "engagement_score": 633,
+          "url": "https://x.com/rauchg/status/2091671326897713424"
         }
       ]
     },
@@ -188,7 +197,18 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2091962601907638352",
+          "text": "True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks.",
+          "created_at": "Mon Aug 24 18:55:25 +0000 2026",
+          "like_count": 109,
+          "retweet_count": 7,
+          "reply_count": 22,
+          "engagement_score": 145,
+          "url": "https://x.com/amasad/status/2091962601907638352"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -199,5 +219,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-23T22:12:37.485504+00:00"
+  "generated_at": "2026-08-24T22:17:03.509663+00:00"
 }
