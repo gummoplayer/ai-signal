@@ -24,11 +24,21 @@
           "id": "2091694046888792462",
           "text": "There's quite a bit of CCP funded anti datacenter and anti AI organizations.\nJust follow the money.",
           "created_at": "Mon Aug 24 01:08:17 +0000 2026",
-          "like_count": 1668,
-          "retweet_count": 137,
-          "reply_count": 165,
-          "engagement_score": 2107,
+          "like_count": 1778,
+          "retweet_count": 144,
+          "reply_count": 173,
+          "engagement_score": 2239,
           "url": "https://x.com/dylan522p/status/2091694046888792462"
+        },
+        {
+          "id": "2092258594628706778",
+          "text": "OpenAI Jalapeno is spicy\nUsually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin\nThis is huge news!\nWe got to go into OpenAI's lab to dissect their new chip and dive into the software, architecture, and performance\nIncredible work!",
+          "created_at": "Tue Aug 25 14:31:35 +0000 2026",
+          "like_count": 1455,
+          "retweet_count": 84,
+          "reply_count": 50,
+          "engagement_score": 1673,
+          "url": "https://x.com/dylan522p/status/2092258594628706778"
         }
       ]
     },
@@ -37,7 +47,38 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2092268749340692767",
+          "text": "Cerebras and Nvidia and AMD investors this morning. https://t.co/pq0G2tNNPB",
+          "created_at": "Tue Aug 25 15:11:56 +0000 2026",
+          "like_count": 242,
+          "retweet_count": 7,
+          "reply_count": 14,
+          "engagement_score": 270,
+          "url": "https://x.com/insane_analyst/status/2092268749340692767"
+        },
+        {
+          "id": "2092022309242757565",
+          "text": "Auto presenter has Tenstorrent AI IP but uses ARM CPU cores. Audiance asked \"why not RISCV\" and presenter says \"RISCV not mature. Customers afraid of RISCV. Nobody wants it.\" 🤣",
+          "created_at": "Mon Aug 24 22:52:41 +0000 2026",
+          "like_count": 112,
+          "retweet_count": 4,
+          "reply_count": 6,
+          "engagement_score": 126,
+          "url": "https://x.com/insane_analyst/status/2092022309242757565"
+        },
+        {
+          "id": "2092328286231974101",
+          "text": "There is an Nvidia employee here at Hot Chips who has striking resemblance to Andrew Feldman who has made me double take a few times.",
+          "created_at": "Tue Aug 25 19:08:31 +0000 2026",
+          "like_count": 49,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 53,
+          "url": "https://x.com/insane_analyst/status/2092328286231974101"
+        }
+      ]
     },
     {
       "handle": "naval",
@@ -65,7 +106,18 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2092339694210040187",
+          "text": "we made a chip and it is fast",
+          "created_at": "Tue Aug 25 19:53:51 +0000 2026",
+          "like_count": 16737,
+          "retweet_count": 704,
+          "reply_count": 1876,
+          "engagement_score": 20021,
+          "url": "https://x.com/sama/status/2092339694210040187"
+        }
+      ]
     },
     {
       "handle": "DarioAmodei",
@@ -98,41 +150,51 @@
           "id": "2091920680317046847",
           "text": "The first CPU built for agents is going to work at scale. \n\n@SpaceX is deploying NVIDIA Vera to accelerate the orchestration, code execution, and data processing that powers its next generation of agentic AI — keeping GPUs fed and agents acting fast.\n\nFrom gigawatt AI factories to orbit. One NVIDIA architecture, everywhere.",
           "created_at": "Mon Aug 24 16:08:50 +0000 2026",
-          "like_count": 3166,
-          "retweet_count": 304,
-          "reply_count": 153,
-          "engagement_score": 3927,
+          "like_count": 5195,
+          "retweet_count": 558,
+          "reply_count": 272,
+          "engagement_score": 6583,
           "url": "https://x.com/nvidia/status/2091920680317046847"
         },
         {
           "id": "2091904062077694153",
           "text": "📢 First ever on-silicon NVIDIA Vera Rubin performance measured on how agents actually run. \n\n⚡ Up to 30x more throughput per megawatt and up to 35x lower token cost than GB300 NVL72.\n\nAgentic sessions are nothing like chat or summarization workloads. Context grows across hundreds of steps and can reach hundreds of thousands of tokens. \n\nNVIDIA measured Vera Rubin performance on @SemiAnalysis_ AgentX workload consisting of real-world agentic coding trajectories using DeepSeek V4 Pro model.",
           "created_at": "Mon Aug 24 15:02:48 +0000 2026",
-          "like_count": 804,
-          "retweet_count": 69,
-          "reply_count": 62,
-          "engagement_score": 1004,
+          "like_count": 1196,
+          "retweet_count": 116,
+          "reply_count": 76,
+          "engagement_score": 1504,
           "url": "https://x.com/nvidia/status/2091904062077694153"
+        },
+        {
+          "id": "2092337107108770116",
+          "text": "NVIDIA Vera Rubin NVL72 production racks are here.\n\nThe compute tray is engineered for fast compute, assembly, and serviceability. Manufacturing is 100% automated, and every tray goes together in one minute.\n\nCongratulations to @Microsoft on the first operational Vera Rubin NVL72 racks, now rolling off @HonHai_Foxconn Ingrasys lines.",
+          "created_at": "Tue Aug 25 19:43:34 +0000 2026",
+          "like_count": 946,
+          "retweet_count": 100,
+          "reply_count": 37,
+          "engagement_score": 1183,
+          "url": "https://x.com/nvidia/status/2092337107108770116"
+        },
+        {
+          "id": "2092269109086126575",
+          "text": "Meet Portable Computer, Perplexity's new local-first agent stack on NVIDIA DGX Spark.\n\nWhen running locally, Portable Computer offers one-click local inference setup and an optimized agentic experience for DGX Spark.\n\nLearn more and get started today: https://t.co/0UElxhCnkY https://t.co/W07ZafKYdC",
+          "created_at": "Tue Aug 25 15:13:22 +0000 2026",
+          "like_count": 884,
+          "retweet_count": 103,
+          "reply_count": 47,
+          "engagement_score": 1137,
+          "url": "https://x.com/nvidia/status/2092269109086126575"
         },
         {
           "id": "2091973784647451096",
           "text": "NVIDIA is building more than faster GPUs. We’re building the software and algorithms that help redefine what accelerated computing can do. CUDA-X provides the specialized software acceleration industries need to build what’s next.\n\nWatch how CUDA-X libraries turn GPU compute into real-world applications across engineering, physics and AI, from supply-chain optimization with cuOpt to computational lithography with cuLitho.",
           "created_at": "Mon Aug 24 19:39:51 +0000 2026",
-          "like_count": 159,
-          "retweet_count": 15,
-          "reply_count": 17,
-          "engagement_score": 206,
+          "like_count": 525,
+          "retweet_count": 61,
+          "reply_count": 43,
+          "engagement_score": 690,
           "url": "https://x.com/nvidia/status/2091973784647451096"
-        },
-        {
-          "id": "2091973786002145503",
-          "text": "Explore CUDA-X: https://t.co/rjSoHUG5gD",
-          "created_at": "Mon Aug 24 19:39:52 +0000 2026",
-          "like_count": 16,
-          "retweet_count": 1,
-          "reply_count": 0,
-          "engagement_score": 18,
-          "url": "https://x.com/nvidia/status/2091973786002145503"
         }
       ]
     },
@@ -155,7 +217,18 @@
       "name": "Cat Wu (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2092337156455051345",
+          "text": "Thanks to your feedback, we’ve unified memory across Chat and Cowork. Now, you can tell Claude to remember something once and it’ll have that context across surfaces!\n\nTell us what you’d like to see next :)",
+          "created_at": "Tue Aug 25 19:43:46 +0000 2026",
+          "like_count": 220,
+          "retweet_count": 6,
+          "reply_count": 50,
+          "engagement_score": 282,
+          "url": "https://x.com/_catwu/status/2092337156455051345"
+        }
+      ]
     },
     {
       "handle": "alexalbert__",
@@ -171,24 +244,44 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2091583525661384813",
-          "text": "Our philosophy on extending 𝚏𝚡: open protocols.\n∙ MCP (modelcontextprotocol⁠.io)\n∙ Skills (agentskills⁠.io)\n∙ Plugins (agent-plugins⁠.org)\n\nAnd the best one, Unix:\n\n① Small programs that do one thing well and compose by calling other programs.\n\n② 𝚕𝚒𝚋𝚏𝚡 that enables embeddability into more complex programs. You should be able to build your own CLI, background agent, software factory. Local or cloud.",
-          "created_at": "Sun Aug 23 17:49:06 +0000 2026",
-          "like_count": 882,
-          "retweet_count": 44,
-          "reply_count": 68,
-          "engagement_score": 1038,
-          "url": "https://x.com/rauchg/status/2091583525661384813"
-        },
-        {
           "id": "2091671326897713424",
           "text": "Intelligence is getting cheaper.\n\n@OpenAI Sol's price reductions & discounts on Vercel AI Gateway have made Sol our fastest-growing frontier model.\n\nThis shows ① that the demand for intelligence is highly elastic: as inference costs fall, usage grows rapidly.\n\n② If you're not using a gateway, you're missing out on this incredible price volatility, which lowers your operating costs and increases your margins. \n\nIt's no wonder the router space has heated up… gateways are inevitable.",
           "created_at": "Sun Aug 23 23:38:00 +0000 2026",
-          "like_count": 525,
-          "retweet_count": 28,
-          "reply_count": 52,
-          "engagement_score": 633,
+          "like_count": 544,
+          "retweet_count": 29,
+          "reply_count": 56,
+          "engagement_score": 658,
           "url": "https://x.com/rauchg/status/2091671326897713424"
+        },
+        {
+          "id": "2092251167770451984",
+          "text": "One of the coolest things about gateways: managed tools.\n\nIf you add 𝚎𝚡𝚊_𝚜𝚎𝚊𝚛𝚌𝚑 to your 𝚝𝚘𝚘𝚕𝚜, you give zero-setup, fast Exa search to your agents.\n\nNo credentials, accounts, connections to set up, plus unified billing.",
+          "created_at": "Tue Aug 25 14:02:05 +0000 2026",
+          "like_count": 195,
+          "retweet_count": 12,
+          "reply_count": 22,
+          "engagement_score": 241,
+          "url": "https://x.com/rauchg/status/2092251167770451984"
+        },
+        {
+          "id": "2092315151131390068",
+          "text": "AI Gateway can now call webhooks after long generations 😍\n\n① Lower compute costs (no long-running process waiting idly)\n\n② More reliable. Gateway can take more of the processing burden\n\n③ You can 𝚊𝚠𝚊𝚒𝚝 𝚑𝚘𝚘𝚔() in \"𝚞𝚜𝚎 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠\" to sanely consume these",
+          "created_at": "Tue Aug 25 18:16:20 +0000 2026",
+          "like_count": 106,
+          "retweet_count": 8,
+          "reply_count": 17,
+          "engagement_score": 139,
+          "url": "https://x.com/rauchg/status/2092315151131390068"
+        },
+        {
+          "id": "2092352411839193234",
+          "text": "The hardest problem in building agents is secure connectivity to services and data.\n\nExcited for Vercel Connect to be GA. Run e.g: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚘𝚝𝚒𝚘𝚗, then get an MCP client you can query on behalf of the authenticated user.",
+          "created_at": "Tue Aug 25 20:44:23 +0000 2026",
+          "like_count": 75,
+          "retweet_count": 5,
+          "reply_count": 12,
+          "engagement_score": 97,
+          "url": "https://x.com/rauchg/status/2092352411839193234"
         }
       ]
     },
@@ -202,10 +295,10 @@
           "id": "2091962601907638352",
           "text": "True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks.",
           "created_at": "Mon Aug 24 18:55:25 +0000 2026",
-          "like_count": 109,
-          "retweet_count": 7,
-          "reply_count": 22,
-          "engagement_score": 145,
+          "like_count": 200,
+          "retweet_count": 11,
+          "reply_count": 32,
+          "engagement_score": 254,
           "url": "https://x.com/amasad/status/2091962601907638352"
         }
       ]
@@ -219,5 +312,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-24T22:17:03.509663+00:00"
+  "generated_at": "2026-08-25T22:17:26.332871+00:00"
 }
