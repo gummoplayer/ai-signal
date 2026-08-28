@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-27T02:27:33.780448+00:00",
+  "generated_at": "2026-08-28T05:53:41.632851+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/I-Studied-Every-100-Bagger-Stock-in-History--Heres-What-I-Found--Chris-Mayer-e3nu5jj",
+      "channel": "The Acquirers Podcast",
+      "title": "I Studied Every 100-Bagger Stock in History. Here's What I Found | Chris Mayer",
+      "pub_date": "2026-08-27T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/eae411b43166df724189d96a.txt",
+      "transcript_chars": 144078,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-28T05:53:41.632851+00:00",
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "link": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -12,8 +25,8 @@
       "transcript_chars": 11730,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
@@ -25,8 +38,8 @@
       "transcript_chars": 12551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6506",
@@ -38,8 +51,8 @@
       "transcript_chars": 309575,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.latent.space/p/lovable-future-of-saas",
@@ -51,8 +64,8 @@
       "transcript_chars": 9290,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
@@ -64,8 +77,8 @@
       "transcript_chars": 18551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.latent.space/p/anima",
@@ -77,8 +90,8 @@
       "transcript_chars": 9148,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
@@ -90,8 +103,8 @@
       "transcript_chars": 78352,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-25T22:18:21.512622+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
@@ -103,8 +116,8 @@
       "transcript_chars": 18025,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-25T22:18:21.512622+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
+      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
+      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
@@ -391,58 +404,6 @@
       "cached_at": "2026-08-12T22:31:50.004460+00:00",
       "last_seen_at": "2026-08-14T22:14:28.620493+00:00",
       "expires_at": "2026-08-28T22:14:28.620493+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/chai-discovery",
-      "link": "https://www.latent.space/p/chai-discovery",
-      "channel": "Latent Space",
-      "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
-      "pub_date": "2026-08-11T21:03:50+00:00",
-      "transcript_path": "feeds/transcripts/91cb0c4a596eaf617eea8c4f.txt",
-      "transcript_chars": 8283,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-13T22:32:17.098013+00:00",
-      "expires_at": "2026-08-27T22:32:17.098013+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "channel": "Dwarkesh Patel",
-      "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
-      "pub_date": "2026-08-11T16:31:23+00:00",
-      "transcript_path": "feeds/transcripts/fe281483ffa9e4629e80be8d.txt",
-      "transcript_chars": 144899,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-13T22:32:17.098013+00:00",
-      "expires_at": "2026-08-27T22:32:17.098013+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "link": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "channel": "Lenny's Podcast",
-      "title": "How to make people care about your startup",
-      "pub_date": "2026-08-11T13:31:07+00:00",
-      "transcript_path": "feeds/transcripts/cd4d27815452c8ba55ccd4e7.txt",
-      "transcript_chars": 26794,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-13T22:32:17.098013+00:00",
-      "expires_at": "2026-08-27T22:32:17.098013+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "link": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "channel": "Latent Space",
-      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-      "pub_date": "2026-08-11T05:16:41+00:00",
-      "transcript_path": "feeds/transcripts/c99e348f929bd9a70f664409.txt",
-      "transcript_chars": 16993,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T22:33:10.225465+00:00",
-      "last_seen_at": "2026-08-13T22:32:17.098013+00:00",
-      "expires_at": "2026-08-27T22:32:17.098013+00:00"
     }
   ]
 }
