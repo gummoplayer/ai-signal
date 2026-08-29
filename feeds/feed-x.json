@@ -31,21 +31,11 @@
           "id": "2092906789117587558",
           "text": "Losers who dont have anything think vaporware tech applicable across all the markets they losing share in.\n\nI was wrong on Mediatek SerDes (they got 200G working to some extent) but at least we get to see Qualcomm get utterly humiliated by Mediatek in datacenter. Eat shit Durga.",
           "created_at": "Thu Aug 27 09:27:17 +0000 2026",
-          "like_count": 80,
+          "like_count": 83,
           "retweet_count": 4,
           "reply_count": 4,
-          "engagement_score": 92,
+          "engagement_score": 95,
           "url": "https://x.com/insane_analyst/status/2092906789117587558"
-        },
-        {
-          "id": "2092788494095847547",
-          "text": "Well they do need help defending against rogue closed-source AI models trying to benchmaxx. Makes sense.",
-          "created_at": "Thu Aug 27 01:37:13 +0000 2026",
-          "like_count": 53,
-          "retweet_count": 0,
-          "reply_count": 1,
-          "engagement_score": 54,
-          "url": "https://x.com/insane_analyst/status/2092788494095847547"
         }
       ]
     },
@@ -54,18 +44,7 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2092578563878981714",
-          "text": "One of the best recent podcasts on AI. Neil has a gift for explaining all of the jargon and insights simply. \n\n(I’m not involved, just found it unusually educational).",
-          "created_at": "Wed Aug 26 11:43:02 +0000 2026",
-          "like_count": 14464,
-          "retweet_count": 1446,
-          "reply_count": 148,
-          "engagement_score": 17504,
-          "url": "https://x.com/naval/status/2092578563878981714"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
@@ -91,10 +70,10 @@
           "id": "2093060670472241368",
           "text": "this is a critically important moment for cyber defense with AI; there is not much time to act.\n\nwe are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously.\n\nonly an urgent and intense collective response will work.",
           "created_at": "Thu Aug 27 19:38:45 +0000 2026",
-          "like_count": 12508,
-          "retweet_count": 1027,
-          "reply_count": 1722,
-          "engagement_score": 16284,
+          "like_count": 16219,
+          "retweet_count": 1310,
+          "reply_count": 2219,
+          "engagement_score": 21058,
           "url": "https://x.com/sama/status/2093060670472241368"
         }
       ]
@@ -123,10 +102,10 @@
           "id": "2092850258573471936",
           "text": "Ox Alpha = GLM-5.3 Flash\nAA = 57 ,\n1/100 frontier price, \n\nPowered by pure Chinese chips. \nDelivered nearly 20% weekly token share (no. 1) on OpenRouter.\n\nThanks to all for the support. https://t.co/niAGKJgrKQ",
           "created_at": "Thu Aug 27 05:42:39 +0000 2026",
-          "like_count": 2432,
-          "retweet_count": 177,
-          "reply_count": 125,
-          "engagement_score": 2911,
+          "like_count": 2556,
+          "retweet_count": 186,
+          "reply_count": 135,
+          "engagement_score": 3063,
           "url": "https://x.com/jietang/status/2092850258573471936"
         }
       ]
@@ -141,21 +120,51 @@
           "id": "2092960847408583120",
           "text": "NVIDIA Vera is heading to @awscloud. \n\nNVIDIA’s Ian Buck hand-delivered AWS’s first Vera CPU Server and Vera Rubin GPU to Willem Visser and Supreeth Sheshadri at the AWS HQ in Seattle.\n\nVera is purpose-built for agentic AI: more tokens per dollar, faster results for users, and the compute foundation AI factories need to scale.",
           "created_at": "Thu Aug 27 13:02:06 +0000 2026",
-          "like_count": 897,
-          "retweet_count": 82,
-          "reply_count": 75,
-          "engagement_score": 1136,
+          "like_count": 1022,
+          "retweet_count": 96,
+          "reply_count": 82,
+          "engagement_score": 1296,
           "url": "https://x.com/nvidia/status/2092960847408583120"
         },
         {
           "id": "2093036251603734919",
           "text": "Congratulations to Josh Parker, NVIDIA's Head of Sustainability, on being named to @TIME’s 2026 #TIME100AI list.\n\nLearn more: https://t.co/txrKwQHX1N https://t.co/vDZeidVB4v",
           "created_at": "Thu Aug 27 18:01:43 +0000 2026",
-          "like_count": 256,
-          "retweet_count": 31,
-          "reply_count": 36,
-          "engagement_score": 354,
+          "like_count": 301,
+          "retweet_count": 38,
+          "reply_count": 42,
+          "engagement_score": 419,
           "url": "https://x.com/nvidia/status/2093036251603734919"
+        },
+        {
+          "id": "2093484389682270429",
+          "text": "What used to take years now takes a week. \n\n@TAMU's VISION, an NVIDIA DGX SuperPOD and the most powerful academic supercomputer on the June 2026 TOP500, is giving researchers across seven institutions the compute to tackle challenges at unprecedented scale and speed. https://t.co/TfohplP2fW",
+          "created_at": "Fri Aug 28 23:42:28 +0000 2026",
+          "like_count": 222,
+          "retweet_count": 37,
+          "reply_count": 20,
+          "engagement_score": 316,
+          "url": "https://x.com/nvidia/status/2093484389682270429"
+        },
+        {
+          "id": "2093399189690691994",
+          "text": "Lightning fast to customize. Lightning fast to run.\n\nNVIDIA Nemotron 3.5 Lightning is a compact, customizable open model built to help always-on agents complete specialized tasks faster.\n\nKari Briski joins @MTSlive to explain how Lightning helps always-on agents work faster. https://t.co/JInmQmA07g",
+          "created_at": "Fri Aug 28 18:03:54 +0000 2026",
+          "like_count": 171,
+          "retweet_count": 19,
+          "reply_count": 27,
+          "engagement_score": 236,
+          "url": "https://x.com/nvidia/status/2093399189690691994"
+        },
+        {
+          "id": "2093457336161419676",
+          "text": "Open development helps AI move faster.\n\nWhen we can learn from, build on and improve each other’s work, we can make better technology together.\n\nHear @ctnzr on the MAD Podcast with @mattturck https://t.co/CfvNqYfHjp",
+          "created_at": "Fri Aug 28 21:54:58 +0000 2026",
+          "like_count": 126,
+          "retweet_count": 14,
+          "reply_count": 18,
+          "engagement_score": 172,
+          "url": "https://x.com/nvidia/status/2093457336161419676"
         }
       ]
     },
@@ -197,51 +206,51 @@
           "id": "2093019310725951683",
           "text": "Our best products have been exports of internal technology we gain strong conviction in.\n\n@matinotfound and team have been shipping extraordinary WebGPU creative productions, and now https://t.co/0nyTRPKDEJ is here.\n\nIt’s a fully agent-native devtool: it was designed for agents, not humans alone. Much like 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, it’s part of a new exciting generation of tools to serve the new world.",
           "created_at": "Thu Aug 27 16:54:24 +0000 2026",
-          "like_count": 496,
-          "retweet_count": 21,
-          "reply_count": 40,
-          "engagement_score": 578,
+          "like_count": 664,
+          "retweet_count": 28,
+          "reply_count": 46,
+          "engagement_score": 766,
           "url": "https://x.com/rauchg/status/2093019310725951683"
         },
         {
           "id": "2093120128879907123",
           "text": "Deploy to Vercel",
           "created_at": "Thu Aug 27 23:35:01 +0000 2026",
-          "like_count": 302,
-          "retweet_count": 8,
-          "reply_count": 28,
-          "engagement_score": 346,
+          "like_count": 596,
+          "retweet_count": 15,
+          "reply_count": 37,
+          "engagement_score": 663,
           "url": "https://x.com/rauchg/status/2093120128879907123"
         },
         {
-          "id": "2092621371914482026",
-          "text": "We're shipping a cool security dashboard, but also the 𝚟𝚎𝚛𝚌𝚎𝚕 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚌𝚑𝚎𝚌𝚔 CLI.\n\nMuch like 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌, you can call on agents to improve your security posture with human-in-the-loop, or run in crons.\n\nWho would have thunk CLIs would save the world 😁 https://t.co/xuVkD7KlHp",
-          "created_at": "Wed Aug 26 14:33:08 +0000 2026",
-          "like_count": 279,
-          "retweet_count": 13,
-          "reply_count": 40,
-          "engagement_score": 345,
-          "url": "https://x.com/rauchg/status/2092621371914482026"
+          "id": "2093347647050616954",
+          "text": "As models get more performant, UI gets more generative and dynamic. Excited for this trend to continue",
+          "created_at": "Fri Aug 28 14:39:06 +0000 2026",
+          "like_count": 473,
+          "retweet_count": 7,
+          "reply_count": 24,
+          "engagement_score": 511,
+          "url": "https://x.com/rauchg/status/2093347647050616954"
         },
         {
-          "id": "2092735785460277627",
-          "text": "So cool. Global compute at your (agents') fingertips.\n\nMultiple regions, failover, up to 10,000 concurrent sandboxes &amp; 5,000 vCPUs/min ramp by default, with more regions to come 🫪 https://t.co/d5RUqFDtiz",
-          "created_at": "Wed Aug 26 22:07:47 +0000 2026",
-          "like_count": 243,
-          "retweet_count": 9,
-          "reply_count": 27,
-          "engagement_score": 288,
-          "url": "https://x.com/rauchg/status/2092735785460277627"
+          "id": "2093482695838007318",
+          "text": "I see the web evolving in two extremes:\n\n1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. https://t.co/0nyTRPKDEJ / threejs / typegpu are enabling this\n\n2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure, lossless signal for machines. The rise of markdown and MCP are the tip of this iceberg\n\nThe 'in between' is likely to be subsumed by agents producing just-in-time UI. When you need utilitarian content or data, it'll be generated just-in-time for you. Think of the agent as the new browser in this model.",
+          "created_at": "Fri Aug 28 23:35:44 +0000 2026",
+          "like_count": 322,
+          "retweet_count": 24,
+          "reply_count": 32,
+          "engagement_score": 402,
+          "url": "https://x.com/rauchg/status/2093482695838007318"
         },
         {
-          "id": "2092995002410680375",
-          "text": "CMA is a remarkably elegant architecture. The 'hard parts' of the agent are managed, but it doesn't take away from your freedom to customize.\n\ne.g: you can have a fully custom UI for your agent on @vercel with Chat SDK. Or handle custom tools with your own functions on Vercel.",
-          "created_at": "Thu Aug 27 15:17:49 +0000 2026",
-          "like_count": 208,
-          "retweet_count": 18,
-          "reply_count": 34,
-          "engagement_score": 278,
-          "url": "https://x.com/rauchg/status/2092995002410680375"
+          "id": "2093387887668814214",
+          "text": "There are many “easy” ways to create agents out there.\n\nBut how many that give you a Git repo where you actually *own* the entire intelligence stack? Runtime, model choice, skills, tools, connectivity, sandbox…\n\nEasiest way to start with eve: \nhttps://t.co/cUFDog6P3d",
+          "created_at": "Fri Aug 28 17:19:00 +0000 2026",
+          "like_count": 295,
+          "retweet_count": 16,
+          "reply_count": 36,
+          "engagement_score": 363,
+          "url": "https://x.com/rauchg/status/2093387887668814214"
         }
       ]
     },
@@ -250,7 +259,28 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2093533378880667787",
+          "text": "You can access OpenAI models on Replit for free.\n\nOur router also makes high-end models incredibly cost-efficient.\n\nIf you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition.",
+          "created_at": "Sat Aug 29 02:57:08 +0000 2026",
+          "like_count": 180,
+          "retweet_count": 13,
+          "reply_count": 21,
+          "engagement_score": 227,
+          "url": "https://x.com/amasad/status/2093533378880667787"
+        },
+        {
+          "id": "2093434828385313068",
+          "text": "Growth agent is such an untapped potential.",
+          "created_at": "Fri Aug 28 20:25:31 +0000 2026",
+          "like_count": 181,
+          "retweet_count": 6,
+          "reply_count": 21,
+          "engagement_score": 214,
+          "url": "https://x.com/amasad/status/2093434828385313068"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -262,25 +292,25 @@
           "id": "2093074288295481470",
           "text": "Look what you can do:\n- Tell Gemini what you want done\n- Gemini gets to work\n\nThis is the Year of Voice",
           "created_at": "Thu Aug 27 20:32:52 +0000 2026",
-          "like_count": 282,
-          "retweet_count": 14,
-          "reply_count": 16,
-          "engagement_score": 326,
+          "like_count": 400,
+          "retweet_count": 20,
+          "reply_count": 21,
+          "engagement_score": 461,
           "url": "https://x.com/joshwoodward/status/2093074288295481470"
         },
         {
-          "id": "2092614266818064389",
-          "text": "Experimenting with multiplayer AI",
-          "created_at": "Wed Aug 26 14:04:54 +0000 2026",
-          "like_count": 196,
-          "retweet_count": 16,
-          "reply_count": 14,
-          "engagement_score": 242,
-          "url": "https://x.com/joshwoodward/status/2092614266818064389"
+          "id": "2093409673571631480",
+          "text": "One of my favorite parts of Expert Intelligence in @Gemini_Notebook is the letter from the author, such a nice touch! https://t.co/I6iDB4hHOt",
+          "created_at": "Fri Aug 28 18:45:34 +0000 2026",
+          "like_count": 106,
+          "retweet_count": 7,
+          "reply_count": 3,
+          "engagement_score": 123,
+          "url": "https://x.com/joshwoodward/status/2093409673571631480"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-28T05:52:51.241017+00:00"
+  "generated_at": "2026-08-29T03:25:50.772325+00:00"
 }

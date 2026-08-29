@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-28T05:53:41.632851+00:00",
+  "generated_at": "2026-08-29T03:26:43.518103+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "link": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+      "pub_date": "2026-08-28T07:12:10+00:00",
+      "transcript_path": "feeds/transcripts/eb9aa92b7a13ff3b85501f5f.txt",
+      "transcript_chars": 10228,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-29T03:26:43.518103+00:00",
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
+    },
     {
       "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/I-Studied-Every-100-Bagger-Stock-in-History--Heres-What-I-Found--Chris-Mayer-e3nu5jj",
@@ -12,8 +25,8 @@
       "transcript_chars": 144078,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-28T05:53:41.632851+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -25,8 +38,8 @@
       "transcript_chars": 11730,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
@@ -38,8 +51,8 @@
       "transcript_chars": 12551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6506",
@@ -51,8 +64,8 @@
       "transcript_chars": 309575,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://www.latent.space/p/lovable-future-of-saas",
@@ -64,8 +77,8 @@
       "transcript_chars": 9290,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
@@ -77,8 +90,8 @@
       "transcript_chars": 18551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://www.latent.space/p/anima",
@@ -90,8 +103,8 @@
       "transcript_chars": 9148,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
+      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
+      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
@@ -378,32 +391,6 @@
       "cached_at": "2026-08-13T22:32:17.098013+00:00",
       "last_seen_at": "2026-08-15T22:12:25.116967+00:00",
       "expires_at": "2026-08-29T22:12:25.116967+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=6494",
-      "link": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
-      "channel": "Lex Fridman",
-      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "pub_date": "2026-08-12T13:11:45+00:00",
-      "transcript_path": "feeds/transcripts/4dd49418f027831fd02bb01a.txt",
-      "transcript_chars": 177054,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-08-12T22:31:50.004460+00:00",
-      "last_seen_at": "2026-08-14T22:14:28.620493+00:00",
-      "expires_at": "2026-08-28T22:14:28.620493+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "link": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "channel": "Latent Space",
-      "title": "[AINews] How to steal a Reasoning Trace",
-      "pub_date": "2026-08-12T07:11:08+00:00",
-      "transcript_path": "feeds/transcripts/95535ce824ed2c9cb88c1c56.txt",
-      "transcript_chars": 27393,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-12T22:31:50.004460+00:00",
-      "last_seen_at": "2026-08-14T22:14:28.620493+00:00",
-      "expires_at": "2026-08-28T22:14:28.620493+00:00"
     }
   ]
 }
