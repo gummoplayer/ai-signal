@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-29T03:26:43.518103+00:00",
+  "generated_at": "2026-08-29T23:45:28.988790+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/openai-huggingface",
+      "link": "https://www.dwarkesh.com/p/openai-huggingface",
+      "channel": "Dwarkesh Patel",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "pub_date": "2026-08-29T22:47:53+00:00",
+      "transcript_path": "feeds/transcripts/48d955f9c3b8a6e949164b94.txt",
+      "transcript_chars": 22835,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-29T23:45:28.988790+00:00",
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "link": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "pub_date": "2026-08-29T05:11:52+00:00",
+      "transcript_path": "feeds/transcripts/b6071d28a1ba7aaee650d2e5.txt",
+      "transcript_chars": 19891,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-29T23:45:28.988790+00:00",
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
       "link": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -12,8 +38,8 @@
       "transcript_chars": 10228,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T03:26:43.518103+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
     },
     {
       "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
@@ -25,8 +51,8 @@
       "transcript_chars": 144078,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-28T05:53:41.632851+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -38,8 +64,8 @@
       "transcript_chars": 11730,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
@@ -51,8 +77,8 @@
       "transcript_chars": 12551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
+      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
+      "expires_at": "2026-09-12T23:45:28.988790+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6506",
@@ -378,19 +404,6 @@
       "cached_at": "2026-08-15T22:12:25.116967+00:00",
       "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
       "expires_at": "2026-08-31T22:15:07.812566+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "channel": "Latent Space",
-      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
-      "pub_date": "2026-08-13T01:53:47+00:00",
-      "transcript_path": "feeds/transcripts/0ca714a85119256f832dd9da.txt",
-      "transcript_chars": 19241,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-13T22:32:17.098013+00:00",
-      "last_seen_at": "2026-08-15T22:12:25.116967+00:00",
-      "expires_at": "2026-08-29T22:12:25.116967+00:00"
     }
   ]
 }
