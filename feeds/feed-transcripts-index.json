@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-29T23:45:28.988790+00:00",
+  "generated_at": "2026-08-31T00:03:48.400691+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "link": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "channel": "Lenny's Podcast",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "pub_date": "2026-08-30T12:31:30+00:00",
+      "transcript_path": "feeds/transcripts/c776cd0d62c6f956d9ff5f71.txt",
+      "transcript_chars": 7156,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-31T00:03:48.400691+00:00",
+      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
+      "expires_at": "2026-09-14T00:03:48.400691+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
       "link": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -12,8 +25,8 @@
       "transcript_chars": 22835,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
-      "expires_at": "2026-09-12T23:45:28.988790+00:00"
+      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
+      "expires_at": "2026-09-14T00:03:48.400691+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
@@ -25,8 +38,8 @@
       "transcript_chars": 19891,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
-      "expires_at": "2026-09-12T23:45:28.988790+00:00"
+      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
+      "expires_at": "2026-09-14T00:03:48.400691+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -38,8 +51,8 @@
       "transcript_chars": 10228,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T03:26:43.518103+00:00",
-      "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
-      "expires_at": "2026-09-12T23:45:28.988790+00:00"
+      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
+      "expires_at": "2026-09-14T00:03:48.400691+00:00"
     },
     {
       "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
