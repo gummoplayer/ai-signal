@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-01T00:55:07.990631+00:00",
+  "generated_at": "2026-09-01T23:41:52.380719+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "link": "https://www.dwarkesh.com/p/ajeya-cotra",
+      "channel": "Dwarkesh Patel",
+      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
+      "pub_date": "2026-09-01T15:41:06+00:00",
+      "transcript_path": "feeds/transcripts/65a9ad9ec3b3e4d3507a46a8.txt",
+      "transcript_chars": 129233,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T23:41:52.380719+00:00",
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "channel": "Lenny's Podcast",
+      "title": "How to turn your AI into a world-class designer",
+      "pub_date": "2026-09-01T12:45:59+00:00",
+      "transcript_path": "feeds/transcripts/26ea861f99c226482e201e54.txt",
+      "transcript_chars": 23986,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T23:41:52.380719+00:00",
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "link": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+      "channel": "Latent Space",
+      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+      "pub_date": "2026-09-01T04:36:54+00:00",
+      "transcript_path": "feeds/transcripts/57683ce2bb59972434343202.txt",
+      "transcript_chars": 14695,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T23:41:52.380719+00:00",
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
       "link": "https://www.dwarkesh.com/p/openai-huggingface-narration",
@@ -12,8 +51,8 @@
       "transcript_chars": 1396,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
@@ -25,8 +64,8 @@
       "transcript_chars": 6482,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
@@ -38,8 +77,8 @@
       "transcript_chars": 6168,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
@@ -51,8 +90,8 @@
       "transcript_chars": 7156,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-31T00:03:48.400691+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
+      "expires_at": "2026-09-15T23:41:52.380719+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -430,19 +469,6 @@
       "cached_at": "2026-08-17T22:15:07.812566+00:00",
       "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
       "expires_at": "2026-09-02T22:16:58.244368+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "link": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "channel": "Lenny's Podcast",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-      "pub_date": "2026-08-16T12:31:42+00:00",
-      "transcript_path": "feeds/transcripts/cefbd24e71a4c8554d61d89c.txt",
-      "transcript_chars": 5779,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-16T22:11:49.636539+00:00",
-      "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
-      "expires_at": "2026-09-01T22:14:18.801283+00:00"
     }
   ]
 }
