@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-31T00:03:48.400691+00:00",
+  "generated_at": "2026-09-01T00:55:07.990631+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "link": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "channel": "Dwarkesh Patel",
+      "title": "The rise and fall of agent civilizations",
+      "pub_date": "2026-08-31T20:36:53+00:00",
+      "transcript_path": "feeds/transcripts/7ccce02360640f5ec0a16a4f.txt",
+      "transcript_chars": 1396,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T00:55:07.990631+00:00",
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "pub_date": "2026-08-31T15:01:58+00:00",
+      "transcript_path": "feeds/transcripts/19e611ecda8994bb81a06da3.txt",
+      "transcript_chars": 6482,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T00:55:07.990631+00:00",
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "link": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "channel": "Lenny's Podcast",
+      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "pub_date": "2026-08-31T12:04:18+00:00",
+      "transcript_path": "feeds/transcripts/0f041fdc00170600ee343a93.txt",
+      "transcript_chars": 6168,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-01T00:55:07.990631+00:00",
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
       "link": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
@@ -12,8 +51,8 @@
       "transcript_chars": 7156,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-31T00:03:48.400691+00:00",
-      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
-      "expires_at": "2026-09-14T00:03:48.400691+00:00"
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -25,8 +64,8 @@
       "transcript_chars": 22835,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
-      "expires_at": "2026-09-14T00:03:48.400691+00:00"
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
@@ -38,8 +77,8 @@
       "transcript_chars": 19891,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
-      "expires_at": "2026-09-14T00:03:48.400691+00:00"
+      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
+      "expires_at": "2026-09-15T00:55:07.990631+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -404,19 +443,6 @@
       "cached_at": "2026-08-16T22:11:49.636539+00:00",
       "last_seen_at": "2026-08-18T22:14:18.801283+00:00",
       "expires_at": "2026-09-01T22:14:18.801283+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/flue-2",
-      "link": "https://www.latent.space/p/flue-2",
-      "channel": "Latent Space",
-      "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
-      "pub_date": "2026-08-15T15:46:22+00:00",
-      "transcript_path": "feeds/transcripts/fbfee43c72ee10da13765506.txt",
-      "transcript_chars": 9134,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-15T22:12:25.116967+00:00",
-      "last_seen_at": "2026-08-17T22:15:07.812566+00:00",
-      "expires_at": "2026-08-31T22:15:07.812566+00:00"
     }
   ]
 }
