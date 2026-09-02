@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-01T23:41:52.380719+00:00",
+  "generated_at": "2026-09-02T23:43:06.102276+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+      "link": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+      "channel": "Lenny's Podcast",
+      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+      "pub_date": "2026-09-02T12:03:39+00:00",
+      "transcript_path": "feeds/transcripts/41bb38d53e98b498413df3c3.txt",
+      "transcript_chars": 5237,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-02T23:43:06.102276+00:00",
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "link": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "channel": "Latent Space",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "pub_date": "2026-09-02T07:46:08+00:00",
+      "transcript_path": "feeds/transcripts/39efa72fee79eb38ca6119ef.txt",
+      "transcript_chars": 31805,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-02T23:43:06.102276+00:00",
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
       "link": "https://www.dwarkesh.com/p/ajeya-cotra",
@@ -12,8 +38,8 @@
       "transcript_chars": 129233,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
@@ -25,8 +51,8 @@
       "transcript_chars": 23986,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
@@ -38,8 +64,8 @@
       "transcript_chars": 14695,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
@@ -51,8 +77,8 @@
       "transcript_chars": 1396,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
@@ -64,8 +90,8 @@
       "transcript_chars": 6482,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
@@ -77,8 +103,8 @@
       "transcript_chars": 6168,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
+      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
+      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
@@ -443,32 +469,6 @@
       "cached_at": "2026-08-18T22:14:18.801283+00:00",
       "last_seen_at": "2026-08-20T22:19:08.706703+00:00",
       "expires_at": "2026-09-03T22:19:08.706703+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-      "pub_date": "2026-08-17T15:03:16+00:00",
-      "transcript_path": "feeds/transcripts/6e39c86e34d0182f32698401.txt",
-      "transcript_chars": 5078,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-17T22:15:07.812566+00:00",
-      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
-      "expires_at": "2026-09-02T22:16:58.244368+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
-      "link": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
-      "channel": "Lenny's Podcast",
-      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
-      "pub_date": "2026-08-17T12:04:02+00:00",
-      "transcript_path": "feeds/transcripts/bcb124b2dcd11462bbdcab29.txt",
-      "transcript_chars": 5452,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-17T22:15:07.812566+00:00",
-      "last_seen_at": "2026-08-19T22:16:58.244368+00:00",
-      "expires_at": "2026-09-02T22:16:58.244368+00:00"
     }
   ]
 }
