@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-03T23:42:42.982317+00:00",
+  "generated_at": "2026-09-04T23:35:09.558670+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "link": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+      "channel": "Latent Space",
+      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+      "pub_date": "2026-09-04T05:18:11+00:00",
+      "transcript_path": "feeds/transcripts/102dfe605c1c908eff4d7be5.txt",
+      "transcript_chars": 29588,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-04T23:35:09.558670+00:00",
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/astra",
       "link": "https://www.latent.space/p/astra",
@@ -12,8 +25,8 @@
       "transcript_chars": 42601,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
@@ -25,8 +38,8 @@
       "transcript_chars": 4653,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "61206a3c-2874-4c39-9930-31cef1253358",
@@ -38,8 +51,8 @@
       "transcript_chars": 2528,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "d9fe2093-4612-4327-847c-67502451f578",
@@ -51,8 +64,8 @@
       "transcript_chars": 144546,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
@@ -64,8 +77,8 @@
       "transcript_chars": 18766,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
@@ -77,8 +90,8 @@
       "transcript_chars": 5237,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-02T23:43:06.102276+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
@@ -90,8 +103,8 @@
       "transcript_chars": 31805,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-02T23:43:06.102276+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
+      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
+      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
@@ -482,19 +495,6 @@
       "cached_at": "2026-08-20T22:19:08.706703+00:00",
       "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
       "expires_at": "2026-09-05T22:13:29.863432+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
-      "link": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
-      "channel": "Latent Space",
-      "title": "[AINews] Memory prices up 500% in 12 months",
-      "pub_date": "2026-08-19T08:44:52+00:00",
-      "transcript_path": "feeds/transcripts/3bfbbff7124d6d46843914d0.txt",
-      "transcript_chars": 12692,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-19T22:16:58.244368+00:00",
-      "last_seen_at": "2026-08-21T22:15:17.613628+00:00",
-      "expires_at": "2026-09-04T22:15:17.613628+00:00"
     }
   ]
 }

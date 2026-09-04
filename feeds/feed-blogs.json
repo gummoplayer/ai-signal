@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "published": "2026-09-04T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
       "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -19,15 +28,6 @@
       "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
     },
     {
-      "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "published": "2026-09-03T12:00:00+00:00",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
-    },
-    {
       "id": "https://openai.com/index/playco-game-prototyping-with-astra",
       "source": "openai",
       "source_name": "OpenAI",
@@ -37,6 +37,15 @@
       "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
     },
     {
+      "id": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "published": "2026-09-03T12:00:00+00:00",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
+    },
+    {
       "id": "https://openai.com/index/safety-overview-gpt-6-astra",
       "source": "openai",
       "source_name": "OpenAI",
@@ -44,44 +53,8 @@
       "url": "https://openai.com/index/safety-overview-gpt-6-astra",
       "published": "2026-09-03T00:00:00+00:00",
       "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework."
-    },
-    {
-      "id": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "published": "2026-09-02T16:24:24+00:00",
-      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
-    },
-    {
-      "id": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "published": "2026-09-02T16:18:31+00:00",
-      "summary": "Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation intelligence for agentic workflows and cybersecurity."
-    },
-    {
-      "id": "https://openai.com/index/atv-big-air-tour",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "published": "2026-09-02T12:00:00+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
-    },
-    {
-      "id": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "published": "2026-09-01T00:00:00+00:00",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-03T23:42:29.202982+00:00"
+  "generated_at": "2026-09-04T23:34:55.427814+00:00"
 }
