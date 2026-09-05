@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-04T23:35:09.558670+00:00",
+  "generated_at": "2026-09-05T23:28:18.774532+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/grok-bot",
+      "link": "https://www.latent.space/p/grok-bot",
+      "channel": "Latent Space",
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "pub_date": "2026-09-05T15:01:02+00:00",
+      "transcript_path": "feeds/transcripts/b0b3497ed7fd336230cee0a5.txt",
+      "transcript_chars": 14223,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-05T23:28:18.774532+00:00",
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
       "link": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -12,8 +25,8 @@
       "transcript_chars": 29588,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-04T23:35:09.558670+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "https://www.latent.space/p/astra",
@@ -25,8 +38,8 @@
       "transcript_chars": 42601,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
@@ -38,8 +51,8 @@
       "transcript_chars": 4653,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "61206a3c-2874-4c39-9930-31cef1253358",
@@ -51,8 +64,8 @@
       "transcript_chars": 2528,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "d9fe2093-4612-4327-847c-67502451f578",
@@ -64,8 +77,8 @@
       "transcript_chars": 144546,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
@@ -77,8 +90,8 @@
       "transcript_chars": 18766,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
+      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
+      "expires_at": "2026-09-19T23:28:18.774532+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
@@ -456,45 +469,6 @@
       "cached_at": "2026-08-21T22:15:17.613628+00:00",
       "last_seen_at": "2026-08-23T22:13:44.636576+00:00",
       "expires_at": "2026-09-06T22:13:44.636576+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/wayfinder-skill",
-      "link": "https://www.latent.space/p/wayfinder-skill",
-      "channel": "Latent Space",
-      "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
-      "pub_date": "2026-08-20T20:59:09+00:00",
-      "transcript_path": "feeds/transcripts/aa6b97fedc3b2c886b55b3df.txt",
-      "transcript_chars": 8109,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
-      "expires_at": "2026-09-05T22:13:29.863432+00:00"
-    },
-    {
-      "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Caracas-Play-Venture-capital-and-private-equity-investment-in-Venezuela-with-Francisco-Amador-e3nk9g3",
-      "channel": "The Acquirers Podcast",
-      "title": "The Caracas Play: Venture capital and private equity investment in Venezuela with Francisco Amador",
-      "pub_date": "2026-08-20T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/2e246cfa9ec45d8e719e236b.txt",
-      "transcript_chars": 143581,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
-      "expires_at": "2026-09-05T22:13:29.863432+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
-      "link": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
-      "channel": "Latent Space",
-      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
-      "pub_date": "2026-08-20T05:17:12+00:00",
-      "transcript_path": "feeds/transcripts/417010170c83d8870d3c07f5.txt",
-      "transcript_chars": 16688,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-20T22:19:08.706703+00:00",
-      "last_seen_at": "2026-08-22T22:13:29.863432+00:00",
-      "expires_at": "2026-09-05T22:13:29.863432+00:00"
     }
   ]
 }
