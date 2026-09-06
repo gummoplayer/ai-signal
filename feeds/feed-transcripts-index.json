@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-05T23:28:18.774532+00:00",
+  "generated_at": "2026-09-06T23:21:58.282285+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "link": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "channel": "Lenny's Podcast",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "pub_date": "2026-09-06T12:32:00+00:00",
+      "transcript_path": "feeds/transcripts/aab19c3955a173decfbdc37c.txt",
+      "transcript_chars": 9055,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-06T23:21:58.282285+00:00",
+      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
+      "expires_at": "2026-09-20T23:21:58.282285+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/grok-bot",
       "link": "https://www.latent.space/p/grok-bot",
@@ -12,8 +25,8 @@
       "transcript_chars": 14223,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-05T23:28:18.774532+00:00",
-      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
-      "expires_at": "2026-09-19T23:28:18.774532+00:00"
+      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
+      "expires_at": "2026-09-20T23:21:58.282285+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -25,8 +38,8 @@
       "transcript_chars": 29588,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-04T23:35:09.558670+00:00",
-      "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
-      "expires_at": "2026-09-19T23:28:18.774532+00:00"
+      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
+      "expires_at": "2026-09-20T23:21:58.282285+00:00"
     },
     {
       "guid": "https://www.latent.space/p/astra",
@@ -456,19 +469,6 @@
       "cached_at": "2026-08-22T22:13:29.863432+00:00",
       "last_seen_at": "2026-08-24T22:18:00.730639+00:00",
       "expires_at": "2026-09-07T22:18:00.730639+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "link": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "channel": "Latent Space",
-      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-      "pub_date": "2026-08-21T05:45:21+00:00",
-      "transcript_path": "feeds/transcripts/4becdd3754445fbc5e009bba.txt",
-      "transcript_chars": 20848,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-21T22:15:17.613628+00:00",
-      "last_seen_at": "2026-08-23T22:13:44.636576+00:00",
-      "expires_at": "2026-09-06T22:13:44.636576+00:00"
     }
   ]
 }
