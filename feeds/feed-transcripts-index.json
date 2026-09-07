@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-06T23:21:58.282285+00:00",
+  "generated_at": "2026-09-07T23:52:23.952717+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "pub_date": "2026-09-07T15:02:41+00:00",
+      "transcript_path": "feeds/transcripts/8091072feb3b30b6d92f4416.txt",
+      "transcript_chars": 18504,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-07T23:52:23.952717+00:00",
+      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
+      "expires_at": "2026-09-21T23:52:23.952717+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "link": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "channel": "Lenny's Podcast",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "pub_date": "2026-09-07T12:04:19+00:00",
+      "transcript_path": "feeds/transcripts/6893897e67e639a87c1e6fcd.txt",
+      "transcript_chars": 5065,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-07T23:52:23.952717+00:00",
+      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
+      "expires_at": "2026-09-21T23:52:23.952717+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
       "link": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
@@ -12,8 +38,8 @@
       "transcript_chars": 9055,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-06T23:21:58.282285+00:00",
-      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
-      "expires_at": "2026-09-20T23:21:58.282285+00:00"
+      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
+      "expires_at": "2026-09-21T23:52:23.952717+00:00"
     },
     {
       "guid": "https://www.latent.space/p/grok-bot",
@@ -25,8 +51,8 @@
       "transcript_chars": 14223,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-05T23:28:18.774532+00:00",
-      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
-      "expires_at": "2026-09-20T23:21:58.282285+00:00"
+      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
+      "expires_at": "2026-09-21T23:52:23.952717+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -430,45 +456,6 @@
       "cached_at": "2026-08-23T22:13:44.636576+00:00",
       "last_seen_at": "2026-08-25T22:18:21.512622+00:00",
       "expires_at": "2026-09-08T22:18:21.512622+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "channel": "Latent Space",
-      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "pub_date": "2026-08-22T07:36:00+00:00",
-      "transcript_path": "feeds/transcripts/21844a8fc8abff8e4121fd70.txt",
-      "transcript_chars": 28837,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-22T22:13:29.863432+00:00",
-      "last_seen_at": "2026-08-24T22:18:00.730639+00:00",
-      "expires_at": "2026-09-07T22:18:00.730639+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/attention-interface",
-      "link": "https://www.latent.space/p/attention-interface",
-      "channel": "Latent Space",
-      "title": "The Evolution of the Agent Harness",
-      "pub_date": "2026-08-22T07:30:52+00:00",
-      "transcript_path": "feeds/transcripts/833f67105cde5aedb281ce8d.txt",
-      "transcript_chars": 12322,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-22T22:13:29.863432+00:00",
-      "last_seen_at": "2026-08-24T22:18:00.730639+00:00",
-      "expires_at": "2026-09-07T22:18:00.730639+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/simile",
-      "link": "https://www.latent.space/p/simile",
-      "channel": "Latent Space",
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-      "pub_date": "2026-08-21T23:37:38+00:00",
-      "transcript_path": "feeds/transcripts/a7ad4bd7142ba85fd7025522.txt",
-      "transcript_chars": 80520,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-22T22:13:29.863432+00:00",
-      "last_seen_at": "2026-08-24T22:18:00.730639+00:00",
-      "expires_at": "2026-09-07T22:18:00.730639+00:00"
     }
   ]
 }
