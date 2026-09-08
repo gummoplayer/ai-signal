@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-07T23:52:23.952717+00:00",
+  "generated_at": "2026-09-08T23:46:09.709957+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "link": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "channel": "Dwarkesh Patel",
+      "title": "Pretraining progress is mostly coming from data",
+      "pub_date": "2026-09-08T16:10:16+00:00",
+      "transcript_path": "feeds/transcripts/aa99a0237aab2b167d04c5cb.txt",
+      "transcript_chars": 17992,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-08T23:46:09.709957+00:00",
+      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
+      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+      "link": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+      "channel": "Lenny's Podcast",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "pub_date": "2026-09-08T12:31:49+00:00",
+      "transcript_path": "feeds/transcripts/9bb53fb02b4472c10f1cd25b.txt",
+      "transcript_chars": 5266,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-08T23:46:09.709957+00:00",
+      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
+      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
@@ -12,8 +38,8 @@
       "transcript_chars": 18504,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
-      "expires_at": "2026-09-21T23:52:23.952717+00:00"
+      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
+      "expires_at": "2026-09-22T23:46:09.709957+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
@@ -25,8 +51,8 @@
       "transcript_chars": 5065,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
-      "expires_at": "2026-09-21T23:52:23.952717+00:00"
+      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
+      "expires_at": "2026-09-22T23:46:09.709957+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
@@ -38,8 +64,8 @@
       "transcript_chars": 9055,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-06T23:21:58.282285+00:00",
-      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
-      "expires_at": "2026-09-21T23:52:23.952717+00:00"
+      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
+      "expires_at": "2026-09-22T23:46:09.709957+00:00"
     },
     {
       "guid": "https://www.latent.space/p/grok-bot",
@@ -443,19 +469,6 @@
       "cached_at": "2026-08-24T22:18:00.730639+00:00",
       "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
       "expires_at": "2026-09-10T02:27:33.780448+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "link": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "channel": "Lenny's Podcast",
-      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-      "pub_date": "2026-08-23T12:31:43+00:00",
-      "transcript_path": "feeds/transcripts/372742eab20a3769f996ab74.txt",
-      "transcript_chars": 4670,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-23T22:13:44.636576+00:00",
-      "last_seen_at": "2026-08-25T22:18:21.512622+00:00",
-      "expires_at": "2026-09-08T22:18:21.512622+00:00"
     }
   ]
 }
