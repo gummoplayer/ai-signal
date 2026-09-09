@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-08T23:46:09.709957+00:00",
+  "generated_at": "2026-09-09T23:42:04.948409+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "Can AI help us better predict the weather?",
+      "pub_date": "2026-09-09T16:08:26+00:00",
+      "transcript_path": "feeds/transcripts/5b7d7af06b5c1eff5d3cddd4.txt",
+      "transcript_chars": 18655,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-09T23:42:04.948409+00:00",
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "link": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "pub_date": "2026-09-09T05:04:51+00:00",
+      "transcript_path": "feeds/transcripts/b7fe7cf397e21053052ae76e.txt",
+      "transcript_chars": 25731,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-09T23:42:04.948409+00:00",
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
       "link": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -12,8 +38,8 @@
       "transcript_chars": 17992,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-08T23:46:09.709957+00:00",
-      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
-      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
@@ -25,8 +51,8 @@
       "transcript_chars": 5266,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-08T23:46:09.709957+00:00",
-      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
-      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
@@ -38,8 +64,8 @@
       "transcript_chars": 18504,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
-      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
@@ -51,8 +77,8 @@
       "transcript_chars": 5065,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
-      "expires_at": "2026-09-22T23:46:09.709957+00:00"
+      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
+      "expires_at": "2026-09-23T23:42:04.948409+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
