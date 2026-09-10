@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-09T23:42:04.948409+00:00",
+  "generated_at": "2026-09-10T23:34:50.385099+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/A-Hedge-Fund-Managers-Honest-Take-on-Why-Most-I-Zeke-Ashtonnvestors-Fail-e3ojkjj",
+      "channel": "The Acquirers Podcast",
+      "title": "A Hedge Fund Manager's Honest Take on Why Most I Zeke Ashtonnvestors Fail |",
+      "pub_date": "2026-09-10T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/f8f57af892707e32502ebe20.txt",
+      "transcript_chars": 145108,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-10T23:34:50.385099+00:00",
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-09-10T03:33:12+00:00",
+      "transcript_path": "feeds/transcripts/1ccca203e2f97cfb6072d8d3.txt",
+      "transcript_chars": 36337,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-10T23:34:50.385099+00:00",
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+    },
     {
       "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
       "link": "https://deepmind.com/podcast",
@@ -12,8 +38,8 @@
       "transcript_chars": 18655,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
@@ -25,8 +51,8 @@
       "transcript_chars": 25731,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -38,8 +64,8 @@
       "transcript_chars": 17992,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-08T23:46:09.709957+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
@@ -51,8 +77,8 @@
       "transcript_chars": 5266,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-08T23:46:09.709957+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
+      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
+      "expires_at": "2026-09-24T23:34:50.385099+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
@@ -456,45 +482,6 @@
       "cached_at": "2026-08-25T22:18:21.512622+00:00",
       "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
       "expires_at": "2026-09-11T05:53:41.632851+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-      "link": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-      "channel": "Latent Space",
-      "title": "[AINews] Andrew Ng gets into AI Engineering",
-      "pub_date": "2026-08-25T02:50:57+00:00",
-      "transcript_path": "feeds/transcripts/d2317e2e6b10656a1b091ebc.txt",
-      "transcript_chars": 20835,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-25T22:18:21.512622+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
-      "pub_date": "2026-08-24T15:02:23+00:00",
-      "transcript_path": "feeds/transcripts/ffc0e6f399b4ed0aaae3f4c6.txt",
-      "transcript_chars": 9913,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-24T22:18:00.730639+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
-      "link": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
-      "channel": "Lenny's Podcast",
-      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
-      "pub_date": "2026-08-24T12:04:02+00:00",
-      "transcript_path": "feeds/transcripts/eb32f0de5103823df1cbeb97.txt",
-      "transcript_chars": 5885,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-24T22:18:00.730639+00:00",
-      "last_seen_at": "2026-08-27T02:27:33.780448+00:00",
-      "expires_at": "2026-09-10T02:27:33.780448+00:00"
     }
   ]
 }
