@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-10T23:34:50.385099+00:00",
+  "generated_at": "2026-09-11T23:42:56.749532+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "channel": "Dwarkesh Patel",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "pub_date": "2026-09-11T16:28:11+00:00",
+      "transcript_path": "feeds/transcripts/2562a1ae932d375360bceab1.txt",
+      "transcript_chars": 102324,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-11T23:42:56.749532+00:00",
+      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
+      "expires_at": "2026-09-25T23:42:56.749532+00:00"
+    },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/A-Hedge-Fund-Managers-Honest-Take-on-Why-Most-I-Zeke-Ashtonnvestors-Fail-e3ojkjj",
@@ -12,8 +25,8 @@
       "transcript_chars": 145108,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
-      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
+      "expires_at": "2026-09-25T23:42:56.749532+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
@@ -25,8 +38,8 @@
       "transcript_chars": 36337,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
-      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
+      "expires_at": "2026-09-25T23:42:56.749532+00:00"
     },
     {
       "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
@@ -38,8 +51,8 @@
       "transcript_chars": 18655,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
-      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
+      "expires_at": "2026-09-25T23:42:56.749532+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
@@ -51,8 +64,8 @@
       "transcript_chars": 25731,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
-      "expires_at": "2026-09-24T23:34:50.385099+00:00"
+      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
+      "expires_at": "2026-09-25T23:42:56.749532+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -456,32 +469,6 @@
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
       "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
       "expires_at": "2026-09-12T03:26:43.518103+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "link": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "channel": "Dwarkesh Patel",
-      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
-      "pub_date": "2026-08-25T15:32:57+00:00",
-      "transcript_path": "feeds/transcripts/86511805f40ed0bc1b62ab6e.txt",
-      "transcript_chars": 78352,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-25T22:18:21.512622+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "link": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "channel": "Lenny's Podcast",
-      "title": "How to figure out your next career move",
-      "pub_date": "2026-08-25T13:04:15+00:00",
-      "transcript_path": "feeds/transcripts/d40a4a29c00429fe23013bf9.txt",
-      "transcript_chars": 18025,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-25T22:18:21.512622+00:00",
-      "last_seen_at": "2026-08-28T05:53:41.632851+00:00",
-      "expires_at": "2026-09-11T05:53:41.632851+00:00"
     }
   ]
 }
