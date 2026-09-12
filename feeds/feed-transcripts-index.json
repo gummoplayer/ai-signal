@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-11T23:42:56.749532+00:00",
+  "generated_at": "2026-09-12T23:36:22.251321+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "link": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+      "channel": "Latent Space",
+      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+      "pub_date": "2026-09-12T05:56:05+00:00",
+      "transcript_path": "feeds/transcripts/57e656e0d46273b4ab5671e1.txt",
+      "transcript_chars": 35621,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-12T23:36:22.251321+00:00",
+      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
+      "expires_at": "2026-09-26T23:36:22.251321+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
       "link": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -12,8 +25,8 @@
       "transcript_chars": 102324,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-11T23:42:56.749532+00:00",
-      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
-      "expires_at": "2026-09-25T23:42:56.749532+00:00"
+      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
+      "expires_at": "2026-09-26T23:36:22.251321+00:00"
     },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
@@ -25,8 +38,8 @@
       "transcript_chars": 145108,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
-      "expires_at": "2026-09-25T23:42:56.749532+00:00"
+      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
+      "expires_at": "2026-09-26T23:36:22.251321+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
@@ -38,8 +51,8 @@
       "transcript_chars": 36337,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
-      "expires_at": "2026-09-25T23:42:56.749532+00:00"
+      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
+      "expires_at": "2026-09-26T23:36:22.251321+00:00"
     },
     {
       "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
@@ -417,58 +430,6 @@
       "cached_at": "2026-08-27T02:27:33.780448+00:00",
       "last_seen_at": "2026-08-29T23:45:28.988790+00:00",
       "expires_at": "2026-09-12T23:45:28.988790+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=6506",
-      "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
-      "channel": "Lex Fridman",
-      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-      "pub_date": "2026-08-26T21:47:04+00:00",
-      "transcript_path": "feeds/transcripts/d40b20bbb56eec07ec7a204f.txt",
-      "transcript_chars": 309575,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/lovable-future-of-saas",
-      "link": "https://www.latent.space/p/lovable-future-of-saas",
-      "channel": "Latent Space",
-      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-      "pub_date": "2026-08-26T16:16:25+00:00",
-      "transcript_path": "feeds/transcripts/afe8684754442d0db3e55d9c.txt",
-      "transcript_chars": 9290,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
-    },
-    {
-      "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "The mathematics of AI uncertainty",
-      "pub_date": "2026-08-26T15:35:59+00:00",
-      "transcript_path": "feeds/transcripts/0f2c37203187fd196a8e0c0c.txt",
-      "transcript_chars": 18551,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/anima",
-      "link": "https://www.latent.space/p/anima",
-      "channel": "Latent Space",
-      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-      "pub_date": "2026-08-26T15:15:39+00:00",
-      "transcript_path": "feeds/transcripts/0575bc1a4c672d9a9b4bb4fc.txt",
-      "transcript_chars": 9148,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-27T02:27:33.780448+00:00",
-      "last_seen_at": "2026-08-29T03:26:43.518103+00:00",
-      "expires_at": "2026-09-12T03:26:43.518103+00:00"
     }
   ]
 }
