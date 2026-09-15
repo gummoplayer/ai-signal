@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-15T00:06:00.569267+00:00",
+  "generated_at": "2026-09-15T23:51:14.530033+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
+      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
+      "channel": "All-In Podcast",
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+      "pub_date": "2026-09-15T20:46:00+00:00",
+      "transcript_path": "feeds/transcripts/98a76c7c697d96df3edbffdb.txt",
+      "transcript_chars": 4027,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:51:14.530033+00:00",
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "link": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "channel": "Lenny's Podcast",
+      "title": "60+ new creative growth ideas",
+      "pub_date": "2026-09-15T12:45:28+00:00",
+      "transcript_path": "feeds/transcripts/e4653d52fd45a0beb3d51f7e.txt",
+      "transcript_chars": 23614,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:51:14.530033+00:00",
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "link": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "channel": "Latent Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "pub_date": "2026-09-15T04:50:36+00:00",
+      "transcript_path": "feeds/transcripts/e335db16a6cef77906b50155.txt",
+      "transcript_chars": 13685,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:51:14.530033+00:00",
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/recursive",
       "link": "https://www.latent.space/p/recursive",
@@ -12,8 +51,8 @@
       "transcript_chars": 117134,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
-      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
@@ -25,8 +64,8 @@
       "transcript_chars": 5053,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
-      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
@@ -38,8 +77,8 @@
       "transcript_chars": 5646,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
-      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
+      "expires_at": "2026-09-29T23:51:14.530033+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -378,45 +417,6 @@
       "cached_at": "2026-09-01T00:55:07.990631+00:00",
       "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
       "expires_at": "2026-09-16T23:43:06.102276+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-      "link": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-      "channel": "Lenny's Podcast",
-      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
-      "pub_date": "2026-08-30T12:31:30+00:00",
-      "transcript_path": "feeds/transcripts/c776cd0d62c6f956d9ff5f71.txt",
-      "transcript_chars": 7156,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-31T00:03:48.400691+00:00",
-      "last_seen_at": "2026-09-01T23:41:52.380719+00:00",
-      "expires_at": "2026-09-15T23:41:52.380719+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/openai-huggingface",
-      "link": "https://www.dwarkesh.com/p/openai-huggingface",
-      "channel": "Dwarkesh Patel",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "pub_date": "2026-08-29T22:47:53+00:00",
-      "transcript_path": "feeds/transcripts/48d955f9c3b8a6e949164b94.txt",
-      "transcript_chars": 22835,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "link": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI shuts off Cursor",
-      "pub_date": "2026-08-29T05:11:52+00:00",
-      "transcript_path": "feeds/transcripts/b6071d28a1ba7aaee650d2e5.txt",
-      "transcript_chars": 19891,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-29T23:45:28.988790+00:00",
-      "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
-      "expires_at": "2026-09-15T00:55:07.990631+00:00"
     }
   ]
 }

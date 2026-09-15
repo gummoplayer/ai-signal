@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published": "2026-09-15T17:05:57+00:00",
+      "summary": "Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet, built for natural conversation."
+    },
+    {
       "id": "https://openai.com/index/fyxer",
       "source": "openai",
       "source_name": "OpenAI",
@@ -20,5 +29,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-15T00:05:50.733301+00:00"
+  "generated_at": "2026-09-15T23:50:55.651081+00:00"
 }
