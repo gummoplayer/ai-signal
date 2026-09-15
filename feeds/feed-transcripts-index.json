@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-13T23:48:15.240714+00:00",
+  "generated_at": "2026-09-15T00:06:00.569267+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/recursive",
+      "link": "https://www.latent.space/p/recursive",
+      "channel": "Latent Space",
+      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+      "pub_date": "2026-09-14T16:04:16+00:00",
+      "transcript_path": "feeds/transcripts/2efc3a74253d689ebfedb019.txt",
+      "transcript_chars": 117134,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T00:06:00.569267+00:00",
+      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
+      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "pub_date": "2026-09-14T15:03:48+00:00",
+      "transcript_path": "feeds/transcripts/b5c5fdf08f6f2016484c3caf.txt",
+      "transcript_chars": 5053,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T00:06:00.569267+00:00",
+      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
+      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "link": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "channel": "Lenny's Podcast",
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "pub_date": "2026-09-14T12:04:39+00:00",
+      "transcript_path": "feeds/transcripts/e38d5a310b7e47cff2283ffd.txt",
+      "transcript_chars": 5646,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T00:06:00.569267+00:00",
+      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
+      "expires_at": "2026-09-29T00:06:00.569267+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
       "link": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -12,8 +51,8 @@
       "transcript_chars": 35621,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-12T23:36:22.251321+00:00",
-      "last_seen_at": "2026-09-13T23:48:15.240714+00:00",
-      "expires_at": "2026-09-27T23:48:15.240714+00:00"
+      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
+      "expires_at": "2026-09-29T00:06:00.569267+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -378,19 +417,6 @@
       "cached_at": "2026-08-29T23:45:28.988790+00:00",
       "last_seen_at": "2026-09-01T00:55:07.990631+00:00",
       "expires_at": "2026-09-15T00:55:07.990631+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "link": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-      "pub_date": "2026-08-28T07:12:10+00:00",
-      "transcript_path": "feeds/transcripts/eb9aa92b7a13ff3b85501f5f.txt",
-      "transcript_chars": 10228,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-29T03:26:43.518103+00:00",
-      "last_seen_at": "2026-08-31T00:03:48.400691+00:00",
-      "expires_at": "2026-09-14T00:03:48.400691+00:00"
     }
   ]
 }
