@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-15T23:51:14.530033+00:00",
+  "generated_at": "2026-09-16T23:59:10.767558+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/aiuc",
+      "link": "https://www.latent.space/p/aiuc",
+      "channel": "Latent Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "pub_date": "2026-09-16T18:07:45+00:00",
+      "transcript_path": "feeds/transcripts/895cf5b9c61fc65bb1b45351.txt",
+      "transcript_chars": 114022,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-16T23:59:10.767558+00:00",
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "link": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "channel": "Lenny's Podcast",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "pub_date": "2026-09-16T12:02:14+00:00",
+      "transcript_path": "feeds/transcripts/3087642d67765bb4c4f2aec0.txt",
+      "transcript_chars": 5441,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-16T23:59:10.767558+00:00",
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "link": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "channel": "Latent Space",
+      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "pub_date": "2026-09-16T11:09:53+00:00",
+      "transcript_path": "feeds/transcripts/ed2db5393d16e717bb83c1b4.txt",
+      "transcript_chars": 11457,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-16T23:59:10.767558+00:00",
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+    },
     {
       "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
       "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
@@ -12,8 +51,8 @@
       "transcript_chars": 4027,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
@@ -25,8 +64,8 @@
       "transcript_chars": 23614,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
@@ -38,8 +77,8 @@
       "transcript_chars": 13685,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -51,8 +90,8 @@
       "transcript_chars": 117134,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
@@ -64,8 +103,8 @@
       "transcript_chars": 5053,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
@@ -77,8 +116,8 @@
       "transcript_chars": 5646,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-15T23:51:14.530033+00:00",
-      "expires_at": "2026-09-29T23:51:14.530033+00:00"
+      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
+      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -378,45 +417,6 @@
       "cached_at": "2026-09-01T23:41:52.380719+00:00",
       "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
       "expires_at": "2026-09-17T23:42:42.982317+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "link": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "channel": "Dwarkesh Patel",
-      "title": "The rise and fall of agent civilizations",
-      "pub_date": "2026-08-31T20:36:53+00:00",
-      "transcript_path": "feeds/transcripts/7ccce02360640f5ec0a16a4f.txt",
-      "transcript_chars": 1396,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
-      "expires_at": "2026-09-16T23:43:06.102276+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-      "pub_date": "2026-08-31T15:01:58+00:00",
-      "transcript_path": "feeds/transcripts/19e611ecda8994bb81a06da3.txt",
-      "transcript_chars": 6482,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
-      "expires_at": "2026-09-16T23:43:06.102276+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "link": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "channel": "Lenny's Podcast",
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "pub_date": "2026-08-31T12:04:18+00:00",
-      "transcript_path": "feeds/transcripts/0f041fdc00170600ee343a93.txt",
-      "transcript_chars": 6168,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T00:55:07.990631+00:00",
-      "last_seen_at": "2026-09-02T23:43:06.102276+00:00",
-      "expires_at": "2026-09-16T23:43:06.102276+00:00"
     }
   ]
 }
