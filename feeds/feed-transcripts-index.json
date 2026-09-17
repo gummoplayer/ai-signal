@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-09-16T23:59:10.767558+00:00",
+  "generated_at": "2026-09-17T23:48:54.295906+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/noam-brown",
+      "link": "https://www.dwarkesh.com/p/noam-brown",
+      "channel": "Dwarkesh Patel",
+      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+      "pub_date": "2026-09-17T15:38:13+00:00",
+      "transcript_path": "feeds/transcripts/88a1ae465c7634d7b7da83a9.txt",
+      "transcript_chars": 79938,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-17T23:48:54.295906+00:00",
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "channel": "Latent Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "pub_date": "2026-09-17T07:28:25+00:00",
+      "transcript_path": "feeds/transcripts/4426e5537ed7b657ce4bbdf9.txt",
+      "transcript_chars": 53665,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-17T23:48:54.295906+00:00",
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+    },
+    {
+      "guid": "b0ae8bb2-812b-4ed0-bc9d-17a77b736fdc",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Stock-Picking-Is-a-Temperament-Game--Ian-Cassel-e3ouoi1",
+      "channel": "The Acquirers Podcast",
+      "title": "Stock Picking Is a Temperament Game | Ian Cassel",
+      "pub_date": "2026-09-17T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bcaf053e9ee1e98c47ac9533.txt",
+      "transcript_chars": 145582,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-17T23:48:54.295906+00:00",
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+    },
+    {
+      "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
+      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "channel": "All-In Podcast",
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "pub_date": "2026-09-17T03:04:00+00:00",
+      "transcript_path": "feeds/transcripts/4481e45609453cec64d84352.txt",
+      "transcript_chars": 3854,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-17T23:48:54.295906+00:00",
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=6554",
+      "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+      "channel": "Lex Fridman",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+      "pub_date": "2026-09-17T00:40:49+00:00",
+      "transcript_path": "feeds/transcripts/64bf58bcf5dae9d633cdd0e8.txt",
+      "transcript_chars": 181518,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-09-17T23:48:54.295906+00:00",
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/aiuc",
       "link": "https://www.latent.space/p/aiuc",
@@ -12,8 +77,8 @@
       "transcript_chars": 114022,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
@@ -25,8 +90,8 @@
       "transcript_chars": 5441,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
@@ -38,8 +103,8 @@
       "transcript_chars": 11457,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
@@ -51,8 +116,8 @@
       "transcript_chars": 4027,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
@@ -64,8 +129,8 @@
       "transcript_chars": 23614,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
@@ -77,8 +142,8 @@
       "transcript_chars": 13685,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
+      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
+      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -378,45 +443,6 @@
       "cached_at": "2026-09-02T23:43:06.102276+00:00",
       "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
       "expires_at": "2026-09-18T23:35:09.558670+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
-      "link": "https://www.dwarkesh.com/p/ajeya-cotra",
-      "channel": "Dwarkesh Patel",
-      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
-      "pub_date": "2026-09-01T15:41:06+00:00",
-      "transcript_path": "feeds/transcripts/65a9ad9ec3b3e4d3507a46a8.txt",
-      "transcript_chars": 129233,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "channel": "Lenny's Podcast",
-      "title": "How to turn your AI into a world-class designer",
-      "pub_date": "2026-09-01T12:45:59+00:00",
-      "transcript_path": "feeds/transcripts/26ea861f99c226482e201e54.txt",
-      "transcript_chars": 23986,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "link": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "channel": "Latent Space",
-      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-      "pub_date": "2026-09-01T04:36:54+00:00",
-      "transcript_path": "feeds/transcripts/57683ce2bb59972434343202.txt",
-      "transcript_chars": 14695,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-01T23:41:52.380719+00:00",
-      "last_seen_at": "2026-09-03T23:42:42.982317+00:00",
-      "expires_at": "2026-09-17T23:42:42.982317+00:00"
     }
   ]
 }
