@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-09-17T23:48:54.295906+00:00",
+  "generated_at": "2026-09-18T23:46:33.748972+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-09-18T06:28:43+00:00",
+      "transcript_path": "feeds/transcripts/4873010e50db964567acfae4.txt",
+      "transcript_chars": 35144,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-18T23:46:33.748972+00:00",
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/noam-brown",
       "link": "https://www.dwarkesh.com/p/noam-brown",
@@ -12,8 +25,8 @@
       "transcript_chars": 79938,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
@@ -25,8 +38,8 @@
       "transcript_chars": 53665,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "b0ae8bb2-812b-4ed0-bc9d-17a77b736fdc",
@@ -38,8 +51,8 @@
       "transcript_chars": 145582,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
@@ -51,8 +64,8 @@
       "transcript_chars": 3854,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6554",
@@ -64,8 +77,8 @@
       "transcript_chars": 181518,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "https://www.latent.space/p/aiuc",
@@ -77,8 +90,8 @@
       "transcript_chars": 114022,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
@@ -90,8 +103,8 @@
       "transcript_chars": 5441,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
@@ -103,8 +116,8 @@
       "transcript_chars": 11457,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
+      "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
+      "expires_at": "2026-10-02T23:46:33.748972+00:00"
     },
     {
       "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
@@ -417,32 +430,6 @@
       "cached_at": "2026-09-03T23:42:42.982317+00:00",
       "last_seen_at": "2026-09-05T23:28:18.774532+00:00",
       "expires_at": "2026-09-19T23:28:18.774532+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-      "link": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-      "channel": "Lenny's Podcast",
-      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-      "pub_date": "2026-09-02T12:03:39+00:00",
-      "transcript_path": "feeds/transcripts/41bb38d53e98b498413df3c3.txt",
-      "transcript_chars": 5237,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-02T23:43:06.102276+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-      "link": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
-      "pub_date": "2026-09-02T07:46:08+00:00",
-      "transcript_path": "feeds/transcripts/39efa72fee79eb38ca6119ef.txt",
-      "transcript_chars": 31805,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-02T23:43:06.102276+00:00",
-      "last_seen_at": "2026-09-04T23:35:09.558670+00:00",
-      "expires_at": "2026-09-18T23:35:09.558670+00:00"
     }
   ]
 }
