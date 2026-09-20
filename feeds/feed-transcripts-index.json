@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-19T23:47:43.455686+00:00",
+  "generated_at": "2026-09-20T23:43:51.415223+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
+      "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+      "channel": "All-In Podcast",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+      "pub_date": "2026-09-20T20:49:00+00:00",
+      "transcript_path": "feeds/transcripts/5d492beca082beab6a0326ff.txt",
+      "transcript_chars": 3959,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-20T23:43:51.415223+00:00",
+      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
+      "expires_at": "2026-10-04T23:43:51.415223+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "link": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "channel": "Lenny's Podcast",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "pub_date": "2026-09-20T12:32:17+00:00",
+      "transcript_path": "feeds/transcripts/183948a4e7e5ec26d505804c.txt",
+      "transcript_chars": 6835,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-20T23:43:51.415223+00:00",
+      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
+      "expires_at": "2026-10-04T23:43:51.415223+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
       "link": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -12,8 +38,8 @@
       "transcript_chars": 13872,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T23:47:43.455686+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
+      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
+      "expires_at": "2026-10-04T23:43:51.415223+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -25,8 +51,8 @@
       "transcript_chars": 35144,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-18T23:46:33.748972+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
+      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
+      "expires_at": "2026-10-04T23:43:51.415223+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/noam-brown",
@@ -365,19 +391,6 @@
       "cached_at": "2026-09-05T23:28:18.774532+00:00",
       "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
       "expires_at": "2026-09-21T23:52:23.952717+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "link": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "channel": "Latent Space",
-      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-      "pub_date": "2026-09-04T05:18:11+00:00",
-      "transcript_path": "feeds/transcripts/102dfe605c1c908eff4d7be5.txt",
-      "transcript_chars": 29588,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-04T23:35:09.558670+00:00",
-      "last_seen_at": "2026-09-06T23:21:58.282285+00:00",
-      "expires_at": "2026-09-20T23:21:58.282285+00:00"
     }
   ]
 }
