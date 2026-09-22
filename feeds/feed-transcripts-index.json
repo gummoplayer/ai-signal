@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-09-22T00:26:11.841617+00:00",
+  "generated_at": "2026-09-22T23:55:41.541009+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "link": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "channel": "Lenny's Podcast",
+      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+      "pub_date": "2026-09-22T23:12:49+00:00",
+      "transcript_path": "feeds/transcripts/4d07e3b8a201cf993a9e8e63.txt",
+      "transcript_chars": 5134,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/john-platt",
+      "link": "https://www.latent.space/p/john-platt",
+      "channel": "Latent Space",
+      "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+      "pub_date": "2026-09-22T21:07:39+00:00",
+      "transcript_path": "feeds/transcripts/32f4fc0999e48f3b2a3cc570.txt",
+      "transcript_chars": 13435,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "link": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "channel": "Lenny's Podcast",
+      "title": "I left Claude for months. Opus 5.5 is why I'm back",
+      "pub_date": "2026-09-22T19:06:40+00:00",
+      "transcript_path": "feeds/transcripts/5e87a5bac3c941b706fe10d4.txt",
+      "transcript_chars": 4839,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+      "link": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+      "channel": "Lenny's Podcast",
+      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+      "pub_date": "2026-09-22T12:45:14+00:00",
+      "transcript_path": "feeds/transcripts/f59758b3af661e4fc7263f9d.txt",
+      "transcript_chars": 19561,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
+    {
+      "guid": "ebe0e737-5995-476f-8d20-673400e3ec13",
+      "link": "https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine",
+      "channel": "All-In Podcast",
+      "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
+      "pub_date": "2026-09-22T09:00:00+00:00",
+      "transcript_path": "feeds/transcripts/081340fbc09826d3d23f00bf.txt",
+      "transcript_chars": 3882,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "channel": "Latent Space",
+      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "pub_date": "2026-09-22T06:30:56+00:00",
+      "transcript_path": "feeds/transcripts/d37d7112692eecb44ce64b28.txt",
+      "transcript_chars": 16572,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T23:55:41.541009+00:00",
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/jev",
       "link": "https://www.latent.space/p/jev",
@@ -12,8 +90,8 @@
       "transcript_chars": 189617,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "053073fc-e856-48e9-9312-74082d4761ee",
@@ -25,8 +103,8 @@
       "transcript_chars": 3819,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
@@ -38,8 +116,8 @@
       "transcript_chars": 12523,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
@@ -51,8 +129,8 @@
       "transcript_chars": 5410,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
@@ -64,8 +142,8 @@
       "transcript_chars": 3959,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
@@ -77,8 +155,8 @@
       "transcript_chars": 6835,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
+      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -417,19 +495,6 @@
       "cached_at": "2026-09-07T23:52:23.952717+00:00",
       "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
       "expires_at": "2026-09-23T23:42:04.948409+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-      "link": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-      "channel": "Lenny's Podcast",
-      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-      "pub_date": "2026-09-06T12:32:00+00:00",
-      "transcript_path": "feeds/transcripts/aab19c3955a173decfbdc37c.txt",
-      "transcript_chars": 9055,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-06T23:21:58.282285+00:00",
-      "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
-      "expires_at": "2026-09-22T23:46:09.709957+00:00"
     }
   ]
 }
