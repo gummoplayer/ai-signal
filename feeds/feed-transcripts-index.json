@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-20T23:43:51.415223+00:00",
+  "generated_at": "2026-09-22T00:26:11.841617+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/jev",
+      "link": "https://www.latent.space/p/jev",
+      "channel": "Latent Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "pub_date": "2026-09-21T22:13:49+00:00",
+      "transcript_path": "feeds/transcripts/44d865393457ffb9c006f979.txt",
+      "transcript_chars": 189617,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:26:11.841617+00:00",
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+    },
+    {
+      "guid": "053073fc-e856-48e9-9312-74082d4761ee",
+      "link": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
+      "channel": "All-In Podcast",
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+      "pub_date": "2026-09-21T21:03:00+00:00",
+      "transcript_path": "feeds/transcripts/1567452536fca84d29226101.txt",
+      "transcript_chars": 3819,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:26:11.841617+00:00",
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "pub_date": "2026-09-21T15:03:51+00:00",
+      "transcript_path": "feeds/transcripts/67e7c74e30b0af7fecb0cb55.txt",
+      "transcript_chars": 12523,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:26:11.841617+00:00",
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "link": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "channel": "Lenny's Podcast",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "pub_date": "2026-09-21T12:04:11+00:00",
+      "transcript_path": "feeds/transcripts/74e9b6e7b75c3925b2616f80.txt",
+      "transcript_chars": 5410,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:26:11.841617+00:00",
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
+    },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
       "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
@@ -12,8 +64,8 @@
       "transcript_chars": 3959,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
-      "expires_at": "2026-10-04T23:43:51.415223+00:00"
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
@@ -25,8 +77,8 @@
       "transcript_chars": 6835,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
-      "expires_at": "2026-10-04T23:43:51.415223+00:00"
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -38,8 +90,8 @@
       "transcript_chars": 13872,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T23:47:43.455686+00:00",
-      "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
-      "expires_at": "2026-10-04T23:43:51.415223+00:00"
+      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
+      "expires_at": "2026-10-06T00:26:11.841617+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -378,19 +430,6 @@
       "cached_at": "2026-09-06T23:21:58.282285+00:00",
       "last_seen_at": "2026-09-08T23:46:09.709957+00:00",
       "expires_at": "2026-09-22T23:46:09.709957+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/grok-bot",
-      "link": "https://www.latent.space/p/grok-bot",
-      "channel": "Latent Space",
-      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "pub_date": "2026-09-05T15:01:02+00:00",
-      "transcript_path": "feeds/transcripts/b0b3497ed7fd336230cee0a5.txt",
-      "transcript_chars": 14223,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T23:28:18.774532+00:00",
-      "last_seen_at": "2026-09-07T23:52:23.952717+00:00",
-      "expires_at": "2026-09-21T23:52:23.952717+00:00"
     }
   ]
 }
