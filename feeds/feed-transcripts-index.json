@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-22T23:55:41.541009+00:00",
+  "generated_at": "2026-09-24T00:08:05.183270+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "cbcb6353-9937-4c25-9f83-93e1f096d3e6",
+      "link": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
+      "channel": "All-In Podcast",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+      "pub_date": "2026-09-23T23:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ec87f3def3ee728ba19c456a.txt",
+      "transcript_chars": 4210,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T00:08:05.183270+00:00",
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "link": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+      "channel": "Latent Space",
+      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+      "pub_date": "2026-09-23T13:27:18+00:00",
+      "transcript_path": "feeds/transcripts/5f65b9ddcf833f70ad7eba4a.txt",
+      "transcript_chars": 8504,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T00:08:05.183270+00:00",
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "channel": "Latent Space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "pub_date": "2026-09-23T06:41:41+00:00",
+      "transcript_path": "feeds/transcripts/39a0dd75dbf0f0f68d90d5b7.txt",
+      "transcript_chars": 27156,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T00:08:05.183270+00:00",
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
       "link": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -12,8 +51,8 @@
       "transcript_chars": 5134,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.latent.space/p/john-platt",
@@ -25,8 +64,8 @@
       "transcript_chars": 13435,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
@@ -38,8 +77,8 @@
       "transcript_chars": 4839,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
@@ -51,8 +90,8 @@
       "transcript_chars": 19561,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "ebe0e737-5995-476f-8d20-673400e3ec13",
@@ -64,8 +103,8 @@
       "transcript_chars": 3882,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
@@ -77,8 +116,8 @@
       "transcript_chars": 16572,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.latent.space/p/jev",
@@ -90,8 +129,8 @@
       "transcript_chars": 189617,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "053073fc-e856-48e9-9312-74082d4761ee",
@@ -103,8 +142,8 @@
       "transcript_chars": 3819,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
@@ -116,8 +155,8 @@
       "transcript_chars": 12523,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
@@ -129,8 +168,8 @@
       "transcript_chars": 5410,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
+      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
+      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
@@ -469,32 +508,6 @@
       "cached_at": "2026-09-08T23:46:09.709957+00:00",
       "last_seen_at": "2026-09-10T23:34:50.385099+00:00",
       "expires_at": "2026-09-24T23:34:50.385099+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "pub_date": "2026-09-07T15:02:41+00:00",
-      "transcript_path": "feeds/transcripts/8091072feb3b30b6d92f4416.txt",
-      "transcript_chars": 18504,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "link": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "channel": "Lenny's Podcast",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "pub_date": "2026-09-07T12:04:19+00:00",
-      "transcript_path": "feeds/transcripts/6893897e67e639a87c1e6fcd.txt",
-      "transcript_chars": 5065,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-07T23:52:23.952717+00:00",
-      "last_seen_at": "2026-09-09T23:42:04.948409+00:00",
-      "expires_at": "2026-09-23T23:42:04.948409+00:00"
     }
   ]
 }
