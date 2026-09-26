@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-25T00:10:34.968340+00:00",
+  "generated_at": "2026-09-26T00:16:56.780857+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/openrouter",
+      "link": "https://www.latent.space/p/openrouter",
+      "channel": "Latent Space",
+      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+      "pub_date": "2026-09-25T23:14:41+00:00",
+      "transcript_path": "feeds/transcripts/158a5136eec81977fff1012a.txt",
+      "transcript_chars": 100746,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-26T00:16:56.780857+00:00",
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "channel": "Latent Space",
+      "title": "[AINews] The Future of Latent Space",
+      "pub_date": "2026-09-25T05:37:00+00:00",
+      "transcript_path": "feeds/transcripts/1bf206419506c04e4882fd79.txt",
+      "transcript_chars": 59547,
+      "transcript_source": "content_transcript_link",
+      "cached_at": "2026-09-26T00:16:56.780857+00:00",
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/runway",
+      "link": "https://www.latent.space/p/runway",
+      "channel": "Latent Space",
+      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+      "pub_date": "2026-09-25T01:30:57+00:00",
+      "transcript_path": "feeds/transcripts/6a40ab21c8f696eb8cab4ec5.txt",
+      "transcript_chars": 112852,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-26T00:16:56.780857+00:00",
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
       "link": "https://www.latent.space/p/foundries-vs-navigators-lowering",
@@ -12,8 +51,8 @@
       "transcript_chars": 16263,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
@@ -25,8 +64,8 @@
       "transcript_chars": 19782,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "3e2cb6e9-bdb1-400b-b74a-c6cd2d52ff16",
@@ -38,8 +77,8 @@
       "transcript_chars": 146173,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "cbcb6353-9937-4c25-9f83-93e1f096d3e6",
@@ -51,8 +90,8 @@
       "transcript_chars": 4210,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
@@ -64,8 +103,8 @@
       "transcript_chars": 8504,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -77,8 +116,8 @@
       "transcript_chars": 27156,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
-      "expires_at": "2026-10-09T00:10:34.968340+00:00"
+      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
+      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -495,32 +534,6 @@
       "cached_at": "2026-09-10T23:34:50.385099+00:00",
       "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
       "expires_at": "2026-09-26T23:36:22.251321+00:00"
-    },
-    {
-      "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "Can AI help us better predict the weather?",
-      "pub_date": "2026-09-09T16:08:26+00:00",
-      "transcript_path": "feeds/transcripts/5b7d7af06b5c1eff5d3cddd4.txt",
-      "transcript_chars": 18655,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
-      "expires_at": "2026-09-25T23:42:56.749532+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "link": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-      "pub_date": "2026-09-09T05:04:51+00:00",
-      "transcript_path": "feeds/transcripts/b7fe7cf397e21053052ae76e.txt",
-      "transcript_chars": 25731,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-09T23:42:04.948409+00:00",
-      "last_seen_at": "2026-09-11T23:42:56.749532+00:00",
-      "expires_at": "2026-09-25T23:42:56.749532+00:00"
     }
   ]
 }
