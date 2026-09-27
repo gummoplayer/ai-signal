@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:16:56.780857+00:00",
+  "generated_at": "2026-09-27T00:04:24.878799+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 100746,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-the-future-of-latent-space",
@@ -25,8 +25,8 @@
       "transcript_chars": 59547,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "https://www.latent.space/p/runway",
@@ -38,8 +38,8 @@
       "transcript_chars": 112852,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
@@ -51,8 +51,8 @@
       "transcript_chars": 16263,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
@@ -64,8 +64,8 @@
       "transcript_chars": 19782,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "3e2cb6e9-bdb1-400b-b74a-c6cd2d52ff16",
@@ -77,8 +77,8 @@
       "transcript_chars": 146173,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
+      "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
+      "expires_at": "2026-10-11T00:04:24.878799+00:00"
     },
     {
       "guid": "cbcb6353-9937-4c25-9f83-93e1f096d3e6",
@@ -508,32 +508,6 @@
       "cached_at": "2026-09-11T23:42:56.749532+00:00",
       "last_seen_at": "2026-09-13T23:48:15.240714+00:00",
       "expires_at": "2026-09-27T23:48:15.240714+00:00"
-    },
-    {
-      "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/A-Hedge-Fund-Managers-Honest-Take-on-Why-Most-I-Zeke-Ashtonnvestors-Fail-e3ojkjj",
-      "channel": "The Acquirers Podcast",
-      "title": "A Hedge Fund Manager's Honest Take on Why Most I Zeke Ashtonnvestors Fail |",
-      "pub_date": "2026-09-10T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f8f57af892707e32502ebe20.txt",
-      "transcript_chars": 145108,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
-      "expires_at": "2026-09-26T23:36:22.251321+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-09-10T03:33:12+00:00",
-      "transcript_path": "feeds/transcripts/1ccca203e2f97cfb6072d8d3.txt",
-      "transcript_chars": 36337,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T23:34:50.385099+00:00",
-      "last_seen_at": "2026-09-12T23:36:22.251321+00:00",
-      "expires_at": "2026-09-26T23:36:22.251321+00:00"
     }
   ]
 }
