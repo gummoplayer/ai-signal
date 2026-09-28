@@ -1,24 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://openai.com/index/proaction",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "published": "2026-09-25T19:00:00+00:00",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
-    },
-    {
-      "id": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "published": "2026-09-25T00:00:00+00:00",
-      "summary": "Claude computes a nine-loop amplitude in N=4 super-Yang-Mills"
-    }
-  ],
+  "articles": [],
   "errors": null,
-  "generated_at": "2026-09-27T00:04:12.437041+00:00"
+  "generated_at": "2026-09-28T00:09:00.393506+00:00"
 }
