@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-28T00:09:09.806580+00:00",
+  "generated_at": "2026-09-29T01:22:04.942595+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+      "pub_date": "2026-09-28T15:03:13+00:00",
+      "transcript_path": "feeds/transcripts/8580f9184deade0107c2c440.txt",
+      "transcript_chars": 11985,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T01:22:04.942595+00:00",
+      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
+      "expires_at": "2026-10-13T01:22:04.942595+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "link": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "channel": "Lenny's Podcast",
+      "title": "Jev for beginners: how to use it and what to build",
+      "pub_date": "2026-09-28T12:03:04+00:00",
+      "transcript_path": "feeds/transcripts/aca1f78569b62ea12f87c8c1.txt",
+      "transcript_chars": 5010,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T01:22:04.942595+00:00",
+      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
+      "expires_at": "2026-10-13T01:22:04.942595+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
       "link": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
@@ -12,8 +38,8 @@
       "transcript_chars": 6403,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-28T00:09:09.806580+00:00",
-      "last_seen_at": "2026-09-28T00:09:09.806580+00:00",
-      "expires_at": "2026-10-12T00:09:09.806580+00:00"
+      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
+      "expires_at": "2026-10-13T01:22:04.942595+00:00"
     },
     {
       "guid": "https://www.latent.space/p/openrouter",
@@ -495,19 +521,6 @@
       "cached_at": "2026-09-15T00:06:00.569267+00:00",
       "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
       "expires_at": "2026-09-30T23:59:10.767558+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "link": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "channel": "Latent Space",
-      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-      "pub_date": "2026-09-12T05:56:05+00:00",
-      "transcript_path": "feeds/transcripts/57e656e0d46273b4ab5671e1.txt",
-      "transcript_chars": 35621,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-12T23:36:22.251321+00:00",
-      "last_seen_at": "2026-09-15T00:06:00.569267+00:00",
-      "expires_at": "2026-09-29T00:06:00.569267+00:00"
     }
   ]
 }
