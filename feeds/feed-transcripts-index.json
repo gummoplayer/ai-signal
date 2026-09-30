@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-29T01:22:04.942595+00:00",
+  "generated_at": "2026-09-30T00:55:02.057392+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "link": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "channel": "Lenny's Podcast",
+      "title": "All of the Lenny & Friends Summit talks are now online!",
+      "pub_date": "2026-09-29T13:15:57+00:00",
+      "transcript_path": "feeds/transcripts/ce493045769694e52175da85.txt",
+      "transcript_chars": 8046,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-30T00:55:02.057392+00:00",
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "link": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "channel": "Latent Space",
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "pub_date": "2026-09-29T02:55:27+00:00",
+      "transcript_path": "feeds/transcripts/cc0f0e25785a5392f59f7e9b.txt",
+      "transcript_chars": 4306,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-30T00:55:02.057392+00:00",
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "link": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "channel": "Latent Space",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "pub_date": "2026-09-29T02:44:29+00:00",
+      "transcript_path": "feeds/transcripts/f7a994f9eb350c11c8540413.txt",
+      "transcript_chars": 31008,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-30T00:55:02.057392+00:00",
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/thariq",
+      "link": "https://www.latent.space/p/thariq",
+      "channel": "Latent Space",
+      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+      "pub_date": "2026-09-29T01:48:18+00:00",
+      "transcript_path": "feeds/transcripts/33dedf410dd2d68c4c2d0849.txt",
+      "transcript_chars": 118309,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-30T00:55:02.057392+00:00",
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
@@ -12,8 +64,8 @@
       "transcript_chars": 11985,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
-      "expires_at": "2026-10-13T01:22:04.942595+00:00"
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
@@ -25,8 +77,8 @@
       "transcript_chars": 5010,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
-      "expires_at": "2026-10-13T01:22:04.942595+00:00"
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
@@ -38,8 +90,8 @@
       "transcript_chars": 6403,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-28T00:09:09.806580+00:00",
-      "last_seen_at": "2026-09-29T01:22:04.942595+00:00",
-      "expires_at": "2026-10-13T01:22:04.942595+00:00"
+      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
+      "expires_at": "2026-10-14T00:55:02.057392+00:00"
     },
     {
       "guid": "https://www.latent.space/p/openrouter",
