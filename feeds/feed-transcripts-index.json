@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-30T00:55:02.057392+00:00",
+  "generated_at": "2026-10-01T00:56:04.682927+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/devday-2026",
+      "link": "https://www.latent.space/p/devday-2026",
+      "channel": "Latent Space",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "pub_date": "2026-09-30T22:23:40+00:00",
+      "transcript_path": "feeds/transcripts/2c041ba4e0482e4a0819876e.txt",
+      "transcript_chars": 61910,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T00:56:04.682927+00:00",
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+      "link": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+      "channel": "Lenny's Podcast",
+      "title": "OpenAI Dev Day 2026: The releases that actually matter",
+      "pub_date": "2026-09-30T14:45:15+00:00",
+      "transcript_path": "feeds/transcripts/daed07e463bcc251b130f808.txt",
+      "transcript_chars": 5158,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T00:56:04.682927+00:00",
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "link": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "channel": "Lenny's Podcast",
+      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+      "pub_date": "2026-09-30T12:04:27+00:00",
+      "transcript_path": "feeds/transcripts/8c4b4cfaeaeef3124fb5636c.txt",
+      "transcript_chars": 5081,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T00:56:04.682927+00:00",
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "link": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "pub_date": "2026-09-30T05:53:10+00:00",
+      "transcript_path": "feeds/transcripts/3c8f3d3b7dfe3173a543335d.txt",
+      "transcript_chars": 18309,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T00:56:04.682927+00:00",
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
       "link": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
@@ -12,8 +64,8 @@
       "transcript_chars": 8046,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
@@ -25,8 +77,8 @@
       "transcript_chars": 4306,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
@@ -38,8 +90,8 @@
       "transcript_chars": 31008,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.latent.space/p/thariq",
@@ -51,8 +103,8 @@
       "transcript_chars": 118309,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
@@ -64,8 +116,8 @@
       "transcript_chars": 11985,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
@@ -77,8 +129,8 @@
       "transcript_chars": 5010,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
-      "expires_at": "2026-10-14T00:55:02.057392+00:00"
+      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
+      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
@@ -534,45 +586,6 @@
       "cached_at": "2026-09-15T23:51:14.530033+00:00",
       "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
       "expires_at": "2026-10-01T23:48:54.295906+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/recursive",
-      "link": "https://www.latent.space/p/recursive",
-      "channel": "Latent Space",
-      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
-      "pub_date": "2026-09-14T16:04:16+00:00",
-      "transcript_path": "feeds/transcripts/2efc3a74253d689ebfedb019.txt",
-      "transcript_chars": 117134,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
-      "pub_date": "2026-09-14T15:03:48+00:00",
-      "transcript_path": "feeds/transcripts/b5c5fdf08f6f2016484c3caf.txt",
-      "transcript_chars": 5053,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "link": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "channel": "Lenny's Podcast",
-      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-      "pub_date": "2026-09-14T12:04:39+00:00",
-      "transcript_path": "feeds/transcripts/e38d5a310b7e47cff2283ffd.txt",
-      "transcript_chars": 5646,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T00:06:00.569267+00:00",
-      "last_seen_at": "2026-09-16T23:59:10.767558+00:00",
-      "expires_at": "2026-09-30T23:59:10.767558+00:00"
     }
   ]
 }
