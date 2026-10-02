@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-01T00:56:04.682927+00:00",
+  "generated_at": "2026-10-02T01:12:39.526774+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/rlm",
+      "link": "https://www.latent.space/p/rlm",
+      "channel": "Latent Space",
+      "title": "Academia is for Ambition — Alex Zhang, MIT",
+      "pub_date": "2026-10-02T00:28:04+00:00",
+      "transcript_path": "feeds/transcripts/e2777323230361587c5ae514.txt",
+      "transcript_chars": 130703,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-02T01:12:39.526774+00:00",
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
+    },
+    {
+      "guid": "bcecac98-430a-4361-9737-bfebe7ca9ad5",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "pub_date": "2026-10-01T16:38:11+00:00",
+      "transcript_path": "feeds/transcripts/bc702da163310c2a84268fc5.txt",
+      "transcript_chars": 18566,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-02T01:12:39.526774+00:00",
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/si-sheppard",
+      "link": "https://www.dwarkesh.com/p/si-sheppard",
+      "channel": "Dwarkesh Patel",
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "pub_date": "2026-10-01T15:28:28+00:00",
+      "transcript_path": "feeds/transcripts/7f72fee2f40583e7417be354.txt",
+      "transcript_chars": 100962,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-02T01:12:39.526774+00:00",
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
+    },
+    {
+      "guid": "8d70f94a-a2d7-4472-be22-e0afbb0ab0cb",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Great-Companies--Beaten-Down-Stocks-Booking--Pool-Corp-with-Jonathan-Boyar-e3pl0jv",
+      "channel": "The Acquirers Podcast",
+      "title": "Great Companies, Beaten-Down Stocks: Booking & Pool Corp with Jonathan Boyar",
+      "pub_date": "2026-10-01T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/338415a87920e7e154e30443.txt",
+      "transcript_chars": 146721,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-02T01:12:39.526774+00:00",
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "link": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "channel": "Latent Space",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "pub_date": "2026-10-01T06:45:05+00:00",
+      "transcript_path": "feeds/transcripts/7bec71829039a3cde0ce5758.txt",
+      "transcript_chars": 17667,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-02T01:12:39.526774+00:00",
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/devday-2026",
       "link": "https://www.latent.space/p/devday-2026",
@@ -12,8 +77,8 @@
       "transcript_chars": 61910,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T00:56:04.682927+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
@@ -25,8 +90,8 @@
       "transcript_chars": 5158,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T00:56:04.682927+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
@@ -38,8 +103,8 @@
       "transcript_chars": 5081,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T00:56:04.682927+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
@@ -51,8 +116,8 @@
       "transcript_chars": 18309,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T00:56:04.682927+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
@@ -64,8 +129,8 @@
       "transcript_chars": 8046,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
@@ -77,8 +142,8 @@
       "transcript_chars": 4306,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
@@ -90,8 +155,8 @@
       "transcript_chars": 31008,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.latent.space/p/thariq",
@@ -103,8 +168,8 @@
       "transcript_chars": 118309,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
+      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
+      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
@@ -547,45 +612,6 @@
       "cached_at": "2026-09-16T23:59:10.767558+00:00",
       "last_seen_at": "2026-09-18T23:46:33.748972+00:00",
       "expires_at": "2026-10-02T23:46:33.748972+00:00"
-    },
-    {
-      "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
-      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "channel": "All-In Podcast",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "pub_date": "2026-09-15T20:46:00+00:00",
-      "transcript_path": "feeds/transcripts/98a76c7c697d96df3edbffdb.txt",
-      "transcript_chars": 4027,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "link": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "channel": "Lenny's Podcast",
-      "title": "60+ new creative growth ideas",
-      "pub_date": "2026-09-15T12:45:28+00:00",
-      "transcript_path": "feeds/transcripts/e4653d52fd45a0beb3d51f7e.txt",
-      "transcript_chars": 23614,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "link": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "channel": "Latent Space",
-      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "pub_date": "2026-09-15T04:50:36+00:00",
-      "transcript_path": "feeds/transcripts/e335db16a6cef77906b50155.txt",
-      "transcript_chars": 13685,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:51:14.530033+00:00",
-      "last_seen_at": "2026-09-17T23:48:54.295906+00:00",
-      "expires_at": "2026-10-01T23:48:54.295906+00:00"
     }
   ]
 }
