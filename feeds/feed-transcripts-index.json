@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-03T00:50:14.934540+00:00",
+  "generated_at": "2026-10-04T00:15:25.091630+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-10-03T08:45:15+00:00",
+      "transcript_path": "feeds/transcripts/e39f0c370e6927a43aee1af9.txt",
+      "transcript_chars": 37723,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-04T00:15:25.091630+00:00",
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/airbnb",
       "link": "https://www.latent.space/p/airbnb",
@@ -12,8 +25,8 @@
       "transcript_chars": 10481,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-03T00:50:14.934540+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -25,8 +38,8 @@
       "transcript_chars": 6159,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-03T00:50:14.934540+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "https://www.latent.space/p/rlm",
@@ -38,8 +51,8 @@
       "transcript_chars": 130703,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "bcecac98-430a-4361-9737-bfebe7ca9ad5",
@@ -51,8 +64,8 @@
       "transcript_chars": 18566,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/si-sheppard",
@@ -64,8 +77,8 @@
       "transcript_chars": 100962,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "8d70f94a-a2d7-4472-be22-e0afbb0ab0cb",
@@ -77,8 +90,8 @@
       "transcript_chars": 146721,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
@@ -90,8 +103,8 @@
       "transcript_chars": 17667,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
-      "expires_at": "2026-10-17T00:50:14.934540+00:00"
+      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
+      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     },
     {
       "guid": "https://www.latent.space/p/devday-2026",
@@ -534,71 +547,6 @@
       "cached_at": "2026-09-18T23:46:33.748972+00:00",
       "last_seen_at": "2026-09-20T23:43:51.415223+00:00",
       "expires_at": "2026-10-04T23:43:51.415223+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/noam-brown",
-      "link": "https://www.dwarkesh.com/p/noam-brown",
-      "channel": "Dwarkesh Patel",
-      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
-      "pub_date": "2026-09-17T15:38:13+00:00",
-      "transcript_path": "feeds/transcripts/88a1ae465c7634d7b7da83a9.txt",
-      "transcript_chars": 79938,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-      "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
-      "channel": "Latent Space",
-      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
-      "pub_date": "2026-09-17T07:28:25+00:00",
-      "transcript_path": "feeds/transcripts/4426e5537ed7b657ce4bbdf9.txt",
-      "transcript_chars": 53665,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
-    },
-    {
-      "guid": "b0ae8bb2-812b-4ed0-bc9d-17a77b736fdc",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Stock-Picking-Is-a-Temperament-Game--Ian-Cassel-e3ouoi1",
-      "channel": "The Acquirers Podcast",
-      "title": "Stock Picking Is a Temperament Game | Ian Cassel",
-      "pub_date": "2026-09-17T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/bcaf053e9ee1e98c47ac9533.txt",
-      "transcript_chars": 145582,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
-    },
-    {
-      "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
-      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
-      "channel": "All-In Podcast",
-      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
-      "pub_date": "2026-09-17T03:04:00+00:00",
-      "transcript_path": "feeds/transcripts/4481e45609453cec64d84352.txt",
-      "transcript_chars": 3854,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=6554",
-      "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
-      "channel": "Lex Fridman",
-      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-      "pub_date": "2026-09-17T00:40:49+00:00",
-      "transcript_path": "feeds/transcripts/64bf58bcf5dae9d633cdd0e8.txt",
-      "transcript_chars": 181518,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-09-17T23:48:54.295906+00:00",
-      "last_seen_at": "2026-09-19T23:47:43.455686+00:00",
-      "expires_at": "2026-10-03T23:47:43.455686+00:00"
     }
   ]
 }
