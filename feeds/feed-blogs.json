@@ -1,24 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "published": "2026-10-02T16:15:00+00:00",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
-    },
-    {
-      "id": "https://www.anthropic.com/news/claude-frontier-academy",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "published": "2026-10-02T00:00:00+00:00",
-      "summary": "Claude Frontier Academy trains Frontier Deployed Engineers to the standard of Anthropic’s own — a $100 million commitment to train 10,000 by the end of 2027."
-    }
-  ],
+  "articles": [],
   "errors": null,
-  "generated_at": "2026-10-04T00:15:11.623266+00:00"
+  "generated_at": "2026-10-05T00:20:16.325124+00:00"
 }
