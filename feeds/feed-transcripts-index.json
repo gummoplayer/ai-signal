@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-05T00:20:29.479754+00:00",
+  "generated_at": "2026-10-06T01:59:32.304663+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "pub_date": "2026-10-05T15:03:24+00:00",
+      "transcript_path": "feeds/transcripts/ca3977ef8d19b292436f4dca.txt",
+      "transcript_chars": 12141,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-06T01:59:32.304663+00:00",
+      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
+      "expires_at": "2026-10-20T01:59:32.304663+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "link": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "channel": "Lenny's Podcast",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "pub_date": "2026-10-05T12:04:54+00:00",
+      "transcript_path": "feeds/transcripts/b8fc4caf79429bd93c04659f.txt",
+      "transcript_chars": 4561,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-06T01:59:32.304663+00:00",
+      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
+      "expires_at": "2026-10-20T01:59:32.304663+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
       "link": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
@@ -12,8 +38,8 @@
       "transcript_chars": 3979,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-05T00:20:29.479754+00:00",
-      "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
-      "expires_at": "2026-10-19T00:20:29.479754+00:00"
+      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
+      "expires_at": "2026-10-20T01:59:32.304663+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -25,8 +51,8 @@
       "transcript_chars": 37723,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-04T00:15:25.091630+00:00",
-      "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
-      "expires_at": "2026-10-19T00:20:29.479754+00:00"
+      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
+      "expires_at": "2026-10-20T01:59:32.304663+00:00"
     },
     {
       "guid": "https://www.latent.space/p/airbnb",
@@ -534,19 +560,6 @@
       "cached_at": "2026-09-20T23:43:51.415223+00:00",
       "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
       "expires_at": "2026-10-06T23:55:41.541009+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "link": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "channel": "Latent Space",
-      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-      "pub_date": "2026-09-19T05:48:28+00:00",
-      "transcript_path": "feeds/transcripts/3eb7b8c5e892643a00ed3cb7.txt",
-      "transcript_chars": 13872,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-19T23:47:43.455686+00:00",
-      "last_seen_at": "2026-09-22T00:26:11.841617+00:00",
-      "expires_at": "2026-10-06T00:26:11.841617+00:00"
     }
   ]
 }
