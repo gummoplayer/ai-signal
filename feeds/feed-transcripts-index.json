@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-06T01:59:32.304663+00:00",
+  "generated_at": "2026-10-07T01:09:21.759421+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "channel": "Latent Space",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "pub_date": "2026-10-06T06:28:43+00:00",
+      "transcript_path": "feeds/transcripts/a57c9f5fbdab7c2c62aaef16.txt",
+      "transcript_chars": 14874,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-07T01:09:21.759421+00:00",
+      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
+      "expires_at": "2026-10-21T01:09:21.759421+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -12,8 +25,8 @@
       "transcript_chars": 12141,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
-      "expires_at": "2026-10-20T01:59:32.304663+00:00"
+      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
+      "expires_at": "2026-10-21T01:09:21.759421+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -25,8 +38,8 @@
       "transcript_chars": 4561,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
-      "expires_at": "2026-10-20T01:59:32.304663+00:00"
+      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
+      "expires_at": "2026-10-21T01:09:21.759421+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
@@ -38,8 +51,8 @@
       "transcript_chars": 3979,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-05T00:20:29.479754+00:00",
-      "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
-      "expires_at": "2026-10-20T01:59:32.304663+00:00"
+      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
+      "expires_at": "2026-10-21T01:09:21.759421+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -534,32 +547,6 @@
       "cached_at": "2026-09-22T00:26:11.841617+00:00",
       "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
       "expires_at": "2026-10-08T00:08:05.183270+00:00"
-    },
-    {
-      "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
-      "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "channel": "All-In Podcast",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
-      "pub_date": "2026-09-20T20:49:00+00:00",
-      "transcript_path": "feeds/transcripts/5d492beca082beab6a0326ff.txt",
-      "transcript_chars": 3959,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "link": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "channel": "Lenny's Podcast",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "pub_date": "2026-09-20T12:32:17+00:00",
-      "transcript_path": "feeds/transcripts/183948a4e7e5ec26d505804c.txt",
-      "transcript_chars": 6835,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-20T23:43:51.415223+00:00",
-      "last_seen_at": "2026-09-22T23:55:41.541009+00:00",
-      "expires_at": "2026-10-06T23:55:41.541009+00:00"
     }
   ]
 }
