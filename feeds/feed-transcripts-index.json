@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-07T01:09:21.759421+00:00",
+  "generated_at": "2026-10-08T01:27:19.637212+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "channel": "Latent Space",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "pub_date": "2026-10-07T04:55:44+00:00",
+      "transcript_path": "feeds/transcripts/d0198d1178242bfb88b5e8d5.txt",
+      "transcript_chars": 15362,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-08T01:27:19.637212+00:00",
+      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
+      "expires_at": "2026-10-22T01:27:19.637212+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
       "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
@@ -12,8 +25,8 @@
       "transcript_chars": 14874,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-07T01:09:21.759421+00:00",
-      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
-      "expires_at": "2026-10-21T01:09:21.759421+00:00"
+      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
+      "expires_at": "2026-10-22T01:27:19.637212+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -25,8 +38,8 @@
       "transcript_chars": 12141,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
-      "expires_at": "2026-10-21T01:09:21.759421+00:00"
+      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
+      "expires_at": "2026-10-22T01:27:19.637212+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -38,8 +51,8 @@
       "transcript_chars": 4561,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-07T01:09:21.759421+00:00",
-      "expires_at": "2026-10-21T01:09:21.759421+00:00"
+      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
+      "expires_at": "2026-10-22T01:27:19.637212+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openais-head-of-chatgpt-were-entering",
@@ -495,58 +508,6 @@
       "cached_at": "2026-09-22T23:55:41.541009+00:00",
       "last_seen_at": "2026-09-25T00:10:34.968340+00:00",
       "expires_at": "2026-10-09T00:10:34.968340+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/jev",
-      "link": "https://www.latent.space/p/jev",
-      "channel": "Latent Space",
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "pub_date": "2026-09-21T22:13:49+00:00",
-      "transcript_path": "feeds/transcripts/44d865393457ffb9c006f979.txt",
-      "transcript_chars": 189617,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
-      "expires_at": "2026-10-08T00:08:05.183270+00:00"
-    },
-    {
-      "guid": "053073fc-e856-48e9-9312-74082d4761ee",
-      "link": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
-      "channel": "All-In Podcast",
-      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
-      "pub_date": "2026-09-21T21:03:00+00:00",
-      "transcript_path": "feeds/transcripts/1567452536fca84d29226101.txt",
-      "transcript_chars": 3819,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
-      "expires_at": "2026-10-08T00:08:05.183270+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-      "pub_date": "2026-09-21T15:03:51+00:00",
-      "transcript_path": "feeds/transcripts/67e7c74e30b0af7fecb0cb55.txt",
-      "transcript_chars": 12523,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
-      "expires_at": "2026-10-08T00:08:05.183270+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "link": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "channel": "Lenny's Podcast",
-      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-      "pub_date": "2026-09-21T12:04:11+00:00",
-      "transcript_path": "feeds/transcripts/74e9b6e7b75c3925b2616f80.txt",
-      "transcript_chars": 5410,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:26:11.841617+00:00",
-      "last_seen_at": "2026-09-24T00:08:05.183270+00:00",
-      "expires_at": "2026-10-08T00:08:05.183270+00:00"
     }
   ]
 }
