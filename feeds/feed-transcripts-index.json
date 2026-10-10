@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-09T01:35:07.716694+00:00",
+  "generated_at": "2026-10-10T01:24:59.023158+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/biohub-deepmind",
+      "link": "https://www.latent.space/p/biohub-deepmind",
+      "channel": "Latent Space",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "pub_date": "2026-10-10T00:31:26+00:00",
+      "transcript_path": "feeds/transcripts/c0263fda10f92c5a66192b88.txt",
+      "transcript_chars": 29535,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-10T01:24:59.023158+00:00",
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
       "link": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -12,8 +25,8 @@
       "transcript_chars": 41039,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     },
     {
       "guid": "https://www.latent.space/p/periodic",
@@ -25,8 +38,8 @@
       "transcript_chars": 109376,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
@@ -38,8 +51,8 @@
       "transcript_chars": 9996,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     },
     {
       "guid": "07aeafdc-ba36-4851-9b94-5290ff21121e",
@@ -51,8 +64,8 @@
       "transcript_chars": 147371,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
@@ -64,8 +77,8 @@
       "transcript_chars": 15362,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-08T01:27:19.637212+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
+      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
+      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
@@ -443,45 +456,6 @@
       "cached_at": "2026-09-25T00:10:34.968340+00:00",
       "last_seen_at": "2026-09-27T00:04:24.878799+00:00",
       "expires_at": "2026-10-11T00:04:24.878799+00:00"
-    },
-    {
-      "guid": "cbcb6353-9937-4c25-9f83-93e1f096d3e6",
-      "link": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
-      "channel": "All-In Podcast",
-      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
-      "pub_date": "2026-09-23T23:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ec87f3def3ee728ba19c456a.txt",
-      "transcript_chars": 4210,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
-      "link": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
-      "channel": "Latent Space",
-      "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
-      "pub_date": "2026-09-23T13:27:18+00:00",
-      "transcript_path": "feeds/transcripts/5f65b9ddcf833f70ad7eba4a.txt",
-      "transcript_chars": 8504,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "pub_date": "2026-09-23T06:41:41+00:00",
-      "transcript_path": "feeds/transcripts/39a0dd75dbf0f0f68d90d5b7.txt",
-      "transcript_chars": 27156,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T00:08:05.183270+00:00",
-      "last_seen_at": "2026-09-26T00:16:56.780857+00:00",
-      "expires_at": "2026-10-10T00:16:56.780857+00:00"
     }
   ]
 }
