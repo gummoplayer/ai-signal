@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-11T00:35:57.193814+00:00",
+  "generated_at": "2026-10-12T00:52:01.211330+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "channel": "Lenny's Podcast",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "pub_date": "2026-10-11T12:31:59+00:00",
+      "transcript_path": "feeds/transcripts/6c35a5458306c95cbf2892df.txt",
+      "transcript_chars": 4580,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-12T00:52:01.211330+00:00",
+      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
+      "expires_at": "2026-10-26T00:52:01.211330+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/standard-bots",
       "link": "https://www.latent.space/p/standard-bots",
@@ -12,8 +25,8 @@
       "transcript_chars": 7881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
+      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
+      "expires_at": "2026-10-26T00:52:01.211330+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
@@ -25,8 +38,8 @@
       "transcript_chars": 10660,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
+      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
+      "expires_at": "2026-10-26T00:52:01.211330+00:00"
     },
     {
       "guid": "https://www.latent.space/p/biohub-deepmind",
@@ -38,8 +51,8 @@
       "transcript_chars": 29535,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-10T01:24:59.023158+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
+      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
+      "expires_at": "2026-10-26T00:52:01.211330+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -404,45 +417,6 @@
       "cached_at": "2026-09-28T00:09:09.806580+00:00",
       "last_seen_at": "2026-09-30T00:55:02.057392+00:00",
       "expires_at": "2026-10-14T00:55:02.057392+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/openrouter",
-      "link": "https://www.latent.space/p/openrouter",
-      "channel": "Latent Space",
-      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-      "pub_date": "2026-09-25T23:14:41+00:00",
-      "transcript_path": "feeds/transcripts/158a5136eec81977fff1012a.txt",
-      "transcript_chars": 100746,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-28T00:09:09.806580+00:00",
-      "expires_at": "2026-10-12T00:09:09.806580+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "channel": "Latent Space",
-      "title": "[AINews] The Future of Latent Space",
-      "pub_date": "2026-09-25T05:37:00+00:00",
-      "transcript_path": "feeds/transcripts/1bf206419506c04e4882fd79.txt",
-      "transcript_chars": 59547,
-      "transcript_source": "content_transcript_link",
-      "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-28T00:09:09.806580+00:00",
-      "expires_at": "2026-10-12T00:09:09.806580+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/runway",
-      "link": "https://www.latent.space/p/runway",
-      "channel": "Latent Space",
-      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-      "pub_date": "2026-09-25T01:30:57+00:00",
-      "transcript_path": "feeds/transcripts/6a40ab21c8f696eb8cab4ec5.txt",
-      "transcript_chars": 112852,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-26T00:16:56.780857+00:00",
-      "last_seen_at": "2026-09-28T00:09:09.806580+00:00",
-      "expires_at": "2026-10-12T00:09:09.806580+00:00"
     }
   ]
 }
