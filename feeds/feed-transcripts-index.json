@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-10-12T00:52:01.211330+00:00",
+  "generated_at": "2026-10-13T02:46:51.885589+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/claude-dynamic-workflows",
+      "link": "https://www.latent.space/p/claude-dynamic-workflows",
+      "channel": "Latent Space",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "pub_date": "2026-10-12T18:18:17+00:00",
+      "transcript_path": "feeds/transcripts/74810e4894a5649e50b8ccab.txt",
+      "transcript_chars": 7792,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T02:46:51.885589+00:00",
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+    },
+    {
+      "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
+      "link": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
+      "channel": "All-In Podcast",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "pub_date": "2026-10-12T15:49:00+00:00",
+      "transcript_path": "feeds/transcripts/7453e611f8e3f9581f594d28.txt",
+      "transcript_chars": 3997,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T02:46:51.885589+00:00",
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "pub_date": "2026-10-12T15:00:38+00:00",
+      "transcript_path": "feeds/transcripts/561414fa6c99477caf625819.txt",
+      "transcript_chars": 4937,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T02:46:51.885589+00:00",
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "link": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "channel": "Lenny's Podcast",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "pub_date": "2026-10-12T12:03:55+00:00",
+      "transcript_path": "feeds/transcripts/279f1ad4c2a418bda8e84193.txt",
+      "transcript_chars": 5207,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T02:46:51.885589+00:00",
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
       "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
@@ -12,8 +64,8 @@
       "transcript_chars": 4580,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-12T00:52:01.211330+00:00",
-      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
-      "expires_at": "2026-10-26T00:52:01.211330+00:00"
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
     },
     {
       "guid": "https://www.latent.space/p/standard-bots",
@@ -25,8 +77,8 @@
       "transcript_chars": 7881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
-      "expires_at": "2026-10-26T00:52:01.211330+00:00"
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
@@ -38,8 +90,8 @@
       "transcript_chars": 10660,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
-      "expires_at": "2026-10-26T00:52:01.211330+00:00"
+      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
+      "expires_at": "2026-10-27T02:46:51.885589+00:00"
     },
     {
       "guid": "https://www.latent.space/p/biohub-deepmind",
