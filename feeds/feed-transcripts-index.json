@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-13T02:46:51.885589+00:00",
+  "generated_at": "2026-10-14T00:45:26.912690+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/dyna",
+      "link": "https://www.latent.space/p/dyna",
+      "channel": "Latent Space",
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+      "pub_date": "2026-10-13T22:25:55+00:00",
+      "transcript_path": "feeds/transcripts/deef62d0c0b288e13871a263.txt",
+      "transcript_chars": 86341,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T00:45:26.912690+00:00",
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "channel": "Lenny's Podcast",
+      "title": "How to tell if a startup has a moat",
+      "pub_date": "2026-10-13T12:45:41+00:00",
+      "transcript_path": "feeds/transcripts/7287b40efa7e559917fe879b.txt",
+      "transcript_chars": 13813,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T00:45:26.912690+00:00",
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "link": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+      "channel": "Latent Space",
+      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+      "pub_date": "2026-10-13T09:37:04+00:00",
+      "transcript_path": "feeds/transcripts/f403ee5703f5a687bfe48671.txt",
+      "transcript_chars": 48889,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T00:45:26.912690+00:00",
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/claude-dynamic-workflows",
       "link": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -12,8 +51,8 @@
       "transcript_chars": 7792,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
     },
     {
       "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
@@ -25,8 +64,8 @@
       "transcript_chars": 3997,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
@@ -38,8 +77,8 @@
       "transcript_chars": 4937,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
@@ -51,8 +90,8 @@
       "transcript_chars": 5207,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
@@ -64,8 +103,8 @@
       "transcript_chars": 4580,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-12T00:52:01.211330+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
+      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
+      "expires_at": "2026-10-28T00:45:26.912690+00:00"
     },
     {
       "guid": "https://www.latent.space/p/standard-bots",
