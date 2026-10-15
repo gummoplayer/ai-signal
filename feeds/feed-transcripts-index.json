@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-15T00:12:08.457678+00:00",
+  "generated_at": "2026-10-15T23:58:37.952109+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "channel": "Latent Space",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "pub_date": "2026-10-15T10:08:08+00:00",
+      "transcript_path": "feeds/transcripts/d8e0c2485ea25ccda6e5c986.txt",
+      "transcript_chars": 15995,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-15T23:58:37.952109+00:00",
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+    },
+    {
+      "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
+      "channel": "The Acquirers Podcast",
+      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
+      "pub_date": "2026-10-15T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/eef40e927fcad1b04a247a6d.txt",
+      "transcript_chars": 148068,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-15T23:58:37.952109+00:00",
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
       "link": "https://www.latent.space/p/crossing-the-threshold",
@@ -12,8 +38,8 @@
       "transcript_chars": 7116,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
@@ -25,8 +51,8 @@
       "transcript_chars": 6804,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
@@ -38,8 +64,8 @@
       "transcript_chars": 4342,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
@@ -51,8 +77,8 @@
       "transcript_chars": 16707,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.latent.space/p/dyna",
@@ -64,8 +90,8 @@
       "transcript_chars": 86341,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
@@ -77,8 +103,8 @@
       "transcript_chars": 13813,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
@@ -90,8 +116,8 @@
       "transcript_chars": 48889,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
+      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
+      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -521,32 +547,6 @@
       "cached_at": "2026-09-30T00:55:02.057392+00:00",
       "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
       "expires_at": "2026-10-16T01:12:39.526774+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
-      "pub_date": "2026-09-28T15:03:13+00:00",
-      "transcript_path": "feeds/transcripts/8580f9184deade0107c2c440.txt",
-      "transcript_chars": 11985,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "link": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "channel": "Lenny's Podcast",
-      "title": "Jev for beginners: how to use it and what to build",
-      "pub_date": "2026-09-28T12:03:04+00:00",
-      "transcript_path": "feeds/transcripts/aca1f78569b62ea12f87c8c1.txt",
-      "transcript_chars": 5010,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T01:22:04.942595+00:00",
-      "last_seen_at": "2026-10-01T00:56:04.682927+00:00",
-      "expires_at": "2026-10-15T00:56:04.682927+00:00"
     }
   ]
 }
