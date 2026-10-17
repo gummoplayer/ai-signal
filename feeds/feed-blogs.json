@@ -10,22 +10,13 @@
       "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
     },
     {
-      "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "id": "https://www.anthropic.com/research/expectations-for-the-future",
       "source": "anthropic",
       "source_name": "Anthropic",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "title": "Working at the frontier shapes expectations for the future",
+      "url": "https://www.anthropic.com/research/expectations-for-the-future",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained."
-    },
-    {
-      "id": "https://www.anthropic.com/research/ai-expectations-gap",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "The AI expectations gap",
-      "url": "https://www.anthropic.com/research/ai-expectations-gap",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions."
+      "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy."
     },
     {
       "id": "https://www.anthropic.com/research/employment-at-anthropic",
@@ -37,13 +28,40 @@
       "summary": "How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator of how AI will shift work organization, hiring, and labor demand across the economy."
     },
     {
-      "id": "https://www.anthropic.com/research/expectations-for-the-future",
+      "id": "https://www.anthropic.com/research/ai-expectations-gap",
       "source": "anthropic",
       "source_name": "Anthropic",
-      "title": "Working at the frontier shapes expectations for the future",
-      "url": "https://www.anthropic.com/research/expectations-for-the-future",
+      "title": "The AI expectations gap",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
       "published": "2026-10-16T00:00:00+00:00",
-      "summary": "We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the public and Anthropic employees expect AI to affect work and the economy."
+      "summary": "How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy? This note presents new survey evidence on these questions."
+    },
+    {
+      "id": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained."
+    },
+    {
+      "id": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more."
+    },
+    {
+      "id": "https://openai.com/index/benefit-street-partners",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "published": "2026-10-16T00:00:00+00:00",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
     },
     {
       "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -53,44 +71,8 @@
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "published": "2026-10-16T00:00:00+00:00",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
-    },
-    {
-      "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published": "2026-10-15T19:00:00+00:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "published": "2026-10-15T16:08:03+00:00",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-    },
-    {
-      "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-      "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Anthropic update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "Anthropic announces updates to embedding independent evaluators"
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-17T00:04:07.536583+00:00"
+  "generated_at": "2026-10-17T23:39:32.846581+00:00"
 }
