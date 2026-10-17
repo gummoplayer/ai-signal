@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-15T23:58:37.952109+00:00",
+  "generated_at": "2026-10-17T00:04:28.226312+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "link": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "channel": "Latent Space",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "pub_date": "2026-10-16T04:16:45+00:00",
+      "transcript_path": "feeds/transcripts/16bdd8aff46d1af05dc190a5.txt",
+      "transcript_chars": 18799,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-17T00:04:28.226312+00:00",
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -12,8 +25,8 @@
       "transcript_chars": 15995,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T23:58:37.952109+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
@@ -25,8 +38,8 @@
       "transcript_chars": 148068,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T23:58:37.952109+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
@@ -38,8 +51,8 @@
       "transcript_chars": 7116,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
@@ -51,8 +64,8 @@
       "transcript_chars": 6804,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
@@ -64,8 +77,8 @@
       "transcript_chars": 4342,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
@@ -77,8 +90,8 @@
       "transcript_chars": 16707,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
+      "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
+      "expires_at": "2026-10-31T00:04:28.226312+00:00"
     },
     {
       "guid": "https://www.latent.space/p/dyna",
@@ -495,58 +508,6 @@
       "cached_at": "2026-10-01T00:56:04.682927+00:00",
       "last_seen_at": "2026-10-03T00:50:14.934540+00:00",
       "expires_at": "2026-10-17T00:50:14.934540+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "link": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "channel": "Lenny's Podcast",
-      "title": "All of the Lenny & Friends Summit talks are now online!",
-      "pub_date": "2026-09-29T13:15:57+00:00",
-      "transcript_path": "feeds/transcripts/ce493045769694e52175da85.txt",
-      "transcript_chars": 8046,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
-      "expires_at": "2026-10-16T01:12:39.526774+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "link": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "channel": "Latent Space",
-      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "pub_date": "2026-09-29T02:55:27+00:00",
-      "transcript_path": "feeds/transcripts/cc0f0e25785a5392f59f7e9b.txt",
-      "transcript_chars": 4306,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
-      "expires_at": "2026-10-16T01:12:39.526774+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "link": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "channel": "Latent Space",
-      "title": "[AINews] Opus 5.5 is good at explainer videos",
-      "pub_date": "2026-09-29T02:44:29+00:00",
-      "transcript_path": "feeds/transcripts/f7a994f9eb350c11c8540413.txt",
-      "transcript_chars": 31008,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
-      "expires_at": "2026-10-16T01:12:39.526774+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/thariq",
-      "link": "https://www.latent.space/p/thariq",
-      "channel": "Latent Space",
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "pub_date": "2026-09-29T01:48:18+00:00",
-      "transcript_path": "feeds/transcripts/33dedf410dd2d68c4c2d0849.txt",
-      "transcript_chars": 118309,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T00:55:02.057392+00:00",
-      "last_seen_at": "2026-10-02T01:12:39.526774+00:00",
-      "expires_at": "2026-10-16T01:12:39.526774+00:00"
     }
   ]
 }
