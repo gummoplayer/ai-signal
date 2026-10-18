@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-17T23:39:52.616560+00:00",
+  "generated_at": "2026-10-18T23:49:10.136691+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "channel": "Lenny's Podcast",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "pub_date": "2026-10-18T12:31:36+00:00",
+      "transcript_path": "feeds/transcripts/3c9957e87bb1163f29e21035.txt",
+      "transcript_chars": 5525,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-18T23:49:10.136691+00:00",
+      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
+      "expires_at": "2026-11-01T23:49:10.136691+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
       "link": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -12,8 +25,8 @@
       "transcript_chars": 39075,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-17T23:39:52.616560+00:00",
-      "expires_at": "2026-10-31T23:39:52.616560+00:00"
+      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
+      "expires_at": "2026-11-01T23:49:10.136691+00:00"
     },
     {
       "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
@@ -25,8 +38,8 @@
       "transcript_chars": 146960,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-17T23:39:52.616560+00:00",
-      "expires_at": "2026-10-31T23:39:52.616560+00:00"
+      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
+      "expires_at": "2026-11-01T23:49:10.136691+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
@@ -38,8 +51,8 @@
       "transcript_chars": 18799,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T00:04:28.226312+00:00",
-      "last_seen_at": "2026-10-17T23:39:52.616560+00:00",
-      "expires_at": "2026-10-31T23:39:52.616560+00:00"
+      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
+      "expires_at": "2026-11-01T23:49:10.136691+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -430,58 +443,6 @@
       "cached_at": "2026-10-02T01:12:39.526774+00:00",
       "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
       "expires_at": "2026-10-19T00:20:29.479754+00:00"
-    },
-    {
-      "guid": "bcecac98-430a-4361-9737-bfebe7ca9ad5",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "From deepfakes to DNA: the science of watermarking AI",
-      "pub_date": "2026-10-01T16:38:11+00:00",
-      "transcript_path": "feeds/transcripts/bc702da163310c2a84268fc5.txt",
-      "transcript_chars": 18566,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
-      "expires_at": "2026-10-18T00:15:25.091630+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/si-sheppard",
-      "link": "https://www.dwarkesh.com/p/si-sheppard",
-      "channel": "Dwarkesh Patel",
-      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
-      "pub_date": "2026-10-01T15:28:28+00:00",
-      "transcript_path": "feeds/transcripts/7f72fee2f40583e7417be354.txt",
-      "transcript_chars": 100962,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
-      "expires_at": "2026-10-18T00:15:25.091630+00:00"
-    },
-    {
-      "guid": "8d70f94a-a2d7-4472-be22-e0afbb0ab0cb",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Great-Companies--Beaten-Down-Stocks-Booking--Pool-Corp-with-Jonathan-Boyar-e3pl0jv",
-      "channel": "The Acquirers Podcast",
-      "title": "Great Companies, Beaten-Down Stocks: Booking & Pool Corp with Jonathan Boyar",
-      "pub_date": "2026-10-01T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/338415a87920e7e154e30443.txt",
-      "transcript_chars": 146721,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
-      "expires_at": "2026-10-18T00:15:25.091630+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "link": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
-      "channel": "Latent Space",
-      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
-      "pub_date": "2026-10-01T06:45:05+00:00",
-      "transcript_path": "feeds/transcripts/7bec71829039a3cde0ce5758.txt",
-      "transcript_chars": 17667,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-04T00:15:25.091630+00:00",
-      "expires_at": "2026-10-18T00:15:25.091630+00:00"
     }
   ]
 }

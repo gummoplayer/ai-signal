@@ -1,13 +1,13 @@
 {
   "articles": [
     {
-      "id": "https://openai.com/index/itau-generative-ai",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
+      "id": "https://www.anthropic.com/news/public-benefit-fund",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published": "2026-10-18T00:00:00+00:00",
+      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     },
     {
       "id": "https://www.anthropic.com/research/expectations-for-the-future",
@@ -44,35 +44,8 @@
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "published": "2026-10-16T00:00:00+00:00",
       "summary": "The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained."
-    },
-    {
-      "id": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more."
-    },
-    {
-      "id": "https://openai.com/index/benefit-street-partners",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups."
-    },
-    {
-      "id": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "published": "2026-10-16T00:00:00+00:00",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-17T23:39:32.846581+00:00"
+  "generated_at": "2026-10-18T23:48:56.583677+00:00"
 }
