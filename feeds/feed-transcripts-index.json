@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-18T23:49:10.136691+00:00",
+  "generated_at": "2026-10-20T00:50:06.765665+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "pub_date": "2026-10-19T15:03:35+00:00",
+      "transcript_path": "feeds/transcripts/e25733e8c47f1262273da1f9.txt",
+      "transcript_chars": 8495,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T00:50:06.765665+00:00",
+      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
+      "expires_at": "2026-11-03T00:50:06.765665+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "link": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "channel": "Lenny's Podcast",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "pub_date": "2026-10-19T12:04:52+00:00",
+      "transcript_path": "feeds/transcripts/0c1e227fb42aca9b69809cbd.txt",
+      "transcript_chars": 4723,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T00:50:06.765665+00:00",
+      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
+      "expires_at": "2026-11-03T00:50:06.765665+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
       "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
@@ -12,8 +38,8 @@
       "transcript_chars": 5525,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-18T23:49:10.136691+00:00",
-      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
-      "expires_at": "2026-11-01T23:49:10.136691+00:00"
+      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
+      "expires_at": "2026-11-03T00:50:06.765665+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -25,8 +51,8 @@
       "transcript_chars": 39075,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
-      "expires_at": "2026-11-01T23:49:10.136691+00:00"
+      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
+      "expires_at": "2026-11-03T00:50:06.765665+00:00"
     },
     {
       "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
@@ -38,8 +64,8 @@
       "transcript_chars": 146960,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
-      "expires_at": "2026-11-01T23:49:10.136691+00:00"
+      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
+      "expires_at": "2026-11-03T00:50:06.765665+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
@@ -404,45 +430,6 @@
       "cached_at": "2026-10-04T00:15:25.091630+00:00",
       "last_seen_at": "2026-10-06T01:59:32.304663+00:00",
       "expires_at": "2026-10-20T01:59:32.304663+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/airbnb",
-      "link": "https://www.latent.space/p/airbnb",
-      "channel": "Latent Space",
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "pub_date": "2026-10-02T14:04:49+00:00",
-      "transcript_path": "feeds/transcripts/83de2e5e7b40282aa16aa67b.txt",
-      "transcript_chars": 10481,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T00:50:14.934540+00:00",
-      "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
-      "expires_at": "2026-10-19T00:20:29.479754+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "link": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "channel": "Latent Space",
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "pub_date": "2026-10-02T06:40:53+00:00",
-      "transcript_path": "feeds/transcripts/135fd66721671df0305fde9c.txt",
-      "transcript_chars": 6159,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T00:50:14.934540+00:00",
-      "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
-      "expires_at": "2026-10-19T00:20:29.479754+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/rlm",
-      "link": "https://www.latent.space/p/rlm",
-      "channel": "Latent Space",
-      "title": "Academia is for Ambition — Alex Zhang, MIT",
-      "pub_date": "2026-10-02T00:28:04+00:00",
-      "transcript_path": "feeds/transcripts/e2777323230361587c5ae514.txt",
-      "transcript_chars": 130703,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-02T01:12:39.526774+00:00",
-      "last_seen_at": "2026-10-05T00:20:29.479754+00:00",
-      "expires_at": "2026-10-19T00:20:29.479754+00:00"
     }
   ]
 }
