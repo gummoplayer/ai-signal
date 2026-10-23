@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-22T00:20:01.258588+00:00",
+  "generated_at": "2026-10-23T00:16:06.581879+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/modal-d",
+      "link": "https://www.latent.space/p/modal-d",
+      "channel": "Latent Space",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "pub_date": "2026-10-22T17:40:57+00:00",
+      "transcript_path": "feeds/transcripts/c9db71baac7182397d9d1799.txt",
+      "transcript_chars": 108118,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T00:16:06.581879+00:00",
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/intel-tour",
+      "link": "https://www.dwarkesh.com/p/intel-tour",
+      "channel": "Dwarkesh Patel",
+      "title": "What will computer chips look like in 2045?",
+      "pub_date": "2026-10-22T15:02:21+00:00",
+      "transcript_path": "feeds/transcripts/ed73ac35e4bfbec057de4dd5.txt",
+      "transcript_chars": 69422,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T00:16:06.581879+00:00",
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/moshi",
+      "link": "https://www.latent.space/p/moshi",
+      "channel": "Latent Space",
+      "title": "You are the Team  — Anekha Sokhal, Moshi",
+      "pub_date": "2026-10-22T14:03:40+00:00",
+      "transcript_path": "feeds/transcripts/eced7029de951b6d68d65860.txt",
+      "transcript_chars": 30510,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T00:16:06.581879+00:00",
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "link": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "pub_date": "2026-10-22T07:42:44+00:00",
+      "transcript_path": "feeds/transcripts/068e079f17755d92d25ff4c2.txt",
+      "transcript_chars": 63319,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T00:16:06.581879+00:00",
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+    },
+    {
+      "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-End-Is-Nigh--Buy-Here-e3qrt4m",
+      "channel": "The Acquirers Podcast",
+      "title": "The End Is Nigh. Buy Here?",
+      "pub_date": "2026-10-22T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bab6efef81c8b961c400f67d.txt",
+      "transcript_chars": 146753,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T00:16:06.581879+00:00",
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
       "link": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -12,8 +77,8 @@
       "transcript_chars": 4818,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-mods",
@@ -25,8 +90,8 @@
       "transcript_chars": 12714,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
@@ -38,8 +103,8 @@
       "transcript_chars": 58434,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/tenex",
@@ -51,8 +116,8 @@
       "transcript_chars": 53553,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -64,8 +129,8 @@
       "transcript_chars": 47022,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T00:15:10.005169+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
@@ -77,8 +142,8 @@
       "transcript_chars": 16065,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T00:15:10.005169+00:00",
-      "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
-      "expires_at": "2026-11-05T00:20:01.258588+00:00"
+      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
+      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -456,32 +521,6 @@
       "cached_at": "2026-10-07T01:09:21.759421+00:00",
       "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
       "expires_at": "2026-10-23T01:35:07.716694+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
-      "pub_date": "2026-10-05T15:03:24+00:00",
-      "transcript_path": "feeds/transcripts/ca3977ef8d19b292436f4dca.txt",
-      "transcript_chars": 12141,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
-      "expires_at": "2026-10-22T01:27:19.637212+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "link": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "channel": "Lenny's Podcast",
-      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-      "pub_date": "2026-10-05T12:04:54+00:00",
-      "transcript_path": "feeds/transcripts/b8fc4caf79429bd93c04659f.txt",
-      "transcript_chars": 4561,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-06T01:59:32.304663+00:00",
-      "last_seen_at": "2026-10-08T01:27:19.637212+00:00",
-      "expires_at": "2026-10-22T01:27:19.637212+00:00"
     }
   ]
 }
