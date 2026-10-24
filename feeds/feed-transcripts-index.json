@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-23T00:16:06.581879+00:00",
+  "generated_at": "2026-10-24T00:09:41.642724+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
+      "link": "https://latent.space/p/ai-is-getting-good-at-math/",
+      "channel": "Latent Space",
+      "title": "AI Is Getting Good at Math. Here’s Why.",
+      "pub_date": "2026-10-23T15:19:48+00:00",
+      "transcript_path": "feeds/transcripts/85670424972f630bb67dfb1d.txt",
+      "transcript_chars": 27162,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-24T00:09:41.642724+00:00",
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d",
+      "link": "https://latent.space/p/ainews-black-october/",
+      "channel": "Latent Space",
+      "title": "[AINews] Black October",
+      "pub_date": "2026-10-23T10:09:29+00:00",
+      "transcript_path": "feeds/transcripts/f015b3f5926e664ee6250803.txt",
+      "transcript_chars": 42724,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-24T00:09:41.642724+00:00",
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/modal-d",
       "link": "https://www.latent.space/p/modal-d",
@@ -12,8 +38,8 @@
       "transcript_chars": 108118,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/intel-tour",
@@ -25,8 +51,8 @@
       "transcript_chars": 69422,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/moshi",
@@ -38,8 +64,8 @@
       "transcript_chars": 30510,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
@@ -51,8 +77,8 @@
       "transcript_chars": 63319,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -64,8 +90,8 @@
       "transcript_chars": 146753,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -77,8 +103,8 @@
       "transcript_chars": 4818,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-mods",
@@ -90,8 +116,8 @@
       "transcript_chars": 12714,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
@@ -103,8 +129,8 @@
       "transcript_chars": 58434,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/tenex",
@@ -116,8 +142,8 @@
       "transcript_chars": 53553,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
+      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
+      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -508,19 +534,6 @@
       "cached_at": "2026-10-08T01:27:19.637212+00:00",
       "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
       "expires_at": "2026-10-24T01:24:59.023158+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "channel": "Latent Space",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "pub_date": "2026-10-06T06:28:43+00:00",
-      "transcript_path": "feeds/transcripts/a57c9f5fbdab7c2c62aaef16.txt",
-      "transcript_chars": 14874,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-07T01:09:21.759421+00:00",
-      "last_seen_at": "2026-10-09T01:35:07.716694+00:00",
-      "expires_at": "2026-10-23T01:35:07.716694+00:00"
     }
   ]
 }
