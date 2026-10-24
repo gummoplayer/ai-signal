@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-24T00:09:41.642724+00:00",
+  "generated_at": "2026-10-24T23:52:47.877931+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
+      "link": "https://latent.space/p/ainews-kimi-31/",
+      "channel": "Latent Space",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "pub_date": "2026-10-24T07:18:29+00:00",
+      "transcript_path": "feeds/transcripts/c98d926c45e96ca5178779ec.txt",
+      "transcript_chars": 69993,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-24T23:52:47.877931+00:00",
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+    },
+    {
+      "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
+      "channel": "The Acquirers Podcast",
+      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
+      "pub_date": "2026-10-24T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/286fc0d514dee3e0ab1bc9b6.txt",
+      "transcript_chars": 145771,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-24T23:52:47.877931+00:00",
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
       "link": "https://latent.space/p/ai-is-getting-good-at-math/",
@@ -12,8 +38,8 @@
       "transcript_chars": 27162,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d",
@@ -25,8 +51,8 @@
       "transcript_chars": 42724,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -38,8 +64,8 @@
       "transcript_chars": 108118,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/intel-tour",
@@ -51,8 +77,8 @@
       "transcript_chars": 69422,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "https://www.latent.space/p/moshi",
@@ -64,8 +90,8 @@
       "transcript_chars": 30510,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
@@ -77,8 +103,8 @@
       "transcript_chars": 63319,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -90,8 +116,8 @@
       "transcript_chars": 146753,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
+      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
+      "expires_at": "2026-11-07T23:52:47.877931+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -521,19 +547,6 @@
       "cached_at": "2026-10-09T01:35:07.716694+00:00",
       "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
       "expires_at": "2026-10-25T00:35:57.193814+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "channel": "Latent Space",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "pub_date": "2026-10-07T04:55:44+00:00",
-      "transcript_path": "feeds/transcripts/d0198d1178242bfb88b5e8d5.txt",
-      "transcript_chars": 15362,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-08T01:27:19.637212+00:00",
-      "last_seen_at": "2026-10-10T01:24:59.023158+00:00",
-      "expires_at": "2026-10-24T01:24:59.023158+00:00"
     }
   ]
 }
