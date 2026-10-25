@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-24T23:52:47.877931+00:00",
+  "generated_at": "2026-10-25T23:41:39.918850+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "channel": "Lenny's Podcast",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "pub_date": "2026-10-25T12:31:34+00:00",
+      "transcript_path": "feeds/transcripts/d967c380ca2e2edebcd91023.txt",
+      "transcript_chars": 6419,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-25T23:41:39.918850+00:00",
+      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
+      "expires_at": "2026-11-08T23:41:39.918850+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
       "link": "https://latent.space/p/ainews-kimi-31/",
@@ -12,8 +25,8 @@
       "transcript_chars": 69993,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
-      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
+      "expires_at": "2026-11-08T23:41:39.918850+00:00"
     },
     {
       "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
@@ -25,8 +38,8 @@
       "transcript_chars": 145771,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
-      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
+      "expires_at": "2026-11-08T23:41:39.918850+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
@@ -38,8 +51,8 @@
       "transcript_chars": 27162,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
-      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
+      "expires_at": "2026-11-08T23:41:39.918850+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d",
@@ -51,8 +64,8 @@
       "transcript_chars": 42724,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
-      "expires_at": "2026-11-07T23:52:47.877931+00:00"
+      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
+      "expires_at": "2026-11-08T23:41:39.918850+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -495,58 +508,6 @@
       "cached_at": "2026-10-10T01:24:59.023158+00:00",
       "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
       "expires_at": "2026-10-26T00:52:01.211330+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-10-08T23:29:43+00:00",
-      "transcript_path": "feeds/transcripts/42f0f6a8cdee354a72e8b1c4.txt",
-      "transcript_chars": 41039,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/periodic",
-      "link": "https://www.latent.space/p/periodic",
-      "channel": "Latent Space",
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "pub_date": "2026-10-08T16:27:54+00:00",
-      "transcript_path": "feeds/transcripts/66bef5c60dcae679e20b82c2.txt",
-      "transcript_chars": 109376,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "pub_date": "2026-10-08T07:27:51+00:00",
-      "transcript_path": "feeds/transcripts/594b0186b6e464bcd3086f00.txt",
-      "transcript_chars": 9996,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
-    },
-    {
-      "guid": "07aeafdc-ba36-4851-9b94-5290ff21121e",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Small-Caps-Are-About-to-Have-Their-Moment--Jeff-Weniger-e3q3dqq",
-      "channel": "The Acquirers Podcast",
-      "title": "Small Caps Are About to Have Their Moment | Jeff Weniger",
-      "pub_date": "2026-10-08T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/465a1ddd4ef564f4106935df.txt",
-      "transcript_chars": 147371,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-09T01:35:07.716694+00:00",
-      "last_seen_at": "2026-10-11T00:35:57.193814+00:00",
-      "expires_at": "2026-10-25T00:35:57.193814+00:00"
     }
   ]
 }
