@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-25T23:41:39.918850+00:00",
+  "generated_at": "2026-10-27T01:01:03.934160+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://lexfridman.com/?p=7807",
+      "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+      "channel": "Lex Fridman",
+      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+      "pub_date": "2026-10-26T22:52:28+00:00",
+      "transcript_path": "feeds/transcripts/5e6fe13ba1338fcf16c25915.txt",
+      "transcript_chars": 225373,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-10-27T01:01:03.934160+00:00",
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+      "pub_date": "2026-10-26T15:00:53+00:00",
+      "transcript_path": "feeds/transcripts/686c74002f230e47034aad2d.txt",
+      "transcript_chars": 7978,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-27T01:01:03.934160+00:00",
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "link": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "channel": "Lenny's Podcast",
+      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+      "pub_date": "2026-10-26T12:04:20+00:00",
+      "transcript_path": "feeds/transcripts/e0b37930bca3beaa4c54b514.txt",
+      "transcript_chars": 4485,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-27T01:01:03.934160+00:00",
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
       "link": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
@@ -12,8 +51,8 @@
       "transcript_chars": 6419,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-25T23:41:39.918850+00:00",
-      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
-      "expires_at": "2026-11-08T23:41:39.918850+00:00"
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -25,8 +64,8 @@
       "transcript_chars": 69993,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
-      "expires_at": "2026-11-08T23:41:39.918850+00:00"
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
     },
     {
       "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
@@ -38,8 +77,8 @@
       "transcript_chars": 145771,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
-      "expires_at": "2026-11-08T23:41:39.918850+00:00"
+      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
+      "expires_at": "2026-11-10T01:01:03.934160+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
@@ -495,19 +534,6 @@
       "cached_at": "2026-10-11T00:35:57.193814+00:00",
       "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
       "expires_at": "2026-10-27T02:46:51.885589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/biohub-deepmind",
-      "link": "https://www.latent.space/p/biohub-deepmind",
-      "channel": "Latent Space",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "pub_date": "2026-10-10T00:31:26+00:00",
-      "transcript_path": "feeds/transcripts/c0263fda10f92c5a66192b88.txt",
-      "transcript_chars": 29535,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-10T01:24:59.023158+00:00",
-      "last_seen_at": "2026-10-12T00:52:01.211330+00:00",
-      "expires_at": "2026-10-26T00:52:01.211330+00:00"
     }
   ]
 }
