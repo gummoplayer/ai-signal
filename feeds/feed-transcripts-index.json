@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-27T01:01:03.934160+00:00",
+  "generated_at": "2026-10-28T00:50:39.115417+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42",
+      "link": "https://latent.space/p/opus55/",
+      "channel": "Latent Space",
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "pub_date": "2026-10-27T18:53:10+00:00",
+      "transcript_path": "feeds/transcripts/b8ef0d0dda802619612b166e.txt",
+      "transcript_chars": 139130,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-28T00:50:39.115417+00:00",
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0",
+      "link": "https://latent.space/p/offline-coding/",
+      "channel": "Latent Space",
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "pub_date": "2026-10-27T14:41:25+00:00",
+      "transcript_path": "feeds/transcripts/afd17852747199d357b366a9.txt",
+      "transcript_chars": 22117,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-28T00:50:39.115417+00:00",
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e",
+      "link": "https://latent.space/p/ainews-anthropic-s1/",
+      "channel": "Latent Space",
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "pub_date": "2026-10-27T07:24:59+00:00",
+      "transcript_path": "feeds/transcripts/fc4945ee3e70359da2f2537b.txt",
+      "transcript_chars": 61945,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-28T00:50:39.115417+00:00",
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+    },
     {
       "guid": "https://lexfridman.com/?p=7807",
       "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
@@ -12,8 +51,8 @@
       "transcript_chars": 225373,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -25,8 +64,8 @@
       "transcript_chars": 7978,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
@@ -38,8 +77,8 @@
       "transcript_chars": 4485,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
@@ -51,8 +90,8 @@
       "transcript_chars": 6419,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-25T23:41:39.918850+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
+      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
+      "expires_at": "2026-11-11T00:50:39.115417+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -495,45 +534,6 @@
       "cached_at": "2026-10-13T02:46:51.885589+00:00",
       "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
       "expires_at": "2026-10-29T00:12:08.457678+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "link": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "channel": "Lenny's Podcast",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "pub_date": "2026-10-11T12:31:59+00:00",
-      "transcript_path": "feeds/transcripts/6c35a5458306c95cbf2892df.txt",
-      "transcript_chars": 4580,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-12T00:52:01.211330+00:00",
-      "last_seen_at": "2026-10-14T00:45:26.912690+00:00",
-      "expires_at": "2026-10-28T00:45:26.912690+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/standard-bots",
-      "link": "https://www.latent.space/p/standard-bots",
-      "channel": "Latent Space",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "pub_date": "2026-10-10T14:04:11+00:00",
-      "transcript_path": "feeds/transcripts/ccfe66c9826e8908194cb330.txt",
-      "transcript_chars": 7881,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "link": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "channel": "Latent Space",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "pub_date": "2026-10-10T06:45:57+00:00",
-      "transcript_path": "feeds/transcripts/2a5bd2998c8ff69d4dedcb67.txt",
-      "transcript_chars": 10660,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-11T00:35:57.193814+00:00",
-      "last_seen_at": "2026-10-13T02:46:51.885589+00:00",
-      "expires_at": "2026-10-27T02:46:51.885589+00:00"
     }
   ]
 }
