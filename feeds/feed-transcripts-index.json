@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-28T00:50:39.115417+00:00",
+  "generated_at": "2026-10-29T01:26:06.493979+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289",
+      "link": "https://latent.space/p/supabase/",
+      "channel": "Latent Space",
+      "title": "Why Agents Love Supabase",
+      "pub_date": "2026-10-28T19:48:05+00:00",
+      "transcript_path": "feeds/transcripts/32469915e14466f6bc3c45b8.txt",
+      "transcript_chars": 14813,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-29T01:26:06.493979+00:00",
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "link": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "channel": "Lenny's Podcast",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "pub_date": "2026-10-28T12:04:22+00:00",
+      "transcript_path": "feeds/transcripts/73320dd98ad1ab35193cb18d.txt",
+      "transcript_chars": 4383,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-29T01:26:06.493979+00:00",
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
+      "link": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "channel": "Latent Space",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "pub_date": "2026-10-28T08:50:30+00:00",
+      "transcript_path": "feeds/transcripts/60925daf02e03d7027e8faf0.txt",
+      "transcript_chars": 55441,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-29T01:26:06.493979+00:00",
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42",
       "link": "https://latent.space/p/opus55/",
@@ -12,8 +51,8 @@
       "transcript_chars": 139130,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0",
@@ -25,8 +64,8 @@
       "transcript_chars": 22117,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e",
@@ -38,8 +77,8 @@
       "transcript_chars": 61945,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -51,8 +90,8 @@
       "transcript_chars": 225373,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -64,8 +103,8 @@
       "transcript_chars": 7978,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
@@ -77,8 +116,8 @@
       "transcript_chars": 4485,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
-      "expires_at": "2026-11-11T00:50:39.115417+00:00"
+      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
+      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
@@ -482,58 +521,6 @@
       "cached_at": "2026-10-14T00:45:26.912690+00:00",
       "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
       "expires_at": "2026-10-29T23:58:37.952109+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/claude-dynamic-workflows",
-      "link": "https://www.latent.space/p/claude-dynamic-workflows",
-      "channel": "Latent Space",
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "pub_date": "2026-10-12T18:18:17+00:00",
-      "transcript_path": "feeds/transcripts/74810e4894a5649e50b8ccab.txt",
-      "transcript_chars": 7792,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
-    },
-    {
-      "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
-      "link": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
-      "channel": "All-In Podcast",
-      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
-      "pub_date": "2026-10-12T15:49:00+00:00",
-      "transcript_path": "feeds/transcripts/7453e611f8e3f9581f594d28.txt",
-      "transcript_chars": 3997,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-      "pub_date": "2026-10-12T15:00:38+00:00",
-      "transcript_path": "feeds/transcripts/561414fa6c99477caf625819.txt",
-      "transcript_chars": 4937,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "link": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "channel": "Lenny's Podcast",
-      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-      "pub_date": "2026-10-12T12:03:55+00:00",
-      "transcript_path": "feeds/transcripts/279f1ad4c2a418bda8e84193.txt",
-      "transcript_chars": 5207,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T02:46:51.885589+00:00",
-      "last_seen_at": "2026-10-15T00:12:08.457678+00:00",
-      "expires_at": "2026-10-29T00:12:08.457678+00:00"
     }
   ]
 }
