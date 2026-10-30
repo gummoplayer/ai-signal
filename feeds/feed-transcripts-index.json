@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-10-29T01:26:06.493979+00:00",
+  "generated_at": "2026-10-30T01:27:52.046750+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/lessons-in-power",
+      "link": "https://www.dwarkesh.com/p/lessons-in-power",
+      "channel": "Dwarkesh Patel",
+      "title": "What I learned about power from LBJ and Robert Moses",
+      "pub_date": "2026-10-29T16:48:39+00:00",
+      "transcript_path": "feeds/transcripts/9bb4a2f2e860d82286c31425.txt",
+      "transcript_chars": 24883,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T01:27:52.046750+00:00",
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49",
+      "link": "https://latent.space/p/elorian/",
+      "channel": "Latent Space",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "pub_date": "2026-10-29T16:00:00+00:00",
+      "transcript_path": "feeds/transcripts/20005a3da4fbac4c89059101.txt",
+      "transcript_chars": 16665,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T01:27:52.046750+00:00",
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
+    },
+    {
+      "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Tim-Melvin-Finding-Value-Where-Wall-Street-Isnt-Looking-e3r98sb",
+      "channel": "The Acquirers Podcast",
+      "title": "Tim Melvin: Finding Value Where Wall Street Isn’t Looking",
+      "pub_date": "2026-10-29T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/98cbc5cba056cb89c7b4a27e.txt",
+      "transcript_chars": 144791,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T01:27:52.046750+00:00",
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
+      "link": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "channel": "Latent Space",
+      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "pub_date": "2026-10-29T05:55:19+00:00",
+      "transcript_path": "feeds/transcripts/73409585bf8b206cfca97b73.txt",
+      "transcript_chars": 46426,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T01:27:52.046750+00:00",
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289",
       "link": "https://latent.space/p/supabase/",
@@ -12,8 +64,8 @@
       "transcript_chars": 14813,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
@@ -25,8 +77,8 @@
       "transcript_chars": 4383,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
@@ -38,8 +90,8 @@
       "transcript_chars": 55441,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42",
@@ -51,8 +103,8 @@
       "transcript_chars": 139130,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0",
@@ -64,8 +116,8 @@
       "transcript_chars": 22117,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e",
@@ -77,8 +129,8 @@
       "transcript_chars": 61945,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
+      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
+      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -482,45 +534,6 @@
       "cached_at": "2026-10-15T00:12:08.457678+00:00",
       "last_seen_at": "2026-10-17T00:04:28.226312+00:00",
       "expires_at": "2026-10-31T00:04:28.226312+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/dyna",
-      "link": "https://www.latent.space/p/dyna",
-      "channel": "Latent Space",
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "pub_date": "2026-10-13T22:25:55+00:00",
-      "transcript_path": "feeds/transcripts/deef62d0c0b288e13871a263.txt",
-      "transcript_chars": 86341,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "channel": "Lenny's Podcast",
-      "title": "How to tell if a startup has a moat",
-      "pub_date": "2026-10-13T12:45:41+00:00",
-      "transcript_path": "feeds/transcripts/7287b40efa7e559917fe879b.txt",
-      "transcript_chars": 13813,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "link": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "channel": "Latent Space",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "pub_date": "2026-10-13T09:37:04+00:00",
-      "transcript_path": "feeds/transcripts/f403ee5703f5a687bfe48671.txt",
-      "transcript_chars": 48889,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T00:45:26.912690+00:00",
-      "last_seen_at": "2026-10-15T23:58:37.952109+00:00",
-      "expires_at": "2026-10-29T23:58:37.952109+00:00"
     }
   ]
 }
