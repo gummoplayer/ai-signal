@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-31T01:17:06.701453+00:00",
+  "generated_at": "2026-11-01T00:34:51.242317+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b",
+      "link": "https://latent.space/p/arca/",
+      "channel": "Latent Space",
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "pub_date": "2026-10-31T16:05:00+00:00",
+      "transcript_path": "feeds/transcripts/e5aaf4bf42610fcf3ddfcd4f.txt",
+      "transcript_chars": 13955,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-01T00:34:51.242317+00:00",
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+    },
+    {
+      "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Who-Pays-for-the-AI-Boom--Big-Techs-Financing-Problem-e3re2n8",
+      "channel": "The Acquirers Podcast",
+      "title": "Who Pays for the AI Boom? Big Tech’s Financing Problem",
+      "pub_date": "2026-10-31T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/e572792260ca52eab679b0b5.txt",
+      "transcript_chars": 143769,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-01T00:34:51.242317+00:00",
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
+      "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "channel": "Latent Space",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "pub_date": "2026-10-31T05:00:48+00:00",
+      "transcript_path": "feeds/transcripts/a7ec6c767a1ba1d38e4fa89f.txt",
+      "transcript_chars": 53688,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-01T00:34:51.242317+00:00",
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
       "link": "https://www.dwarkesh.com/p/robert-caro",
@@ -12,8 +51,8 @@
       "transcript_chars": 35054,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-10-31T01:17:06.701453+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
@@ -25,8 +64,8 @@
       "transcript_chars": 53272,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-31T01:17:06.701453+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/lessons-in-power",
@@ -38,8 +77,8 @@
       "transcript_chars": 24883,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49",
@@ -51,8 +90,8 @@
       "transcript_chars": 16665,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
@@ -64,8 +103,8 @@
       "transcript_chars": 144791,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
@@ -77,8 +116,8 @@
       "transcript_chars": 46426,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
+      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
+      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289",
@@ -482,32 +521,6 @@
       "cached_at": "2026-10-17T00:04:28.226312+00:00",
       "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
       "expires_at": "2026-11-01T23:49:10.136691+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "channel": "Latent Space",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "pub_date": "2026-10-15T10:08:08+00:00",
-      "transcript_path": "feeds/transcripts/d8e0c2485ea25ccda6e5c986.txt",
-      "transcript_chars": 15995,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-15T23:58:37.952109+00:00",
-      "last_seen_at": "2026-10-17T23:39:52.616560+00:00",
-      "expires_at": "2026-10-31T23:39:52.616560+00:00"
-    },
-    {
-      "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
-      "channel": "The Acquirers Podcast",
-      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
-      "pub_date": "2026-10-15T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/eef40e927fcad1b04a247a6d.txt",
-      "transcript_chars": 148068,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-15T23:58:37.952109+00:00",
-      "last_seen_at": "2026-10-17T23:39:52.616560+00:00",
-      "expires_at": "2026-10-31T23:39:52.616560+00:00"
     }
   ]
 }
