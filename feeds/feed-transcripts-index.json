@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-01T00:34:51.242317+00:00",
+  "generated_at": "2026-11-02T01:08:41.356497+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "link": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "channel": "Lenny's Podcast",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "pub_date": "2026-11-01T13:31:36+00:00",
+      "transcript_path": "feeds/transcripts/352d0148447d731720786061.txt",
+      "transcript_chars": 5542,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-02T01:08:41.356497+00:00",
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b",
       "link": "https://latent.space/p/arca/",
@@ -12,8 +25,8 @@
       "transcript_chars": 13955,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -25,8 +38,8 @@
       "transcript_chars": 143769,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
@@ -38,8 +51,8 @@
       "transcript_chars": 53688,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
@@ -51,8 +64,8 @@
       "transcript_chars": 35054,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-10-31T01:17:06.701453+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8",
@@ -64,8 +77,8 @@
       "transcript_chars": 53272,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-31T01:17:06.701453+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
+      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
+      "expires_at": "2026-11-16T01:08:41.356497+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/lessons-in-power",
@@ -508,19 +521,6 @@
       "cached_at": "2026-10-17T23:39:52.616560+00:00",
       "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
       "expires_at": "2026-11-03T00:50:06.765665+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "link": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "channel": "Latent Space",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "pub_date": "2026-10-16T04:16:45+00:00",
-      "transcript_path": "feeds/transcripts/16bdd8aff46d1af05dc190a5.txt",
-      "transcript_chars": 18799,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-17T00:04:28.226312+00:00",
-      "last_seen_at": "2026-10-18T23:49:10.136691+00:00",
-      "expires_at": "2026-11-01T23:49:10.136691+00:00"
     }
   ]
 }
