@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-02T01:08:41.356497+00:00",
+  "generated_at": "2026-11-03T03:12:17.661305+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b",
+      "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "channel": "Latent Space",
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "pub_date": "2026-11-02T23:01:02+00:00",
+      "transcript_path": "feeds/transcripts/a890a526ec277f3952f4d2e9.txt",
+      "transcript_chars": 104103,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-03T03:12:17.661305+00:00",
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
+      "link": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "channel": "Latent Space",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "pub_date": "2026-11-02T22:54:03+00:00",
+      "transcript_path": "feeds/transcripts/a81b29a5e1c0021a9820e330.txt",
+      "transcript_chars": 91432,
+      "transcript_source": "episode_transcript_link",
+      "cached_at": "2026-11-03T03:12:17.661305+00:00",
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "pub_date": "2026-11-02T16:02:08+00:00",
+      "transcript_path": "feeds/transcripts/bb01a815b24cd303c5d066bc.txt",
+      "transcript_chars": 8803,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-03T03:12:17.661305+00:00",
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "link": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "channel": "Lenny's Podcast",
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "pub_date": "2026-11-02T13:04:11+00:00",
+      "transcript_path": "feeds/transcripts/7e7799c1f50dbeac4c2f273e.txt",
+      "transcript_chars": 5200,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-03T03:12:17.661305+00:00",
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
       "link": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
@@ -12,8 +64,8 @@
       "transcript_chars": 5542,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T01:08:41.356497+00:00",
-      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
-      "expires_at": "2026-11-16T01:08:41.356497+00:00"
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b",
@@ -25,8 +77,8 @@
       "transcript_chars": 13955,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
-      "expires_at": "2026-11-16T01:08:41.356497+00:00"
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -38,8 +90,8 @@
       "transcript_chars": 143769,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
-      "expires_at": "2026-11-16T01:08:41.356497+00:00"
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
@@ -51,8 +103,8 @@
       "transcript_chars": 53688,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
-      "expires_at": "2026-11-16T01:08:41.356497+00:00"
+      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
+      "expires_at": "2026-11-17T03:12:17.661305+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
@@ -495,32 +547,6 @@
       "cached_at": "2026-10-18T23:49:10.136691+00:00",
       "last_seen_at": "2026-10-21T00:15:10.005169+00:00",
       "expires_at": "2026-11-04T00:15:10.005169+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "link": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "channel": "Latent Space",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "pub_date": "2026-10-17T07:47:38+00:00",
-      "transcript_path": "feeds/transcripts/03b32f498e9f158e3384b703.txt",
-      "transcript_chars": 39075,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
-      "expires_at": "2026-11-03T00:50:06.765665+00:00"
-    },
-    {
-      "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/MGM-and-VICI-Finding-Value-in-the-Las-Vegas-Selloff--Value-Options-Podcast-e3qjvn6",
-      "channel": "The Acquirers Podcast",
-      "title": "MGM and VICI: Finding Value in the Las Vegas Selloff | Value Options Podcast",
-      "pub_date": "2026-10-17T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/114d715b4aa1ed46d95e19cf.txt",
-      "transcript_chars": 146960,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-17T23:39:52.616560+00:00",
-      "last_seen_at": "2026-10-20T00:50:06.765665+00:00",
-      "expires_at": "2026-11-03T00:50:06.765665+00:00"
     }
   ]
 }
