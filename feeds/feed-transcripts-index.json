@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-03T03:12:17.661305+00:00",
+  "generated_at": "2026-11-04T01:46:20.457294+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "link": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "channel": "Lenny's Podcast",
+      "title": "Lenny’s Newsletter holiday gift guide 2026",
+      "pub_date": "2026-11-03T14:45:33+00:00",
+      "transcript_path": "feeds/transcripts/6fa65831aef3656016114805.txt",
+      "transcript_chars": 13747,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-04T01:46:20.457294+00:00",
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f",
+      "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "channel": "Latent Space",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "pub_date": "2026-11-03T05:35:00+00:00",
+      "transcript_path": "feeds/transcripts/6d27dab941321b707fc623c1.txt",
+      "transcript_chars": 57414,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-04T01:46:20.457294+00:00",
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b",
       "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
@@ -12,8 +38,8 @@
       "transcript_chars": 104103,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T03:12:17.661305+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -25,8 +51,8 @@
       "transcript_chars": 91432,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-03T03:12:17.661305+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
@@ -38,8 +64,8 @@
       "transcript_chars": 8803,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T03:12:17.661305+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
@@ -51,8 +77,8 @@
       "transcript_chars": 5200,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T03:12:17.661305+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
@@ -64,8 +90,8 @@
       "transcript_chars": 5542,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T01:08:41.356497+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
+      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
+      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b",
@@ -534,19 +560,6 @@
       "cached_at": "2026-10-20T00:50:06.765665+00:00",
       "last_seen_at": "2026-10-22T00:20:01.258588+00:00",
       "expires_at": "2026-11-05T00:20:01.258588+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-      "link": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-      "channel": "Lenny's Podcast",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-      "pub_date": "2026-10-18T12:31:36+00:00",
-      "transcript_path": "feeds/transcripts/3c9957e87bb1163f29e21035.txt",
-      "transcript_chars": 5525,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-18T23:49:10.136691+00:00",
-      "last_seen_at": "2026-10-21T00:15:10.005169+00:00",
-      "expires_at": "2026-11-04T00:15:10.005169+00:00"
     }
   ]
 }
