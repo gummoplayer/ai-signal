@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "published": "2026-11-04T14:30:00+00:00",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+    },
+    {
+      "id": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "published": "2026-11-04T08:00:00+00:00",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
+      "id": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "published": "2026-11-04T07:00:00+00:00",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "id": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Investigating vault particles with Claude",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "We’re sharing another finding from Anthropic’s biology research lab: the first 3D structure of a vault particle found in prokaryotic cells."
+    },
+    {
+      "id": "https://openai.com/index/introducing-images-2-6",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+    },
+    {
+      "id": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "published": "2026-11-04T00:00:00+00:00",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+    },
+    {
       "id": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -8,62 +62,8 @@
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
       "published": "2026-11-03T17:01:49+00:00",
       "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
-    },
-    {
-      "id": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "published": "2026-11-03T12:00:00+00:00",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
-    },
-    {
-      "id": "https://openai.com/index/cisco-cyber",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
-    },
-    {
-      "id": "https://openai.com/index/heimstaden",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "published": "2026-11-03T08:00:00+00:00",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
-    },
-    {
-      "id": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "published": "2026-11-03T00:00:00+00:00",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning."
-    },
-    {
-      "id": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "published": "2026-11-02T18:00:00+00:00",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-    },
-    {
-      "id": "https://www.anthropic.com/research/provable-inference",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "published": "2026-11-02T00:00:00+00:00",
-      "summary": "Sharing progress on a powerful type of cryptographic proof known as a zkSNARK, which is uniquely fit for provable inference."
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-04T01:46:05.890220+00:00"
+  "generated_at": "2026-11-05T01:54:29.760399+00:00"
 }
