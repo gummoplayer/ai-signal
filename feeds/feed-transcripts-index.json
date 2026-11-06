@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-05T01:54:43.408587+00:00",
+  "generated_at": "2026-11-06T01:56:13.514318+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/clocktower",
+      "link": "https://www.dwarkesh.com/p/clocktower",
+      "channel": "Dwarkesh Patel",
+      "title": "The benchmark where AIs have to lie to win",
+      "pub_date": "2026-11-05T21:05:50+00:00",
+      "transcript_path": "feeds/transcripts/67be32493b806c055474c85c.txt",
+      "transcript_chars": 24472,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-06T01:56:13.514318+00:00",
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+    },
+    {
+      "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
+      "channel": "The Acquirers Podcast",
+      "title": "The Best Business You've Never Heard Of | Todd Wenning",
+      "pub_date": "2026-11-05T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/87856c3761677678bce72e69.txt",
+      "transcript_chars": 142813,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-06T01:56:13.514318+00:00",
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e",
+      "link": "https://latent.space/p/ainews-it-s-swapping-season/",
+      "channel": "Latent Space",
+      "title": "[AINews] It's Swapping Season",
+      "pub_date": "2026-11-05T06:24:09+00:00",
+      "transcript_path": "feeds/transcripts/71c6d484e291ad7f255b66ac.txt",
+      "transcript_chars": 55924,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-06T01:56:13.514318+00:00",
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_648fd7ef-adde-48f2-8823-488d55480202",
       "link": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
@@ -12,8 +51,8 @@
       "transcript_chars": 60523,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T01:54:43.408587+00:00",
-      "last_seen_at": "2026-11-05T01:54:43.408587+00:00",
-      "expires_at": "2026-11-19T01:54:43.408587+00:00"
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
@@ -25,8 +64,8 @@
       "transcript_chars": 13747,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-04T01:46:20.457294+00:00",
-      "last_seen_at": "2026-11-05T01:54:43.408587+00:00",
-      "expires_at": "2026-11-19T01:54:43.408587+00:00"
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f",
@@ -38,8 +77,8 @@
       "transcript_chars": 57414,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-04T01:46:20.457294+00:00",
-      "last_seen_at": "2026-11-05T01:54:43.408587+00:00",
-      "expires_at": "2026-11-19T01:54:43.408587+00:00"
+      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
+      "expires_at": "2026-11-20T01:56:13.514318+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b",
@@ -521,32 +560,6 @@
       "cached_at": "2026-10-22T00:20:01.258588+00:00",
       "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
       "expires_at": "2026-11-07T00:09:41.642724+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/sfcompute2",
-      "link": "https://www.latent.space/p/sfcompute2",
-      "channel": "Latent Space",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "pub_date": "2026-10-20T19:31:57+00:00",
-      "transcript_path": "feeds/transcripts/6d557137ca16914d81f68fd0.txt",
-      "transcript_chars": 47022,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T00:15:10.005169+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-10-20T05:21:52+00:00",
-      "transcript_path": "feeds/transcripts/4a2a77cb85ecb3ddc593e13e.txt",
-      "transcript_chars": 16065,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T00:15:10.005169+00:00",
-      "last_seen_at": "2026-10-23T00:16:06.581879+00:00",
-      "expires_at": "2026-11-06T00:16:06.581879+00:00"
     }
   ]
 }
