@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-06T01:56:13.514318+00:00",
+  "generated_at": "2026-11-07T01:28:26.512778+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
+      "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "channel": "Latent Space",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "pub_date": "2026-11-06T15:10:53+00:00",
+      "transcript_path": "feeds/transcripts/9d6ec06be5a9d12d214cf206.txt",
+      "transcript_chars": 62203,
+      "transcript_source": "episode_transcript_link",
+      "cached_at": "2026-11-07T01:28:26.512778+00:00",
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
+      "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "channel": "Latent Space",
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "pub_date": "2026-11-06T10:35:21+00:00",
+      "transcript_path": "feeds/transcripts/d5f1f2300e592f47534f12e8.txt",
+      "transcript_chars": 61600,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-07T01:28:26.512778+00:00",
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/clocktower",
       "link": "https://www.dwarkesh.com/p/clocktower",
@@ -12,8 +38,8 @@
       "transcript_chars": 24472,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
     },
     {
       "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
@@ -25,8 +51,8 @@
       "transcript_chars": 142813,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e",
@@ -38,8 +64,8 @@
       "transcript_chars": 55924,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_648fd7ef-adde-48f2-8823-488d55480202",
@@ -51,8 +77,8 @@
       "transcript_chars": 60523,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T01:54:43.408587+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
+      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
+      "expires_at": "2026-11-21T01:28:26.512778+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
@@ -508,58 +534,6 @@
       "cached_at": "2026-10-23T00:16:06.581879+00:00",
       "last_seen_at": "2026-10-24T23:52:47.877931+00:00",
       "expires_at": "2026-11-07T23:52:47.877931+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-      "link": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Duet is beautiful. I still forgot to use it",
-      "pub_date": "2026-10-21T20:25:18+00:00",
-      "transcript_path": "feeds/transcripts/f36b29f67948ecdc4b281d7b.txt",
-      "transcript_chars": 4818,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/claude-mods",
-      "link": "https://www.latent.space/p/claude-mods",
-      "channel": "Latent Space",
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "pub_date": "2026-10-21T13:04:19+00:00",
-      "transcript_path": "feeds/transcripts/0d73f376262ca1f5f1b8dfc7.txt",
-      "transcript_chars": 12714,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "channel": "Latent Space",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "pub_date": "2026-10-21T06:54:09+00:00",
-      "transcript_path": "feeds/transcripts/c7f4ee7a4319bbfe2f821bb7.txt",
-      "transcript_chars": 58434,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/tenex",
-      "link": "https://www.latent.space/p/tenex",
-      "channel": "Latent Space",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "pub_date": "2026-10-21T05:01:26+00:00",
-      "transcript_path": "feeds/transcripts/ea77105b906bcb3ae6ead87c.txt",
-      "transcript_chars": 53553,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-22T00:20:01.258588+00:00",
-      "last_seen_at": "2026-10-24T00:09:41.642724+00:00",
-      "expires_at": "2026-11-07T00:09:41.642724+00:00"
     }
   ]
 }
