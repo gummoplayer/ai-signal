@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-08T00:58:44.936963+00:00",
+  "generated_at": "2026-11-09T01:19:16.923451+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3",
+      "link": "https://latent.space/p/cs146s/",
+      "channel": "Latent Space",
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "pub_date": "2026-11-08T21:41:44+00:00",
+      "transcript_path": "feeds/transcripts/1a1008285a900188557a68d6.txt",
+      "transcript_chars": 152018,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-09T01:19:16.923451+00:00",
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "link": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "channel": "Lenny's Podcast",
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "pub_date": "2026-11-08T13:31:32+00:00",
+      "transcript_path": "feeds/transcripts/8124dc07e64a2f402245acb5.txt",
+      "transcript_chars": 6443,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-09T01:19:16.923451+00:00",
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
+    },
     {
       "guid": "970a8289-fc6e-487d-8039-64bd90dbfd4f",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Bill-Ackman-Loves-Uber-at-16x-Earnings--Our-2-Favorite-Cheap-Stocks-e3rt8cj",
@@ -12,8 +38,8 @@
       "transcript_chars": 141916,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-08T00:58:44.936963+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
@@ -25,8 +51,8 @@
       "transcript_chars": 56711,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-08T00:58:44.936963+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
@@ -38,8 +64,8 @@
       "transcript_chars": 62203,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-07T01:28:26.512778+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
@@ -51,8 +77,8 @@
       "transcript_chars": 61600,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-07T01:28:26.512778+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
+      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
+      "expires_at": "2026-11-23T01:19:16.923451+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/clocktower",
@@ -469,32 +495,6 @@
       "cached_at": "2026-10-24T23:52:47.877931+00:00",
       "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
       "expires_at": "2026-11-10T01:01:03.934160+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
-      "link": "https://latent.space/p/ai-is-getting-good-at-math/",
-      "channel": "Latent Space",
-      "title": "AI Is Getting Good at Math. Here’s Why.",
-      "pub_date": "2026-10-23T15:19:48+00:00",
-      "transcript_path": "feeds/transcripts/85670424972f630bb67dfb1d.txt",
-      "transcript_chars": 27162,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
-      "expires_at": "2026-11-08T23:41:39.918850+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d",
-      "link": "https://latent.space/p/ainews-black-october/",
-      "channel": "Latent Space",
-      "title": "[AINews] Black October",
-      "pub_date": "2026-10-23T10:09:29+00:00",
-      "transcript_path": "feeds/transcripts/f015b3f5926e664ee6250803.txt",
-      "transcript_chars": 42724,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-24T00:09:41.642724+00:00",
-      "last_seen_at": "2026-10-25T23:41:39.918850+00:00",
-      "expires_at": "2026-11-08T23:41:39.918850+00:00"
     }
   ]
 }
