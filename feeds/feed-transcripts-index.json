@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-09T01:19:16.923451+00:00",
+  "generated_at": "2026-11-10T03:54:00.094288+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "link": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "pub_date": "2026-11-09T20:37:49+00:00",
+      "transcript_path": "feeds/transcripts/9d4947d8a81a83afea3c0ea6.txt",
+      "transcript_chars": 4980,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-10T03:54:00.094288+00:00",
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+      "pub_date": "2026-11-09T16:01:20+00:00",
+      "transcript_path": "feeds/transcripts/2aa4ac2d1c2deae678472c51.txt",
+      "transcript_chars": 4773,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-10T03:54:00.094288+00:00",
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "link": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "channel": "Lenny's Podcast",
+      "title": "How this founder built a better Duolingo with Codex | William Imoh",
+      "pub_date": "2026-11-09T13:04:17+00:00",
+      "transcript_path": "feeds/transcripts/eff5819a6f528ecb37ccc85a.txt",
+      "transcript_chars": 5078,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-10T03:54:00.094288+00:00",
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3",
       "link": "https://latent.space/p/cs146s/",
@@ -12,8 +51,8 @@
       "transcript_chars": 152018,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T01:19:16.923451+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
@@ -25,8 +64,8 @@
       "transcript_chars": 6443,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T01:19:16.923451+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
     },
     {
       "guid": "970a8289-fc6e-487d-8039-64bd90dbfd4f",
@@ -38,8 +77,8 @@
       "transcript_chars": 141916,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-08T00:58:44.936963+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
+      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
+      "expires_at": "2026-11-24T03:54:00.094288+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
@@ -469,32 +508,6 @@
       "cached_at": "2026-10-25T23:41:39.918850+00:00",
       "last_seen_at": "2026-10-28T00:50:39.115417+00:00",
       "expires_at": "2026-11-11T00:50:39.115417+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
-      "link": "https://latent.space/p/ainews-kimi-31/",
-      "channel": "Latent Space",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "pub_date": "2026-10-24T07:18:29+00:00",
-      "transcript_path": "feeds/transcripts/c98d926c45e96ca5178779ec.txt",
-      "transcript_chars": 69993,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
-    },
-    {
-      "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
-      "channel": "The Acquirers Podcast",
-      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
-      "pub_date": "2026-10-24T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/286fc0d514dee3e0ab1bc9b6.txt",
-      "transcript_chars": 145771,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-24T23:52:47.877931+00:00",
-      "last_seen_at": "2026-10-27T01:01:03.934160+00:00",
-      "expires_at": "2026-11-10T01:01:03.934160+00:00"
     }
   ]
 }
