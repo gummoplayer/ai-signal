@@ -1,0 +1,293 @@
+NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code? — Latent Space Skip to content
+The AI Engineer publication
+Search ⌘ K
+Search Latent Space
+Filter by type
+Result type
+All None
+Articles Only ⓘ Essays and analysis from Latent Space.
+AI News Only ⓘ News briefings about AI models, tools, and research.
+Podcasts Only ⓘ Recorded conversations with AI builders and researchers.
+Community Only ⓘ Community pages and resources.
+People Only ⓘ Sourced wiki profiles of people working in AI.
+Organizations Only ⓘ Sourced wiki profiles of companies and organizations.
+Topics Only ⓘ Sourced wiki entries explaining AI topics and concepts.
+Writeups Only ⓘ Grounded explanations linked to original sources.
+Search mode ?
+Search tips
+Keyword matches words; semantic matches meaning and exact titles or names; hybrid combines both. In keyword mode, use quotation marks for exact phrases. Author matches published credits. Year applies to posts; wiki entries have no author or publication year. You can also use author:"Ada" or type:podcast in non-regex searches.
+Keyword Semantic Hybrid Regex
+Published Any year 2026 2025 2024 2023 2022 Author Reset filters
+Explore articles, conversations, and the wiki.
+Try a search: context engineering agents retrieval augmented generation
+Open full search
+Welcome back ⌄
+Signed in with Google Email & account Membership & billing View paid plans Sign out
+← The reading room Latent Space
+NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?
+NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.
+Gabriele Beltramo
+Nov 10 · 10 min read
+On this page ⌄ Benchmarking NaiveAI vs. DeepSeek and Z.ai Model Intelligence Index Speed and verbosity experiments Key observations App experiments Naive-N0.5-Flash (thinking) DeepSeek V4.1 Flash 1017 (high) GLM 5.3 Flash (high) Solar system Tree modeling Ray Tracing in One Weekend Pricing Takeaways
+Editor’s note: With this post, we are launching a new series focused on trying new models and products with unbiased reviews. Reach out with suggestions to tips@latent.space.
+Naive-N0.5-Flash is a new open-weights model built for AI coding tasks and tuned to generate as many tokens per second as possible . It was developed by a Chinese company called NaiveAI , with the aim of speeding up engineering and research workflows so that teams can experiment, iterate and solve complex problems faster.
+The model is an evolution of Xiaomi’s MiMo-V2.5 , which NaiveAI has trained further for long-context reasoning and paired with its own NaiveRT inference engine. Naive-N0.5-Flash arrives with a bold pitch: a model built largely by AI and trained to do AI research itself, with recursive self-improvement as the long-term goal.
+To see what changed, it helps to know where it started. MiMo-V2.5 is a 310B-parameter sparse Mixture-of-Experts model with 15B active parameters, trained on 48T tokens. Its language backbone inherits the hybrid design of MiMo-V2-Flash, which mixes sliding-window attention (SWA) with global self-attention.
+NaiveAI's recipe starts from those weights. Through continued, multi-stage training, the team adapted the checkpoint to DeepSeek Sparse Attention layers. According to the NaiveAI technical blog , this took roughly 3.25T additional tokens on top of MiMo's original 48T. About 3T of those additional tokens were trained at a fixed 1M context length and with a constant learning rate.
+Benchmarking NaiveAI vs. DeepSeek and Z.ai
+We benchmarked the ultrafast mode of Naive-N0.5-Flash against DeepSeek V4.1 Flash 1017 and GLM 5.3 Flash , and then gave all three the same app-building prompts.
+The trade-off, we discovered, is that Naive-N0.5-Flash takes longer to reason through harder problems, yet it still delivers answers faster overall. However, that comes at a slightly higher cost per question — although that may be an acceptable price for applications where speed comes first.
+Most popular models on OpenRouter as of the end of October 2026.
+DeepSeek V4.1 Flash 1017 and GLM 5.3 Flash are two of the most popular models in OpenRouter . Both belong to the Flash model class and demonstrate excellent capabilities in AI-assisted coding .
+As of this writing, performance statistics for NaiveAI models are not yet available on Artificial Analysis . Therefore, we report the Intelligence Index scores of the models used in our comparison:
+Model Intelligence Index
+DeepSeek V4.1 Flash 1017 (Max): 45
+GLM-5.3-Flash: 43
+Naive-N0.5-Flash: not yet available
+Published benchmark results offer some insight into the new model's capabilities. They place its coding ability between the two comparison models, and ahead of both on NL2Repo-Bench .
+The table below shows benchmark scores reported in the official model cards and technical blog posts of the respective models. Sources: GLM-5.3-Flash – Technical Blog , DeepSeek V4.1 Flash 1017 – Model Card , Naive AI – Research .
+Model
+NL2Repo-Bench
+DeepSWE v1.1
+Agent's Last Exam (ALE)
+GLM-5.3-Flash
+56.3
+63.4
+26.3
+DeepSeek V4.1 Flash 1017
+68.2
+77.0
+35.4
+Naive-N0.5-Flash
+71.9
+67.8
+32.4
+Our own evaluations below look at the differences between these models in more detail.
+Speed and verbosity experiments
+Speed is the headline feature. 1 NaiveAI promises faster research iteration than comparable models, which matters to developers and AI researchers who need to test ideas quickly. 2
+We evaluated each model on 10 randomly sampled, text-only questions at each of three difficulty levels: 10 easy questions from MATH-500 , 10 medium questions from GPQA-Diamond and 10 hard questions from HLE-Diamond . That makes 30 questions per model. All experiments used the same maximum completion-token limit of 256K.
+For each request, we recorded response speed (tokens per second, TPS), the total number of completion tokens, and end-to-end response time. The code for the experiments is at https://github.com/gbeltramo/llm-verbosity .
+The tables below report the mean and median across all 30 successful requests for each configuration. Throughput figures come from different sources: OpenRouter for DeepSeek V4.1 Flash 1017 and GLM 5.3 Flash, and server-side measurements for Naive-N0.5-Flash. They should be compared with that in mind.
+Graphic by Gabriele Beltramo
+Key observations
+Naive-N0.5-Flash reports exceptionally high throughput , approaching or passing 1,000 tokens per second in both thinking configurations. Because its figures are server-side and the other models' figures come from OpenRouter, we do not claim an exact speed multiple over DeepSeek V4.1 Flash 1017 or GLM 5.3 Flash.
+Thinking has a large effect on verbosity. On the hard HLE questions, Naive-N0.5-Flash with thinking on averaged about 108,500 completion tokens, roughly nine times the GLM 5.3 Flash (high) average and 11 times the DeepSeek V4.1 Flash 1017 (high) average.
+The medians tell a different story from the means. Across all 30 questions, the median completion for Naive-N0.5-Flash with thinking on was about 3,200 tokens, far below its average of more than 51,000. A small number of requests produced exceptionally long reasoning traces and pulled the average up. The same pattern appears, less sharply, in the other models.
+The tables also include end-to-end response time, which is the fairer basis for judging speed. The median question took 3.1 seconds with Naive-N0.5-Flash (thinking), against 5.3 seconds for GLM 5.3 Flash (high) and 10.1 seconds for DeepSeek V4.1 Flash 1017 (high). The means are closer: 45.3 seconds for Naive-N0.5-Flash, 45.0 for DeepSeek V4.1 Flash 1017, and 86.9 for GLM 5.3 Flash. On the hard questions, Naive-N0.5-Flash (thinking) was slower on average than DeepSeek V4.1 Flash 1017 (high) , at 89.8 seconds against 79.7.
+Two caveats apply. The sample is small, at 10 questions per difficulty level, and we did not grade answer accuracy. Short, fast replies are only useful if they are correct.
+App experiments
+We also asked the models to build the same web apps from the same initial prompt. We tested six combinations of model and thinking effort, with the thinking effort in parentheses:
+Naive-N0.5-Flash (no thinking)
+Naive-N0.5-Flash (thinking)
+DeepSeek V4.1 Flash 1017 (low)
+DeepSeek V4.1 Flash 1017 (high)
+GLM 5.3 Flash (low)
+GLM 5.3 Flash (high)
+The gallery of apps is available online. In summary, the three prompts asked the six model variants to do the following:
+Create an interactive 3D view of the Earth and the Solar System.
+Grow a 3D tree from a seeded random generator, with branches that taper and fork, thousands of leaves, and bark and leaf textures.
+Do a browser port of the book Ray Tracing in One Weekend .
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Below we’ve embedded results for the thinking variants of each model .
+Naive-N0.5-Flash (thinking)
+Earth and the Solar System; Naive-N0.5-Flash (thinking)
+3D tree; Naive-N0.5-Flash (thinking)
+Ray Tracing in One Weekend; Naive-N0.5-Flash (thinking)
+DeepSeek V4.1 Flash 1017 (high)
+Earth and the Solar System; DeepSeek V4.1 Flash 1017 (high)
+3D tree; DeepSeek V4.1 Flash 1017 (high)
+Ray Tracing in One Weekend; DeepSeek V4.1 Flash 1017 (high)
+GLM 5.3 Flash (high)
+Earth and the Solar System; GLM 5.3 Flash (high)
+3D tree; GLM 5.3 Flash (high)
+Ray Tracing in One Weekend; GLM 5.3 Flash (high)
+Solar system
+The first app is an interactive 3D view of the Earth and the Solar System. Viewers can orbit the camera around the scene and watch the planets circle the sun, with controls to speed up or slow down their motion. Every surface is drawn from generated textures, with no image files.
+Naive-N0.5-Flash (thinking) produced the best result of the three. Its sun shows sunspots, and the dark side of its Earth glows with city lights at night.
+DeepSeek V4.1 Flash 1017 (high) came close behind. Its version lacks an asteroid belt, and its Earth has less textural detail.
+GLM 5.3 Flash (high) stumbled on lighting, which makes the planets hard to tell apart. Its speed controls are also too sensitive, so a small nudge sends the planets racing or crawling.
+Tree modeling
+The second app grows a 3D tree from a seeded random generator, with branches that taper and fork, thousands of leaves, and bark and leaf textures. Wind makes the branches sway and the leaves flutter, and the shadows on the grassy ground move with them. The tree stands under a sky gradient and light fog. A control panel adjusts the seed, branching depth, leaf count, wind strength and direction, and sun position. There’s also a switch to autumn colors and a frame-rate counter sits in the corner.
+DeepSeek V4.1 Flash 1017 (high) and Naive-N0.5-Flash (thinking) both produced good results. The surprise was Naive-N0.5-Flash with thinking switched off , which did not produce a usable app at all.
+The good results still had small glitches in the wind animation. In the DeepSeek V4.1 Flash 1017 (high) app, thin branches can detach from their parents in strong wind and appear to float. The effect is subtle, but it is there.
+The problem is easier to see in the GLM 5.3 Flash (high) app. When the wind intensity is turned up, the whole tree starts to deform and wobble like a jelly sculpture in an earthquake.
+Ray Tracing in One Weekend
+The third app is a browser port of the book Ray Tracing in One Weekend . It renders the book's cover scene: a vast gray ground, a scatter of small matte, metallic and glass spheres, and three large spheres in the center. One is glass, one a brown matte and one a polished metal. Depth of field blurs the foreground and background. The image builds up progressively on screen, with a progress bar, elapsed time and a rays-per-second estimate. A menu offers the book's earlier milestone scenes. The user can pick a quality preset and
+the result as a PNG.
+In this more coding-focused scenario, all three models with thinking on produced a working app.
+DeepSeek V4.1 Flash 1017 (high) wins because its ray tracer is the most efficient of the three. It also uses the full width of the screen to display the rendered image.
+The Naive-N0.5-Flash (thinking) app is correct, but its JavaScript is less efficient.
+GLM 5.3 Flash (high) is again the weakest. Its speed is similar to the Naive-N0.5-Flash app, but its interface is more basic.
+Pricing
+Naive positions N0.5-Flash as a capable, low-cost model. The target prices are $0.10 per million input tokens, $0.40 per million output tokens, and $0.01 per million cache-read tokens .
+That puts it in the $0.20 to $0.60 per million output tokens band occupied by several capable Flash models, including the two we compared it against.
+The final bill will also depend on how many tokens the model uses. That in turn depends on the thinking budget requested and the difficulty of the questions.
+Takeaways
+In ultrafast mode, Naive-N0.5-Flash can peak at around 2,000 tokens per second and sustain nearly 1,000 during thinking-heavy tasks.
+In our tests, its median response time was several times shorter than those of GLM 5.3 Flash and DeepSeek V4.1 Flash 1017 at their high thinking settings. Mean times were similar to DeepSeek V4.1 Flash 1017.
+On complex tasks, it spent far more thinking tokens than the other two models. On easy and medium questions, it consistently replied faster.
+In the apps, Naive-N0.5-Flash was much more consistent than GLM 5.3 Flash (high). With thinking on, it also holds its own against DeepSeek V4.1 Flash 1017. It built the most detailed solar system app, tied with DeepSeek V4.1 Flash 1017 on the tree model, and came a close second on the efficiency of the ray tracer.
+For developers who value fast iteration over token economy , that speed is the main reason to try Naive-N0.5-Flash.
+1
+The speed of Naive-N0.5-Flash depends on an efficient speculative-decoding drafter and a custom inference engine. The reported decoding speeds were measured on a single eight-GPU Blackwell node running speculative decoding in NaiveRT . The drafter was Naive-N0.5-Flash-FP8-Draft , and the setup is tuned for single-stream decode latency rather than batch throughput.
+Realized speed depends on how many draft tokens the target model accepts per round. That varies with the checkpoint pair, the prompt, context length, sampling settings, and the content being generated. The reported numbers show this clearly:
+- Acceptance rate: 70.6% with thinking disabled, but only 43.4% with thinking enabled.
+- Decode speed: about 984 tokens/s in the thinking phase and 1,816 tokens/s in the answer phase.
+- Peak rate: roughly 2,100 tokens/s over a single second. Treat this as an upper bound, not a typical rate.
+The engine matters as much as the drafter. The developers report that a full speculative round (draft, verify, sampling and commit) takes 3.4 ms in NaiveRT versus 12.3 ms in SGLang, a 72.4% reduction. The thinking-disabled campaign measured about 3.45 ms per round. For the full measurements, see NaiveRT: Performance .
+2
+Implications for reinforcement learning: Generating autoregressive rollouts is the main bottleneck in large-scale reinforcement learning. Anything that cuts decode cost, such as the sparse attention (DSA) adopted here, makes rollouts cheaper. Adapting other models to DSA could make that loop considerably more efficient and speed up frontier research.
+This fits Naive AI's larger promise: a self-improving AI that can optimize its own inference CUDA kernels and adopt the most efficient architecture for large-scale reinforcement learning training.
+Thanks for reading
+Stay a little ahead of the curve.
+Fresh ideas, original reporting, and deep conversations in your inbox.
+to Latent Space
+Next up · San Francisco AIE Code Summit 2026 November 10–12 · Hilton Union Square
+By Application only: the last Flagship AIE of 2026, AIE CODE is back with 1000 of the top Agentic Engineers in the world to
+their experience fighting slop in software factories, using System One models, and rewriting critical apps.
+Apply to attend
+Most popular
+Past 30 days All time
+1 Claude Mods: Flipping the Harness Inside Out
+2 How Anthropic ships Claude with Claude: Separating the Brain from the Hands
+3 AI Is Getting Good at Math. Here’s Why.
+4 LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop
+5 Anthropic ends Coding Interviews: "Hunger beats tenure"
+1 The 2025 AI Engineer Reading List
+2 Taste is your moat — with Dylan Field, Figma
+3 The Rise of the AI Engineer
+4 o1 isn’t a chat model (and that’s the point)
+5 GPT-5 Hands-On: Welcome to the Stone Age
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Keep exploring
+The archive
+Find more essays and conversations in the archive →
+By and for AI engineers. Original analysis, the podcast and the daily AI News briefing.
+Explore
+Articles AI News Podcasts YouTube The archive The wiki
+Community
+Community AI news The Latent Space community AI Engineer conferences
+to the newsletter Become a paid member About us
+Listen & follow
+Apple Podcasts Spotify YouTube X / Twitter RSS feeds Podcast RSS
+© 2026 Latent Space Meet us at
+Status Privacy Terms
+×
+The AI Engineer publication
+Conversations that move AI forward.
+Meet the people building it. Then go deeper.
+Get the newsletters ↓
+Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore the conversations ↗
+Guests and affiliations at the time of recording. ← →
+Join Latent Space.
+Sign in with Google, or get the newsletter by email.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Loading Google sign-in…
+or
+by email
+Email address
+free
+Free. Change your preferences or un
+any time.
+Explore Latent Space Pro → Full weekday AINews by email. Support our work.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Uncheck all to create an account without newsletter emails.
+Finish
+Email preferences
+to the newsletter Sign out
+Sign in to manage preferences Use a different email
+Help us reach your inbox.
+We recently moved email providers. Look for Latent Space in your inbox, Spam or Promotions. If we're in Spam, mark the message as “Not spam,” then move it to your inbox. This helps future emails reach you.
+Keep exploring
+Discover technical newsletters we recommend, then explore Latent Space membership. Both are optional.
+Discover newsletters View paid plans
+Continue reading
+Your newsletter choice is optional. How we use your account data .

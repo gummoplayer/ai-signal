@@ -1,0 +1,230 @@
+Designing for Agents — Zeno Rocha, Resend — Latent Space Skip to content
+The AI Engineer publication
+Search ⌘ K
+Search Latent Space
+Filter by type
+Result type
+All None
+Articles Only ⓘ Essays and analysis from Latent Space.
+AI News Only ⓘ News briefings about AI models, tools, and research.
+Podcasts Only ⓘ Recorded conversations with AI builders and researchers.
+Community Only ⓘ Community pages and resources.
+People Only ⓘ Sourced wiki profiles of people working in AI.
+Organizations Only ⓘ Sourced wiki profiles of companies and organizations.
+Topics Only ⓘ Sourced wiki entries explaining AI topics and concepts.
+Writeups Only ⓘ Grounded explanations linked to original sources.
+Search mode ?
+Search tips
+Keyword matches words; semantic matches meaning and exact titles or names; hybrid combines both. In keyword mode, use quotation marks for exact phrases. Author matches published credits. Year applies to posts; wiki entries have no author or publication year. You can also use author:"Ada" or type:podcast in non-regex searches.
+Keyword Semantic Hybrid Regex
+Published Any year 2026 2025 2024 2023 2022 Author Reset filters
+Explore articles, conversations, and the wiki.
+Try a search: context engineering agents retrieval augmented generation
+Open full search
+Welcome back ⌄
+Signed in with Google Email & account Membership & billing View paid plans Sign out
+← The conversations Latent Space Podcast
+Designing for Agents — Zeno Rocha, Resend
+Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.
+swyx .ai
+Nov 10 · 86 min
+Listen to this conversation 86 min
+Read transcript Watch on YouTube
+On this page ⌄ The developer gets there before the model 80 tools, or two? What happens after “send”? Show notes Chapters
+Today’s podcast comes from a real life mystery: We are big fans of Cloudflare’s developer platform, and Cloudflare Email is a convenient tool especially when all your domains are already on Cloudflare.
+So why do agents keep suggesting we use Resend despite having an existing “home bias” and much larger incumbent player?
+Well, we got the guy who “does AEO for resend” - the CEO of AEO, Zeno Rocha, who has been writing about AEO since 2024 and Agent Experience since Feb 2025 , on the pod today:
+Play video
+Open video on YouTube ↗
+In a recent AEO study, Claude Code picked Resend first in 64 of the 102 email recommendations the researchers could extract. SendGrid came first seven times, yet showed up 55 times as an alternative. If the developer asks an agent to implement email and accepts the patch, how often does anyone get around to trying the second choice? The study breaks down the results by model and app. Our more recent comprehensive AEO study was a bit more competitive, with Postmark coming up top for most models.
+Zeno Rocha, Resend’s co-founder and CEO, joined us to walk through what happens on both sides of that pull request. He says Resend had 4.3 million users and 120,000 paying customers when we recorded. He discovered one of them, Warner Bros. Discovery, by sorting through short .com domains in the customer database on a Saturday.
+The developer gets there before the model
+Resend’s first useful bit of distribution was an email template. While Zeno and his team were building the sending API, developers kept telling them how painful it was to get the email itself to look right. So they released React Email. You could build a template with it and send it through SendGrid. They even documented how. By the time a developer needed a different provider, some of Resend’s code was already in the repo. React Email
+Now try the same journey as an agent comparing providers. Resend’s pricing page has a slider. A person can drag it to the right volume and read off the price. Add .md to the URL and the agent gets a table it can read in one request. That’s the kind of change I liked in our Supabase interview too. You can ask whether a model has heard of your product. You can also open your own pricing table and see whether it can answer a customer’s question.
+80 tools, or two?
+When we recorded, Resend’s MCP server had grown from roughly 20 tools or fewer at launch to more than 80. Zeno wants someone working in a chat client to be able to do what they can do in the dashboard. Sending an email gets the demo working. Inviting a teammate, checking usage and managing billing account for some of the long tail. The design looks especially interesting alongside Cloudflare’s Code Mode server , which exposes its API through two tools, search() and execute() .
+Zeno describes opening the collapsed tool calls in his own sessions to see what the agent actually did. In one, the result was too large to fit in context. Reducing the tool count wouldn’t by itself make that response any smaller. For someone designing an MCP server, that’s a cheap experiment worth borrowing: expand the result of a call you make every day and see how much of it the model actually needs.
+What happens after “send”?
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Getting an agent to pick the SDK still leaves the entire business of delivering the mail. Take click tracking. A provider can rewrite links through a
+d tracking domain so it can count clicks. If one customer uses that domain for phishing and it gets blocklisted, links in another customer’s perfectly legitimate emails can suffer too. Zeno explains why Resend introduced custom tracking domains and why he wants to keep the free tier even though spammers can sign up for it. Custom tracking domains · Resend’s $3M safety commitment
+Watch the domain setup and pricing walkthroughs if you build developer tools. Stay for the last stretch if you know Zeno from Dracula. We get into what it’s like to build a company with a family and how much of a founder’s job comes down to finding a name that other people actually use.
+Show notes
+Zeno’s original Dracula announcement — the editor theme he launched in 2013.
+Zeno on what Claude Code chooses — his reading of the recommendation study and the differences between model versions.
+Resend’s MCP server — the integration behind the tool-count discussion.
+Anthropic on writing tools for agents — concrete approaches to returning less data when a tool result fills the context window.
+Resend’s anti-abuse handbook — what happens when a new sender signs up and where the team intervenes.
+Chapters
+0:00 Cold open
+0:59 From Dracula to email
+5:02 When agents pick the API
+6:54 Getting into the inbox
+13:28 What tracking measures
+17:05 Paying for trust
+19:44 The DNS hurdle
+23:55 React Email’s wedge
+27:01 Measuring adoption
+31:58 Owning the mail stack
+37:55 Designing the MCP
+46:29 CLI, SDKs and craft
+52:41 Mail for agents
+58:28 Writing for machines
+1:06:00 Winning recommendations
+1:12:14 Enterprise and pricing
+1:16:51 Building with a family
+1:23:26 Naming a category
+Resend - Zeno Rocha - Transcript.txt 94.65 KB • PLAIN File
+Thanks for reading
+Stay a little ahead of the curve.
+Fresh ideas, original reporting, and deep conversations in your inbox.
+to Latent Space
+Next up · San Francisco AIE Code Summit 2026 November 10–12 · Hilton Union Square
+By Application only: the last Flagship AIE of 2026, AIE CODE is back with 1000 of the top Agentic Engineers in the world to
+their experience fighting slop in software factories, using System One models, and rewriting critical apps.
+Apply to attend
+Most popular
+Past 30 days All time
+1 Claude Mods: Flipping the Harness Inside Out
+2 How Anthropic ships Claude with Claude: Separating the Brain from the Hands
+3 AI Is Getting Good at Math. Here’s Why.
+4 LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop
+5 Anthropic ends Coding Interviews: "Hunger beats tenure"
+1 The 2025 AI Engineer Reading List
+2 Taste is your moat — with Dylan Field, Figma
+3 The Rise of the AI Engineer
+4 o1 isn’t a chat model (and that’s the point)
+5 GPT-5 Hands-On: Welcome to the Stone Age
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Keep exploring
+The archive
+Find more essays and conversations in the archive →
+By and for AI engineers. Original analysis, the podcast and the daily AI News briefing.
+Explore
+Articles AI News Podcasts YouTube The archive The wiki
+Community
+Community AI news The Latent Space community AI Engineer conferences
+to the newsletter Become a paid member About us
+Listen & follow
+Apple Podcasts Spotify YouTube X / Twitter RSS feeds Podcast RSS
+© 2026 Latent Space Meet us at
+Status Privacy Terms
+×
+The AI Engineer publication
+Conversations that move AI forward.
+Meet the people building it. Then go deeper.
+Get the newsletters ↓
+Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore the conversations ↗
+Guests and affiliations at the time of recording. ← →
+Join Latent Space.
+Sign in with Google, or get the newsletter by email.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Loading Google sign-in…
+or
+by email
+Email address
+free
+Free. Change your preferences or un
+any time.
+Explore Latent Space Pro → Full weekday AINews by email. Support our work.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Uncheck all to create an account without newsletter emails.
+Finish
+Email preferences
+to the newsletter Sign out
+Sign in to manage preferences Use a different email
+Help us reach your inbox.
+We recently moved email providers. Look for Latent Space in your inbox, Spam or Promotions. If we're in Spam, mark the message as “Not spam,” then move it to your inbox. This helps future emails reach you.
+Keep exploring
+Discover technical newsletters we recommend, then explore Latent Space membership. Both are optional.
+Discover newsletters View paid plans
+Continue reading
+Your newsletter choice is optional. How we use your account data .
