@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-11T01:36:48.585778+00:00",
+  "generated_at": "2026-11-12T02:37:08.771184+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+      "pub_date": "2026-11-11T20:03:03+00:00",
+      "transcript_path": "feeds/transcripts/ffed3fe1c2c859d478921344.txt",
+      "transcript_chars": 18567,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-12T02:37:08.771184+00:00",
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "link": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "pub_date": "2026-11-11T13:04:09+00:00",
+      "transcript_path": "feeds/transcripts/921158d57e02152d834cbdd0.txt",
+      "transcript_chars": 4670,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-12T02:37:08.771184+00:00",
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe",
+      "link": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "channel": "Latent Space",
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "pub_date": "2026-11-11T09:34:28+00:00",
+      "transcript_path": "feeds/transcripts/adde723dc5e57bb8c6e19b56.txt",
+      "transcript_chars": 51021,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-12T02:37:08.771184+00:00",
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec",
+      "link": "https://latent.space/p/codex-work/",
+      "channel": "Latent Space",
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "pub_date": "2026-11-11T04:49:48+00:00",
+      "transcript_path": "feeds/transcripts/d04be3eac681af00bdb6c6a4.txt",
+      "transcript_chars": 16097,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-12T02:37:08.771184+00:00",
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+    },
     {
       "guid": "https://lexfridman.com/?p=7818",
       "link": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
@@ -12,8 +64,8 @@
       "transcript_chars": 185818,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a",
@@ -25,8 +77,8 @@
       "transcript_chars": 14802,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_e9d76b13-59aa-4ee4-9132-5d55b5763030",
@@ -38,8 +90,8 @@
       "transcript_chars": 23283,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
@@ -51,8 +103,8 @@
       "transcript_chars": 11166,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
@@ -64,8 +116,8 @@
       "transcript_chars": 56756,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
@@ -77,8 +129,8 @@
       "transcript_chars": 4980,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
@@ -90,8 +142,8 @@
       "transcript_chars": 4773,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
@@ -103,8 +155,8 @@
       "transcript_chars": 5078,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
-      "expires_at": "2026-11-25T01:36:48.585778+00:00"
+      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
+      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3",
@@ -521,45 +573,6 @@
       "cached_at": "2026-10-28T00:50:39.115417+00:00",
       "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
       "expires_at": "2026-11-13T01:27:52.046750+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=7807",
-      "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
-      "channel": "Lex Fridman",
-      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
-      "pub_date": "2026-10-26T22:52:28+00:00",
-      "transcript_path": "feeds/transcripts/5e6fe13ba1338fcf16c25915.txt",
-      "transcript_chars": 225373,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-      "pub_date": "2026-10-26T15:00:53+00:00",
-      "transcript_path": "feeds/transcripts/686c74002f230e47034aad2d.txt",
-      "transcript_chars": 7978,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "link": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "channel": "Lenny's Podcast",
-      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-      "pub_date": "2026-10-26T12:04:20+00:00",
-      "transcript_path": "feeds/transcripts/e0b37930bca3beaa4c54b514.txt",
-      "transcript_chars": 4485,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-27T01:01:03.934160+00:00",
-      "last_seen_at": "2026-10-29T01:26:06.493979+00:00",
-      "expires_at": "2026-11-12T01:26:06.493979+00:00"
     }
   ]
 }
