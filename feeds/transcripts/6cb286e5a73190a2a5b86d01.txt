@@ -1,0 +1,210 @@
+The Jev Revolution: What Engineers Are Already Building with System One Models — Latent Space Skip to content
+The AI Engineer publication
+Search ⌘ K
+Search Latent Space
+Filter by type
+Result type
+All None
+Articles Only ⓘ Essays and analysis from Latent Space.
+AI News Only ⓘ News briefings about AI models, tools, and research.
+Podcasts Only ⓘ Recorded conversations with AI builders and researchers.
+Community Only ⓘ Community pages and resources.
+People Only ⓘ Sourced wiki profiles of people working in AI.
+Organizations Only ⓘ Sourced wiki profiles of companies and organizations.
+Topics Only ⓘ Sourced wiki entries explaining AI topics and concepts.
+Writeups Only ⓘ Grounded explanations linked to original sources.
+Search mode ?
+Search tips
+Keyword matches words; semantic matches meaning and exact titles or names; hybrid combines both. In keyword mode, use quotation marks for exact phrases. Author matches published credits. Year applies to posts; wiki entries have no author or publication year. You can also use author:"Ada" or type:podcast in non-regex searches.
+Keyword Semantic Hybrid Regex
+Published Any year 2026 2025 2024 2023 2022 Author Reset filters
+Explore articles, conversations, and the wiki.
+Try a search: context engineering agents retrieval augmented generation
+Open full search
+Welcome back ⌄
+Signed in with Google Email & account Membership & billing View paid plans Sign out
+← The reading room Latent Space
+The Jev Revolution: What Engineers Are Already Building with System One Models
+At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.
+Richard MacManus
+Nov 12 · 4 min read
+On this page ⌄ Integrating system one models into code How Glean uses Jev Jev patterns and prototypes Like the early internet
+Today at the AI Engineer Code Summit , the main theme was system one models — non-generative models that return structured choices, scores, or probabilities. They’re also typically much faster and cheaper than reasoning LLMs (a.k.a. system two models).
+And who better to give an inspirational rallying cry for system one models than Diogo Almeida , co-founder and CEO of TypeSafe AI . Almeida was lead creator of Jev , the product that kicked off this trend less than two months ago.
+Jev was an instant revelation for AI engineers when it was released in September. In a podcast with Latent Space on launch (which quickly became our most popular episode of the year), Almeida explained the core problem with making LLMs the heart of software: reliability .
+In his keynote at AIE Code today, he took it a step further by claiming that Jev is “reliable intelligence” that should be used for “just automating everything.”
+Integrating system one models into code
+Of particular interest to AI engineers is Almeida’s point that system one models should become integrated with code. As he put it in his keynote, “code is the language of automation , therefore you need to integrate with code.”
+Latent Space founder swyx interprets this as a call to “liberally sprinkle ‘System One’ model calls everywhere INSIDE application code to make smarter software instead of increasingly convoluted forms of ‘concat strings together and hope for the best" AI engineering.’”
+The term “smart software” was used throughout Almeida’s presentation. It sounds like the kind of term used by companies like Microsoft or IBM during Web 2.0, but in the AI era it does actually signify a harsh reality about LLM-driven software: sometimes it’s just not very smart. As Almeida quipped during his presentation, “you get Einstein 95% of the time, but Mr. Bean 5% of the time.”
+“And if you can't tell which is which, how the fuck are you going to automate anything,” he added.
+Almeida ended with an impassioned plea to “automate everything.” Like an AI-pilled, pink-haired Steve Jobs, he called out to “the dreamers and the people who don't want to be limited by everything that has happened so far,” promising that TypeSafe AI wants to “really fight for you, and we want this to be as reliable as a fourth logic gate. ”
+How Glean uses Jev
+With the unenviable task of immediately following Almeida on stage, Chinmay Goyal from Glean presented a more prosaic version of Jev usage. He explained that system one models are used at Glean alongside LLMs and other types of classifiers, and that Jev is especially suited for “zero-shot flexibility.”
+“As the taxonomy of the decision space changes, we don't have to fine-tune these models again and again,” he said.
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+In a short interview after his presentation, Goyal told Latent Space that their customers don’t actually need to know which type of model they’re using.
+“Jev powers a significant number of flows [but] the user just needs to have a product that works; that is always our aim with building anything. So we want to hide away all the complexity of whether we are using Jev or we are using a full-blown LLM.”
+In the conclusion of his presentation, Goyal offered some rules on when to use Jev:
+Jev patterns and prototypes
+Next up at AIE Code were Chibi Vikram and Kevin Bernstein from UiPath , a business orchestration and automation platform. One of their examples showed a test of Jev ranking document chunks . They held a “tournament” where Jev picked the most relevant chunks from small groups, then the winners advanced to another round, and so on. This whole process took under a second , even with thousands of Jev calls.
+“We realized that Jev is a building block that we can adjust ,” said Vikram about this and other experiments, “and we have to find these new strategies where we will be able to apply this building block. It might look less intelligent on its own, but with these strategies and patterns, we can get more intelligent — with even the current Jev model that we have.”
+Scott Roberts , a Principal Engineer at Workday , finished the ‘system one’ session at AIE Code with some prototypes his team has run with Jev.
+In one, an interface starts to fill in a time-off card while the user is still typing. It was an interesting showcase of Almeida’s idea that a fast model call can change what the software itself does. Roberts described it as going “from predicting what you want to say to predicting what you want to do.”
+Like the early internet
+The biggest learning I took from the System One presentations today is that a model like Jev can open up surprising new ways to build software . I was sitting next to a conference attendee who heads up AI at his company. He told me that in his spare time, he used Jev to create a website that sorts and ranks news about fantasy football.
+But the final word has to go to Almeida, who likened the new opportunities opened up by system one models to the experimentation of the early internet.
+“I think that there's going to be an explosion of what software can do, and we will want people to be exploring those boundaries of software. Not necessarily because it's valuable, but because they can, because we have new frontiers to explore , and this is what the early internet was like.”
+Thanks for reading
+Stay a little ahead of the curve.
+Fresh ideas, original reporting, and deep conversations in your inbox.
+to Latent Space
+Next up · San Francisco AIE Code Summit 2026 November 10–12 · Hilton Union Square
+By Application only: the last Flagship AIE of 2026, AIE CODE is back with 1000 of the top Agentic Engineers in the world to
+their experience fighting slop in software factories, using System One models, and rewriting critical apps.
+Apply to attend
+Most popular
+Past 30 days All time
+1 Claude Mods: Flipping the Harness Inside Out
+2 How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco
+3 How Anthropic ships Claude with Claude: Separating the Brain from the Hands
+4 AI Is Getting Good at Math. Here’s Why.
+5 LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop
+1 The 2025 AI Engineer Reading List
+2 Taste is your moat — with Dylan Field, Figma
+3 The Rise of the AI Engineer
+4 o1 isn’t a chat model (and that’s the point)
+5 GPT-5 Hands-On: Welcome to the Stone Age
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Keep exploring
+The archive
+Find more essays and conversations in the archive →
+By and for AI engineers. Original analysis, the podcast and the daily AI News briefing.
+Explore
+Articles AI News Podcasts YouTube The archive The wiki
+Community
+Community AI news The Latent Space community AI Engineer conferences
+to the newsletter Become a paid member About us
+Listen & follow
+Apple Podcasts Spotify YouTube X / Twitter RSS feeds Podcast RSS
+© 2026 Latent Space Meet us at
+Status Privacy Terms
+×
+The AI Engineer publication
+Conversations that move AI forward.
+Meet the people building it. Then go deeper.
+Get the newsletters ↓
+Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore the conversations ↗
+Guests and affiliations at the time of recording. ← →
+Join Latent Space.
+Sign in with Google, or get the newsletter by email.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Loading Google sign-in…
+or
+by email
+Email address
+free
+Free. Change your preferences or un
+any time.
+Explore Latent Space Pro → Full weekday AINews by email. Support our work.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Uncheck all to create an account without newsletter emails.
+Finish
+Email preferences
+to the newsletter Sign out
+Sign in to manage preferences Use a different email
+Help us reach your inbox.
+We recently moved email providers. Look for Latent Space in your inbox, Spam or Promotions. If we're in Spam, mark the message as “Not spam,” then move it to your inbox. This helps future emails reach you.
+Keep exploring
+Discover technical newsletters we recommend, then explore Latent Space membership. Both are optional.
+Discover newsletters View paid plans
+Continue reading
+Your newsletter choice is optional. How we use your account data .

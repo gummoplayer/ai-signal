@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-12T02:37:08.771184+00:00",
+  "generated_at": "2026-11-13T02:17:24.141858+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
+      "link": "https://tedseides.libsyn.com/wtt-you-cant-see-everything",
+      "channel": "Capital Allocators",
+      "title": "WTT: You Can't See Everything",
+      "pub_date": "2026-11-12T09:00:00+00:00",
+      "transcript_path": "feeds/transcripts/816a6a7c2f0e5be4716baf1a.txt",
+      "transcript_chars": 2317,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-13T02:17:24.141858+00:00",
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+    },
+    {
+      "guid": "04ee8255-2880-47dc-ad97-636aa23b6e85",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Quality-Growth-Playbook-for-Biotech--David-Ferreiro-e3s7ick",
+      "channel": "The Acquirers Podcast",
+      "title": "The Quality Growth Playbook for Biotech | David Ferreiro",
+      "pub_date": "2026-11-12T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/db6d93807581d5471176fd39.txt",
+      "transcript_chars": 141665,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-13T02:17:24.141858+00:00",
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
+      "link": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "channel": "Latent Space",
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "pub_date": "2026-11-12T05:26:54+00:00",
+      "transcript_path": "feeds/transcripts/249ff32e73756b243a5f55d6.txt",
+      "transcript_chars": 47478,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-13T02:17:24.141858+00:00",
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_b31597d9-ad6f-469e-a051-d723be8fd562",
+      "link": "https://latent.space/p/jev-revolution/",
+      "channel": "Latent Space",
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "pub_date": "2026-11-12T05:08:20+00:00",
+      "transcript_path": "feeds/transcripts/6cb286e5a73190a2a5b86d01.txt",
+      "transcript_chars": 14984,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-13T02:17:24.141858+00:00",
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+    },
     {
       "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
       "link": "https://deepmind.com/podcast",
@@ -12,8 +64,8 @@
       "transcript_chars": 18567,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
@@ -25,8 +77,8 @@
       "transcript_chars": 4670,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe",
@@ -38,8 +90,8 @@
       "transcript_chars": 51021,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec",
@@ -51,8 +103,8 @@
       "transcript_chars": 16097,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7818",
@@ -64,8 +116,8 @@
       "transcript_chars": 185818,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a",
@@ -77,8 +129,8 @@
       "transcript_chars": 14802,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_e9d76b13-59aa-4ee4-9132-5d55b5763030",
@@ -90,8 +142,8 @@
       "transcript_chars": 23283,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
@@ -103,8 +155,8 @@
       "transcript_chars": 11166,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
@@ -116,8 +168,8 @@
       "transcript_chars": 56756,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
+      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
+      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
@@ -534,45 +586,6 @@
       "cached_at": "2026-10-29T01:26:06.493979+00:00",
       "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
       "expires_at": "2026-11-14T01:17:06.701453+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42",
-      "link": "https://latent.space/p/opus55/",
-      "channel": "Latent Space",
-      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
-      "pub_date": "2026-10-27T18:53:10+00:00",
-      "transcript_path": "feeds/transcripts/b8ef0d0dda802619612b166e.txt",
-      "transcript_chars": 139130,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
-      "expires_at": "2026-11-13T01:27:52.046750+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0",
-      "link": "https://latent.space/p/offline-coding/",
-      "channel": "Latent Space",
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "pub_date": "2026-10-27T14:41:25+00:00",
-      "transcript_path": "feeds/transcripts/afd17852747199d357b366a9.txt",
-      "transcript_chars": 22117,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
-      "expires_at": "2026-11-13T01:27:52.046750+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e",
-      "link": "https://latent.space/p/ainews-anthropic-s1/",
-      "channel": "Latent Space",
-      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "pub_date": "2026-10-27T07:24:59+00:00",
-      "transcript_path": "feeds/transcripts/fc4945ee3e70359da2f2537b.txt",
-      "transcript_chars": 61945,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-28T00:50:39.115417+00:00",
-      "last_seen_at": "2026-10-30T01:27:52.046750+00:00",
-      "expires_at": "2026-11-13T01:27:52.046750+00:00"
     }
   ]
 }
