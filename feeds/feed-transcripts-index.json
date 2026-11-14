@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-13T02:17:24.141858+00:00",
+  "generated_at": "2026-11-14T01:54:53.916881+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/rsi",
+      "link": "https://www.dwarkesh.com/p/rsi",
+      "channel": "Dwarkesh Patel",
+      "title": "The avalanche that hit math is coming for AI development",
+      "pub_date": "2026-11-13T18:37:51+00:00",
+      "transcript_path": "feeds/transcripts/e0bcc110dac109970fedee8a.txt",
+      "transcript_chars": 53700,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-14T01:54:53.916881+00:00",
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_f2e2c3b7-0166-4359-97b6-d24d8f24c73b",
+      "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "channel": "Latent Space",
+      "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "pub_date": "2026-11-13T09:04:13+00:00",
+      "transcript_path": "feeds/transcripts/e506f3ad1f26b081fced65e6.txt",
+      "transcript_chars": 45677,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-14T01:54:53.916881+00:00",
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_b104ae7d-0991-4ed4-b1c3-402861a8cd00",
+      "link": "https://latent.space/p/artcraft/",
+      "channel": "Latent Space",
+      "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "pub_date": "2026-11-13T04:17:25+00:00",
+      "transcript_path": "feeds/transcripts/84a84846d7183ca246dc393e.txt",
+      "transcript_chars": 16889,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-14T01:54:53.916881+00:00",
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+    },
     {
       "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
       "link": "https://tedseides.libsyn.com/wtt-you-cant-see-everything",
@@ -12,8 +51,8 @@
       "transcript_chars": 2317,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "04ee8255-2880-47dc-ad97-636aa23b6e85",
@@ -25,8 +64,8 @@
       "transcript_chars": 141665,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
@@ -38,8 +77,8 @@
       "transcript_chars": 47478,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b31597d9-ad6f-469e-a051-d723be8fd562",
@@ -51,8 +90,8 @@
       "transcript_chars": 14984,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
@@ -64,8 +103,8 @@
       "transcript_chars": 18567,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
@@ -77,8 +116,8 @@
       "transcript_chars": 4670,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe",
@@ -90,8 +129,8 @@
       "transcript_chars": 51021,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec",
@@ -103,8 +142,8 @@
       "transcript_chars": 16097,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
+      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
+      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7818",
@@ -547,45 +586,6 @@
       "cached_at": "2026-10-30T01:27:52.046750+00:00",
       "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
       "expires_at": "2026-11-15T00:34:51.242317+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289",
-      "link": "https://latent.space/p/supabase/",
-      "channel": "Latent Space",
-      "title": "Why Agents Love Supabase",
-      "pub_date": "2026-10-28T19:48:05+00:00",
-      "transcript_path": "feeds/transcripts/32469915e14466f6bc3c45b8.txt",
-      "transcript_chars": 14813,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "link": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "channel": "Lenny's Podcast",
-      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-      "pub_date": "2026-10-28T12:04:22+00:00",
-      "transcript_path": "feeds/transcripts/73320dd98ad1ab35193cb18d.txt",
-      "transcript_chars": 4383,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
-      "link": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
-      "channel": "Latent Space",
-      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
-      "pub_date": "2026-10-28T08:50:30+00:00",
-      "transcript_path": "feeds/transcripts/60925daf02e03d7027e8faf0.txt",
-      "transcript_chars": 55441,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-29T01:26:06.493979+00:00",
-      "last_seen_at": "2026-10-31T01:17:06.701453+00:00",
-      "expires_at": "2026-11-14T01:17:06.701453+00:00"
     }
   ]
 }
