@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-14T01:54:53.916881+00:00",
+  "generated_at": "2026-11-15T01:26:44.176629+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "715c6076-ade8-4ce9-a04a-9f6ff983b8ad",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Is-AI-Killing-Adobe--We-Discuss-e3sbv2s",
+      "channel": "The Acquirers Podcast",
+      "title": "Is AI Killing Adobe? We Discuss",
+      "pub_date": "2026-11-14T20:00:00+00:00",
+      "transcript_path": "feeds/transcripts/fce57a1d03c707436b98b251.txt",
+      "transcript_chars": 140659,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-15T01:26:44.176629+00:00",
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
+      "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "channel": "Latent Space",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "pub_date": "2026-11-14T08:31:02+00:00",
+      "transcript_path": "feeds/transcripts/ae11a4e7671f3159f8f056d4.txt",
+      "transcript_chars": 32962,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-15T01:26:44.176629+00:00",
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/rsi",
       "link": "https://www.dwarkesh.com/p/rsi",
@@ -12,8 +38,8 @@
       "transcript_chars": 53700,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-14T01:54:53.916881+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_f2e2c3b7-0166-4359-97b6-d24d8f24c73b",
@@ -25,8 +51,8 @@
       "transcript_chars": 45677,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-14T01:54:53.916881+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b104ae7d-0991-4ed4-b1c3-402861a8cd00",
@@ -38,8 +64,8 @@
       "transcript_chars": 16889,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-14T01:54:53.916881+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
@@ -51,8 +77,8 @@
       "transcript_chars": 2317,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "04ee8255-2880-47dc-ad97-636aa23b6e85",
@@ -64,8 +90,8 @@
       "transcript_chars": 141665,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
@@ -77,8 +103,8 @@
       "transcript_chars": 47478,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b31597d9-ad6f-469e-a051-d723be8fd562",
@@ -90,8 +116,8 @@
       "transcript_chars": 14984,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
+      "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
+      "expires_at": "2026-11-29T01:26:44.176629+00:00"
     },
     {
       "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
@@ -534,58 +560,6 @@
       "cached_at": "2026-10-31T01:17:06.701453+00:00",
       "last_seen_at": "2026-11-02T01:08:41.356497+00:00",
       "expires_at": "2026-11-16T01:08:41.356497+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/lessons-in-power",
-      "link": "https://www.dwarkesh.com/p/lessons-in-power",
-      "channel": "Dwarkesh Patel",
-      "title": "What I learned about power from LBJ and Robert Moses",
-      "pub_date": "2026-10-29T16:48:39+00:00",
-      "transcript_path": "feeds/transcripts/9bb4a2f2e860d82286c31425.txt",
-      "transcript_chars": 24883,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49",
-      "link": "https://latent.space/p/elorian/",
-      "channel": "Latent Space",
-      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
-      "pub_date": "2026-10-29T16:00:00+00:00",
-      "transcript_path": "feeds/transcripts/20005a3da4fbac4c89059101.txt",
-      "transcript_chars": 16665,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
-    },
-    {
-      "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Tim-Melvin-Finding-Value-Where-Wall-Street-Isnt-Looking-e3r98sb",
-      "channel": "The Acquirers Podcast",
-      "title": "Tim Melvin: Finding Value Where Wall Street Isn’t Looking",
-      "pub_date": "2026-10-29T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/98cbc5cba056cb89c7b4a27e.txt",
-      "transcript_chars": 144791,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
-      "link": "https://latent.space/p/ainews-gemini-4-carbon/",
-      "channel": "Latent Space",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "pub_date": "2026-10-29T05:55:19+00:00",
-      "transcript_path": "feeds/transcripts/73409585bf8b206cfca97b73.txt",
-      "transcript_chars": 46426,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T01:27:52.046750+00:00",
-      "last_seen_at": "2026-11-01T00:34:51.242317+00:00",
-      "expires_at": "2026-11-15T00:34:51.242317+00:00"
     }
   ]
 }
