@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-16T01:29:40.319096+00:00",
+  "generated_at": "2026-11-17T04:15:33.171682+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "link": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "channel": "Dwarkesh Patel",
+      "title": "Paul Christiano – We could be 12 months away from AIs that can overthrow the government",
+      "pub_date": "2026-11-16T17:46:28+00:00",
+      "transcript_path": "feeds/transcripts/4f8606e2e45605134d7b88cc.txt",
+      "transcript_chars": 114622,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-17T04:15:33.171682+00:00",
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "pub_date": "2026-11-16T16:02:55+00:00",
+      "transcript_path": "feeds/transcripts/920440d32ea92ba5440e2105.txt",
+      "transcript_chars": 12767,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-17T04:15:33.171682+00:00",
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+      "link": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+      "channel": "Lenny's Podcast",
+      "title": "How I fight token fraud as a solo founder",
+      "pub_date": "2026-11-16T13:04:09+00:00",
+      "transcript_path": "feeds/transcripts/80e6180735acda818bd93571.txt",
+      "transcript_chars": 4873,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-17T04:15:33.171682+00:00",
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
       "link": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
@@ -12,8 +51,8 @@
       "transcript_chars": 4787,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T01:29:40.319096+00:00",
-      "last_seen_at": "2026-11-16T01:29:40.319096+00:00",
-      "expires_at": "2026-11-30T01:29:40.319096+00:00"
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
     },
     {
       "guid": "715c6076-ade8-4ce9-a04a-9f6ff983b8ad",
@@ -25,8 +64,8 @@
       "transcript_chars": 140659,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-15T01:26:44.176629+00:00",
-      "last_seen_at": "2026-11-16T01:29:40.319096+00:00",
-      "expires_at": "2026-11-30T01:29:40.319096+00:00"
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -38,8 +77,8 @@
       "transcript_chars": 32962,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-15T01:26:44.176629+00:00",
-      "last_seen_at": "2026-11-16T01:29:40.319096+00:00",
-      "expires_at": "2026-11-30T01:29:40.319096+00:00"
+      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
+      "expires_at": "2026-12-01T04:15:33.171682+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/rsi",
@@ -508,45 +547,6 @@
       "cached_at": "2026-11-02T01:08:41.356497+00:00",
       "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
       "expires_at": "2026-11-18T01:46:20.457294+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b",
-      "link": "https://latent.space/p/arca/",
-      "channel": "Latent Space",
-      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-      "pub_date": "2026-10-31T16:05:00+00:00",
-      "transcript_path": "feeds/transcripts/e5aaf4bf42610fcf3ddfcd4f.txt",
-      "transcript_chars": 13955,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
-    },
-    {
-      "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Who-Pays-for-the-AI-Boom--Big-Techs-Financing-Problem-e3re2n8",
-      "channel": "The Acquirers Podcast",
-      "title": "Who Pays for the AI Boom? Big Tech’s Financing Problem",
-      "pub_date": "2026-10-31T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/e572792260ca52eab679b0b5.txt",
-      "transcript_chars": 143769,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
-      "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-      "channel": "Latent Space",
-      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
-      "pub_date": "2026-10-31T05:00:48+00:00",
-      "transcript_path": "feeds/transcripts/a7ec6c767a1ba1d38e4fa89f.txt",
-      "transcript_chars": 53688,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-01T00:34:51.242317+00:00",
-      "last_seen_at": "2026-11-03T03:12:17.661305+00:00",
-      "expires_at": "2026-11-17T03:12:17.661305+00:00"
     }
   ]
 }
