@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-17T04:15:33.171682+00:00",
+  "generated_at": "2026-11-18T03:15:00.710983+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "link": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "channel": "Lenny's Podcast",
+      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+      "pub_date": "2026-11-17T18:02:02+00:00",
+      "transcript_path": "feeds/transcripts/63c050617ab33e5332f4475c.txt",
+      "transcript_chars": 11227,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-18T03:15:00.710983+00:00",
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_16c84c46-b1fe-478a-8919-437f0bb0ddf7",
+      "link": "https://latent.space/p/cloudflare/",
+      "channel": "Latent Space",
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "pub_date": "2026-11-17T15:00:00+00:00",
+      "transcript_path": "feeds/transcripts/8b6d994fff22808342c39b62.txt",
+      "transcript_chars": 16427,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-18T03:15:00.710983+00:00",
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_ae3c512d-675f-4368-9e24-ad45b6d484fd",
+      "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "channel": "Latent Space",
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "pub_date": "2026-11-17T09:24:56+00:00",
+      "transcript_path": "feeds/transcripts/00fbad594bc3035744322a89.txt",
+      "transcript_chars": 22771,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-18T03:15:00.710983+00:00",
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
       "link": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -12,8 +51,8 @@
       "transcript_chars": 114622,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T04:15:33.171682+00:00",
-      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
-      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
@@ -25,8 +64,8 @@
       "transcript_chars": 12767,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T04:15:33.171682+00:00",
-      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
-      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
@@ -38,8 +77,8 @@
       "transcript_chars": 4873,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T04:15:33.171682+00:00",
-      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
-      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
@@ -51,8 +90,8 @@
       "transcript_chars": 4787,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T01:29:40.319096+00:00",
-      "last_seen_at": "2026-11-17T04:15:33.171682+00:00",
-      "expires_at": "2026-12-01T04:15:33.171682+00:00"
+      "last_seen_at": "2026-11-18T03:15:00.710983+00:00",
+      "expires_at": "2026-12-02T03:15:00.710983+00:00"
     },
     {
       "guid": "715c6076-ade8-4ce9-a04a-9f6ff983b8ad",
@@ -534,19 +573,6 @@
       "cached_at": "2026-11-03T03:12:17.661305+00:00",
       "last_seen_at": "2026-11-05T01:54:43.408587+00:00",
       "expires_at": "2026-11-19T01:54:43.408587+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-      "link": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-      "channel": "Lenny's Podcast",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-      "pub_date": "2026-11-01T13:31:36+00:00",
-      "transcript_path": "feeds/transcripts/352d0148447d731720786061.txt",
-      "transcript_chars": 5542,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-02T01:08:41.356497+00:00",
-      "last_seen_at": "2026-11-04T01:46:20.457294+00:00",
-      "expires_at": "2026-11-18T01:46:20.457294+00:00"
     }
   ]
 }

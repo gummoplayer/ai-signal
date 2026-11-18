@@ -1,0 +1,221 @@
+Cloudflare Joins the Jevolution and Labels Itself a Neolab — Latent Space Skip to content
+The AI Engineer publication
+Search ⌘ K
+Search Latent Space
+Filter by type
+Result type
+All None
+Articles Only ⓘ Essays and analysis from Latent Space.
+AI News Only ⓘ News briefings about AI models, tools, and research.
+Podcasts Only ⓘ Recorded conversations with AI builders and researchers.
+Community Only ⓘ Community pages and resources.
+People Only ⓘ Sourced wiki profiles of people working in AI.
+Organizations Only ⓘ Sourced wiki profiles of companies and organizations.
+Topics Only ⓘ Sourced wiki entries explaining AI topics and concepts.
+Writeups Only ⓘ Grounded explanations linked to original sources.
+Search mode ?
+Search tips
+Keyword matches words; semantic matches meaning and exact titles or names; hybrid combines both. In keyword mode, use quotation marks for exact phrases. Author matches published credits. Year applies to posts; wiki entries have no author or publication year. You can also use author:"Ada" or type:podcast in non-regex searches.
+Keyword Semantic Hybrid Regex
+Published Any year 2026 2025 2024 2023 2022 Author Reset filters
+Explore articles, conversations, and the wiki.
+Try a search: context engineering agents retrieval augmented generation
+Open full search
+Welcome back ⌄
+Signed in with Google Email & account Membership & billing View paid plans Sign out
+← The reading room Latent Space
+Cloudflare Joins the Jevolution and Labels Itself a Neolab
+Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.
+Richard MacManus
+Nov 17 · 6 min read
+On this page ⌄ What is a neolab and is Cloudflare really one? Jev as the “east wind” Clairic and what extraction models do Why Cloudflare is in the lab now
+Cloudflare has been one of the essential infrastructure companies of the web for the past decade and a half. But now, it’s turning into a neolab — at least according to a presentation at AI Engineer Code Summit by Michelle Chen , who runs Cloudflare’s AI Platform on the product side.
+We’ll get into what exactly a neolab is in a minute (the short version: they build models and they’re not called OpenAI or Anthropic). Cloudflare is claiming to be one because it too has begun to launch models. Two System One models , to be precise: Clef and Clairic. As Chen explained in her talk, Clef is a decision model directly inspired by TypeSafe AI’s revolutionary Jev model , while Clairic is a new type of system one model that Cloudflare calls an “extract” model .
+In an interview with Latent Space after her presentation, Chen hinted that Cloudflare won’t just be producing system one models. There will be large language models, too.
+“We're not being a neolab [to] only launch system one models, even though it makes sense for our infrastructure. We've kind of entered this Pandora's box now, right? We opened it, now the possibilities are endless.”
+Chen said it’s “not just system one models, but potentially reasoning models that we've been experimenting with, and other LLMs and whatnot.”
+However, she added that these probably won’t be pre-trained models built from scratch, like the frontier labs produce.
+“I don't think that's our focus, but I think we can take existing resources out there and make [them] a lot more efficient and effective.”
+She noted that “most of our team really just does post-training,” so that will be the focus in model development.
+What is a neolab and is Cloudflare really one?
+The term neolab literally means a ‘new lab’ and it was coined last November by Stephanie Palazzolo from The Information, who defined it as “a new generation of research-focused AI startups.”
+Deedy Das , a partner at Menlo Ventures and an AI influencer, runs a big list of neolabs . It includes companies like Thinking Machines Lab, Poolside, and TypeSafe AI itself. According to Das, neolabs employ elite researchers, spend a lot of compute (“usually to train its own AI model”), don't have significant revenue traction, and they’re typically startups that have raised a lot of money.
+Deedy Das’ list of neolabs — note that TypeSafe is among the top 20.
+Cloudflare doesn’t tick at least half of those boxes, since it’s a public company with significant revenue traction . In fact, earlier this month Cloudflare announced record earnings . “The third quarter was Cloudflare's best quarter ever,” said CEO Matthew Prince . “We crossed $3 billion in annualized revenue with revenue of $782 million, up 39% year over year.”
+So Cloudflare as a “neolab” is pushing the accepted definition. However, as Chen argued in her presentation, building models is part of a natural progression for the company : from infrastructure, to compute (e.g. the Workers platform, including now for agents), to storage, to serving open weight models like Kimi, GLM and DeepSeek (on Workers AI), to now building its own models.
+Jev as the “east wind”
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Chen readily admits that Jev inspired Cloudflare’s pivot to building models. Referencing a Chinese proverb, she framed Jev’s arrival in September as “the east wind” that unexpectedly changed how Cloudflare viewed AI models.
+“And so when the system one and Jev paradigm started coming on board,” Chen said in her presentation, “we were like, this makes so much sense for us to adopt, right? We don't have to send every request to an LLM. We can send some of it to a System One model.”
+In our conversation, Chen commented on how it took only two weeks for them to build Clef — which is a copy of Jev — whereas it took TypeSafe AI two years to build Jev. She meant that as a compliment for how hard TypeSafe AI worked to create this new type of model.
+“All credit to TypeSafe, really, for actually attacking this space and inventing something new here , that people could relate to so strongly and be able to use it. And, yeah, we came up with a model super quickly, but they put in a lot of legwork and we knew exactly what the API schema should look like and whatnot.”
+Cloudflare is, at its core, still an infrastructure company — speed and low latency is its meat and potatoes. The main benefit of System One models, Chen remarked, is that they allow more work to be done by smaller, faster models , where output is measured in milliseconds rather than seconds.
+Clairic and what extraction models do
+While Clef was a clone of Jev, Cloudflare soon came up with an original twist on System One with Clairic , launched last month as “the first model in a new class: System One extraction models.”
+“What Clairic does is it can take unstructured input, and it can extract, compute, estimate and forecast values from those inputs,” Chen explained in her presentation.
+In our interview, Chen said that her team wanted to use System One principles to find other areas where LLMs were “overkill” and didn’t always return the right answer.
+One of the problems they settled on was that LLMs don’t always deal well with unstructured input. Because LLMs are autoregressive, Chen explained, they are prone to hallucinate and they sometimes return malformed JSON.
+“So we used the same System One principles [as Jev/Clef] there, and decided on extraction.”
+Some examples of system one use cases at Cloudflare.
+She used the example of an invoice, where an LLM will sometimes get an important detail wrong — like the order number.
+“When you send it [the order] to an LLM, they're like, wait, I think the order number's three, maybe it's four, maybe it's five. But it's like, the number's right there, you just have to read it! ”
+So the idea with Clairic is that it will extract a typed value — like a number — from unstructured data, in one forward pass.
+Why Cloudflare is in the lab now
+Using the label “neolab” sounds a bit like a marketing gimmick, but it also makes a ton of sense for Cloudflare to produce system one models — and even, in future, reasoning models.
+“Being a neolab means that we can create what we are missing,” Chen said in her presentation.
+In our interview, she also mentioned that creating their own models allows Cloudflare to derisk its AI operations.
+“I think there's a lot of risk in the AI space , because just like Jev was closed source and we couldn't run it, there [are] a lot of models out there [with] maybe regulatory risks coming up, like the Chinese open source models. I think lots of model labs want to actually make money, as well — so enforcing quite expensive licenses.”
+If you look at Cloudflare’s product page now, it resembles what Amazon’s cloud computing product page looked like at the height of Web 2.0 — i.e. there’s a lot there!
+But there’s still room for several more models.
+Thanks for reading
+Stay a little ahead of the curve.
+Fresh ideas, original reporting, and deep conversations in your inbox.
+to Latent Space
+Next up · London AI Engineer Europe 2027 February 17–19 · ExCeL London
+Europe's flagship technical AI conference returns for three days, bringing the world's leading AI labs, platforms and tools to Europe's builders.
+Get tickets
+Most popular
+Past 30 days All time
+1 Claude Mods: Flipping the Harness Inside Out
+2 How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco
+3 The Jev Revolution: What Engineers Are Already Building with System One Models
+4 How Anthropic ships Claude with Claude: Separating the Brain from the Hands
+5 AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"
+1 The 2025 AI Engineer Reading List
+2 Taste is your moat — with Dylan Field, Figma
+3 The Rise of the AI Engineer
+4 o1 isn’t a chat model (and that’s the point)
+5 GPT-5 Hands-On: Welcome to the Stone Age
+Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
+Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
+business@latent.space →
+Keep exploring
+The archive
+Find more essays and conversations in the archive →
+By and for AI engineers. Original analysis, the podcast and the daily AI News briefing.
+Explore
+Articles AI News Podcasts YouTube The archive The wiki
+Community
+Community AI news The Latent Space community AI Engineer conferences
+to the newsletter Become a paid member About us
+Listen & follow
+Apple Podcasts Spotify YouTube X / Twitter RSS feeds Podcast RSS
+© 2026 Latent Space Meet us at
+Status Privacy Terms
+×
+The AI Engineer publication
+Conversations that move AI forward.
+Meet the people building it. Then go deeper.
+Get the newsletters ↓
+Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore the conversations ↗
+Guests and affiliations at the time of recording. ← →
+Join Latent Space.
+Sign in with Google, or get the newsletter by email.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Loading Google sign-in…
+or
+by email
+Email address
+free
+Free. Change your preferences or un
+any time.
+Explore Latent Space Pro → Full weekday AINews by email. Support our work.
+Choose your newsletters All newsletters
+Latent Space 2–3 times a week AI engineering insights and conversations. Browse samples ↗
+Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z
+× From the conversation
+OpenAI’s road to AGI
+A conversation with Greg Brockman about OpenAI’s path to AGI, alongside our analysis of GPT-5, Codex, and the shift to agentic coding.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Claude Code’s next era
+Thariq Shihipar on Claude Code’s next era: prompts, harnesses, plugins, and agents—and what it takes to keep pace with the frontier.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Why this time is different
+Marc Andreessen on the future of the browser, Pi and OpenClaw, and why this wave of AI feels different.
+Read the story ↗ Watch episode ↗
+AI for Science 2–3 times a month How AI is changing scientific discovery. Browse samples ↗
+Mark Zuckerberg & Priscilla Chan Biohub · CZI Anima Anandkumar Caltech John Platt Google
+× From the conversation
+Can AI help cure all disease?
+Priscilla Chan and Mark Zuckerberg on Biohub’s plans for frontier AI and virtual biology, and the ambition to cure or prevent disease.
+Read the story ↗ Watch episode ↗
+× From the conversation
+Foundation models for physics
+Anima Anandkumar on modeling the physical world, from weather to fusion reactors, and why physics needs more than language models.
+Read the story ↗ Watch episode ↗
+× From the conversation
+The AI scientist
+John Platt on automating science, tackling climate change, and how the next generation can contribute in the age of AI.
+Read the story ↗ Watch episode ↗
+AINews Every weekday The day’s essential AI news. Browse samples ↗
+Read sample ↗ MCP Apps Read sample ↗ AI Combinator Read sample ↗ Kimi K2.5
+× From the briefing
+Apps arrive inside Claude
+Anthropic brings interactive apps into Claude with an open MCP standard for richer AI interfaces.
+Read the issue ↗
+× From the briefing
+Sam Altman’s AI Combinator
+What Sam Altman’s town hall reveals about building startups in the age of AI.
+Read the issue ↗
+× From the briefing
+Kimi K2.5 raises the open-model bar
+Moonshot’s multimodal model brings competitive coding, native image and video understanding, and parallel agents.
+Read the issue ↗
+Uncheck all to create an account without newsletter emails.
+Finish
+Email preferences
+to the newsletter Sign out
+Sign in to manage preferences Use a different email
+Help us reach your inbox.
+We recently moved email providers. Look for Latent Space in your inbox, Spam or Promotions. If we're in Spam, mark the message as “Not spam,” then move it to your inbox. This helps future emails reach you.
+Keep exploring
+Discover technical newsletters we recommend, then explore Latent Space membership. Both are optional.
+Discover newsletters View paid plans
+Continue reading
+Your newsletter choice is optional. How we use your account data .
