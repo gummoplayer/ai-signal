@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-11-19T02:53:18.494739+00:00",
+  "generated_at": "2026-11-20T02:46:05.112167+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945",
+      "link": "https://latent.space/p/linear-scaling/",
+      "channel": "Latent Space",
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "pub_date": "2026-11-19T23:58:21+00:00",
+      "transcript_path": "feeds/transcripts/698cd6770d2bae0f28a45931.txt",
+      "transcript_chars": 106917,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-20T02:46:05.112167+00:00",
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+    },
+    {
+      "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "pub_date": "2026-11-19T19:46:40+00:00",
+      "transcript_path": "feeds/transcripts/bec457a79479eccb9e19f9fd.txt",
+      "transcript_chars": 18629,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-20T02:46:05.112167+00:00",
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+    },
+    {
+      "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/AI-Spending--Market-Risk-Capex--Valuations--Returns--Dan-Rasmussen-e3skoq1",
+      "channel": "The Acquirers Podcast",
+      "title": "AI Spending & Market Risk: Capex, Valuations & Returns | Dan Rasmussen",
+      "pub_date": "2026-11-19T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/694056765ccd20064f71bc0b.txt",
+      "transcript_chars": 140672,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-20T02:46:05.112167+00:00",
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
+      "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "channel": "Latent Space",
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "pub_date": "2026-11-19T07:07:43+00:00",
+      "transcript_path": "feeds/transcripts/014f0ef001c06aca6c65bf05.txt",
+      "transcript_chars": 18131,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-20T02:46:05.112167+00:00",
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=7826",
+      "link": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
+      "channel": "Lex Fridman",
+      "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+      "pub_date": "2026-11-19T04:37:34+00:00",
+      "transcript_path": "feeds/transcripts/66b7ced1602795923014d915.txt",
+      "transcript_chars": 209114,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-11-20T02:46:05.112167+00:00",
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272",
       "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
@@ -12,8 +77,8 @@
       "transcript_chars": 18749,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T02:53:18.494739+00:00",
-      "last_seen_at": "2026-11-19T02:53:18.494739+00:00",
-      "expires_at": "2026-12-03T02:53:18.494739+00:00"
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -25,8 +90,8 @@
       "transcript_chars": 11227,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-18T03:15:00.710983+00:00",
-      "last_seen_at": "2026-11-19T02:53:18.494739+00:00",
-      "expires_at": "2026-12-03T02:53:18.494739+00:00"
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_16c84c46-b1fe-478a-8919-437f0bb0ddf7",
@@ -38,8 +103,8 @@
       "transcript_chars": 16427,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-18T03:15:00.710983+00:00",
-      "last_seen_at": "2026-11-19T02:53:18.494739+00:00",
-      "expires_at": "2026-12-03T02:53:18.494739+00:00"
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_ae3c512d-675f-4368-9e24-ad45b6d484fd",
@@ -51,8 +116,8 @@
       "transcript_chars": 22771,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-18T03:15:00.710983+00:00",
-      "last_seen_at": "2026-11-19T02:53:18.494739+00:00",
-      "expires_at": "2026-12-03T02:53:18.494739+00:00"
+      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
+      "expires_at": "2026-12-04T02:46:05.112167+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -508,32 +573,6 @@
       "cached_at": "2026-11-05T01:54:43.408587+00:00",
       "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
       "expires_at": "2026-11-21T01:28:26.512778+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "link": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "channel": "Lenny's Podcast",
-      "title": "Lenny’s Newsletter holiday gift guide 2026",
-      "pub_date": "2026-11-03T14:45:33+00:00",
-      "transcript_path": "feeds/transcripts/6fa65831aef3656016114805.txt",
-      "transcript_chars": 13747,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-04T01:46:20.457294+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f",
-      "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-      "channel": "Latent Space",
-      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
-      "pub_date": "2026-11-03T05:35:00+00:00",
-      "transcript_path": "feeds/transcripts/6d27dab941321b707fc623c1.txt",
-      "transcript_chars": 57414,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-04T01:46:20.457294+00:00",
-      "last_seen_at": "2026-11-06T01:56:13.514318+00:00",
-      "expires_at": "2026-11-20T01:56:13.514318+00:00"
     }
   ]
 }
