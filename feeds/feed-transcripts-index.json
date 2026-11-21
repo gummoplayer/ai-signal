@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-20T02:46:05.112167+00:00",
+  "generated_at": "2026-11-21T02:56:05.730486+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86",
+      "link": "https://latent.space/p/formal-verification/",
+      "channel": "Latent Space",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "pub_date": "2026-11-20T21:18:41+00:00",
+      "transcript_path": "feeds/transcripts/793ec0b9a934d7e6bf93535f.txt",
+      "transcript_chars": 17481,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-21T02:56:05.730486+00:00",
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380",
+      "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+      "channel": "Latent Space",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "pub_date": "2026-11-20T07:12:24+00:00",
+      "transcript_path": "feeds/transcripts/6f357e87bcf7135d3c1b2650.txt",
+      "transcript_chars": 57351,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-21T02:56:05.730486+00:00",
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945",
       "link": "https://latent.space/p/linear-scaling/",
@@ -12,8 +38,8 @@
       "transcript_chars": 106917,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
@@ -25,8 +51,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
@@ -38,8 +64,8 @@
       "transcript_chars": 140672,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
@@ -51,8 +77,8 @@
       "transcript_chars": 18131,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7826",
@@ -64,8 +90,8 @@
       "transcript_chars": 209114,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272",
@@ -77,8 +103,8 @@
       "transcript_chars": 18749,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T02:53:18.494739+00:00",
-      "last_seen_at": "2026-11-20T02:46:05.112167+00:00",
-      "expires_at": "2026-12-04T02:46:05.112167+00:00"
+      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
+      "expires_at": "2026-12-05T02:56:05.730486+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -560,19 +586,6 @@
       "cached_at": "2026-11-06T01:56:13.514318+00:00",
       "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
       "expires_at": "2026-11-22T00:58:44.936963+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_648fd7ef-adde-48f2-8823-488d55480202",
-      "link": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
-      "channel": "Latent Space",
-      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
-      "pub_date": "2026-11-04T19:17:30+00:00",
-      "transcript_path": "feeds/transcripts/c2e210e31bb50266e449e016.txt",
-      "transcript_chars": 60523,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-05T01:54:43.408587+00:00",
-      "last_seen_at": "2026-11-07T01:28:26.512778+00:00",
-      "expires_at": "2026-11-21T01:28:26.512778+00:00"
     }
   ]
 }
