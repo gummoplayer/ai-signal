@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-21T02:56:05.730486+00:00",
+  "generated_at": "2026-11-22T01:49:37.306870+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "dc1b4612-51b7-48dd-b948-001e8b42b4a4",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Nvidia-Without-Jensen-Does-the-Price-Now-Make-Sense-e3sobfn",
+      "channel": "The Acquirers Podcast",
+      "title": "Nvidia Without Jensen: Does the Price Now Make Sense?",
+      "pub_date": "2026-11-21T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b0ef717c28f429b39f009604.txt",
+      "transcript_chars": 139709,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-22T01:49:37.306870+00:00",
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+      "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "channel": "Latent Space",
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "pub_date": "2026-11-21T05:02:13+00:00",
+      "transcript_path": "feeds/transcripts/69b274efa631831c26432405.txt",
+      "transcript_chars": 47795,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-22T01:49:37.306870+00:00",
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86",
       "link": "https://latent.space/p/formal-verification/",
@@ -12,8 +38,8 @@
       "transcript_chars": 17481,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-21T02:56:05.730486+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380",
@@ -25,8 +51,8 @@
       "transcript_chars": 57351,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-21T02:56:05.730486+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945",
@@ -38,8 +64,8 @@
       "transcript_chars": 106917,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
@@ -51,8 +77,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
@@ -64,8 +90,8 @@
       "transcript_chars": 140672,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
@@ -77,8 +103,8 @@
       "transcript_chars": 18131,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7826",
@@ -90,8 +116,8 @@
       "transcript_chars": 209114,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-11-20T02:46:05.112167+00:00",
-      "last_seen_at": "2026-11-21T02:56:05.730486+00:00",
-      "expires_at": "2026-12-05T02:56:05.730486+00:00"
+      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
+      "expires_at": "2026-12-06T01:49:37.306870+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272",
@@ -547,45 +573,6 @@
       "cached_at": "2026-11-07T01:28:26.512778+00:00",
       "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
       "expires_at": "2026-11-23T01:19:16.923451+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/clocktower",
-      "link": "https://www.dwarkesh.com/p/clocktower",
-      "channel": "Dwarkesh Patel",
-      "title": "The benchmark where AIs have to lie to win",
-      "pub_date": "2026-11-05T21:05:50+00:00",
-      "transcript_path": "feeds/transcripts/67be32493b806c055474c85c.txt",
-      "transcript_chars": 24472,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
-    },
-    {
-      "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
-      "channel": "The Acquirers Podcast",
-      "title": "The Best Business You've Never Heard Of | Todd Wenning",
-      "pub_date": "2026-11-05T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/87856c3761677678bce72e69.txt",
-      "transcript_chars": 142813,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e",
-      "link": "https://latent.space/p/ainews-it-s-swapping-season/",
-      "channel": "Latent Space",
-      "title": "[AINews] It's Swapping Season",
-      "pub_date": "2026-11-05T06:24:09+00:00",
-      "transcript_path": "feeds/transcripts/71c6d484e291ad7f255b66ac.txt",
-      "transcript_chars": 55924,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-06T01:56:13.514318+00:00",
-      "last_seen_at": "2026-11-08T00:58:44.936963+00:00",
-      "expires_at": "2026-11-22T00:58:44.936963+00:00"
     }
   ]
 }
