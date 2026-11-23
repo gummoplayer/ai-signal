@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-22T01:49:37.306870+00:00",
+  "generated_at": "2026-11-23T02:05:21.512721+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "link": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "channel": "Lenny's Podcast",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "pub_date": "2026-11-22T13:31:53+00:00",
+      "transcript_path": "feeds/transcripts/3ca5f6d284f993103f55e598.txt",
+      "transcript_chars": 5891,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-23T02:05:21.512721+00:00",
+      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
+      "expires_at": "2026-12-07T02:05:21.512721+00:00"
+    },
     {
       "guid": "dc1b4612-51b7-48dd-b948-001e8b42b4a4",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Nvidia-Without-Jensen-Does-the-Price-Now-Make-Sense-e3sobfn",
@@ -12,8 +25,8 @@
       "transcript_chars": 139709,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-22T01:49:37.306870+00:00",
-      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
-      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
+      "expires_at": "2026-12-07T02:05:21.512721+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
@@ -25,8 +38,8 @@
       "transcript_chars": 47795,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-22T01:49:37.306870+00:00",
-      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
-      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
+      "expires_at": "2026-12-07T02:05:21.512721+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86",
@@ -38,8 +51,8 @@
       "transcript_chars": 17481,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-21T02:56:05.730486+00:00",
-      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
-      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
+      "expires_at": "2026-12-07T02:05:21.512721+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380",
@@ -51,8 +64,8 @@
       "transcript_chars": 57351,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-21T02:56:05.730486+00:00",
-      "last_seen_at": "2026-11-22T01:49:37.306870+00:00",
-      "expires_at": "2026-12-06T01:49:37.306870+00:00"
+      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
+      "expires_at": "2026-12-07T02:05:21.512721+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945",
@@ -534,45 +547,6 @@
       "cached_at": "2026-11-08T00:58:44.936963+00:00",
       "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
       "expires_at": "2026-11-24T03:54:00.094288+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
-      "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "channel": "Latent Space",
-      "title": "[AINews] Anthropic IPO: Whither Now?",
-      "pub_date": "2026-11-07T03:04:53+00:00",
-      "transcript_path": "feeds/transcripts/ceaed7e1e3dc376cdeca170d.txt",
-      "transcript_chars": 56711,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-08T00:58:44.936963+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
-      "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
-      "channel": "Latent Space",
-      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
-      "pub_date": "2026-11-06T15:10:53+00:00",
-      "transcript_path": "feeds/transcripts/9d6ec06be5a9d12d214cf206.txt",
-      "transcript_chars": 62203,
-      "transcript_source": "episode_transcript_link",
-      "cached_at": "2026-11-07T01:28:26.512778+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
-      "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
-      "channel": "Latent Space",
-      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
-      "pub_date": "2026-11-06T10:35:21+00:00",
-      "transcript_path": "feeds/transcripts/d5f1f2300e592f47534f12e8.txt",
-      "transcript_chars": 61600,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-07T01:28:26.512778+00:00",
-      "last_seen_at": "2026-11-09T01:19:16.923451+00:00",
-      "expires_at": "2026-11-23T01:19:16.923451+00:00"
     }
   ]
 }
