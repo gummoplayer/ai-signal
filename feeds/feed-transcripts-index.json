@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-23T02:05:21.512721+00:00",
+  "generated_at": "2026-11-24T05:41:16.747592+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_7482e5b8-089f-4955-b288-dfe47c243039",
+      "link": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "channel": "Latent Space",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "pub_date": "2026-11-24T04:14:16+00:00",
+      "transcript_path": "feeds/transcripts/50698cd835c007c2fdccbf77.txt",
+      "transcript_chars": 53798,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-24T05:41:16.747592+00:00",
+      "last_seen_at": "2026-11-24T05:41:16.747592+00:00",
+      "expires_at": "2026-12-08T05:41:16.747592+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
+      "pub_date": "2026-11-23T16:01:48+00:00",
+      "transcript_path": "feeds/transcripts/14d14c2cb3bc5e65d2190cf2.txt",
+      "transcript_chars": 4911,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-24T05:41:16.747592+00:00",
+      "last_seen_at": "2026-11-24T05:41:16.747592+00:00",
+      "expires_at": "2026-12-08T05:41:16.747592+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "link": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
+      "channel": "Lenny's Podcast",
+      "title": "OpenClaw for executives: Automate every 1% annoyance | Ankit Maheshwari (Innovaccer)",
+      "pub_date": "2026-11-23T13:04:43+00:00",
+      "transcript_path": "feeds/transcripts/c6eb6701fc08d624855b4619.txt",
+      "transcript_chars": 5093,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-24T05:41:16.747592+00:00",
+      "last_seen_at": "2026-11-24T05:41:16.747592+00:00",
+      "expires_at": "2026-12-08T05:41:16.747592+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
       "link": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
@@ -12,8 +51,8 @@
       "transcript_chars": 5891,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-23T02:05:21.512721+00:00",
-      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
-      "expires_at": "2026-12-07T02:05:21.512721+00:00"
+      "last_seen_at": "2026-11-24T05:41:16.747592+00:00",
+      "expires_at": "2026-12-08T05:41:16.747592+00:00"
     },
     {
       "guid": "dc1b4612-51b7-48dd-b948-001e8b42b4a4",
@@ -25,8 +64,8 @@
       "transcript_chars": 139709,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-22T01:49:37.306870+00:00",
-      "last_seen_at": "2026-11-23T02:05:21.512721+00:00",
-      "expires_at": "2026-12-07T02:05:21.512721+00:00"
+      "last_seen_at": "2026-11-24T05:41:16.747592+00:00",
+      "expires_at": "2026-12-08T05:41:16.747592+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
@@ -534,19 +573,6 @@
       "cached_at": "2026-11-09T01:19:16.923451+00:00",
       "last_seen_at": "2026-11-11T01:36:48.585778+00:00",
       "expires_at": "2026-11-25T01:36:48.585778+00:00"
-    },
-    {
-      "guid": "970a8289-fc6e-487d-8039-64bd90dbfd4f",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Bill-Ackman-Loves-Uber-at-16x-Earnings--Our-2-Favorite-Cheap-Stocks-e3rt8cj",
-      "channel": "The Acquirers Podcast",
-      "title": "Why Bill Ackman Loves Uber at 16x Earnings + Our 2 Favorite Cheap Stocks",
-      "pub_date": "2026-11-07T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/d335ab61f78b0d196b391a9f.txt",
-      "transcript_chars": 141916,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-08T00:58:44.936963+00:00",
-      "last_seen_at": "2026-11-10T03:54:00.094288+00:00",
-      "expires_at": "2026-11-24T03:54:00.094288+00:00"
     }
   ]
 }

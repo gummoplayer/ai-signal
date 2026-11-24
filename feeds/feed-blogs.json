@@ -1,15 +1,51 @@
 {
   "articles": [
     {
-      "id": "https://openai.com/index/perplexity-and-intelligence",
+      "id": "https://openai.com/index/introducing-shirudo",
       "source": "openai",
       "source_name": "OpenAI",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "published": "2026-11-22T00:00:00+00:00",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities."
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "published": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+    },
+    {
+      "id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published": "2026-11-23T16:59:40+00:00",
+      "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry."
+    },
+    {
+      "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel."
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "2026-11-23T08:00:00+00:00",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations."
+    },
+    {
+      "id": "https://www.anthropic.com/research/working-with-ai",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Working with AI",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "published": "2026-11-23T00:00:00+00:00",
+      "summary": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and said the most valuable uses of AI often involved reorganizing roles and workplaces around it."
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-23T02:05:09.780050+00:00"
+  "generated_at": "2026-11-24T05:41:05.071207+00:00"
 }
