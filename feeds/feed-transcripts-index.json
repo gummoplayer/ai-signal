@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-25T04:42:41.656880+00:00",
+  "generated_at": "2026-11-26T03:51:41.428813+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:pod_ep_01a214b9-5541-758c-b9a3-1d85f48144ff",
+      "link": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "channel": "Latent Space",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "pub_date": "2026-11-25T22:28:01+00:00",
+      "transcript_path": "feeds/transcripts/5d917138cd6065374591bb6d.txt",
+      "transcript_chars": 10934,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-26T03:51:41.428813+00:00",
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773",
+      "link": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "channel": "Latent Space",
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "pub_date": "2026-11-25T22:23:41+00:00",
+      "transcript_path": "feeds/transcripts/98ec15255deb26eb667e998f.txt",
+      "transcript_chars": 43279,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-26T03:51:41.428813+00:00",
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "link": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "channel": "Lenny's Podcast",
+      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+      "pub_date": "2026-11-25T13:04:21+00:00",
+      "transcript_path": "feeds/transcripts/6be76bb3093bdf20ad89223c.txt",
+      "transcript_chars": 5024,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-26T03:51:41.428813+00:00",
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
       "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
@@ -12,8 +51,8 @@
       "transcript_chars": 48525,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/rsiobjections",
@@ -25,8 +64,8 @@
       "transcript_chars": 71576,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "828b39a1-03f0-42f7-bb2f-928eae197fcf",
@@ -38,8 +77,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_7482e5b8-089f-4955-b288-dfe47c243039",
@@ -51,8 +90,8 @@
       "transcript_chars": 53798,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-24T05:41:16.747592+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
@@ -64,8 +103,8 @@
       "transcript_chars": 4911,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-24T05:41:16.747592+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openclaw-for-executives-automate",
@@ -77,8 +116,8 @@
       "transcript_chars": 5093,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-24T05:41:16.747592+00:00",
-      "last_seen_at": "2026-11-25T04:42:41.656880+00:00",
-      "expires_at": "2026-12-09T04:42:41.656880+00:00"
+      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
+      "expires_at": "2026-12-10T03:51:41.428813+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
@@ -547,45 +586,6 @@
       "cached_at": "2026-11-11T01:36:48.585778+00:00",
       "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
       "expires_at": "2026-11-27T02:17:24.141858+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-      "link": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-      "pub_date": "2026-11-09T20:37:49+00:00",
-      "transcript_path": "feeds/transcripts/9d4947d8a81a83afea3c0ea6.txt",
-      "transcript_chars": 4980,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-      "pub_date": "2026-11-09T16:01:20+00:00",
-      "transcript_path": "feeds/transcripts/2aa4ac2d1c2deae678472c51.txt",
-      "transcript_chars": 4773,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-      "link": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-      "channel": "Lenny's Podcast",
-      "title": "How this founder built a better Duolingo with Codex | William Imoh",
-      "pub_date": "2026-11-09T13:04:17+00:00",
-      "transcript_path": "feeds/transcripts/eff5819a6f528ecb37ccc85a.txt",
-      "transcript_chars": 5078,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-10T03:54:00.094288+00:00",
-      "last_seen_at": "2026-11-12T02:37:08.771184+00:00",
-      "expires_at": "2026-11-26T02:37:08.771184+00:00"
     }
   ]
 }
