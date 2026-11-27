@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-26T03:51:41.428813+00:00",
+  "generated_at": "2026-11-27T03:52:43.248257+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319",
+      "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "channel": "Latent Space",
+      "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "pub_date": "2026-11-26T23:02:48+00:00",
+      "transcript_path": "feeds/transcripts/f52bc7f4c965c530f7ea0c80.txt",
+      "transcript_chars": 105321,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-27T03:52:43.248257+00:00",
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+    },
+    {
+      "guid": "599689bd-5861-4aa4-b77d-50861d215447",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Raoul-Pal-Economic-History-Is-Over--The-Exponential-Age-Has-Begun-e3t16al",
+      "channel": "The Acquirers Podcast",
+      "title": "Raoul Pal: \"Economic History Is Over.\" The Exponential Age Has Begun",
+      "pub_date": "2026-11-26T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/2778b4746850815bbab47c27.txt",
+      "transcript_chars": 139733,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-27T03:52:43.248257+00:00",
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+    },
     {
       "guid": "urn:latent-space:post:pod_ep_01a214b9-5541-758c-b9a3-1d85f48144ff",
       "link": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
@@ -12,8 +38,8 @@
       "transcript_chars": 10934,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773",
@@ -25,8 +51,8 @@
       "transcript_chars": 43279,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
@@ -38,8 +64,8 @@
       "transcript_chars": 5024,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
@@ -51,8 +77,8 @@
       "transcript_chars": 48525,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/rsiobjections",
@@ -64,8 +90,8 @@
       "transcript_chars": 71576,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "828b39a1-03f0-42f7-bb2f-928eae197fcf",
@@ -77,8 +103,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_7482e5b8-089f-4955-b288-dfe47c243039",
@@ -90,8 +116,8 @@
       "transcript_chars": 53798,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-24T05:41:16.747592+00:00",
-      "last_seen_at": "2026-11-26T03:51:41.428813+00:00",
-      "expires_at": "2026-12-10T03:51:41.428813+00:00"
+      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
+      "expires_at": "2026-12-11T03:52:43.248257+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-openclaw-for-executives",
@@ -521,71 +547,6 @@
       "cached_at": "2026-11-12T02:37:08.771184+00:00",
       "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
       "expires_at": "2026-11-28T01:54:53.916881+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=7818",
-      "link": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
-      "channel": "Lex Fridman",
-      "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
-      "pub_date": "2026-11-10T23:52:44+00:00",
-      "transcript_path": "feeds/transcripts/38b712413cd77161f5367fd8.txt",
-      "transcript_chars": 185818,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a",
-      "link": "https://latent.space/p/resend/",
-      "channel": "Latent Space",
-      "title": "Designing for Agents — Zeno Rocha, Resend",
-      "pub_date": "2026-11-10T20:05:17+00:00",
-      "transcript_path": "feeds/transcripts/25682d9dc3ae50181752b3e5.txt",
-      "transcript_chars": 14802,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_e9d76b13-59aa-4ee4-9132-5d55b5763030",
-      "link": "https://latent.space/p/naiveai/",
-      "channel": "Latent Space",
-      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
-      "pub_date": "2026-11-10T18:56:32+00:00",
-      "transcript_path": "feeds/transcripts/36507a1b44d9637e2ee399d4.txt",
-      "transcript_chars": 23283,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-      "link": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-      "channel": "Lenny's Podcast",
-      "title": "State of the tech job market: late 2026",
-      "pub_date": "2026-11-10T15:04:03+00:00",
-      "transcript_path": "feeds/transcripts/24ef27f07413fc78e7588d97.txt",
-      "transcript_chars": 11166,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8",
-      "link": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
-      "channel": "Latent Space",
-      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
-      "pub_date": "2026-11-10T06:34:44+00:00",
-      "transcript_path": "feeds/transcripts/daf49df6208594c726501706.txt",
-      "transcript_chars": 56756,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-11T01:36:48.585778+00:00",
-      "last_seen_at": "2026-11-13T02:17:24.141858+00:00",
-      "expires_at": "2026-11-27T02:17:24.141858+00:00"
     }
   ]
 }
