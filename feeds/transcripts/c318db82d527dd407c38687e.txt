@@ -1,4 +1,4 @@
-AI Engineer Code Summit: OpenAI on New Ways of Working With Codex — Latent Space Skip to content
+Inside the AI Training Data Market — Gabe Greenberg, G2i — Latent Space Skip to content
 The AI Engineer publication
 Search ⌘ K
 Search Latent Space
@@ -23,65 +23,51 @@ Try a search: context engineering agents retrieval augmented generation
 Open full search
 Welcome back ⌄
 Signed in with Google Email & account Membership & billing View paid plans Sign out
-← The reading room Latent Space
-AI Engineer Code Summit: OpenAI on New Ways of Working With Codex
-On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.
-Richard MacManus
-Nov 11 · 6 min read
-On this page ⌄ The awkward transition to cloud Voice as user interface Dots Conclusion
-AI Engineer Code Summit kicked off today with a series of workshops, including from leading frontier labs OpenAI, Anthropic and Google DeepMind. I attended the OpenAI workshop, intriguingly titled “New Ways of Working with Codex” and hosted by two of its Developer Experience engineers, Dominik Kundel and Charlie Guo .
-The past year in coding agents has been one of constant product upgrades by all the frontier labs. But not all of these changes have gone smoothly. The shift to cloud , for example, is still confusing to many users of Codex, Claude and Antigravity.
-An illustration of the evolution of Codex, shown at the OpenAI workshop today.
-We’ve also seen new ways to work with agents. Personal agents like OpenAI’s dots and Anthropic’s Claude Duet can assist between sessions, while voice mode gives developers another way to steer coding tasks.
-OpenAI’s workshop addressed all three, and I also had some followup questions on these topics for Kundel, after the session.
-Guo began the workshop by listing a selection of things they’ve shipped in Codex since the AI Engineer World’s Fair in June 2026. “I had to cull this list in order to make it fit on the screen because there were too many things to put in here ,” he said. “I think the team has been shipping at an unbelievable rate.”
-The awkward transition to cloud
-Codex launched in May 2025 as “a cloud-based software engineering agent that can work on many tasks in parallel.” But Kundel admitted that “it took a while for models and harnesses to equalize into something where we can build a really engaging experience.” In other words, the cloud part of Codex has often been an awkward user experience.
-That began to change after DevDay in late-September, when a revamped version 2 of Codex Cloud was announced. Suddenly, cloud usage seemed more viable. As the DevDay announcement put it, you can “finally close your laptop now and your agents will keep working.”
-As explained in the official workshop writeup — hosted on ChatGPT Sites — the new version of Codex Cloud lets you “ publish an environment once and run multiple tasks in isolated instances of that setup.”
-“These can be
-d within a company if you're working in a company, or you can just create your own,” said Kundel about these cloud environments . “You start off by picking the GitHub repositories that you want to have access to.”
-After the workshop, I admitted to Kundel that I still find Codex’s cloud functionality confusing — for instance, when I start a task locally and later want to move it to the cloud.
+← The conversations Latent Space Podcast
+Inside the AI Training Data Market — Gabe Greenberg, G2i
+A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...
+Latent.Space
+Nov 27 · 32 min
+Listen to this conversation 32 min
+Read transcript Watch on YouTube
+A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger engagements, and when it makes sense to build a data operation in-house.
+We also get into what the labs are buying. A good training task should sit just ahead of what a model can do today. Gabe explains how senior engineers design the task, choose the starting data, and build a verifier that can score the result.
+Thanks to G2i for co-organizing AI Engineer CODE 2026 and sponsoring this episode. Join us April 26–27 at AI Engineer Miami 2027 .
+Show notes
 Sponsored Your sponsor ad here Reach the AI engineers building what comes next.
 Latent Space is read by the people shipping agents, models and infrastructure. Enquire about sponsoring this slot.
 business@latent.space →
-“We definitely want to have it be easier,” Kundel replied. “Some of it is going to depend on managing the context differences . For example, yesterday what I ended up doing is I was working on something locally, and I just asked Codex to go and hand it off to the cloud.”
-That handoff to the cloud is something OpenAI is trying to improve for users. To demonstrate, Kundel reopened an existing cloud task in his browser and showed me that its Appshot, a local capture of a Mac app window, was still attached.
-Codex Cloud is now “just a background , like a different executor of where things are happening,” he continued. “And so in a similar vein, you can actually ask your local Codex to — for example — spin up a task on a cloud Codex. So they're all sort of merging together .”
-Voice as user interface
-One of the demos Kundel showed during the workshop was a new website for a fictional record company called Blossom Music. Kundel demonstrated live edits to the site and said he sometimes uses voice dictation when iterating this way .
-“You can really quickly iterate on these things and get to a world that you're actually envisioning with your stuff, especially if you're unsure what you actually want to get to,” he said.
-Later in the workshop, Guo explained that voice is an effective mode to use when delegating work to different agents .
-“Most people I see that use voice with coding essentially treat it as just a different medium on top of their normal work,” he said. But personally, he likes to use voice as a control plane , which he says allows him to control everything he’s doing in a code base.
-“I don't think about it [voice mode] as saying, here's the one lane of work that I'm doing right now with voice. I think about it as saying, how do I manage my threads? How do I check in on stuff? How do I pull data from other apps on the computer? How do I create new threads in the application? Just using my voice.”
-Guo used a telephone as a prop in this demonstration of voice mode.
-After the workshop, I asked Kundel what are some of the ways he is using voice in his work?
-He replied that dictation is one way he uses it, but another use case is to talk to his dot .
-“Since my dot has access to all of my dev boxes and my laptop and my cloud environments, it also has all the context on what I work on , what I do,” he told me. “And so I often talk to it on my way to work [...] to work through stuff, start up some PRs while I'm driving, so that when I come home or when I come to the office, I can go and review them. So, voice is incredibly powerful.”
-Dots
-Speaking of dots, personal agents were only briefly discussed in the workshop. Perhaps that’s because, as Guo admitted, they’re not entirely intuitive to developers.
-“As a Codex power user, dots feel a little bit awkward to work with,” he said. “I think because they're a new paradigm and because they're good at different things than the main Codex.”
-But he said there are three things he’s found useful for dots, as a power user. The first is as a safety net — your dot can flag things you may have missed. The second is as “a delegation sink” ; Guo said he uses it “a ton in Slack” for this reason. And the third is as a ubiquitous presence .
-“I think the third way that dots are a little bit different is we're aiming to make them truly everywhere that you work ,” Guo said.
-For his part, Kundel told me that he starts off a lot of his tasks from his dot, rather than by prompting Codex itself.
-“And that's because it often already has a lot of the context and understands how to manage things, and it can push these PRs forward for me.”
-Conclusion
-Kundel ended the workshop with a list of tips to use on Codex, including “turn it down” (meaning the effort level) and to “ask your agents for help.”
-But ultimately, he said, the key is to not get too attached to your current way of working in Codex — “things are constantly changing.”
+G2i builds AI training data and reinforcement learning environments with senior engineers.
+ORC is the multi-agent coding platform Gabe’s team uses internally.
+Recorded at AI Engineer CODE in San Francisco.
+Chapters
+0:00 How hard should training tasks be?
+0:15 What G2i sells to frontier labs
+2:42 From human labels to expert engineering
+5:19 From recruiting engineers to building training data
+6:46 Tasks, seed data, and verifiers
+8:04 How G2i screens engineers for agentic work
+12:24 How frontier labs buy training data
+16:24 How big is the market?
+18:45
+d data, exclusivity, and in-house teams
+22:16 How labs budget and price training data
+24:54 The market for raw company data
+27:44 Where demand goes next
+30:30 G2i and ORC
 Thanks for reading
 Stay a little ahead of the curve.
 Fresh ideas, original reporting, and deep conversations in your inbox.
 to Latent Space
-Next up · San Francisco AIE Code Summit 2026 November 10–12 · Hilton Union Square
-By Application only: the last Flagship AIE of 2026, AIE CODE is back with 1000 of the top Agentic Engineers in the world to
-their experience fighting slop in software factories, using System One models, and rewriting critical apps.
-Apply to attend
+Next up · London AI Engineer Europe 2027 February 17–19 · ExCeL London
+Europe's flagship technical AI conference returns for three days, bringing the world's leading AI labs, platforms and tools to Europe's builders.
+Get tickets
 Most popular
 Past 30 days All time
-1 Claude Mods: Flipping the Harness Inside Out
-2 How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco
-3 How Anthropic ships Claude with Claude: Separating the Brain from the Hands
-4 AI Is Getting Good at Math. Here’s Why.
+1 How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco
+2 The Jev Revolution: What Engineers Are Already Building with System One Models
+3 AI Ambition: ArtCraft Cloned Photoshop and Now Wants to "Rebuild Everything"
+4 The War Against Slop and an Emerging Weapon to Fight it: Formal Verification
 5 LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop
 1 The 2025 AI Engineer Reading List
 2 Taste is your moat — with Dylan Field, Figma
@@ -109,7 +95,7 @@ The AI Engineer publication
 Conversations that move AI forward.
 Meet the people building it. Then go deeper.
 Get the newsletters ↓
-Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore the conversations ↗
+Mark Zuckerberg Meta Satya Nadella Microsoft Cat Wu Anthropic Boris Cherny Anthropic Diogo Almeida TypeSafe Jeff Dean Google George Hotz tiny corp Noam Brown OpenAI Katelyn Lesse Anthropic Dylan Patel SemiAnalysis Greg Brockman OpenAI Thariq Shihipar Anthropic Marc Andreessen a16z Explore ↗
 Guests and affiliations at the time of recording. ← →
 Join Latent Space.
 Sign in with Google, or get the newsletter by email.

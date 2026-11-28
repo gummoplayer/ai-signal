@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-11-27T03:52:43.248257+00:00",
+  "generated_at": "2026-11-28T03:39:07.956734+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:pod_ep_01a21efa-24c7-769b-afbe-cd7e135e4e85",
+      "link": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "channel": "Latent Space",
+      "title": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "pub_date": "2026-11-27T22:19:18+00:00",
+      "transcript_path": "feeds/transcripts/c318db82d527dd407c38687e.txt",
+      "transcript_chars": 11102,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-28T03:39:07.956734+00:00",
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "link": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "channel": "Dwarkesh Patel",
+      "title": "AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil",
+      "pub_date": "2026-11-27T18:01:14+00:00",
+      "transcript_path": "feeds/transcripts/06789f317d04dab64aa98f71.txt",
+      "transcript_chars": 95042,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-28T03:39:07.956734+00:00",
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319",
       "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
@@ -12,8 +38,8 @@
       "transcript_chars": 105321,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-27T03:52:43.248257+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "599689bd-5861-4aa4-b77d-50861d215447",
@@ -25,8 +51,8 @@
       "transcript_chars": 139733,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-27T03:52:43.248257+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a214b9-5541-758c-b9a3-1d85f48144ff",
@@ -38,8 +64,8 @@
       "transcript_chars": 10934,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773",
@@ -51,8 +77,8 @@
       "transcript_chars": 43279,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
@@ -64,8 +90,8 @@
       "transcript_chars": 5024,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-26T03:51:41.428813+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
@@ -77,8 +103,8 @@
       "transcript_chars": 48525,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-25T04:42:41.656880+00:00",
-      "last_seen_at": "2026-11-27T03:52:43.248257+00:00",
-      "expires_at": "2026-12-11T03:52:43.248257+00:00"
+      "last_seen_at": "2026-11-28T03:39:07.956734+00:00",
+      "expires_at": "2026-12-12T03:39:07.956734+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/rsiobjections",
@@ -495,58 +521,6 @@
       "cached_at": "2026-11-13T02:17:24.141858+00:00",
       "last_seen_at": "2026-11-15T01:26:44.176629+00:00",
       "expires_at": "2026-11-29T01:26:44.176629+00:00"
-    },
-    {
-      "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
-      "pub_date": "2026-11-11T20:03:03+00:00",
-      "transcript_path": "feeds/transcripts/ffed3fe1c2c859d478921344.txt",
-      "transcript_chars": 18567,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-      "link": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-      "pub_date": "2026-11-11T13:04:09+00:00",
-      "transcript_path": "feeds/transcripts/921158d57e02152d834cbdd0.txt",
-      "transcript_chars": 4670,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe",
-      "link": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
-      "channel": "Latent Space",
-      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
-      "pub_date": "2026-11-11T09:34:28+00:00",
-      "transcript_path": "feeds/transcripts/adde723dc5e57bb8c6e19b56.txt",
-      "transcript_chars": 51021,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
-    },
-    {
-      "guid": "urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec",
-      "link": "https://latent.space/p/codex-work/",
-      "channel": "Latent Space",
-      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
-      "pub_date": "2026-11-11T04:49:48+00:00",
-      "transcript_path": "feeds/transcripts/d04be3eac681af00bdb6c6a4.txt",
-      "transcript_chars": 16097,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-12T02:37:08.771184+00:00",
-      "last_seen_at": "2026-11-14T01:54:53.916881+00:00",
-      "expires_at": "2026-11-28T01:54:53.916881+00:00"
     }
   ]
 }
